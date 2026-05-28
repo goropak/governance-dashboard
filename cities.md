@@ -35,7 +35,8 @@
 - **Deploy**: TBD (Vercel, v0.4 예정)
 - **DB**: Supabase (v0.4 예정)
 - **목적**: 제철소 부지 레이아웃 시각화 (SimCity 스타일, 5m 격자)
-- **Status**: 개발중 (v0.1 골격 완성)
+- **Status**: v0.1 개발 중 — references 시스템 활성화 완료
+- **특이사항**: 외부 참조 자료 시스템 보유 (PDF 6개, Tier 분류, 총 45.5 MB)
 - **Last check**: 2026-05-28
 
 ## 폐쇄된 도시
