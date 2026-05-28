@@ -25,10 +25,18 @@
 
 ### governance-dashboard
 - **Repo**: github.com/goropak/governance-dashboard
-- **Deploy**: 예정 (Vercel)
+- **Deploy**: Vercel (배포 완료)
 - **DB**: 없음
 - **Status**: 개발중
-- **Last check**: 2026-05-26
+- **Last check**: 2026-05-28
+
+### simsteel
+- **Repo**: github.com/goropak/simsteel
+- **Deploy**: TBD (Vercel, v0.4 예정)
+- **DB**: Supabase (v0.4 예정)
+- **목적**: 제철소 부지 레이아웃 시각화 (SimCity 스타일, 5m 격자)
+- **Status**: 개발중 (v0.1 골격 완성)
+- **Last check**: 2026-05-28
 
 ## 폐쇄된 도시
 
