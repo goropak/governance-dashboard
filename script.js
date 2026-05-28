@@ -28,7 +28,7 @@ const defaultMeta = {
 function parseCities(markdown) {
   const cities = [];
   // "## 운영 중인 도시" 섹션만 추출
-  const sectionMatch = markdown.match(/## 운영 중인 도시([\s\S]*?)(?=## |$)/);
+  const sectionMatch = markdown.match(/## 운영 중인 도시([\s\S]*?)(?=\n## |$)/);
   if (!sectionMatch) return cities;
 
   const section = sectionMatch[1];
