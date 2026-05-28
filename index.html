@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🏛️ My Governance</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <h1>🏛️ My Governance</h1>
+      <p class="subtitle">Cities Dashboard</p>
+    </div>
+  </header>
+
+  <main>
+    <div id="cities-grid" class="cities-grid">
+      <div class="loading">도시 정보를 불러오는 중…</div>
+    </div>
+  </main>
+
+  <footer>
+    <span id="last-updated">Last updated: —</span>
+  </footer>
+
+  <!-- 모달 -->
+  <div id="modal" class="modal" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="modal-backdrop" id="modal-backdrop"></div>
+    <div class="modal-box">
+      <button class="modal-close" id="modal-close" aria-label="닫기">✕</button>
+      <div class="modal-emoji" id="modal-emoji"></div>
+      <h2 class="modal-title" id="modal-title"></h2>
+      <span class="badge" id="modal-badge"></span>
+
+      <section class="modal-section">
+        <h3>설명</h3>
+        <p id="modal-description"></p>
+      </section>
+
+      <section class="modal-section" id="modal-usage-section">
+        <h3>사용법</h3>
+        <p id="modal-usage"></p>
+      </section>
+
+      <section class="modal-section">
+        <h3>링크</h3>
+        <ul class="modal-links" id="modal-links"></ul>
+      </section>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
