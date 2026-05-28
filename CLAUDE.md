@@ -30,6 +30,12 @@
 - **제1조**: STATUS.md 항상 최신
 - **제2조**: INFRA.md 항상 최신
 - **제4조**: 끝난 작업은 archive 처리
+- **제5조**: 작업 의식 준수
+
+## 작업 의식
+
+모든 작업은 `governance/briefing/cowork-protocol.md`에 따른다.
+이는 헌법 제5조의 시행령이며 의무다.
 
 ## 도시 고유 규칙
 
