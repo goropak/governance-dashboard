@@ -23,6 +23,14 @@
 - **Status**: 개발중
 - **Last check**: 2026-05-26
 
+### governance-dashboard
+- **Repo**: github.com/goropak/governance-dashboard
+- **Deploy**: 예정 (Vercel)
+- **DB**: 없음
+- **Status**: 개발중
+- **Last check**: 2026-05-26
+
 ## 폐쇄된 도시
 
 (없음)
+
