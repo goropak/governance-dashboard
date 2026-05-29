@@ -11,6 +11,8 @@
 - **DB**: ...
 - **Status**: 운영중 / 개발중 / 방치 / 폐쇄
 - **Last check**: YYYY-MM-DD
+- **Pre-City Education**: N/A / 완료 / 회고적 / 생략
+- **Education Doc**: briefing/... 또는 N/A
 
 ---
 
@@ -22,6 +24,8 @@
 - **DB**: 없음
 - **Status**: 개발중
 - **Last check**: 2026-05-26
+- **Pre-City Education**: N/A
+- **Education Doc**: N/A
 
 ### governance-dashboard
 - **Repo**: github.com/goropak/governance-dashboard
@@ -29,15 +33,19 @@
 - **DB**: 없음
 - **Status**: 개발중
 - **Last check**: 2026-05-28
+- **Pre-City Education**: N/A
+- **Education Doc**: N/A
 
 ### simsteel
 - **Repo**: github.com/goropak/simsteel
 - **Deploy**: TBD (Vercel, v0.4 예정)
 - **DB**: Supabase (v0.4 예정)
 - **목적**: 제철소 부지 레이아웃 시각화 (SimCity 스타일, 5m 격자)
-- **Status**: v0.1 개발 중 — references 시스템 활성화 완료
+- **Status**: v0.2.2 개발 중
 - **특이사항**: 외부 참조 자료 시스템 보유 (PDF 6개, Tier 분류, 총 45.5 MB)
-- **Last check**: 2026-05-28
+- **Last check**: 2026-05-29
+- **Pre-City Education**: 완료 (회고적, 2026-05-30)
+- **Education Doc**: briefing/pre-city-education-protocol.md
 
 ## 폐쇄된 도시
 
