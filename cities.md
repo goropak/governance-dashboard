@@ -45,7 +45,7 @@
 - **특이사항**: 외부 참조 자료 시스템 보유 (PDF 6개, Tier 분류, 총 45.5 MB)
 - **Last check**: 2026-05-30
 - **Pre-City Education**: 완료 (회고적, 2026-05-30)
-- **Education Doc**: briefing/pre-city-education-protocol.md
+- **Education Doc**: laws/pre-city-education-protocol.md
 
 ## 폐쇄된 도시
 
