@@ -280,3 +280,22 @@ python3 -m http.server 8000
 
 - `cities.md`는 governance 레포에서 수동 복사 (자동화 예정)
 - 민감 정보 절대 포함 금지 (헌법 제0조)
+
+## F. 다른 컴퓨터로 이전하기
+
+새 Mac에서 시스템을 시작할 때:
+
+1. **레포 클론** — 네 개 레포를 모두 받는다.
+   - governance, governance-dashboard, telegram-gate, orchestrator
+   - 코드는 전부 GitHub에 있으므로 clone만 하면 받아진다.
+
+2. **설치** — 위 B(사전 준비물)·C(초기 구축) 섹션대로 설치한다.
+   - Node.js, Python3, claude CLI
+   - 라이브러리: requests, python-dotenv
+
+3. **.env 재생성** — 텔레그램 봇 토큰·chat_id는 GitHub에 없다(.gitignore 처리됨).
+   - telegram-gate/.env 를 새로 만들어 직접 입력한다.
+   - 비밀값이므로 안전한 방법으로 옮긴다(GitHub에 올리지 말 것).
+
+4. **절대경로 수정** — 코드 안의 /Users/clean/Desktop/project/... 경로를
+   새 컴퓨터의 사용자명에 맞게 바꾼다. (가장 놓치기 쉬운 부분)
