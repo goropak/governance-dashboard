@@ -317,3 +317,14 @@ GitHub Settings → SSH keys에 등록해야 한다.
 - **경로 수정** — orchestrator.py, test_wake.py의 `/Users/<옛사용자>` 를
 새 사용자명으로 치환:
 `sed -i '' 's|/Users/clean|/Users/<새사용자>|g' orchestrator/*.py`
+
+### F-3. 레포는 총 5개 (보좌관 워크스페이스 포함)
+
+clone할 레포 목록:
+- governance (본체)
+- governance-dashboard (대시보드)
+- telegram-gate (게이트 + 범용 승인)
+- orchestrator (무인 루프)
+- assistant-workspace (보좌관 작업공간 — CLAUDE.md 정체성 문서 포함)
+
+⚠️ assistant-workspace가 없으면 orchestrator 보좌관 단계에서 멈춘다.
