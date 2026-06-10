@@ -11,9 +11,25 @@ const cityMeta = {
     description: '거버넌스 도시 현황 대시보드',
     usage: '브라우저에서 index.html 열기 (또는 Vercel URL 접속)',
     details: 'cities.md를 파싱해 각 도시의 상태를 카드로 시각화합니다. 새 도시가 생길 때마다 cities.md를 업데이트하면 자동으로 반영됩니다.'
+  },
+  'simsteel': {
+    emoji: '🏭',
+    description: '제철소 부지 레이아웃 시각화',
+    usage: '로컬 dev 서버 또는 Vercel 배포 URL에서 접속 (v0.4 예정)',
+    details: 'SimCity 스타일 5m 격자 기반 제철소 부지 배치 시각화 도구. 레이아웃 JSON import/export, 2.5D 뷰, 배경 트레이싱 기능 포함.'
+  },
+  'telegram-gate': {
+    emoji: '🔐',
+    description: '원격 push 승인 게이트',
+    usage: 'cd ~/Desktop/project/telegram-gate && python3 gate.py',
+    details: '외출 중 핸드폰 텔레그램으로 governance push를 승인하는 게이트. push-pending.md를 10초마다 폴링해 "대기" 상태 감지 시 텔레그램 알림 + 승인/거부 버튼 전송. ✅ 승인 즉시 자동 git push 실행.'
+  },
+  'demo-city': {
+    emoji: '🧪',
+    description: '자동 소통 루프 실연용 데모',
+    usage: '실연용 데모 도시 — 실제 서비스 없음',
+    details: '보좌관↔시장 메일박스 + telegram-gate 승인 루프 end-to-end 검증용 빈 골격 데모.'
   }
-  // 새 도시 추가 시 여기에 추가:
-  // 'city-name': { emoji: '🏙️', description: '...', usage: '...', details: '...' }
 };
 
 /* ── 기본 메타데이터 (cityMeta에 없는 도시에 사용) ── */
@@ -120,6 +136,14 @@ function openModal(city, meta) {
     { label: 'Deploy', value: city.deploy },
     { label: 'Last check', value: city.lastCheck },
   ];
+
+  if (city.repo && city.repo !== '—' && city.repo.startsWith('github.com')) {
+    const base = `https://${city.repo}`;
+    links.push(
+      { label: 'STATUS.md', value: `${base}/blob/main/STATUS.md` },
+      { label: 'README.md', value: `${base}/blob/main/README.md` },
+    );
+  }
 
   for (const { label, value } of links) {
     const li = document.createElement('li');
