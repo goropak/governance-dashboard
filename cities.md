@@ -61,12 +61,12 @@
 - **보안**: pre-commit hook 설치 (Telegram 토큰 포함 비밀값 차단, 헌법 제0조 법률 #4)
 
 ### demo-city
-- **Repo**: 미생성 (시장 작업 대기 — outbox 2026-06-07 지시)
+- **Repo**: 미생성 (로컬 git 폴더만 존재 — GitHub 레포 미생성)
 - **Deploy**: 없음
 - **DB**: 없음
 - **목적**: 자동 소통 루프 실연용 데모 도시 (보좌관↔시장 메일박스 + telegram-gate 승인 루프 검증)
 - **Status**: 데모
-- **Last check**: 2026-06-07
+- **Last check**: 2026-06-10
 - **Pre-City Education**: 생략 (법률 #2 — 빈 골격 데모)
 - **Education Doc**: N/A
 
