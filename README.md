@@ -299,3 +299,21 @@ python3 -m http.server 8000
 
 4. **절대경로 수정** — 코드 안의 /Users/clean/Desktop/project/... 경로를
    새 컴퓨터의 사용자명에 맞게 바꾼다. (가장 놓치기 쉬운 부분)
+
+### F-2. 이전 시 주의사항 (실전 기록)
+
+- **파이썬 3.10 이상 필수** — 코드에 `int | None` 같은 최신 타입 문법이 있어
+  3.9 이하에서는 `TypeError`로 게이트가 안 켜진다.
+  - 버전 확인: `python3 --version`
+  - 낮으면 설치: `brew install python` (3.14 등 최신)
+
+- **venv는 새 파이썬으로 다시 만든다** — 옛 venv는 옛 파이썬에 묶여 있다.
+
+
+- **SSH 키 재등록** — 새 컴퓨터에서 git clone 전, ~/.ssh 키를
+GitHub Settings → SSH keys에 등록해야 한다.
+- 암호 자동화: `ssh-add --apple-use-keychain ~/.ssh/id_ed25519`
+
+- **경로 수정** — orchestrator.py, test_wake.py의 `/Users/<옛사용자>` 를
+새 사용자명으로 치환:
+`sed -i '' 's|/Users/clean|/Users/<새사용자>|g' orchestrator/*.py`
