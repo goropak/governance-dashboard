@@ -17,3 +17,4 @@ v0.1 개발 중. 로컬에서 정상 동작, Vercel 배포 예정.
 1. Vercel 배포 (github.com/goropak/governance-dashboard import)
 2. cities.md 자동 동기화 검토 (v0.2)
 3. 새 도시 추가 시 cityMeta 업데이트 가이드 정리
+
