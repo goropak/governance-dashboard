@@ -35,7 +35,32 @@ header {
 .header-inner {
   max-width: 1100px;
   margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
+
+/* ── 가이드 버튼 ── */
+.guide-btn {
+  background: rgba(96,165,250,0.12);
+  border: 1px solid rgba(96,165,250,0.4);
+  color: var(--accent-blue);
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 0.55rem 1rem;
+  border-radius: 999px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s, border-color 0.15s, transform 0.15s;
+}
+.guide-btn:hover {
+  background: rgba(96,165,250,0.22);
+  border-color: var(--accent-blue);
+  transform: translateY(-1px);
+}
+.guide-btn:active { transform: translateY(0); }
 header h1 {
   font-size: 1.75rem;
   font-weight: 700;
@@ -243,6 +268,98 @@ footer {
   color: var(--text-muted);
   font-size: 0.8rem;
   margin-right: 0.4rem;
+}
+
+/* ── 가이드 모달 콘텐츠 ── */
+.guide-box { max-width: 600px; }
+.guide-lead {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--text);
+  margin-top: 0.4rem;
+}
+.guide-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.guide-list li {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  padding-left: 1rem;
+  position: relative;
+  color: var(--text);
+}
+.guide-list li::before {
+  content: '·';
+  position: absolute;
+  left: 0;
+  color: var(--accent-blue);
+  font-weight: 700;
+}
+.guide-code {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.75rem 0.9rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.82rem;
+  line-height: 1.55;
+  color: var(--accent-green);
+  white-space: pre-wrap;
+  word-break: break-word;
+  margin-top: 0.5rem;
+  overflow-x: auto;
+}
+.guide-step {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+.step-num {
+  flex: 0 0 auto;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: rgba(96,165,250,0.15);
+  color: var(--accent-blue);
+  font-size: 0.85rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.1rem;
+}
+.step-body {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--text);
+}
+.step-note {
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  margin-top: 0.15rem;
+}
+.guide-tldr {
+  margin-top: 1.5rem;
+  padding: 0.85rem 1rem;
+  background: rgba(74,222,128,0.1);
+  border: 1px solid rgba(74,222,128,0.3);
+  border-radius: 10px;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--text);
+}
+code {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 0.05rem 0.35rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.85em;
+  color: var(--accent-yellow);
 }
 
 /* ── 스크롤바 ── */

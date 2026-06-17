@@ -172,8 +172,26 @@ function closeModal() {
 
 document.getElementById('modal-close').addEventListener('click', closeModal);
 document.getElementById('modal-backdrop').addEventListener('click', closeModal);
+
+/* ── 외출 모드 가이드 모달 ── */
+function openGuide() {
+  const m = document.getElementById('guide-modal');
+  m.classList.add('open');
+  m.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+}
+function closeGuide() {
+  const m = document.getElementById('guide-modal');
+  m.classList.remove('open');
+  m.setAttribute('aria-hidden', 'true');
+  document.body.style.overflow = '';
+}
+document.getElementById('guide-btn').addEventListener('click', openGuide);
+document.getElementById('guide-close').addEventListener('click', closeGuide);
+document.getElementById('guide-backdrop').addEventListener('click', closeGuide);
+
 document.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape') closeModal();
+  if (e.key === 'Escape') { closeModal(); closeGuide(); }
 });
 
 /* ── 초기화 ── */
