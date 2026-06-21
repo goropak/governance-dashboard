@@ -48,6 +48,21 @@ const roles = [
   { name: '시장',   emoji: '🛠️', desc: 'Claude Code(도시별 레포) — 코드·실행·git' },
 ];
 
+/* ── 참조 레이어 (Reference Layer) — #F.
+   도시(프로젝트)가 아니라 거버넌스가 참조하는 정적 레이어.
+   도시 카드(cities.md 파싱)와 시각적으로 구분되는 별도 구획.
+   카드 클릭 시 해당 사용설명서 마크다운을 fetch해 렌더(#D 패턴 재사용). */
+const referenceLayers = [
+  {
+    title: '대통령 프로필',
+    badge: '참조 레이어',
+    emoji: '👤',
+    desc: '거버넌스가 참조하는 대통령 운영 매뉴얼(vault) — 사용설명서',
+    repo: 'github.com/goropak/president',
+    guide: 'president-vault-guide.md',
+  },
+];
+
 /* ── cities.md 파싱 ── */
 function parseCities(markdown) {
   const cities = [];
@@ -109,6 +124,27 @@ function renderRoleCard(role) {
   return card;
 }
 
+/* ── 참조 레이어 카드 (클릭 시 사용설명서 모달 — #D 패턴 재사용) ── */
+function renderRefCard(ref) {
+  const card = document.createElement('div');
+  card.className = 'card card-ref';
+  card.setAttribute('tabindex', '0');
+  card.setAttribute('role', 'button');
+  card.setAttribute('aria-label', `${ref.title} — 사용설명서 열기`);
+  card.innerHTML = `
+    <div class="card-emoji">${ref.emoji}</div>
+    <div class="card-name">${ref.title}</div>
+    <div class="card-desc">${ref.desc}</div>
+    <span class="badge badge-ref">${ref.badge}</span>
+  `;
+  const open = () => openRefGuide(ref.guide);
+  card.addEventListener('click', open);
+  card.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); }
+  });
+  return card;
+}
+
 /* ── 카드 렌더링 ── */
 function renderCards(cities) {
   const grid = document.getElementById('cities-grid');
@@ -125,10 +161,8 @@ function renderCards(cities) {
     p.className = 'loading';
     p.textContent = '등록된 도시가 없습니다.';
     grid.appendChild(p);
-    return;
-  }
-
-  for (const city of cities) {
+  } else {
+    for (const city of cities) {
     const meta = cityMeta[city.name] || defaultMeta;
     const card = document.createElement('div');
     card.className = 'card';
@@ -150,7 +184,12 @@ function renderCards(cities) {
     });
 
     grid.appendChild(card);
+    }
   }
+
+  // 참조 레이어 (Reference Layer) — 도시와 시각적으로 구분되는 별도 구획
+  grid.appendChild(makeLabel('참조 레이어 (Reference Layer)'));
+  for (const ref of referenceLayers) grid.appendChild(renderRefCard(ref));
 }
 
 /* ── 모달 열기 ── */
@@ -237,7 +276,7 @@ document.getElementById('guide-close').addEventListener('click', closeGuide);
 document.getElementById('guide-backdrop').addEventListener('click', closeGuide);
 
 document.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape') { closeModal(); closeGuide(); closeComm(); }
+  if (e.key === 'Escape') { closeModal(); closeGuide(); closeComm(); closeRefGuide(); }
 });
 
 /* ── 경량 마크다운 렌더러 ──
@@ -380,6 +419,36 @@ function closeComm() {
 document.getElementById('comm-btn').addEventListener('click', openComm);
 document.getElementById('comm-close').addEventListener('click', closeComm);
 document.getElementById('comm-backdrop').addEventListener('click', closeComm);
+
+/* ── 참조 레이어 사용설명서 모달 (#D 패턴 재사용: 런타임 fetch + renderMarkdown) ── */
+const refGuideLoaded = {};   // 파일별 1회 로드 캐시
+async function openRefGuide(file) {
+  const m = document.getElementById('refguide-modal');
+  m.classList.add('open');
+  m.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+
+  const target = document.getElementById('refguide-content');
+  if (!refGuideLoaded[file]) {
+    try {
+      const res = await fetch(file);
+      if (!res.ok) throw new Error(`${file} 로드 실패 (${res.status})`);
+      target.innerHTML = renderMarkdown(await res.text());
+      refGuideLoaded[file] = true;
+    } catch (err) {
+      target.innerHTML =
+        `<p class="loading">⚠️ ${err.message}<br>로컬에서는 <code>python3 -m http.server 8000</code>으로 실행해주세요.</p>`;
+    }
+  }
+}
+function closeRefGuide() {
+  const m = document.getElementById('refguide-modal');
+  m.classList.remove('open');
+  m.setAttribute('aria-hidden', 'true');
+  document.body.style.overflow = '';
+}
+document.getElementById('refguide-close').addEventListener('click', closeRefGuide);
+document.getElementById('refguide-backdrop').addEventListener('click', closeRefGuide);
 
 /* ── 초기화 ── */
 async function init() {
