@@ -40,6 +40,14 @@ const defaultMeta = {
   details: ''
 };
 
+/* ── 사람·역할 (도시=레포가 아니라 "누가 무엇을 하나").
+   상세는 단일 원본인 소통 가이드를 가리킨다(제7조) — 카드 클릭 시 📡 가이드 모달. */
+const roles = [
+  { name: '대통령', emoji: '👑', desc: '사람(당신) — 최종 결정·승인·헌법 비준' },
+  { name: '보좌관', emoji: '🧠', desc: 'Claude 채팅·Cowork — 사고·기획·문서 (코드 안 짬)' },
+  { name: '시장',   emoji: '🛠️', desc: 'Claude Code(도시별 레포) — 코드·실행·git' },
+];
+
 /* ── cities.md 파싱 ── */
 function parseCities(markdown) {
   const cities = [];
@@ -73,15 +81,53 @@ function parseCities(markdown) {
   return cities;
 }
 
+/* ── 구획 제목 (그리드 전체 폭) ── */
+function makeLabel(text) {
+  const el = document.createElement('div');
+  el.className = 'grid-label';
+  el.textContent = text;
+  return el;
+}
+
+/* ── 역할 카드 (클릭 시 소통 가이드로 — 단일 원본을 가리킨다) ── */
+function renderRoleCard(role) {
+  const card = document.createElement('div');
+  card.className = 'card card-role';
+  card.setAttribute('tabindex', '0');
+  card.setAttribute('role', 'button');
+  card.setAttribute('aria-label', `${role.name} 역할 — 소통 가이드 열기`);
+  card.innerHTML = `
+    <div class="card-emoji">${role.emoji}</div>
+    <div class="card-name">${role.name}</div>
+    <div class="card-desc">${role.desc}</div>
+    <span class="badge badge-role">역할</span>
+  `;
+  card.addEventListener('click', openComm);
+  card.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openComm(); }
+  });
+  return card;
+}
+
 /* ── 카드 렌더링 ── */
 function renderCards(cities) {
   const grid = document.getElementById('cities-grid');
+  grid.innerHTML = '';
+
+  // 사람 · 역할 (대통령·보좌관·시장) — 도시 카드와 별개 구획
+  grid.appendChild(makeLabel('사람 · 역할'));
+  for (const role of roles) grid.appendChild(renderRoleCard(role));
+
+  // 도시 (레포)
+  grid.appendChild(makeLabel('도시 (레포)'));
   if (cities.length === 0) {
-    grid.innerHTML = '<p class="loading">등록된 도시가 없습니다.</p>';
+    const p = document.createElement('p');
+    p.className = 'loading';
+    p.textContent = '등록된 도시가 없습니다.';
+    grid.appendChild(p);
     return;
   }
 
-  grid.innerHTML = '';
   for (const city of cities) {
     const meta = cityMeta[city.name] || defaultMeta;
     const card = document.createElement('div');
