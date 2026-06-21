@@ -14,7 +14,10 @@
         <h1>🏛️ My Governance</h1>
         <p class="subtitle">Cities Dashboard</p>
       </div>
-      <button id="guide-btn" class="guide-btn" type="button">🧭 외출 모드 사용법</button>
+      <div class="header-actions">
+        <button id="comm-btn" class="guide-btn" type="button">📡 소통 가이드</button>
+        <button id="guide-btn" class="guide-btn" type="button">🧭 외출 모드 사용법</button>
+      </div>
     </div>
   </header>
 
@@ -154,6 +157,17 @@ python3 orchestrator.py</pre>
       <p class="guide-tldr">
         요약: <b>게이트 켜기 → outbox에 첫 지시 → 오케스트레이터 켜기 → 외출 → 핸드폰 ✅/❌</b>
       </p>
+    </div>
+  </div>
+
+  <!-- 소통 가이드 모달 (원본: ../governance/briefing/communication-guide.md, scripts/sync-guide.sh로 동기화) -->
+  <div id="comm-modal" class="modal" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="modal-backdrop" id="comm-backdrop"></div>
+    <div class="modal-box guide-box comm-box">
+      <button class="modal-close" id="comm-close" aria-label="닫기">✕</button>
+      <div class="markdown-body" id="comm-content">
+        <p class="loading">소통 가이드를 불러오는 중…</p>
+      </div>
     </div>
   </div>
 

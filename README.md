@@ -276,9 +276,20 @@ python3 -m http.server 8000
 3. `script.js`의 `cityMeta` 객체에 도시 메타데이터 추가
 4. 커밋 → `push-pending.md` 신호 → 게이트 승인 → push
 
+### 소통 가이드 페이지
+
+- 헤더의 `📡 소통 가이드` 버튼 → `communication-guide.md`를 읽어 렌더한다.
+- **원본은 거버넌스 레포** `governance/briefing/communication-guide.md` (단일 원본 — 제7조).
+  대시보드는 정적 사이트라 형제 레포를 런타임에 못 읽으므로 원본을 이 레포로 복사해 쓴다.
+- 원본이 갱신되면 동기화 스크립트를 다시 돌린다 (손으로 고치지 말 것 — 수동 중복 금지):
+  ```bash
+  bash scripts/sync-guide.sh
+  ```
+
 ### 주의사항
 
 - `cities.md`는 governance 레포에서 수동 복사 (자동화 예정)
+- `communication-guide.md`도 governance 레포 원본을 `scripts/sync-guide.sh`로 동기화 (위 참조)
 - 민감 정보 절대 포함 금지 (헌법 제0조)
 
 ## F. 다른 컴퓨터로 이전하기

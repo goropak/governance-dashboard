@@ -191,8 +191,149 @@ document.getElementById('guide-close').addEventListener('click', closeGuide);
 document.getElementById('guide-backdrop').addEventListener('click', closeGuide);
 
 document.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape') { closeModal(); closeGuide(); }
+  if (e.key === 'Escape') { closeModal(); closeGuide(); closeComm(); }
 });
+
+/* ── 경량 마크다운 렌더러 ──
+   외부 의존성 없는 자기완결 파서(정적 사이트·빌드도구 금지 규칙 준수).
+   지원: 헤더, 코드펜스, 표, 인용, 순서/비순서 목록, 수평선, 인라인(굵게/기울임/코드/링크).
+   communication-guide.md가 쓰는 문법 범위에 맞춰 작성. */
+function escapeHtml(s) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function renderInline(text) {
+  // 인라인 코드를 먼저 보호(플레이스홀더)한 뒤 나머지 인라인 변환.
+  const codes = [];
+  let s = escapeHtml(text).replace(/`([^`]+)`/g, (_, c) => {
+    codes.push(c);
+    return `\x01${codes.length - 1}\x01`;
+  });
+  s = s
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/(^|[^*])\*([^*]+)\*/g, '$1<em>$2</em>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g,
+      '<a href="$2" target="_blank" rel="noopener">$1</a>');
+  return s.replace(/\x01(\d+)\x01/g, (_, i) => `<code>${codes[+i]}</code>`);
+}
+
+function renderMarkdown(md) {
+  const src = md.replace(/\r\n/g, '\n');
+
+  // 1) 코드펜스를 먼저 빼내 플레이스홀더로 보호(내부 │┌| 등이 표·인라인으로 안 샘).
+  const blocks = [];
+  const noFence = src.replace(/```[^\n]*\n([\s\S]*?)```/g, (_, code) => {
+    blocks.push(`<pre><code>${escapeHtml(code.replace(/\n$/, ''))}</code></pre>`);
+    return `\x00${blocks.length - 1}\x00`;
+  });
+
+  const lines = noFence.split('\n');
+  const out = [];
+  let i = 0;
+  let para = [];
+  const flushPara = () => {
+    if (para.length) { out.push(`<p>${para.map(renderInline).join('<br>')}</p>`); para = []; }
+  };
+
+  while (i < lines.length) {
+    const line = lines[i];
+
+    // 보호된 코드블록 (목록 안 들여쓰기된 펜스도 허용)
+    const fence = line.match(/^\s*\x00(\d+)\x00\s*$/);
+    if (fence) { flushPara(); out.push(blocks[+fence[1]]); i++; continue; }
+
+    // 빈 줄
+    if (/^\s*$/.test(line)) { flushPara(); i++; continue; }
+
+    // 수평선
+    if (/^(-{3,}|\*{3,})\s*$/.test(line)) { flushPara(); out.push('<hr>'); i++; continue; }
+
+    // 헤더
+    const h = line.match(/^(#{1,6})\s+(.*)$/);
+    if (h) { flushPara(); out.push(`<h${h[1].length}>${renderInline(h[2])}</h${h[1].length}>`); i++; continue; }
+
+    // 표 (헤더줄 + |---| 구분줄)
+    if (line.includes('|') && i + 1 < lines.length && /^\s*\|?[\s:|-]+\|?\s*$/.test(lines[i + 1]) && lines[i + 1].includes('-')) {
+      flushPara();
+      const splitRow = (r) => r.replace(/^\s*\|/, '').replace(/\|\s*$/, '').split('|').map(c => c.trim());
+      const headers = splitRow(line);
+      i += 2;
+      const rows = [];
+      while (i < lines.length && lines[i].includes('|') && !/^\s*$/.test(lines[i])) {
+        rows.push(splitRow(lines[i])); i++;
+      }
+      let t = '<table><thead><tr>' + headers.map(c => `<th>${renderInline(c)}</th>`).join('') + '</tr></thead><tbody>';
+      for (const r of rows) t += '<tr>' + r.map(c => `<td>${renderInline(c)}</td>`).join('') + '</tr>';
+      t += '</tbody></table>';
+      out.push(t);
+      continue;
+    }
+
+    // 인용 (연속 > 줄)
+    if (/^>\s?/.test(line)) {
+      flushPara();
+      const buf = [];
+      while (i < lines.length && /^>\s?/.test(lines[i])) { buf.push(lines[i].replace(/^>\s?/, '')); i++; }
+      out.push(`<blockquote>${buf.map(renderInline).join('<br>')}</blockquote>`);
+      continue;
+    }
+
+    // 순서 목록
+    if (/^\s*\d+\.\s+/.test(line)) {
+      flushPara();
+      const items = [];
+      while (i < lines.length && /^\s*\d+\.\s+/.test(lines[i])) { items.push(lines[i].replace(/^\s*\d+\.\s+/, '')); i++; }
+      out.push('<ol>' + items.map(it => `<li>${renderInline(it)}</li>`).join('') + '</ol>');
+      continue;
+    }
+
+    // 비순서 목록
+    if (/^\s*[-*]\s+/.test(line)) {
+      flushPara();
+      const items = [];
+      while (i < lines.length && /^\s*[-*]\s+/.test(lines[i])) { items.push(lines[i].replace(/^\s*[-*]\s+/, '')); i++; }
+      out.push('<ul>' + items.map(it => `<li>${renderInline(it)}</li>`).join('') + '</ul>');
+      continue;
+    }
+
+    // 일반 문단
+    para.push(line);
+    i++;
+  }
+  flushPara();
+  return out.join('\n');
+}
+
+/* ── 소통 가이드 모달 ── */
+let commLoaded = false;
+async function openComm() {
+  const m = document.getElementById('comm-modal');
+  m.classList.add('open');
+  m.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+
+  if (!commLoaded) {
+    const target = document.getElementById('comm-content');
+    try {
+      const res = await fetch('communication-guide.md');
+      if (!res.ok) throw new Error(`communication-guide.md 로드 실패 (${res.status})`);
+      target.innerHTML = renderMarkdown(await res.text());
+      commLoaded = true;
+    } catch (err) {
+      target.innerHTML =
+        `<p class="loading">⚠️ ${err.message}<br>로컬에서는 <code>python3 -m http.server 8000</code>으로 실행해주세요.</p>`;
+    }
+  }
+}
+function closeComm() {
+  const m = document.getElementById('comm-modal');
+  m.classList.remove('open');
+  m.setAttribute('aria-hidden', 'true');
+  document.body.style.overflow = '';
+}
+document.getElementById('comm-btn').addEventListener('click', openComm);
+document.getElementById('comm-close').addEventListener('click', closeComm);
+document.getElementById('comm-backdrop').addEventListener('click', closeComm);
 
 /* ── 초기화 ── */
 async function init() {
