@@ -1,6 +1,6 @@
 # STATUS
 
-**마지막 갱신**: 2026-06-21
+**마지막 갱신**: 2026-06-29
 **갱신자**: 시장 (Claude Cowork)
 
 ## What
@@ -10,8 +10,9 @@
 ## Now
 
 v0.1 개발 중. 로컬에서 정상 동작, Vercel 배포 예정.
-지시 #2026-06-20-D 완료(origin 반영) — `📡 소통 가이드` 페이지(`communication-guide.md` 런타임 fetch + 자체 마크다운 렌더러, `scripts/sync-guide.sh` 동기화).
-대시보드에 `사람·역할` 구획 추가 — 대통령·보좌관·시장 카드(클릭 시 소통 가이드). push 승인 게이트 대기.
+지시 #2026-06-20-D 완료 — `📡 소통 가이드` 페이지(communication-guide.md fetch+렌더).
+지시 #2026-06-20-F 완료 — `참조 레이어` 섹션(president vault 카드 1개) + `/president-guide` 사용설명서 페이지(president-vault-guide.md fetch+렌더). 사람·역할 구획(대통령·보좌관·시장 카드)도 포함.
+push 승인 게이트 대기 중.
 
 ## Next
 
