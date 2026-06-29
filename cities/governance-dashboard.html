@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>거버넌스 대시보드 — 거버넌스 포털</title>
+  <link rel="stylesheet" href="../style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    .city-detail { max-width: 780px; margin: 32px auto; padding: 0 24px 64px; }
+    .city-meta { margin-bottom: 32px; }
+    .era-badge { display:inline-block; font-size:11px; font-weight:600; padding:2px 10px; border-radius:20px; color:#fff; margin-bottom:12px; }
+    .city-detail h1 { font-family: var(--font-head); font-size:28px; margin-bottom:6px; }
+    .tagline { color:var(--c-text-sub); font-size:15px; margin-bottom:12px; }
+    .meta-row { display:flex; align-items:center; gap:12px; font-size:13px; color:var(--c-text-sub); margin-bottom:10px; }
+    .stack-tags { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px; }
+    .city-links { display:flex; gap:14px; font-size:14px; margin-bottom:0; }
+    .city-body { line-height:1.8; }
+    .city-body h2 { font-family:var(--font-head); font-size:18px; margin:28px 0 10px; border-bottom:1px solid var(--c-border); padding-bottom:6px; }
+    .city-body p { margin-bottom:12px; }
+    .city-body pre { background:var(--c-surface); border:1px solid var(--c-border); border-radius:var(--radius); padding:14px 16px; overflow-x:auto; font-size:13px; margin-bottom:12px; }
+    .city-body code { font-size:13px; background:var(--c-surface); padding:1px 5px; border-radius:3px; }
+    .city-body pre code { background:none; padding:0; }
+    .city-body ul, .city-body ol { margin:0 0 12px 20px; }
+    .community { margin-top:48px; border-top:1px solid var(--c-border); padding-top:24px; }
+    .community h2 { font-family:var(--font-head); font-size:18px; margin-bottom:8px; }
+    .coming-soon { color:var(--c-text-sub); font-size:13px; }
+    .back-link { font-size:13px; color:var(--c-text-sub); }
+    .back-link:hover { color:var(--c-text); }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="../index.html" class="back-link">← 문명 지도로</a>
+      <span class="site-title">거버넌스 포털</span>
+    </div>
+  </header>
+  <main class="city-detail">
+    <div class="city-meta">
+      <span class="era-badge" style="background:#7C5CBF">인지혁명기</span>
+      <h1>거버넌스 대시보드</h1>
+      <p class="tagline">국가 거버넌스 포털</p>
+      <div class="meta-row">
+        <span>창설 2025-05-01</span>
+        <span class="status-badge status-dev">개발중</span>
+      </div>
+      <div class="stack-tags"><span class="tag">html</span><span class="tag">css</span><span class="tag">js</span></div>
+      <div class="city-links"><a href="https://github.com/goropak/governance-dashboard" target="_blank" rel="noopener">GitHub →</a></div>
+    </div>
+    <article class="city-body" id="body-content"></article>
+    <section class="community" id="giscus-container">
+      <h2>커뮤니티</h2>
+      <p class="coming-soon">게시판 준비 중 (Phase 3)</p>
+    </section>
+  </main>
+  <script>
+    const md = "## \ucc3d\uc124 \ubc30\uacbd\n\n\uac70\ubc84\ub10c\uc2a4 \uad6d\uac00\uc758 \ubaa8\ub4e0 \ub3c4\uc2dc\ub97c \ud55c\ub208\uc5d0 \ud30c\uc545\ud558\uace0, \uc2dc\ub300\ubcc4 \ud750\ub984\uc744 \ubb38\uba85\uc0ac\uc801 \uc2dc\uac01\uc73c\ub85c \uc870\ub9dd\ud558\uae30 \uc704\ud574 \ub9cc\ub4e0 \ud3ec\ud138. \ub3c4\uc2dc \ubaa9\ub85d\uc744 \ud14d\uc2a4\ud2b8\ub85c\ub9cc \uad00\ub9ac\ud558\ub358 \ud55c\uacc4\ub97c \ubc97\uc5b4\ub098 \uc2dc\uac01\uc801 \uc9c0\ub3c4\ub85c \uad6d\uac00 \uc804\uccb4\ub97c \ud0d0\uc0c9\ud560 \uc218 \uc788\uac8c \ud55c\ub2e4.\n\n## \ud575\uc2ec \uae30\ub2a5\n\n- **\ubb38\uba85\uc0ac \ud3ec\ud138** \u2014 4\uac1c \uc2dc\ub300(\uc778\uc9c0\u00b7\ub18d\uc5c5\u00b7\uc0b0\uc5c5\u00b7\uc815\ubcf4\ud601\uba85\uae30)\ub85c \uad6d\uac00 \uc5ed\uc0ac\ub97c \uc870\ub9dd\n- **SVG \ucd94\uc0c1 \ubb38\uba85 \uc9c0\ub3c4** \u2014 9\uac1c \ub3c4\uc2dc\ub97c \uc2dc\ub300\ubcc4 \uc601\uc5ed\uc5d0 \ubc30\uce58, \ub9c8\ucee4 \ud074\ub9ad\uc73c\ub85c \uc0c1\uc138 \ud655\uc778\n- **\uc2dc\ub300 \ud0c0\uc784\ub77c\uc778** \u2014 \uc0c1\ub2e8 \uac00\ub85c \ubc14\uc5d0 \uc2dc\ub300\ubcc4 \ub3c4\uc2dc \ucc3d\uc124 \uc2dc\uc810 \ud45c\uc2dc\n- **\uc18c\ud1b5 \uac00\uc774\ub4dc** \u2014 \ubcf4\uc88c\uad00\u2194\uc2dc\uc7a5 \ud611\uc5c5 \ubc29\uc2dd \ubb38\uc11c \uc5f4\ub78c\n- **\ub300\ud1b5\ub839 Vault \uc548\ub0b4** \u2014 \ucc38\uc870 \ub808\uc774\uc5b4 \uc0ac\uc6a9\uc124\uba85\uc11c\n\n## \uae30\uc220 \uc2a4\ud0dd\n\n- \uc21c\uc218 HTML / CSS / JS (\ube4c\ub4dc \ub3c4\uad6c \uc5c6\uc74c)\n- ES Module \uad6c\uc870 (sync.js \u2192 \uc911\uc559 \uc0c1\ud0dc, data.js \u2192 JSON fetch)\n- Google Fonts (Noto Serif KR, Pretendard)\n- Vercel \uc815\uc801 \ubc30\ud3ec\n\n## \uc0ac\uc6a9 \ubc29\ubc95\n\n\ud3ec\ud138\uc744 \uc5f4\uba74 \uc790\ub3d9\uc73c\ub85c \ub370\uc774\ud130\ub97c \ub85c\ub4dc\ud55c\ub2e4. \uc9c0\ub3c4\uc758 \ub3c4\uc2dc \ub9c8\ucee4\ub97c \ud074\ub9ad\ud558\uac70\ub098 \ud0c0\uc784\ub77c\uc778\uc758 \uc810\uc744 \ud074\ub9ad\ud558\uba74 \uc6b0\uce21 \ud328\ub110\uc5d0 \ub3c4\uc2dc \uc0c1\uc138 \uc815\ubcf4\uac00 \ud45c\uc2dc\ub41c\ub2e4.\n\n## \uc5f0\uacb0\n\n- GitHub: [goropak/governance-dashboard](https://github.com/goropak/governance-dashboard)\n- \uad00\ub828 \ub3c4\uc2dc: \ubaa8\ub4e0 \ub3c4\uc2dc (\ud3ec\ud138\uc774 \uc804\uccb4\ub97c \uc5f0\uacb0)\n";
+    document.getElementById('body-content').innerHTML = marked.parse(md);
+  </script>
+</body>
+</html>

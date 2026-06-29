@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>철강 주재원 — 거버넌스 포털</title>
+  <link rel="stylesheet" href="../style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    .city-detail { max-width: 780px; margin: 32px auto; padding: 0 24px 64px; }
+    .city-meta { margin-bottom: 32px; }
+    .era-badge { display:inline-block; font-size:11px; font-weight:600; padding:2px 10px; border-radius:20px; color:#fff; margin-bottom:12px; }
+    .city-detail h1 { font-family: var(--font-head); font-size:28px; margin-bottom:6px; }
+    .tagline { color:var(--c-text-sub); font-size:15px; margin-bottom:12px; }
+    .meta-row { display:flex; align-items:center; gap:12px; font-size:13px; color:var(--c-text-sub); margin-bottom:10px; }
+    .stack-tags { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px; }
+    .city-links { display:flex; gap:14px; font-size:14px; margin-bottom:0; }
+    .city-body { line-height:1.8; }
+    .city-body h2 { font-family:var(--font-head); font-size:18px; margin:28px 0 10px; border-bottom:1px solid var(--c-border); padding-bottom:6px; }
+    .city-body p { margin-bottom:12px; }
+    .city-body pre { background:var(--c-surface); border:1px solid var(--c-border); border-radius:var(--radius); padding:14px 16px; overflow-x:auto; font-size:13px; margin-bottom:12px; }
+    .city-body code { font-size:13px; background:var(--c-surface); padding:1px 5px; border-radius:3px; }
+    .city-body pre code { background:none; padding:0; }
+    .city-body ul, .city-body ol { margin:0 0 12px 20px; }
+    .community { margin-top:48px; border-top:1px solid var(--c-border); padding-top:24px; }
+    .community h2 { font-family:var(--font-head); font-size:18px; margin-bottom:8px; }
+    .coming-soon { color:var(--c-text-sub); font-size:13px; }
+    .back-link { font-size:13px; color:var(--c-text-sub); }
+    .back-link:hover { color:var(--c-text); }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="../index.html" class="back-link">← 문명 지도로</a>
+      <span class="site-title">거버넌스 포털</span>
+    </div>
+  </header>
+  <main class="city-detail">
+    <div class="city-meta">
+      <span class="era-badge" style="background:#D62828">산업혁명기</span>
+      <h1>철강 주재원</h1>
+      <p class="tagline">포스코 관점 세계 철강 분석</p>
+      <div class="meta-row">
+        <span>창설 2026-06-21</span>
+        <span class="status-badge status-active">운영중</span>
+      </div>
+      <div class="stack-tags"><span class="tag">html</span><span class="tag">css</span></div>
+      <div class="city-links"><a href="https://github.com/goropak/steel-attache-site" target="_blank" rel="noopener">GitHub →</a></div>
+    </div>
+    <article class="city-body" id="body-content"></article>
+    <section class="community" id="giscus-container">
+      <h2>커뮤니티</h2>
+      <p class="coming-soon">게시판 준비 중 (Phase 3)</p>
+    </section>
+  </main>
+  <script>
+    const md = "## \ucc3d\uc124 \ubc30\uacbd\n\n\ud3ec\uc2a4\ucf54 \uad00\uc810\uc5d0\uc11c \uc138\uacc4 \ucca0\uac15 \uc2dc\uc7a5\uc744 \ucd94\uc801\u00b7\ubd84\uc11d\ud558\ub294 \uc804\ubb38 \ube14\ub85c\uadf8\uac00 \ud544\uc694\ud588\ub2e4. \ucd94\uce21 \uc5c6\uc774 1\ucc28 \uc790\ub8cc \uae30\ubc18\uc73c\ub85c \ud574\uc678 \uc81c\ucca0\uc18c\uc758 \uc870\uc5c5\u00b7\uc124\ube44\u00b7\uc804\ub7b5\uc744 \uc815\uae30 \ube0c\ub9ac\ud551\ud558\uace0, telegram-gate\ub85c \uc790\ub3d9 \ubc1c\ud589\ud558\ub294 \ubb34\uc778 \ud30c\uc774\ud504\ub77c\uc778\uc744 \uad6c\ucd95\ud55c\ub2e4.\n\n## \ud575\uc2ec \uae30\ub2a5\n\n- **\uc8fc\uac04 \ube0c\ub9ac\ud551** \u2014 \ucd5c\uadfc 7\uc77c \ucca0\uac15 \uc774\uc288 \uc694\uc57d \ucd08\uc548 \uc790\ub3d9 \uc0dd\uc131 (\uac80\ud1a0 \ud6c4 \ubc1c\ud589)\n- **\uc804\ub7b5 \ubd84\uc11d** \u2014 \uc77c\ubcf8\u00b7\uc911\uad6d\u00b7\ubbf8\uad6d\u00b7\uc720\ub7fd\u00b7\uc778\ub3c4\u00b7\ud604\ub300\uc81c\ucca0 6\uac1c \uad6d\uac00/\ud68c\uc0ac \ubaa8\ub4c8\n- **Q&A** \u2014 \uc81c\ucca0\uc18c \uc6b4\uc601 \uc9c8\uc758\uc751\ub2f5\n- **GitHub Pages \uc815\uc801 \ubc30\ud3ec** \u2014 git push = \ubc1c\ud589, \ubb34\uc778 \uc6cc\ud06c\ud50c\ub85c\n\n## \uae30\uc220 \uc2a4\ud0dd\n\n- HTML / CSS (\uc815\uc801 \uc0ac\uc774\ud2b8)\n- GitHub Pages\n- telegram-gate (push \uc2b9\uc778 \uc790\ub3d9\ud654)\n\n## \uc0ac\uc6a9 \ubc29\ubc95\n\n\ucf58\ud150\uce20 \ubc1c\ud589 \uc6cc\ud06c\ud50c\ub85c:\n\n1. `drafts/` \ud3f4\ub354\uc5d0 MD \ucd08\uc548 \uc791\uc131\n2. \uac80\ud1a0 4\ubb38 \ud1b5\uacfc (PUBLISH.md \u00a73 \ucc38\uc870)\n3. `site/`\uc5d0 HTML \ubcc0\ud658 \ud6c4 \ucee4\ubc0b\n4. telegram-gate\ub85c push \uc2b9\uc778 \u2192 \uc790\ub3d9 \ubc1c\ud589\n\n## \uc5f0\uacb0\n\n- GitHub: [goropak/steel-attache-site](https://github.com/goropak/steel-attache-site)\n- \uad00\ub828 \ub3c4\uc2dc: telegram-gate (\ubc1c\ud589 push \uac8c\uc774\ud2b8)\n";
+    document.getElementById('body-content').innerHTML = marked.parse(md);
+  </script>
+</body>
+</html>

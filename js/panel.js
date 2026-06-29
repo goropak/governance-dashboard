@@ -34,7 +34,7 @@ function render(city, eras) {
       <thead><tr><th>날짜</th><th>버전</th><th>내용</th></tr></thead>
       <tbody>${historyRows}</tbody>
     </table>` : ''}
-    <a class="detail-link" href="#" style="display:none">상세 페이지 →</a>
+    <a class="detail-link" href="cities/${city.slug}.html">상세 페이지 →</a>
   `;
 }
 

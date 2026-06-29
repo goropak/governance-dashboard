@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>오케스트레이터 — 거버넌스 포털</title>
+  <link rel="stylesheet" href="../style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    .city-detail { max-width: 780px; margin: 32px auto; padding: 0 24px 64px; }
+    .city-meta { margin-bottom: 32px; }
+    .era-badge { display:inline-block; font-size:11px; font-weight:600; padding:2px 10px; border-radius:20px; color:#fff; margin-bottom:12px; }
+    .city-detail h1 { font-family: var(--font-head); font-size:28px; margin-bottom:6px; }
+    .tagline { color:var(--c-text-sub); font-size:15px; margin-bottom:12px; }
+    .meta-row { display:flex; align-items:center; gap:12px; font-size:13px; color:var(--c-text-sub); margin-bottom:10px; }
+    .stack-tags { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px; }
+    .city-links { display:flex; gap:14px; font-size:14px; margin-bottom:0; }
+    .city-body { line-height:1.8; }
+    .city-body h2 { font-family:var(--font-head); font-size:18px; margin:28px 0 10px; border-bottom:1px solid var(--c-border); padding-bottom:6px; }
+    .city-body p { margin-bottom:12px; }
+    .city-body pre { background:var(--c-surface); border:1px solid var(--c-border); border-radius:var(--radius); padding:14px 16px; overflow-x:auto; font-size:13px; margin-bottom:12px; }
+    .city-body code { font-size:13px; background:var(--c-surface); padding:1px 5px; border-radius:3px; }
+    .city-body pre code { background:none; padding:0; }
+    .city-body ul, .city-body ol { margin:0 0 12px 20px; }
+    .community { margin-top:48px; border-top:1px solid var(--c-border); padding-top:24px; }
+    .community h2 { font-family:var(--font-head); font-size:18px; margin-bottom:8px; }
+    .coming-soon { color:var(--c-text-sub); font-size:13px; }
+    .back-link { font-size:13px; color:var(--c-text-sub); }
+    .back-link:hover { color:var(--c-text); }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="../index.html" class="back-link">← 문명 지도로</a>
+      <span class="site-title">거버넌스 포털</span>
+    </div>
+  </header>
+  <main class="city-detail">
+    <div class="city-meta">
+      <span class="era-badge" style="background:#1565C0">정보혁명기</span>
+      <h1>오케스트레이터</h1>
+      <p class="tagline">보좌관↔시장 무인 자동화</p>
+      <div class="meta-row">
+        <span>창설 2026-06-28</span>
+        <span class="status-badge status-dev">개발중</span>
+      </div>
+      <div class="stack-tags"><span class="tag">python</span><span class="tag">claude-api</span></div>
+      <div class="city-links"><a href="https://github.com/goropak/orchestrator" target="_blank" rel="noopener">GitHub →</a></div>
+    </div>
+    <article class="city-body" id="body-content"></article>
+    <section class="community" id="giscus-container">
+      <h2>커뮤니티</h2>
+      <p class="coming-soon">게시판 준비 중 (Phase 3)</p>
+    </section>
+  </main>
+  <script>
+    const md = "## \ucc3d\uc124 \ubc30\uacbd\n\n\ubcf4\uc88c\uad00\uc774 \uc9c0\uc2dc\uc11c\ub97c \uc791\uc131\ud558\uace0 \uc2dc\uc7a5\uc774 \ucc98\ub9ac\ud558\ub294 \ub8e8\ud504\ub97c \uc0ac\ub78c \uc5c6\uc774 \uc790\ub3d9\uc73c\ub85c \ub3cc\ub9ac\uace0 \uc2f6\uc5c8\ub2e4. outbox \uac10\uc2dc \u2192 Claude \uc2dc\uc7a5 \ud638\ucd9c \u2192 \ucc98\ub9ac \u2192 inbox \ubcf4\uace0\uae4c\uc9c0 \ubb34\uc778\uc73c\ub85c \uc644\uacb0\ud558\ub294 \uba54\ud0c0 \ub808\uc774\uc5b4\ub97c \ub9cc\ub4e4\uc5c8\ub2e4.\n\n## \ud575\uc2ec \uae30\ub2a5\n\n- **outbox \ud3f4\ub9c1** \u2014 `outbox-to-mayor.md`\uc5d0\uc11c \ubbf8\ucc98\ub9ac \uc9c0\uc2dc\ub97c \uc790\ub3d9 \uac10\uc9c0\n- **Claude \uc2dc\uc7a5 \ud638\ucd9c** \u2014 Claude API\ub85c \ud574\ub2f9 \ub3c4\uc2dc CLAUDE.md \ucee8\ud14d\uc2a4\ud2b8 + \uc9c0\uc2dc \uc804\ub2ec\n- **inbox \ubcf4\uace0** \u2014 \ucc98\ub9ac \uacb0\uacfc\ub97c `inbox-from-mayor.md`\uc5d0 \uc790\ub3d9 \uae30\ub85d\n- **telegram-gate \uc5f0\ub3d9** \u2014 push \uc694\uccad\uc11c \uc790\ub3d9 \uc0dd\uc131 \u2192 \uac8c\uc774\ud2b8 \uc2b9\uc778 \ub300\uae30\n\n## \uae30\uc220 \uc2a4\ud0dd\n\n- Python 3\n- Claude API (claude-sonnet-4-6)\n- \ud30c\uc77c \uc2dc\uc2a4\ud15c \uae30\ubc18 \uba54\uc77c\ubc15\uc2a4\n\n## \uc0ac\uc6a9 \ubc29\ubc95\n\n```bash\ncd ~/Desktop/project/orchestrator\npython3 orchestrator.py\n# \u2192 outbox \uac10\uc2dc \uc2dc\uc791\n# \u2192 \uc0c8 \uc9c0\uc2dc \uac10\uc9c0 \uc2dc \uc790\ub3d9 \ucc98\ub9ac\n```\n\n## \uc5f0\uacb0\n\n- GitHub: [goropak/orchestrator](https://github.com/goropak/orchestrator)\n- \uad00\ub828 \ub3c4\uc2dc: telegram-gate (push \uc2b9\uc778), boot-pack (\ucee8\ud14d\uc2a4\ud2b8 \uacf5\uae09)\n";
+    document.getElementById('body-content').innerHTML = marked.parse(md);
+  </script>
+</body>
+</html>

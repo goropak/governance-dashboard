@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>헬스 어시스턴트 — 거버넌스 포털</title>
+  <link rel="stylesheet" href="../style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    .city-detail { max-width: 780px; margin: 32px auto; padding: 0 24px 64px; }
+    .city-meta { margin-bottom: 32px; }
+    .era-badge { display:inline-block; font-size:11px; font-weight:600; padding:2px 10px; border-radius:20px; color:#fff; margin-bottom:12px; }
+    .city-detail h1 { font-family: var(--font-head); font-size:28px; margin-bottom:6px; }
+    .tagline { color:var(--c-text-sub); font-size:15px; margin-bottom:12px; }
+    .meta-row { display:flex; align-items:center; gap:12px; font-size:13px; color:var(--c-text-sub); margin-bottom:10px; }
+    .stack-tags { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px; }
+    .city-links { display:flex; gap:14px; font-size:14px; margin-bottom:0; }
+    .city-body { line-height:1.8; }
+    .city-body h2 { font-family:var(--font-head); font-size:18px; margin:28px 0 10px; border-bottom:1px solid var(--c-border); padding-bottom:6px; }
+    .city-body p { margin-bottom:12px; }
+    .city-body pre { background:var(--c-surface); border:1px solid var(--c-border); border-radius:var(--radius); padding:14px 16px; overflow-x:auto; font-size:13px; margin-bottom:12px; }
+    .city-body code { font-size:13px; background:var(--c-surface); padding:1px 5px; border-radius:3px; }
+    .city-body pre code { background:none; padding:0; }
+    .city-body ul, .city-body ol { margin:0 0 12px 20px; }
+    .community { margin-top:48px; border-top:1px solid var(--c-border); padding-top:24px; }
+    .community h2 { font-family:var(--font-head); font-size:18px; margin-bottom:8px; }
+    .coming-soon { color:var(--c-text-sub); font-size:13px; }
+    .back-link { font-size:13px; color:var(--c-text-sub); }
+    .back-link:hover { color:var(--c-text); }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="../index.html" class="back-link">← 문명 지도로</a>
+      <span class="site-title">거버넌스 포털</span>
+    </div>
+  </header>
+  <main class="city-detail">
+    <div class="city-meta">
+      <span class="era-badge" style="background:#D62828">산업혁명기</span>
+      <h1>헬스 어시스턴트</h1>
+      <p class="tagline">개인 건강 지표 AI 주치의</p>
+      <div class="meta-row">
+        <span>창설 2026-06-21</span>
+        <span class="status-badge status-active">운영중</span>
+      </div>
+      <div class="stack-tags"><span class="tag">html</span><span class="tag">css</span><span class="tag">js</span><span class="tag">claude-api</span></div>
+      <div class="city-links"><a href="https://github.com/goropak/health-assistant" target="_blank" rel="noopener">GitHub →</a></div>
+    </div>
+    <article class="city-body" id="body-content"></article>
+    <section class="community" id="giscus-container">
+      <h2>커뮤니티</h2>
+      <p class="coming-soon">게시판 준비 중 (Phase 3)</p>
+    </section>
+  </main>
+  <script>
+    const md = "## \ucc3d\uc124 \ubc30\uacbd\n\n\ud608\uc555\u00b7\uccb4\uc911\u00b7\uacf5\ubcf5\ud608\ub2f9\u00b7\uac04\uc218\uce58 \ub4f1 \uac1c\uc778 \uac74\uac15 \uc9c0\ud45c\ub97c \uccb4\uacc4\uc801\uc73c\ub85c \uae30\ub85d\ud558\uace0, AI\uac00 \uc548\uc804\ud558\uac8c \ud574\uc11d \ucf54\uba58\ud2b8\ub97c \uc81c\uacf5\ud558\ub294 \uc8fc\uce58\uc758 \uc11c\ube44\uc2a4\uac00 \ud544\uc694\ud588\ub2e4. \uac80\uc9c4 \uacb0\uacfc\uc9c0\ub97c \ub9e4\ubc88 \ucc3e\uc544\ubcfc \ud544\uc694 \uc5c6\uc774 \ucd94\uc138\ub97c \ud55c\ub208\uc5d0 \ud30c\uc545\ud55c\ub2e4.\n\n## \ud575\uc2ec \uae30\ub2a5\n\n- **\uac74\uac15 \uc9c0\ud45c \uae30\ub85d** \u2014 \ud608\uc555\u00b7\uccb4\uc911\u00b7\uacf5\ubcf5\ud608\ub2f9\u00b7\uac04\uc218\uce58 \ub4f1 FHIR-lite Observation \ud328\ud134\n- **AI \ud574\uc11d** \u2014 Claude Haiku\uac00 \uacb0\uc815\ub860\uc801 safety_level \ub808\uc774\uc5b4\ub97c \uac70\uccd0 \ud55c\uad6d\uc5b4 \ucf54\uba58\ud2b8 \uc81c\uacf5\n- **Supabase \uc800\uc7a5** \u2014 \uac1c\uc778 \uacc4\uc815 RLS \uaca9\ub9ac, \uc548\uc804\ud55c \ub370\uc774\ud130 \ubcf4\uad00\n- **Vercel \ubc30\ud3ec** \u2014 \uc5b8\uc81c \uc5b4\ub514\uc11c\ub098 \uc811\uc18d\n\n## \uae30\uc220 \uc2a4\ud0dd\n\n- Next.js\n- Supabase (Postgres + RLS)\n- Claude Haiku API (\uac74\uac15 \ud574\uc11d)\n- Vercel\n\n## \uc0ac\uc6a9 \ubc29\ubc95\n\n[health-assistant-puce.vercel.app](https://health-assistant-puce.vercel.app) \uc811\uc18d \ud6c4 \ub85c\uadf8\uc778 \u2192 \uc9c0\ud45c \uae30\ub85d \u2192 AI \ud574\uc11d \ud655\uc778.\n\n\uccab \uc0ac\uc6a9 \uc2dc Supabase\uc5d0\uc11c `interpret_cache` \ud14c\uc774\ube14 \ub9c8\uc774\uadf8\ub808\uc774\uc158 \ud544\uc694 (`supabase/migrations/20260621000002_interpret_cache.sql`).\n\n## \uc5f0\uacb0\n\n- GitHub: [goropak/health-assistant](https://github.com/goropak/health-assistant)\n- \uc0ac\uc774\ud2b8: [health-assistant-puce.vercel.app](https://health-assistant-puce.vercel.app)\n";
+    document.getElementById('body-content').innerHTML = marked.parse(md);
+  </script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>텔레그램 게이트 — 거버넌스 포털</title>
+  <link rel="stylesheet" href="../style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    .city-detail { max-width: 780px; margin: 32px auto; padding: 0 24px 64px; }
+    .city-meta { margin-bottom: 32px; }
+    .era-badge { display:inline-block; font-size:11px; font-weight:600; padding:2px 10px; border-radius:20px; color:#fff; margin-bottom:12px; }
+    .city-detail h1 { font-family: var(--font-head); font-size:28px; margin-bottom:6px; }
+    .tagline { color:var(--c-text-sub); font-size:15px; margin-bottom:12px; }
+    .meta-row { display:flex; align-items:center; gap:12px; font-size:13px; color:var(--c-text-sub); margin-bottom:10px; }
+    .stack-tags { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px; }
+    .city-links { display:flex; gap:14px; font-size:14px; margin-bottom:0; }
+    .city-body { line-height:1.8; }
+    .city-body h2 { font-family:var(--font-head); font-size:18px; margin:28px 0 10px; border-bottom:1px solid var(--c-border); padding-bottom:6px; }
+    .city-body p { margin-bottom:12px; }
+    .city-body pre { background:var(--c-surface); border:1px solid var(--c-border); border-radius:var(--radius); padding:14px 16px; overflow-x:auto; font-size:13px; margin-bottom:12px; }
+    .city-body code { font-size:13px; background:var(--c-surface); padding:1px 5px; border-radius:3px; }
+    .city-body pre code { background:none; padding:0; }
+    .city-body ul, .city-body ol { margin:0 0 12px 20px; }
+    .community { margin-top:48px; border-top:1px solid var(--c-border); padding-top:24px; }
+    .community h2 { font-family:var(--font-head); font-size:18px; margin-bottom:8px; }
+    .coming-soon { color:var(--c-text-sub); font-size:13px; }
+    .back-link { font-size:13px; color:var(--c-text-sub); }
+    .back-link:hover { color:var(--c-text); }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="../index.html" class="back-link">← 문명 지도로</a>
+      <span class="site-title">거버넌스 포털</span>
+    </div>
+  </header>
+  <main class="city-detail">
+    <div class="city-meta">
+      <span class="era-badge" style="background:#D62828">산업혁명기</span>
+      <h1>텔레그램 게이트</h1>
+      <p class="tagline">외출 중 거버넌스 원격 승인</p>
+      <div class="meta-row">
+        <span>창설 2026-06-04</span>
+        <span class="status-badge status-active">운영중</span>
+      </div>
+      <div class="stack-tags"><span class="tag">python</span><span class="tag">telegram-bot-api</span></div>
+      <div class="city-links"><a href="https://github.com/goropak/telegram-gate" target="_blank" rel="noopener">GitHub →</a></div>
+    </div>
+    <article class="city-body" id="body-content"></article>
+    <section class="community" id="giscus-container">
+      <h2>커뮤니티</h2>
+      <p class="coming-soon">게시판 준비 중 (Phase 3)</p>
+    </section>
+  </main>
+  <script>
+    const md = "## \ucc3d\uc124 \ubc30\uacbd\n\n\uc678\ucd9c \uc911\uc5d0\ub3c4 \uac70\ubc84\ub10c\uc2a4 push\ub97c \uc548\uc804\ud558\uac8c \uc2b9\uc778\ud558\uace0 \uc2f6\uc5c8\ub2e4. \ub178\ud2b8\ubd81\uc744 \uc5f4\uc9c0 \uc54a\uace0 \ud578\ub4dc\ud3f0 \ud154\ub808\uadf8\ub7a8 \ud558\ub098\ub85c \ucee4\ubc0b \uc2b9\uc778 \u2192 \uc790\ub3d9 push\uae4c\uc9c0 \uc644\uacb0\ud558\ub294 \uac8c\uc774\ud2b8\ub97c \ub9cc\ub4e4\uc5c8\ub2e4.\n\n## \ud575\uc2ec \uae30\ub2a5\n\n- **push \uc54c\ub9bc + \uc778\ub77c\uc778 \ubc84\ud2bc** \u2014 \uc2dc\uc7a5\uc774 `approvals/` \uc694\uccad\uc11c\ub97c \uc791\uc131\ud558\uba74 \ud154\ub808\uadf8\ub7a8\uc73c\ub85c \uc54c\ub9bc + \u2705/\u274c \ubc84\ud2bc \uc804\uc1a1\n- **\uc2b9\uc778 \uc989\uc2dc \uc790\ub3d9 push** \u2014 \u2705 \ud074\ub9ad \uc2dc \uac8c\uc774\ud2b8\uac00 `git pull --rebase && git push` \uc2e4\ud589\n- **\uac70\uc9d3\uc644\ub8cc \ubc29\uc9c0** \u2014 \uba85\ub839\ubcc4 returncode \uc9d1\uacc4, \ud558\ub098\ub77c\ub3c4 \uc2e4\ud328 \uc2dc `.\uc2e4\ud328.md` \uc0dd\uc131 + \u26a0\ufe0f \uacbd\uace0 \uc804\uc1a1\n- **\ubbf8push \ucee4\ubc0b \uc790\ub3d9 \uac10\uc9c0** \u2014 `origin/main..HEAD` \ud3f4\ub9c1\uc73c\ub85c \uc694\uccad\uc11c \uc5c6\uc774\ub3c4 \ub300\uae30 \uc911\uc778 \ucee4\ubc0b \uc54c\ub9bc\n- **\ubcf4\uc548** \u2014 `from_user.id` \uac80\uc99d\uc73c\ub85c \ubcf8\uc778\ub9cc \uc2b9\uc778 \uac00\ub2a5\n\n## \uae30\uc220 \uc2a4\ud0dd\n\n- Python 3\n- Telegram Bot API (polling \ubc29\uc2dd)\n- `subprocess` \u2014 git \uba85\ub839 \uc2e4\ud589\n\n## \uc0ac\uc6a9 \ubc29\ubc95\n\n```bash\ncd ~/Desktop/project/telegram-gate\npython3 approval_gate.py\n# \u2192 \ubc31\uadf8\ub77c\uc6b4\ub4dc \ub370\ubaac\uc73c\ub85c \uc0c1\uc2dc \uc2e4\ud589\n# \u2192 approvals/ \ud3f4\ub354 \uac10\uc2dc \u2192 \uc0c8 \uc694\uccad\uc11c \uac10\uc9c0 \u2192 \ud154\ub808\uadf8\ub7a8 \uc54c\ub9bc\n```\n\n`.env`\uc5d0 `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` \uc124\uc815 \ud544\uc694.\n\n## \uc5f0\uacb0\n\n- GitHub: [goropak/telegram-gate](https://github.com/goropak/telegram-gate)\n- \uad00\ub828 \ub3c4\uc2dc: orchestrator (\ubb34\uc778 \uc790\ub3d9\ud654\uc758 \uc2e4\ud589 \uc5d4\uc9c4)\n";
+    document.getElementById('body-content').innerHTML = marked.parse(md);
+  </script>
+</body>
+</html>
