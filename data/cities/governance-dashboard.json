@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "slug": "governance-dashboard",
+  "name": "거버넌스 대시보드",
+  "founded": "2025-05-01",
+  "era": "cognitive",
+  "coord": {"x": 0.20, "y": 0.44},
+  "tagline": "국가 거버넌스 포털",
+  "status": "dev",
+  "stack": ["html", "css", "js"],
+  "links": {
+    "github": "https://github.com/goropak/governance-dashboard",
+    "live": null
+  },
+  "history": [
+    {"date": "2025-05-01", "version": "0.1", "note": "착공"},
+    {"date": "2026-06-29", "version": "0.2", "note": "포털 v2 — 문명사 테마 전면 리디자인"}
+  ]
+}

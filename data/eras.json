@@ -1,0 +1,6 @@
+[
+  {"id":"cognitive","name":"인지혁명기","from":"2025-01-01","color":"var(--era-cognitive)","story":"거버넌스 개념 정립, 기초 도구 착공"},
+  {"id":"agri","name":"농업혁명기","from":"2026-01-01","color":"var(--era-agri)","story":"정착과 체계화 — 소강기"},
+  {"id":"industrial","name":"산업혁명기","from":"2026-06-01","color":"var(--era-industrial)","story":"포트폴리오 폭발적 확장"},
+  {"id":"info","name":"정보혁명기","from":"2026-06-27","color":"var(--era-info)","story":"무인 자동화, 메타 레이어 등장"}
+]

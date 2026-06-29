@@ -1,0 +1,473 @@
+/* ── 도시 메타데이터 (도시 추가 시 여기에 추가) ── */
+const cityMeta = {
+  'boot-pack': {
+    emoji: '📦',
+    description: '거버넌스 부팅 자동화 도구',
+    usage: 'macOS 터미널에서 `bootpack` 실행 → 클립보드에 핵심 파일 복사 → Claude.ai에 붙여넣기',
+    details: 'Python 스크립트로 governance 레포의 핵심 5개 파일(기본) 또는 전체(--all)를 합쳐 클립보드로 전달합니다.'
+  },
+  'governance-dashboard': {
+    emoji: '🏛️',
+    description: '거버넌스 도시 현황 대시보드',
+    usage: '브라우저에서 index.html 열기 (또는 Vercel URL 접속)',
+    details: 'cities.md를 파싱해 각 도시의 상태를 카드로 시각화합니다. 새 도시가 생길 때마다 cities.md를 업데이트하면 자동으로 반영됩니다.'
+  },
+  'simsteel': {
+    emoji: '🏭',
+    description: '제철소 부지 레이아웃 시각화',
+    usage: '로컬 dev 서버 또는 Vercel 배포 URL에서 접속 (v0.4 예정)',
+    details: 'SimCity 스타일 5m 격자 기반 제철소 부지 배치 시각화 도구. 레이아웃 JSON import/export, 2.5D 뷰, 배경 트레이싱 기능 포함.'
+  },
+  'telegram-gate': {
+    emoji: '🔐',
+    description: '원격 push 승인 게이트',
+    usage: 'cd ~/Desktop/project/telegram-gate && python3 gate.py',
+    details: '외출 중 핸드폰 텔레그램으로 governance push를 승인하는 게이트. push-pending.md를 10초마다 폴링해 "대기" 상태 감지 시 텔레그램 알림 + 승인/거부 버튼 전송. ✅ 승인 즉시 자동 git push 실행.'
+  },
+  'demo-city': {
+    emoji: '🧪',
+    description: '자동 소통 루프 실연용 데모',
+    usage: '실연용 데모 도시 — 실제 서비스 없음',
+    details: '보좌관↔시장 메일박스 + telegram-gate 승인 루프 end-to-end 검증용 빈 골격 데모.'
+  }
+};
+
+/* ── 기본 메타데이터 (cityMeta에 없는 도시에 사용) ── */
+const defaultMeta = {
+  emoji: '🏙️',
+  description: '설명 없음',
+  usage: '',
+  details: ''
+};
+
+/* ── 사람·역할 (도시=레포가 아니라 "누가 무엇을 하나").
+   상세는 단일 원본인 소통 가이드를 가리킨다(제7조) — 카드 클릭 시 📡 가이드 모달. */
+const roles = [
+  { name: '대통령', emoji: '👑', desc: '사람(당신) — 최종 결정·승인·헌법 비준' },
+  { name: '보좌관', emoji: '🧠', desc: 'Claude 채팅·Cowork — 사고·기획·문서 (코드 안 짬)' },
+  { name: '시장',   emoji: '🛠️', desc: 'Claude Code(도시별 레포) — 코드·실행·git' },
+];
+
+/* ── 참조 레이어 (Reference Layer) — #F.
+   도시(프로젝트)가 아니라 거버넌스가 참조하는 정적 레이어.
+   도시 카드(cities.md 파싱)와 시각적으로 구분되는 별도 구획.
+   카드 클릭 시 해당 사용설명서 마크다운을 fetch해 렌더(#D 패턴 재사용). */
+const referenceLayers = [
+  {
+    title: '대통령 프로필',
+    badge: '참조 레이어',
+    emoji: '👤',
+    desc: '거버넌스가 참조하는 대통령 운영 매뉴얼(vault) — 사용설명서',
+    repo: 'github.com/goropak/president',
+    guide: 'president-vault-guide.md',
+  },
+];
+
+/* ── cities.md 파싱 ── */
+function parseCities(markdown) {
+  const cities = [];
+  // "## 운영 중인 도시" 섹션만 추출
+  const sectionMatch = markdown.match(/## 운영 중인 도시([\s\S]*?)(?=\n## |$)/);
+  if (!sectionMatch) return cities;
+
+  const section = sectionMatch[1];
+  // ### 도시명 블록 분리
+  const blocks = section.split(/(?=### )/g).filter(b => b.trim().startsWith('###'));
+
+  for (const block of blocks) {
+    const nameMatch = block.match(/^### (.+)/m);
+    if (!nameMatch) continue;
+
+    const name = nameMatch[1].trim();
+    const get = (key) => {
+      const m = block.match(new RegExp(`\\*\\*${key}\\*\\*:\\s*(.+)`));
+      return m ? m[1].trim() : '—';
+    };
+
+    cities.push({
+      name,
+      repo:      get('Repo'),
+      deploy:    get('Deploy'),
+      db:        get('DB'),
+      status:    get('Status'),
+      lastCheck: get('Last check'),
+    });
+  }
+  return cities;
+}
+
+/* ── 구획 제목 (그리드 전체 폭) ── */
+function makeLabel(text) {
+  const el = document.createElement('div');
+  el.className = 'grid-label';
+  el.textContent = text;
+  return el;
+}
+
+/* ── 역할 카드 (클릭 시 소통 가이드로 — 단일 원본을 가리킨다) ── */
+function renderRoleCard(role) {
+  const card = document.createElement('div');
+  card.className = 'card card-role';
+  card.setAttribute('tabindex', '0');
+  card.setAttribute('role', 'button');
+  card.setAttribute('aria-label', `${role.name} 역할 — 소통 가이드 열기`);
+  card.innerHTML = `
+    <div class="card-emoji">${role.emoji}</div>
+    <div class="card-name">${role.name}</div>
+    <div class="card-desc">${role.desc}</div>
+    <span class="badge badge-role">역할</span>
+  `;
+  card.addEventListener('click', openComm);
+  card.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openComm(); }
+  });
+  return card;
+}
+
+/* ── 참조 레이어 카드 (클릭 시 사용설명서 모달 — #D 패턴 재사용) ── */
+function renderRefCard(ref) {
+  const card = document.createElement('div');
+  card.className = 'card card-ref';
+  card.setAttribute('tabindex', '0');
+  card.setAttribute('role', 'button');
+  card.setAttribute('aria-label', `${ref.title} — 사용설명서 열기`);
+  card.innerHTML = `
+    <div class="card-emoji">${ref.emoji}</div>
+    <div class="card-name">${ref.title}</div>
+    <div class="card-desc">${ref.desc}</div>
+    <span class="badge badge-ref">${ref.badge}</span>
+  `;
+  const open = () => openRefGuide(ref.guide);
+  card.addEventListener('click', open);
+  card.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); }
+  });
+  return card;
+}
+
+/* ── 카드 렌더링 ── */
+function renderCards(cities) {
+  const grid = document.getElementById('cities-grid');
+  grid.innerHTML = '';
+
+  // 사람 · 역할 (대통령·보좌관·시장) — 도시 카드와 별개 구획
+  grid.appendChild(makeLabel('사람 · 역할'));
+  for (const role of roles) grid.appendChild(renderRoleCard(role));
+
+  // 도시 (레포)
+  grid.appendChild(makeLabel('도시 (레포)'));
+  if (cities.length === 0) {
+    const p = document.createElement('p');
+    p.className = 'loading';
+    p.textContent = '등록된 도시가 없습니다.';
+    grid.appendChild(p);
+  } else {
+    for (const city of cities) {
+    const meta = cityMeta[city.name] || defaultMeta;
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.dataset.status = city.status;
+    card.setAttribute('tabindex', '0');
+    card.setAttribute('role', 'button');
+    card.setAttribute('aria-label', `${city.name} 상세 보기`);
+
+    card.innerHTML = `
+      <div class="card-emoji">${meta.emoji}</div>
+      <div class="card-name">${city.name}</div>
+      <div class="card-desc">${meta.description}</div>
+      <span class="badge badge-${city.status}">${city.status}</span>
+    `;
+
+    card.addEventListener('click', () => openModal(city, meta));
+    card.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') openModal(city, meta);
+    });
+
+    grid.appendChild(card);
+    }
+  }
+
+  // 참조 레이어 (Reference Layer) — 도시와 시각적으로 구분되는 별도 구획
+  grid.appendChild(makeLabel('참조 레이어 (Reference Layer)'));
+  for (const ref of referenceLayers) grid.appendChild(renderRefCard(ref));
+}
+
+/* ── 모달 열기 ── */
+function openModal(city, meta) {
+  document.getElementById('modal-emoji').textContent = meta.emoji;
+  document.getElementById('modal-title').textContent = city.name;
+
+  const badge = document.getElementById('modal-badge');
+  badge.textContent = city.status;
+  badge.className = `badge badge-${city.status}`;
+
+  document.getElementById('modal-description').textContent =
+    meta.details || meta.description;
+
+  const usageSection = document.getElementById('modal-usage-section');
+  if (meta.usage) {
+    document.getElementById('modal-usage').textContent = meta.usage;
+    usageSection.style.display = '';
+  } else {
+    usageSection.style.display = 'none';
+  }
+
+  // 링크 목록
+  const linksList = document.getElementById('modal-links');
+  linksList.innerHTML = '';
+
+  const links = [
+    { label: 'Repo', value: city.repo },
+    { label: 'Deploy', value: city.deploy },
+    { label: 'Last check', value: city.lastCheck },
+  ];
+
+  if (city.repo && city.repo !== '—' && city.repo.startsWith('github.com')) {
+    const base = `https://${city.repo}`;
+    links.push(
+      { label: 'STATUS.md', value: `${base}/blob/main/STATUS.md` },
+      { label: 'README.md', value: `${base}/blob/main/README.md` },
+    );
+  }
+
+  for (const { label, value } of links) {
+    const li = document.createElement('li');
+    if (value && value !== '—' && (value.startsWith('github.com') || value.startsWith('http'))) {
+      const href = value.startsWith('http') ? value : `https://${value}`;
+      li.innerHTML = `<span class="link-label">${label}</span><a href="${href}" target="_blank" rel="noopener">${value}</a>`;
+    } else {
+      li.innerHTML = `<span class="link-label">${label}</span>${value}`;
+    }
+    linksList.appendChild(li);
+  }
+
+  const modal = document.getElementById('modal');
+  modal.classList.add('open');
+  modal.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+}
+
+/* ── 모달 닫기 ── */
+function closeModal() {
+  const modal = document.getElementById('modal');
+  modal.classList.remove('open');
+  modal.setAttribute('aria-hidden', 'true');
+  document.body.style.overflow = '';
+}
+
+document.getElementById('modal-close').addEventListener('click', closeModal);
+document.getElementById('modal-backdrop').addEventListener('click', closeModal);
+
+/* ── 외출 모드 가이드 모달 ── */
+function openGuide() {
+  const m = document.getElementById('guide-modal');
+  m.classList.add('open');
+  m.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+}
+function closeGuide() {
+  const m = document.getElementById('guide-modal');
+  m.classList.remove('open');
+  m.setAttribute('aria-hidden', 'true');
+  document.body.style.overflow = '';
+}
+document.getElementById('guide-btn').addEventListener('click', openGuide);
+document.getElementById('guide-close').addEventListener('click', closeGuide);
+document.getElementById('guide-backdrop').addEventListener('click', closeGuide);
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') { closeModal(); closeGuide(); closeComm(); closeRefGuide(); }
+});
+
+/* ── 경량 마크다운 렌더러 ──
+   외부 의존성 없는 자기완결 파서(정적 사이트·빌드도구 금지 규칙 준수).
+   지원: 헤더, 코드펜스, 표, 인용, 순서/비순서 목록, 수평선, 인라인(굵게/기울임/코드/링크).
+   communication-guide.md가 쓰는 문법 범위에 맞춰 작성. */
+function escapeHtml(s) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function renderInline(text) {
+  // 인라인 코드를 먼저 보호(플레이스홀더)한 뒤 나머지 인라인 변환.
+  const codes = [];
+  let s = escapeHtml(text).replace(/`([^`]+)`/g, (_, c) => {
+    codes.push(c);
+    return `\x01${codes.length - 1}\x01`;
+  });
+  s = s
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/(^|[^*])\*([^*]+)\*/g, '$1<em>$2</em>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g,
+      '<a href="$2" target="_blank" rel="noopener">$1</a>');
+  return s.replace(/\x01(\d+)\x01/g, (_, i) => `<code>${codes[+i]}</code>`);
+}
+
+function renderMarkdown(md) {
+  const src = md.replace(/\r\n/g, '\n');
+
+  // 1) 코드펜스를 먼저 빼내 플레이스홀더로 보호(내부 │┌| 등이 표·인라인으로 안 샘).
+  const blocks = [];
+  const noFence = src.replace(/```[^\n]*\n([\s\S]*?)```/g, (_, code) => {
+    blocks.push(`<pre><code>${escapeHtml(code.replace(/\n$/, ''))}</code></pre>`);
+    return `\x00${blocks.length - 1}\x00`;
+  });
+
+  const lines = noFence.split('\n');
+  const out = [];
+  let i = 0;
+  let para = [];
+  const flushPara = () => {
+    if (para.length) { out.push(`<p>${para.map(renderInline).join('<br>')}</p>`); para = []; }
+  };
+
+  while (i < lines.length) {
+    const line = lines[i];
+
+    // 보호된 코드블록 (목록 안 들여쓰기된 펜스도 허용)
+    const fence = line.match(/^\s*\x00(\d+)\x00\s*$/);
+    if (fence) { flushPara(); out.push(blocks[+fence[1]]); i++; continue; }
+
+    // 빈 줄
+    if (/^\s*$/.test(line)) { flushPara(); i++; continue; }
+
+    // 수평선
+    if (/^(-{3,}|\*{3,})\s*$/.test(line)) { flushPara(); out.push('<hr>'); i++; continue; }
+
+    // 헤더
+    const h = line.match(/^(#{1,6})\s+(.*)$/);
+    if (h) { flushPara(); out.push(`<h${h[1].length}>${renderInline(h[2])}</h${h[1].length}>`); i++; continue; }
+
+    // 표 (헤더줄 + |---| 구분줄)
+    if (line.includes('|') && i + 1 < lines.length && /^\s*\|?[\s:|-]+\|?\s*$/.test(lines[i + 1]) && lines[i + 1].includes('-')) {
+      flushPara();
+      const splitRow = (r) => r.replace(/^\s*\|/, '').replace(/\|\s*$/, '').split('|').map(c => c.trim());
+      const headers = splitRow(line);
+      i += 2;
+      const rows = [];
+      while (i < lines.length && lines[i].includes('|') && !/^\s*$/.test(lines[i])) {
+        rows.push(splitRow(lines[i])); i++;
+      }
+      let t = '<table><thead><tr>' + headers.map(c => `<th>${renderInline(c)}</th>`).join('') + '</tr></thead><tbody>';
+      for (const r of rows) t += '<tr>' + r.map(c => `<td>${renderInline(c)}</td>`).join('') + '</tr>';
+      t += '</tbody></table>';
+      out.push(t);
+      continue;
+    }
+
+    // 인용 (연속 > 줄)
+    if (/^>\s?/.test(line)) {
+      flushPara();
+      const buf = [];
+      while (i < lines.length && /^>\s?/.test(lines[i])) { buf.push(lines[i].replace(/^>\s?/, '')); i++; }
+      out.push(`<blockquote>${buf.map(renderInline).join('<br>')}</blockquote>`);
+      continue;
+    }
+
+    // 순서 목록
+    if (/^\s*\d+\.\s+/.test(line)) {
+      flushPara();
+      const items = [];
+      while (i < lines.length && /^\s*\d+\.\s+/.test(lines[i])) { items.push(lines[i].replace(/^\s*\d+\.\s+/, '')); i++; }
+      out.push('<ol>' + items.map(it => `<li>${renderInline(it)}</li>`).join('') + '</ol>');
+      continue;
+    }
+
+    // 비순서 목록
+    if (/^\s*[-*]\s+/.test(line)) {
+      flushPara();
+      const items = [];
+      while (i < lines.length && /^\s*[-*]\s+/.test(lines[i])) { items.push(lines[i].replace(/^\s*[-*]\s+/, '')); i++; }
+      out.push('<ul>' + items.map(it => `<li>${renderInline(it)}</li>`).join('') + '</ul>');
+      continue;
+    }
+
+    // 일반 문단
+    para.push(line);
+    i++;
+  }
+  flushPara();
+  return out.join('\n');
+}
+
+/* ── 소통 가이드 모달 ── */
+let commLoaded = false;
+async function openComm() {
+  const m = document.getElementById('comm-modal');
+  m.classList.add('open');
+  m.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+
+  if (!commLoaded) {
+    const target = document.getElementById('comm-content');
+    try {
+      const res = await fetch('communication-guide.md');
+      if (!res.ok) throw new Error(`communication-guide.md 로드 실패 (${res.status})`);
+      target.innerHTML = renderMarkdown(await res.text());
+      commLoaded = true;
+    } catch (err) {
+      target.innerHTML =
+        `<p class="loading">⚠️ ${err.message}<br>로컬에서는 <code>python3 -m http.server 8000</code>으로 실행해주세요.</p>`;
+    }
+  }
+}
+function closeComm() {
+  const m = document.getElementById('comm-modal');
+  m.classList.remove('open');
+  m.setAttribute('aria-hidden', 'true');
+  document.body.style.overflow = '';
+}
+document.getElementById('comm-btn').addEventListener('click', openComm);
+document.getElementById('comm-close').addEventListener('click', closeComm);
+document.getElementById('comm-backdrop').addEventListener('click', closeComm);
+
+/* ── 참조 레이어 사용설명서 모달 (#D 패턴 재사용: 런타임 fetch + renderMarkdown) ── */
+const refGuideLoaded = {};   // 파일별 1회 로드 캐시
+async function openRefGuide(file) {
+  const m = document.getElementById('refguide-modal');
+  m.classList.add('open');
+  m.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+
+  const target = document.getElementById('refguide-content');
+  if (!refGuideLoaded[file]) {
+    try {
+      const res = await fetch(file);
+      if (!res.ok) throw new Error(`${file} 로드 실패 (${res.status})`);
+      target.innerHTML = renderMarkdown(await res.text());
+      refGuideLoaded[file] = true;
+    } catch (err) {
+      target.innerHTML =
+        `<p class="loading">⚠️ ${err.message}<br>로컬에서는 <code>python3 -m http.server 8000</code>으로 실행해주세요.</p>`;
+    }
+  }
+}
+function closeRefGuide() {
+  const m = document.getElementById('refguide-modal');
+  m.classList.remove('open');
+  m.setAttribute('aria-hidden', 'true');
+  document.body.style.overflow = '';
+}
+document.getElementById('refguide-close').addEventListener('click', closeRefGuide);
+document.getElementById('refguide-backdrop').addEventListener('click', closeRefGuide);
+
+/* ── 초기화 ── */
+async function init() {
+  // 푸터 날짜
+  const today = new Date().toLocaleDateString('ko-KR', {
+    year: 'numeric', month: 'long', day: 'numeric'
+  });
+  document.getElementById('last-updated').textContent = `Last updated: ${today}`;
+
+  try {
+    const res = await fetch('cities.md');
+    if (!res.ok) throw new Error(`cities.md 로드 실패 (${res.status})`);
+    const text = await res.text();
+    const cities = parseCities(text);
+    renderCards(cities);
+  } catch (err) {
+    document.getElementById('cities-grid').innerHTML =
+      `<p class="loading">⚠️ ${err.message}<br>로컬에서는 <code>python3 -m http.server 8000</code>으로 실행해주세요.</p>`;
+  }
+}
+
+init();

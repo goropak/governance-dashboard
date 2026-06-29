@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "slug": "simsteel",
+  "name": "SimSteel",
+  "founded": "2026-06-12",
+  "era": "industrial",
+  "coord": {"x": 0.44, "y": 0.52},
+  "tagline": "제철소 부지 레이아웃 시뮬레이터",
+  "status": "dev",
+  "stack": ["react", "vite"],
+  "links": {
+    "github": "https://github.com/goropak/simsteel",
+    "live": null
+  },
+  "history": [
+    {"date": "2026-06-12", "version": "0.5.1", "note": "착공 및 v0.5.1 완료"},
+    {"date": "2026-06-12", "version": "0.5.2", "note": "충돌 해소 — iMac v0.5.1 채택"}
+  ]
+}

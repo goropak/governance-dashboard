@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "slug": "health-assistant",
+  "name": "헬스 어시스턴트",
+  "founded": "2026-06-21",
+  "era": "industrial",
+  "coord": {"x": 0.74, "y": 0.62},
+  "tagline": "개인 건강 지표 AI 주치의",
+  "status": "active",
+  "stack": ["html", "css", "js", "claude-api"],
+  "links": {
+    "github": "https://github.com/goropak/health-assistant",
+    "live": null
+  },
+  "history": [
+    {"date": "2026-06-21", "version": "0.1", "note": "착공"},
+    {"date": "2026-06-21", "version": "0.1.0", "note": "Vercel 배포 완료 — 서비스 정상 가동"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "slug": "boot-pack",
+  "name": "Boot Pack",
+  "founded": "2025-01-01",
+  "era": "cognitive",
+  "coord": {"x": 0.12, "y": 0.28},
+  "tagline": "거버넌스 부팅 자동화",
+  "status": "dev",
+  "stack": ["bash", "python"],
+  "links": {
+    "github": "https://github.com/goropak/boot-pack",
+    "live": null
+  },
+  "history": [
+    {"date": "2025-01-01", "version": "0.1", "note": "창설"}
+  ]
+}

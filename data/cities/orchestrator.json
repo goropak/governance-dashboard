@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "slug": "orchestrator",
+  "name": "오케스트레이터",
+  "founded": "2026-06-28",
+  "era": "info",
+  "coord": {"x": 0.88, "y": 0.35},
+  "tagline": "보좌관↔시장 무인 자동화",
+  "status": "dev",
+  "stack": ["python", "claude-api"],
+  "links": {
+    "github": "https://github.com/goropak/orchestrator",
+    "live": null
+  },
+  "history": [
+    {"date": "2026-06-28", "version": "0.1", "note": "착공 — 무인 오케스트레이터"}
+  ]
+}

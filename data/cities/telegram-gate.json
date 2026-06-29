@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "slug": "telegram-gate",
+  "name": "텔레그램 게이트",
+  "founded": "2026-06-04",
+  "era": "industrial",
+  "coord": {"x": 0.36, "y": 0.30},
+  "tagline": "외출 중 거버넌스 원격 승인",
+  "status": "active",
+  "stack": ["python", "telegram-bot-api"],
+  "links": {
+    "github": "https://github.com/goropak/telegram-gate",
+    "live": null
+  },
+  "history": [
+    {"date": "2026-06-04", "version": "0.1", "note": "착공"},
+    {"date": "2026-06-07", "version": "0.2", "note": "작동 검증 완료 — end-to-end push 승인"}
+  ]
+}

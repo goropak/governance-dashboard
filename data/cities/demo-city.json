@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "slug": "demo-city",
+  "name": "데모 시티",
+  "founded": "2026-06-10",
+  "era": "industrial",
+  "coord": {"x": 0.50, "y": 0.36},
+  "tagline": "자동 소통 루프 실연",
+  "status": "demo",
+  "stack": ["shell"],
+  "links": {
+    "github": null,
+    "live": null
+  },
+  "history": [
+    {"date": "2026-06-10", "version": "0.1", "note": "보좌관↔시장 메일박스 + 승인 루프 데모"}
+  ]
+}

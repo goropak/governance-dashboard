@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "slug": "steel-attache",
+  "name": "철강 주재원",
+  "founded": "2026-06-21",
+  "era": "industrial",
+  "coord": {"x": 0.70, "y": 0.24},
+  "tagline": "포스코 관점 세계 철강 분석",
+  "status": "active",
+  "stack": ["html", "css"],
+  "links": {
+    "github": "https://github.com/goropak/steel-attache-site",
+    "live": null
+  },
+  "history": [
+    {"date": "2026-06-21", "version": "0.1", "note": "GitHub Pages 정적 사이트 착공"}
+  ]
+}
