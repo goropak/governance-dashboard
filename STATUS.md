@@ -1,4 +1,19 @@
-# STATUS
+# STATUS — governance-dashboard
+
+## 💡 Why (존재 이유)
+여러 도시가 지금 어디 있는지 3초 안에 파악하기 위해. 컨텍스트 스위칭 비용 없이 포트폴리오 전체를 조감하는 지휘센터.
+
+## 🎯 Destination (완성 모습)
+모든 도시의 Destination·Stage·최근 활동을 한 화면에서 보고, 각 도시 상세 페이지와 게시판으로 들어갈 수 있는 문명 포털. portfolio-northstar와 연동해 Stage 진행률까지 시각화.
+
+## 🗺️ Stages (여정 단계)
+> ✅ 완료 / ← 현재 / (대기)
+- Stage 1: 기본 대시보드 (도시 목록·상태 표시) ✅
+- Stage 2: 문명사 포털 v2 (타임라인·SVG 지도·도시 패널·상세 페이지) ✅
+- Stage 3: Giscus 게시판 (도시별 스레드) ← 현재
+- Stage 4: 실시간 Stage 진행률 표시 (Destination 도달)
+
+---
 
 **마지막 갱신**: 2026-06-29
 **갱신자**: 시장 (Claude Cowork)
