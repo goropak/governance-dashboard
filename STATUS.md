@@ -9,15 +9,20 @@
 
 ## Now
 
-v0.1 개발 중. 로컬에서 정상 동작, Vercel 배포 예정.
-지시 #2026-06-20-D 완료 — `📡 소통 가이드` 페이지(communication-guide.md fetch+렌더).
-지시 #2026-06-20-F 완료 — `참조 레이어` 섹션(president vault 카드 1개) + `/president-guide` 사용설명서 페이지(president-vault-guide.md fetch+렌더). 사람·역할 구획(대통령·보좌관·시장 카드)도 포함.
+v0.2 — 문명사 포털 Phase 1 완료 (지시 #2026-06-29-P). 로컬 정상 동작 확인.
+- 라이트테마 전면 교체 (steel-attache 토큰)
+- 상단 4시대 타임라인 (도시 점 hover/click)
+- SVG 추상 문명 지도 (9개 도시 마커, 시대 존)
+- 우측 도시 정보 패널 (클릭 시 상세)
+- 모바일 720px 카드 스트림
+- data/eras.json + data/cities/9개 JSON
+- guide.html / president-guide.html 회귀 없음
 push 승인 게이트 대기 중.
 
 ## Next
 
 다음에 손댈 것 (3개 이내, 우선순위 순):
-1. Vercel 배포 (github.com/goropak/governance-dashboard import)
-2. cities.md + communication-guide.md 자동 동기화 검토 (v0.2 — 빌드 스텝/CI에서 sync 스크립트 호출)
-3. 새 도시 추가 시 cityMeta 업데이트 가이드 정리
+1. Vercel 배포 (push 승인 후 — Phase 1 확인)
+2. 포털 Phase 2 — 도시 상세 페이지 `data/cities/<slug>.html` + build 스크립트
+3. 포털 Phase 3 — Giscus 게시판 per-city 스레드
 
