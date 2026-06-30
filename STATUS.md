@@ -24,23 +24,25 @@
 
 ## Now
 
-v0.3 — 문명사 포털 Phase 2 완료 (지시 #2026-06-29-P2). 로컬 정상 동작 확인.
+v0.4 — 포털 v3 AI 커뮤니티 허브 완료 (지시 #2026-06-29-P3 + #2026-06-30-V3). 로컬 정상 동작 확인.
 - 라이트테마 전면 교체 (steel-attache 토큰)
 - 상단 4시대 타임라인 (도시 점 hover/click)
 - SVG 추상 문명 지도 (9개 도시 마커, 시대 존)
 - 우측 도시 정보 패널 (클릭 시 상세)
 - 모바일 720px 카드 스트림
-- data/eras.json + data/cities/9개 JSON
-- data/cities/9개 MD (도시 본문) + scripts/build_cities.py
-- cities/9개 HTML (상세 페이지, ← 문명 지도로 링크, Giscus 자리)
-- 패널 "상세 페이지 →" 링크 활성화
-- guide.html / president-guide.html 회귀 없음
+- 다크 테마 기본값 + 라이트 토글 (localStorage 유지)
+- 탭 구조: 뉴스 / 쇼케이스 / 지도
+- 뉴스 탭: data/news.json fetch·렌더 (GitHub Actions 6h cron 자동 업데이트)
+- 쇼케이스 탭: 9개 도시 프로젝트 카드
+- 지도 탭: 기존 SVG 문명지도·타임라인·패널 (회귀 없음)
+- Giscus 위젯: cities/*.html 9개 도시별 독립 스레드
+- submit.html: Formspree 프로젝트 제출 폼
 push 승인 게이트 대기 중.
 
 ## Next
 
 다음에 손댈 것 (3개 이내, 우선순위 순):
 1. Vercel 배포 (push 승인 후)
-2. 포털 Phase 3 — Giscus 게시판 per-city 스레드
-3. 도시 JSON 데이터 정교화 (각 도시 실제 founded 날짜 검증)
+2. GitHub Actions fetch-news.yml 수동 트리거 → news.json 첫 데이터 확인
+3. 뉴스 썸네일 자동 추출 (v4 — og:image 파싱)
 
