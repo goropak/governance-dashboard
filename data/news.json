@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T08:55:43.412174+00:00",
+  "updated": "2026-06-30T13:54:27.031312+00:00",
   "items": [
     {
       "id": "8b215902",
@@ -24,11 +24,44 @@
       "type": "news"
     },
     {
-      "id": "237e7c87",
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "id": "ecf57bff",
+      "title": "The Download: AI “coworkers” and stratospheric internet",
+      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 30 Jun 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming ",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "76712e6d",
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 30 Jun 2026 12:00:00 +0000",
+      "desc": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, ",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "cdfa1091",
+      "title": "Building tech in the world’s secret R&D hub",
+      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 30 Jun 2026 10:23:30 +0000",
+      "desc": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "0f13ff90",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
       "source": "Hugging Face",
-      "date": "Tue, 23 Jun 2026 12:51:55 GMT",
+      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
       "desc": "",
       "thumb": "",
       "tags": [],
@@ -63,39 +96,6 @@
       "source": "MIT Tech Review",
       "date": "Mon, 29 Jun 2026 14:44:01 +0000",
       "desc": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount",
-      "thumb": "",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "664c8715",
-      "title": "The Download: metric weaknesses and AI elephant warnings",
-      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 29 Jun 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plent",
-      "thumb": "",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "9ae9fea2",
-      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 26 Jun 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are tr",
-      "thumb": "",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "e24e3fb0",
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 26 Jun 2026 09:00:00 +0000",
-      "desc": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather a",
       "thumb": "",
       "tags": [],
       "type": "news"
