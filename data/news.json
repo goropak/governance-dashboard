@@ -1,23 +1,34 @@
 {
-  "updated": "2026-06-30T13:54:27.031312+00:00",
+  "updated": "2026-06-30T19:30:44.185657+00:00",
   "items": [
     {
-      "id": "8b215902",
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "id": "9d697f00",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
       "source": "Hugging Face",
-      "date": "Wed, 24 Jun 2026 16:00:13 GMT",
+      "date": "Tue, 30 Jun 2026 18:32:50 GMT",
       "desc": "",
       "thumb": "",
       "tags": [],
       "type": "news"
     },
     {
-      "id": "8d09b4f6",
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "id": "790e3857",
+      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 30 Jun 2026 17:36:48 +0000",
+      "desc": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimenta",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "4a099067",
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
       "source": "Hugging Face",
-      "date": "Wed, 24 Jun 2026 00:00:00 GMT",
+      "date": "Tue, 30 Jun 2026 14:39:11 GMT",
       "desc": "",
       "thumb": "",
       "tags": [],
@@ -85,17 +96,6 @@
       "source": "MIT Tech Review",
       "date": "Mon, 29 Jun 2026 18:00:00 +0000",
       "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will r",
-      "thumb": "",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "90763c99",
-      "title": "Agent confidence on the technical frontier",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 29 Jun 2026 14:44:01 +0000",
-      "desc": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount",
       "thumb": "",
       "tags": [],
       "type": "news"
