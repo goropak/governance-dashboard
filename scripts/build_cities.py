@@ -80,7 +80,21 @@ TEMPLATE = """<!DOCTYPE html>
     <article class="city-body" id="body-content"></article>
     <section class="community" id="giscus-container">
       <h2>커뮤니티</h2>
-      <p class="coming-soon">게시판 준비 중 (Phase 3)</p>
+      <script src="https://giscus.app/client.js"
+        data-repo="goropak/governance-dashboard"
+        data-repo-id="R_kgDOSqIDDw"
+        data-category="General"
+        data-category-id="DIC_kwDOSqIDD84DAH8g"
+        data-mapping="specific"
+        data-term="{slug}"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="ko"
+        crossorigin="anonymous"
+        async>
+      </script>
     </section>
   </main>
   <script>
@@ -126,6 +140,7 @@ def build():
 
         html = TEMPLATE.format(
             name        = city['name'],
+            slug        = city['slug'],
             era_color   = ERA_COLORS.get(era_id, '#999'),
             era_name    = ERA_NAMES.get(era_id, era_id),
             tagline     = city.get('tagline', ''),
