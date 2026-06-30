@@ -1,1 +1,115 @@
-{"updated": "", "items": []}
+{
+  "updated": "2026-06-30T04:48:29.184402+00:00",
+  "items": [
+    {
+      "id": "8b215902",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "Hugging Face",
+      "date": "Wed, 24 Jun 2026 16:00:13 GMT",
+      "desc": "",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "8d09b4f6",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "source": "Hugging Face",
+      "date": "Wed, 24 Jun 2026 00:00:00 GMT",
+      "desc": "",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "237e7c87",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "source": "Hugging Face",
+      "date": "Tue, 23 Jun 2026 12:51:55 GMT",
+      "desc": "",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "7eccecbf",
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "source": "Hugging Face",
+      "date": "Mon, 29 Jun 2026 18:02:48 GMT",
+      "desc": "",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "70b9fae8",
+      "title": "AI agents are not your “coworkers”",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 29 Jun 2026 18:00:00 +0000",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will r",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "90763c99",
+      "title": "Agent confidence on the technical frontier",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 29 Jun 2026 14:44:01 +0000",
+      "desc": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "664c8715",
+      "title": "The Download: metric weaknesses and AI elephant warnings",
+      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 29 Jun 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plent",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "9ae9fea2",
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 26 Jun 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are tr",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e24e3fb0",
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 26 Jun 2026 09:00:00 +0000",
+      "desc": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather a",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "61fe0e42",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "source": "Hugging Face",
+      "date": "Fri, 26 Jun 2026 00:00:00 GMT",
+      "desc": "",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    }
+  ]
+}
