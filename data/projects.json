@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "id": "governance-dashboard",
+      "title": "거버넌스 대시보드",
+      "desc": "4역 모델(대통령·연구원·보좌관·시장)로 운영되는 AI 국가 거버넌스 포털",
+      "url": "cities/governance-dashboard.html",
+      "thumb": "",
+      "author": "goropak",
+      "tags": ["거버넌스", "대시보드", "AI운영"],
+      "stack": ["HTML", "CSS", "JS", "Vercel"],
+      "likes": 0,
+      "date": "2026-06-29",
+      "type": "project"
+    },
+    {
+      "id": "simsteel",
+      "title": "SimSteel",
+      "desc": "SimCity 스타일 5m 격자 기반 제철소 부지 레이아웃 시뮬레이터",
+      "url": "cities/simsteel.html",
+      "thumb": "",
+      "author": "goropak",
+      "tags": ["시뮬레이터", "제철소", "레이아웃"],
+      "stack": ["React", "Vite", "Phaser3", "Supabase"],
+      "likes": 0,
+      "date": "2026-06-12",
+      "type": "project"
+    },
+    {
+      "id": "telegram-gate",
+      "title": "텔레그램 게이트",
+      "desc": "핸드폰 텔레그램으로 거버넌스 git push를 원격 승인·완결하는 봇",
+      "url": "cities/telegram-gate.html",
+      "thumb": "",
+      "author": "goropak",
+      "tags": ["자동화", "텔레그램", "CI/CD"],
+      "stack": ["Python", "Telegram Bot API"],
+      "likes": 0,
+      "date": "2026-06-04",
+      "type": "project"
+    },
+    {
+      "id": "health-assistant",
+      "title": "헬스 어시스턴트",
+      "desc": "혈압·혈당·체중 등 건강 지표 기록 + Claude Haiku AI 해석 주치의",
+      "url": "cities/health-assistant.html",
+      "thumb": "",
+      "author": "goropak",
+      "tags": ["헬스", "AI", "건강관리"],
+      "stack": ["Next.js", "Supabase", "Claude API", "Vercel"],
+      "likes": 0,
+      "date": "2026-06-21",
+      "type": "project"
+    },
+    {
+      "id": "quanttrader",
+      "title": "퀀트 트레이더",
+      "desc": "Freqtrade 기반 전략 플러그인 자동매매 — 백테스트→페이퍼→실거래 검증 파이프라인",
+      "url": "cities/quanttrader.html",
+      "thumb": "",
+      "author": "goropak",
+      "tags": ["퀀트", "자동매매", "Freqtrade"],
+      "stack": ["Python", "Freqtrade"],
+      "likes": 0,
+      "date": "2026-06-14",
+      "type": "project"
+    },
+    {
+      "id": "steel-attache",
+      "title": "철강 주재원",
+      "desc": "포스코 관점 세계 철강 시장 분석 블로그 — 1차 자료 기반 주간 브리핑",
+      "url": "cities/steel-attache.html",
+      "thumb": "",
+      "author": "goropak",
+      "tags": ["철강", "분석", "블로그"],
+      "stack": ["HTML", "CSS", "GitHub Pages"],
+      "likes": 0,
+      "date": "2026-06-21",
+      "type": "project"
+    },
+    {
+      "id": "orchestrator",
+      "title": "오케스트레이터",
+      "desc": "보좌관↔시장 거버넌스 루프를 무인 자동으로 완결하는 메타 레이어",
+      "url": "cities/orchestrator.html",
+      "thumb": "",
+      "author": "goropak",
+      "tags": ["자동화", "오케스트레이터", "AI에이전트"],
+      "stack": ["Python", "Claude API"],
+      "likes": 0,
+      "date": "2026-06-28",
+      "type": "project"
+    },
+    {
+      "id": "boot-pack",
+      "title": "Boot Pack",
+      "desc": "거버넌스 핵심 문서를 클립보드로 복사해 새 세션을 즉시 부팅하는 Python 스크립트",
+      "url": "cities/boot-pack.html",
+      "thumb": "",
+      "author": "goropak",
+      "tags": ["부팅", "자동화", "거버넌스"],
+      "stack": ["Python", "Bash"],
+      "likes": 0,
+      "date": "2025-01-01",
+      "type": "project"
+    },
+    {
+      "id": "demo-city",
+      "title": "데모 시티",
+      "desc": "보좌관↔시장 메일박스 + 텔레그램 승인 루프 end-to-end 실연 샌드박스",
+      "url": "cities/demo-city.html",
+      "thumb": "",
+      "author": "goropak",
+      "tags": ["데모", "거버넌스", "루프"],
+      "stack": ["Shell"],
+      "likes": 0,
+      "date": "2026-06-10",
+      "type": "project"
+    }
+  ]
+}

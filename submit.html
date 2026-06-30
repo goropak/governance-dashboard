@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>프로젝트 제출 — 거버넌스 포털</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+  <script>
+    (function() {
+      const t = localStorage.getItem('theme') || 'dark';
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+  <style>
+    .submit-wrap { max-width: 600px; margin: 48px auto; padding: 0 24px 64px; }
+    .submit-wrap h1 { font-family: var(--font-head); font-size: 24px; margin-bottom: 8px; }
+    .submit-wrap p { color: var(--c-text-muted); margin-bottom: 32px; }
+    .form-group { margin-bottom: 18px; }
+    label { display: block; font-size: 13px; font-weight: 600; margin-bottom: 6px; color: var(--c-text-muted); }
+    input, textarea {
+      width: 100%; padding: 10px 12px;
+      background: var(--bg-card); color: var(--c-text);
+      border: 1px solid var(--c-border); border-radius: var(--radius);
+      font-size: 14px; font-family: var(--font-body);
+    }
+    input:focus, textarea:focus { outline: 2px solid var(--c-accent); border-color: transparent; }
+    textarea { min-height: 80px; resize: vertical; }
+    .btn-submit {
+      background: var(--c-accent); color: #fff;
+      border: none; border-radius: var(--radius);
+      padding: 12px 28px; font-size: 15px; font-weight: 600;
+      cursor: pointer; width: 100%;
+    }
+    .btn-submit:hover { background: var(--c-accent-hover); }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" style="font-size:13px;color:var(--c-text-muted)">← 포털로</a>
+      <span class="site-title">거버넌스 포털</span>
+      <button id="theme-toggle" aria-label="테마 전환" style="background:none;border:none;cursor:pointer;font-size:18px"></button>
+    </div>
+  </header>
+  <div class="submit-wrap">
+    <h1>프로젝트 제출</h1>
+    <p>AI 관련 프로젝트를 쇼케이스에 등록하세요. 검토 후 반영됩니다.</p>
+    <form action="https://formspree.io/f/xojonjed" method="POST">
+      <div class="form-group">
+        <label for="title">프로젝트 이름 *</label>
+        <input id="title" name="title" placeholder="프로젝트 이름" required>
+      </div>
+      <div class="form-group">
+        <label for="url">데모 / GitHub URL *</label>
+        <input id="url" name="url" type="url" placeholder="https://..." required>
+      </div>
+      <div class="form-group">
+        <label for="desc">한 줄 설명 (200자 이내) *</label>
+        <textarea id="desc" name="desc" maxlength="200" required></textarea>
+      </div>
+      <div class="form-group">
+        <label for="author">GitHub 핸들 *</label>
+        <input id="author" name="author" placeholder="goropak" required>
+      </div>
+      <div class="form-group">
+        <label for="stack">기술 스택 (쉼표 구분)</label>
+        <input id="stack" name="stack" placeholder="Python, React, Vercel">
+      </div>
+      <div class="form-group">
+        <label for="thumb_url">스크린샷 URL (선택)</label>
+        <input id="thumb_url" name="thumb_url" type="url" placeholder="https://...">
+      </div>
+      <button type="submit" class="btn-submit">제출하기</button>
+    </form>
+  </div>
+  <script type="module">
+    import { initTheme } from './js/theme.js';
+    initTheme();
+  </script>
+</body>
+</html>

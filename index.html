@@ -3,9 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>거버넌스 포털 — 문명사</title>
+  <title>거버넌스 포털 — AI 커뮤니티 허브</title>
   <link rel="stylesheet" href="style.css">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+  <!-- 테마 FOUC 방지 (DOMContentLoaded 전에 실행) -->
+  <script>
+    (function() {
+      const t = localStorage.getItem('theme') || 'dark';
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
 </head>
 <body>
   <header class="site-header">
@@ -14,29 +21,94 @@
       <nav>
         <a href="guide.html">소통 가이드</a>
         <a href="president-guide.html">대통령 Vault</a>
+        <a href="submit.html">프로젝트 제출</a>
       </nav>
+      <button id="theme-toggle" aria-label="테마 전환">🌙</button>
     </div>
   </header>
 
-  <nav class="era-timeline" id="timeline" aria-label="시대 타임라인"></nav>
+  <!-- 탭 네비게이션 -->
+  <nav class="tab-nav" role="tablist">
+    <button class="tab-btn is-active" role="tab" data-tab="news">📰 뉴스</button>
+    <button class="tab-btn" role="tab" data-tab="showcase">🛠 쇼케이스</button>
+    <button class="tab-btn" role="tab" data-tab="map">🗺 지도</button>
+  </nav>
 
-  <main class="portal-layout">
-    <section class="map-area" aria-label="문명 지도">
-      <svg id="map" width="100%" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg"></svg>
-    </section>
-    <aside class="info-panel" id="panel" aria-label="도시 정보"></aside>
-  </main>
+  <!-- 검색창 -->
+  <div class="search-wrap">
+    <input id="search-input" type="search" placeholder="프로젝트·뉴스 검색…" aria-label="검색">
+  </div>
 
-  <section class="mobile-cards" id="cards" aria-label="도시 목록"></section>
+  <!-- 탭: 뉴스 -->
+  <div class="tab-panel is-active" id="tab-news" role="tabpanel">
+    <div class="card-grid" id="news-grid"></div>
+  </div>
+
+  <!-- 탭: 쇼케이스 -->
+  <div class="tab-panel" id="tab-showcase" role="tabpanel">
+    <div class="card-grid" id="showcase-grid"></div>
+  </div>
+
+  <!-- 탭: 지도 -->
+  <div class="tab-panel" id="tab-map" role="tabpanel">
+    <nav class="era-timeline" id="timeline" aria-label="시대 타임라인"></nav>
+    <main class="portal-layout">
+      <section class="map-area" aria-label="문명 지도">
+        <svg id="map" width="100%" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg"></svg>
+      </section>
+      <aside class="info-panel" id="panel" aria-label="도시 정보"></aside>
+    </main>
+    <section class="mobile-cards" id="cards" aria-label="도시 목록"></section>
+  </div>
 
   <footer class="site-footer">
     <p>거버넌스 국가 — 시대를 기록하다</p>
   </footer>
 
-  <script type="module" src="js/data.js"></script>
-  <script type="module" src="js/timeline.js"></script>
-  <script type="module" src="js/map.js"></script>
-  <script type="module" src="js/panel.js"></script>
-  <script type="module" src="js/cards.js"></script>
+  <!-- ES Module 로딩 -->
+  <script type="module">
+    import { initTheme } from './js/theme.js';
+    import { loadNews }    from './js/news.js';
+    import { loadProjects } from './js/cards-v3.js';
+
+    initTheme();
+
+    // 탭 전환
+    const tabs = document.querySelectorAll('.tab-btn');
+    const panels = document.querySelectorAll('.tab-panel');
+    let mapLoaded = false;
+
+    tabs.forEach(btn => {
+      btn.addEventListener('click', () => {
+        tabs.forEach(b => b.classList.remove('is-active'));
+        panels.forEach(p => p.classList.remove('is-active'));
+        btn.classList.add('is-active');
+        document.getElementById('tab-' + btn.dataset.tab).classList.add('is-active');
+
+        // 지도 탭 첫 진입 시 지도 모듈 로딩
+        if (btn.dataset.tab === 'map' && !mapLoaded) {
+          mapLoaded = true;
+          import('./js/data.js');
+          import('./js/timeline.js');
+          import('./js/map.js');
+          import('./js/panel.js');
+          import('./js/cards.js');
+        }
+      });
+    });
+
+    // 뉴스·쇼케이스 즉시 로딩
+    loadNews(document.getElementById('news-grid'));
+    loadProjects(document.getElementById('showcase-grid'));
+
+    // 검색 (카드 title/desc 필터)
+    document.getElementById('search-input').addEventListener('input', e => {
+      const q = e.target.value.toLowerCase();
+      document.querySelectorAll('.card').forEach(card => {
+        const text = card.textContent.toLowerCase();
+        card.style.display = q === '' || text.includes(q) ? '' : 'none';
+      });
+    });
+  </script>
 </body>
 </html>
