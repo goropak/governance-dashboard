@@ -19,11 +19,14 @@
     <div class="header-inner">
       <span class="site-title">거버넌스 포털</span>
       <nav>
-        <a href="guide.html">소통 가이드</a>
-        <a href="president-guide.html">대통령 Vault</a>
+        <a href="communication-guide.html">소통 가이드</a>
+        <a href="vault.html">대통령 Vault</a>
         <a href="submit.html">프로젝트 제출</a>
       </nav>
-      <button id="theme-toggle" aria-label="테마 전환">🌙</button>
+      <div style="display:flex;gap:8px">
+        <button id="lang-toggle" aria-label="언어 전환">KO</button>
+        <button id="theme-toggle" aria-label="테마 전환">🌙</button>
+      </div>
     </div>
   </header>
 
@@ -32,6 +35,7 @@
     <button class="tab-btn is-active" role="tab" data-tab="news">📰 뉴스</button>
     <button class="tab-btn" role="tab" data-tab="showcase">🛠 쇼케이스</button>
     <button class="tab-btn" role="tab" data-tab="map">🗺 지도</button>
+    <button class="tab-btn" role="tab" data-tab="community">💬 커뮤니티</button>
   </nav>
 
   <!-- 검색창 -->
@@ -61,6 +65,51 @@
     <section class="mobile-cards" id="cards" aria-label="도시 목록"></section>
   </div>
 
+  <!-- 탭: 커뮤니티 -->
+  <div class="tab-panel" id="tab-community" role="tabpanel">
+    <div class="community-layout">
+      <div class="sub-tab-nav">
+        <button class="sub-tab-btn is-active" data-subtab="general">전체 토론</button>
+        <button class="sub-tab-btn" data-subtab="cities">도시별</button>
+      </div>
+      <div id="subtab-general" class="sub-tab-panel">
+        <script src="https://giscus.app/client.js"
+          data-repo="goropak/governance-dashboard"
+          data-repo-id="R_kgDOSqIDDw"
+          data-category="General"
+          data-category-id="DIC_kwDOSqIDD84DAH8g"
+          data-mapping="specific"
+          data-term="community-general"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="top"
+          data-theme="dark"
+          data-lang="ko"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </div>
+      <div id="subtab-cities" class="sub-tab-panel" hidden>
+        <p style="margin-bottom:1rem;color:var(--c-text-muted)">도시를 선택하면 해당 도시의 게시판으로 이동합니다.</p>
+        <div style="display:flex;gap:8px;align-items:center">
+          <select id="city-select" class="city-select">
+            <option value="">— 도시 선택 —</option>
+            <option value="cities/governance-dashboard.html">거버넌스 대시보드</option>
+            <option value="cities/simsteel.html">SimSteel</option>
+            <option value="cities/quanttrader.html">퀀트 트레이더</option>
+            <option value="cities/health-assistant.html">헬스 어시스턴트</option>
+            <option value="cities/telegram-gate.html">텔레그램 게이트</option>
+            <option value="cities/boot-pack.html">Boot Pack</option>
+            <option value="cities/orchestrator.html">오케스트레이터</option>
+            <option value="cities/steel-attache.html">철강 주재원</option>
+            <option value="cities/demo-city.html">데모 시티</option>
+          </select>
+          <button class="btn-go" onclick="const v=document.getElementById('city-select').value; if(v) location.href=v;">게시판 열기 →</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <footer class="site-footer">
     <p>거버넌스 국가 — 시대를 기록하다</p>
   </footer>
@@ -68,10 +117,18 @@
   <!-- ES Module 로딩 -->
   <script type="module">
     import { initTheme } from './js/theme.js';
-    import { loadNews }    from './js/news.js';
+    import { loadNews, rerenderNews } from './js/news.js';
     import { loadProjects } from './js/cards-v3.js';
+    import { initLang, toggleLang } from './js/lang.js';
+    import { initCommunity } from './js/community.js';
 
     initTheme();
+    initLang();
+    initCommunity();
+
+    document.getElementById('lang-toggle').addEventListener('click', () => {
+      toggleLang(rerenderNews);
+    });
 
     // 탭 전환
     const tabs = document.querySelectorAll('.tab-btn');
@@ -85,7 +142,6 @@
         btn.classList.add('is-active');
         document.getElementById('tab-' + btn.dataset.tab).classList.add('is-active');
 
-        // 지도 탭 첫 진입 시 지도 모듈 로딩
         if (btn.dataset.tab === 'map' && !mapLoaded) {
           mapLoaded = true;
           import('./js/data.js');

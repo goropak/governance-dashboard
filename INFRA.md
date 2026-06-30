@@ -1,8 +1,8 @@
 # INFRA
 
 ## 배포
-- **Host**: Vercel (예정)
-- **URL**: (배포 후 기입)
+- **Host**: Vercel
+- **URL**: https://governance-dashboard-921y.vercel.app
 - **자동배포 조건**: main 브랜치 push
 
 ## DB
@@ -19,8 +19,8 @@
 - ⚠️ 비밀값 없음 — 헌법 제0조 준수
 
 ## 도메인 / DNS
-- **Provider**: (배포 후 기입)
-- **Domain**: (배포 후 기입)
+- **Provider**: Vercel
+- **Domain**: governance-dashboard-921y.vercel.app
 
 ## 모니터링
 - 없음 (정적 사이트)

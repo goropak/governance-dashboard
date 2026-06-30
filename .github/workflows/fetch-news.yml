@@ -11,7 +11,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install feedparser
+      - run: pip install feedparser deep-translator
       - run: python scripts/fetch_news.py
       - name: Commit news
         run: |

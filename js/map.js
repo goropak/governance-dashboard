@@ -87,4 +87,6 @@ document.addEventListener('data:ready', () => {
       circle.setAttribute('stroke-width', isActive ? '3' : '1.5');
     });
   });
+
+  if (cities.length > 0) Store.setActive(cities[0].slug);
 });

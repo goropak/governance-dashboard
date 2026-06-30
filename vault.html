@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>대통령 Vault — 거버넌스 포털</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+  <script>
+    (function() {
+      const t = localStorage.getItem('theme') || 'dark';
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" style="font-size:13px;color:var(--c-text-muted)">← 포털로</a>
+      <span class="site-title">거버넌스 포털</span>
+      <button id="theme-toggle" aria-label="테마 전환"></button>
+    </div>
+  </header>
+  <main style="max-width:480px;margin:6rem auto;padding:0 1.5rem;text-align:center">
+    <p style="font-size:3rem;margin-bottom:1rem">🔒</p>
+    <h1 style="font-family:var(--font-head);font-size:24px;margin-bottom:1rem">접근 제한</h1>
+    <p style="color:var(--c-text-muted);margin-bottom:2rem">이 페이지는 내부 운영자 전용입니다.</p>
+    <a href="index.html" style="color:var(--c-accent)">← 포털로 돌아가기</a>
+  </main>
+  <script type="module">
+    import { initTheme } from './js/theme.js';
+    initTheme();
+  </script>
+</body>
+</html>

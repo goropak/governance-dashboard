@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>소통 가이드 — 거버넌스 포털</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+  <script>
+    (function() {
+      const t = localStorage.getItem('theme') || 'dark';
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" style="font-size:13px;color:var(--c-text-muted)">← 포털로</a>
+      <span class="site-title">거버넌스 포털</span>
+      <button id="theme-toggle" aria-label="테마 전환"></button>
+    </div>
+  </header>
+  <main style="max-width:680px;margin:4rem auto;padding:0 1.5rem 4rem">
+    <h1 style="font-family:var(--font-head);font-size:28px;margin-bottom:1rem">소통 가이드</h1>
+    <p style="color:var(--c-text-muted);margin-bottom:2rem">거버넌스 포털과 소통하는 방법을 안내합니다.</p>
+
+    <h2 style="font-family:var(--font-head);font-size:18px;margin-bottom:0.75rem">💬 도시 게시판</h2>
+    <p style="margin-bottom:1.5rem">각 도시 페이지 하단 <strong>Giscus 게시판</strong>에서 GitHub 계정으로 댓글을 남길 수 있습니다. 도시별 페이지는 <a href="index.html">포털 쇼케이스 탭</a>에서 접근하세요.</p>
+
+    <h2 style="font-family:var(--font-head);font-size:18px;margin-bottom:0.75rem">🛠 프로젝트 제출</h2>
+    <p style="margin-bottom:1.5rem">새 AI 프로젝트를 쇼케이스에 등록하려면 <a href="submit.html">프로젝트 제출 폼</a>을 이용하세요. 검토 후 반영됩니다.</p>
+
+    <h2 style="font-family:var(--font-head);font-size:18px;margin-bottom:0.75rem">📢 전체 토론</h2>
+    <p style="margin-bottom:1.5rem">운영 전반에 관한 의견은 포털 커뮤니티 탭의 <strong>전체 토론</strong> 게시판을 이용하거나, GitHub Discussions → General 카테고리에 남겨주세요.</p>
+  </main>
+  <script type="module">
+    import { initTheme } from './js/theme.js';
+    initTheme();
+  </script>
+</body>
+</html>
