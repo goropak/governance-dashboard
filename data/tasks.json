@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-07-01T23:04:50+00:00",
+  "pending": [],
+  "recent_done": [
+    {
+      "id": "test-001",
+      "city": "governance-dashboard",
+      "requester": "미확인",
+      "requested_at": "",
+      "title": "",
+      "status": "완료"
+    },
+    {
+      "id": "2026-06-30-title-thumb-fix",
+      "city": "steel-attache",
+      "requester": "미확인",
+      "requested_at": "2026-06-30",
+      "title": "승인 요청: 시리즈 제목 + 썸네일 수정",
+      "status": "완료"
+    },
+    {
+      "id": "2026-06-30-thumb-cover-fix",
+      "city": "steel-attache",
+      "requester": "미확인",
+      "requested_at": "2026-06-30",
+      "title": "승인 요청: 썸네일 SVG cover 채움 수정",
+      "status": "완료"
+    },
+    {
+      "id": "2026-06-30-qt-site-v3",
+      "city": "quanttrader",
+      "requester": "시장 (quanttrader 단독 세션, 2026-06-30)",
+      "requested_at": "2026-06-30",
+      "title": "Approval 요청: quanttrader 콘솔 v3 (Vercel Function 구간 재계산) push (#2026-06-30-QS3)",
+      "status": "완료"
+    },
+    {
+      "id": "2026-06-30-qt-site-v2",
+      "city": "quanttrader",
+      "requester": "시장 (quanttrader 단독 세션, 2026-06-30)",
+      "requested_at": "2026-06-30",
+      "title": "Approval 요청: quanttrader 콘솔 v2 차트 고도화 push (#2026-06-30-QS2)",
+      "status": "완료"
+    },
+    {
+      "id": "2026-06-30-push-now",
+      "city": "steel-attache",
+      "requester": "미확인",
+      "requested_at": "2026-06-30",
+      "title": "승인 요청: 지금 바로 push",
+      "status": "완료"
+    },
+    {
+      "id": "2026-06-30-japan-steel-series",
+      "city": "steel-attache",
+      "requester": "미확인",
+      "requested_at": "2026-06-30",
+      "title": "승인 요청: 철의 제국 크로니클 6부작 배포",
+      "status": "완료"
+    },
+    {
+      "id": "2026-06-30-japan-steel-final",
+      "city": "steel-attache",
+      "requester": "미확인",
+      "requested_at": "2026-06-30",
+      "title": "승인 요청: 철의 제국 크로니클 6부작 + 홈 로직 수정",
+      "status": "완료"
+    },
+    {
+      "id": "2026-06-30-hero-fix",
+      "city": "steel-attache",
+      "requester": "미확인",
+      "requested_at": "2026-06-30",
+      "title": "승인 요청: 히어로 글 교체 + home.js 자동화",
+      "status": "완료"
+    },
+    {
+      "id": "2026-06-30-governance-vercel-deploy",
+      "city": "quanttrader",
+      "requester": "미확인",
+      "requested_at": "2026-06-30",
+      "title": "Approval — Vercel 배포 완료 기록 커밋",
+      "status": "완료"
+    }
+  ]
+}

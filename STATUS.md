@@ -24,7 +24,14 @@
 
 ## Now
 
-v0.5 — 포털 v4 완료 (지시 #2026-06-30-V4). push 승인 대기 중.
+v0.6 — 5번째 탭 "📋 업무" 완료 (지시 #2026-07-02-A). push 승인 대기 중.
+- scripts/build_tasks.py: approvals/ 큐 파싱 → data/tasks.json (stdlib만, 로컬 수동 실행)
+- 0조 부칙 방어: 명령 섹션 미파싱 + /Users/ 패턴 출력 전 자체검사 (위반 시 저장 중단)
+- js/tasks.js: 대기(오래된 순·N일째 뱃지) + 최근 처리 10건(✅/❌)
+- 빈 큐 graceful 처리, 모바일 375px 5탭 정상, 기존 4탭 회귀 없음
+- ⚠️ v4 커밋이 origin 미반영 상태였음(approval 완료 표기와 불일치) — 이번 push에 함께 실림
+
+이전 v0.5 — 포털 v4 완료 (지시 #2026-06-30-V4).
 - 네비게이션 링크 수정: communication-guide.html / vault.html / submit.html
 - 쇼케이스 카드 → cities/[slug].html 클릭 연결 + 💬 게시판 배지
 - 카드 고정높이 380px + 썸네일 180px + 설명 2줄 clamp + 태그 +N
