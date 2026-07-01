@@ -1,6 +1,17 @@
 {
-  "updated": "2026-06-30T19:30:44.185657+00:00",
+  "updated": "2026-07-01T02:30:35.364729+00:00",
   "items": [
+    {
+      "id": "78c50124",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 30 Jun 2026 21:50:04 +0000",
+      "desc": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "9d697f00",
       "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
@@ -85,17 +96,6 @@
       "source": "Hugging Face",
       "date": "Mon, 29 Jun 2026 18:02:48 GMT",
       "desc": "",
-      "thumb": "",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "70b9fae8",
-      "title": "AI agents are not your “coworkers”",
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 29 Jun 2026 18:00:00 +0000",
-      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will r",
       "thumb": "",
       "tags": [],
       "type": "news"
