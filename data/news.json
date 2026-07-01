@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-01T14:10:38.495436+00:00",
+  "updated": "2026-07-01T19:29:03.672915+00:00",
   "items": [
+    {
+      "id": "b7a1a19f",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 01 Jul 2026 14:35:16 +0000",
+      "desc": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "714a5dcd",
       "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
@@ -8,6 +19,17 @@
       "source": "MIT Tech Review",
       "date": "Wed, 01 Jul 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship prod",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "11d5ccf1",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face",
+      "date": "Wed, 01 Jul 2026 00:00:00 GMT",
+      "desc": "",
       "thumb": "",
       "tags": [],
       "type": "news"
@@ -68,17 +90,6 @@
       "type": "news"
     },
     {
-      "id": "76712e6d",
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 30 Jun 2026 12:00:00 +0000",
-      "desc": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, ",
-      "thumb": "",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "0f13ff90",
       "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
       "url": "https://huggingface.co/blog/eee-community-evals",
@@ -95,17 +106,6 @@
       "url": "https://huggingface.co/blog/allenai/discoformer",
       "source": "Hugging Face",
       "date": "Mon, 29 Jun 2026 18:02:48 GMT",
-      "desc": "",
-      "thumb": "",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "61fe0e42",
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "source": "Hugging Face",
-      "date": "Fri, 26 Jun 2026 00:00:00 GMT",
       "desc": "",
       "thumb": "",
       "tags": [],
