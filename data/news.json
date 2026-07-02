@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T08:41:36.817342+00:00",
+  "updated": "2026-07-02T13:28:46.116363+00:00",
   "items": [
     {
       "id": "b7a1a19f",
@@ -54,19 +54,6 @@
       "type": "news"
     },
     {
-      "id": "78c50124",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "title_ko": "Claude Science는 Anthropic의 최신 주력 제품입니다.",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 30 Jun 2026 21:50:04 +0000",
-      "desc": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way",
-      "desc_ko": "화요일 제약회사 경영진, 생명공학 창업자, 연구원들을 위한 행사에서 앤트로픽(Anthropic)은 동일한 방식으로 과학 연구를 지원하기 위한 주요 신제품인 클로드 사이언스(Claude Science)를 발표했습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/claude-science3a.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "9d697f00",
       "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
       "title_ko": "ScarfBench: Enterprise Java Framework 마이그레이션을 위한 AI 에이전트 벤치마킹",
@@ -80,19 +67,6 @@
       "type": "news"
     },
     {
-      "id": "790e3857",
-      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-      "title_ko": "원탁 회의: 장수의 다음 개척지: 신체를 \"재프로그래밍\"",
-      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 30 Jun 2026 17:36:48 +0000",
-      "desc": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimenta",
-      "desc_ko": "세션을 듣거나 아래를 시청하세요. 과학자들이 세포를 더 젊은 상태로 되돌리는 방법을 모색함에 따라 노화를 되돌리려는 노력에 수십억 달러가 쏟아지고 있습니다. 하지만 이 실험은 얼마나 멀리 떨어져 있나요?",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/thumbnail-Test.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "4a099067",
       "title": "Why Specialization Is Inevitable",
       "title_ko": "전문화가 불가피한 이유",
@@ -102,19 +76,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/Av4v9_l94sEUj-etRFOLb.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "ecf57bff",
-      "title": "The Download: AI “coworkers” and stratospheric internet",
-      "title_ko": "다운로드: AI “동료”와 성층권 인터넷",
-      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 30 Jun 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming ",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. AI 에이전트는 \"동료\"가 아닙니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260625_AIAgents.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -154,6 +115,45 @@
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
       "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "76da70e4",
+      "title": "Teaching AI to run with the turbines",
+      "title_ko": "AI에게 터빈과 함께 작동하도록 가르치기",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 02 Jul 2026 12:51:44 +0000",
+      "desc": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in",
+      "desc_ko": "인공지능은 챗봇과 이미지 생성기를 통해 대중의 상상을 사로잡았을지 모르지만, 인공지능의 가장 중요한 사용 사례 중 일부는 소비자 대면 도구와는 거리가 먼 곳에서 전개되고 있습니다. 에",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Andrew-Melouney.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "0c578b2b",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "title_ko": "다운로드: 스타트업은 AI의 집단 사고 문제에 대한 솔루션을 가지고 있습니다.",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 02 Jul 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startu",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. LLM은 집단 사고의 틀에 갇혀 있습니다. 이번 스타트",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "bc904098",
+      "title": "Why California’s carbon manure math doesn’t add up",
+      "title_ko": "캘리포니아의 탄소 비료 수학이 합산되지 않는 이유",
+      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 02 Jul 2026 09:00:00 +0000",
+      "desc": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, enc",
+      "desc_ko": "캘리포니아의 기후 정책에는 뭔가 악취가 납니다. 몇 년 전, 주정부는 소똥에서 배출되는 메탄을 천연가스로 전환하기 위해 전국의 가축 사육자들에게 비용을 지불하는 시스템을 구축했습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260624_spark_cows.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
