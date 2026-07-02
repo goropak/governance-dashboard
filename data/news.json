@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T13:28:46.116363+00:00",
+  "updated": "2026-07-02T19:08:46.555879+00:00",
   "items": [
     {
       "id": "b7a1a19f",
@@ -9,21 +9,8 @@
       "source": "MIT Tech Review",
       "date": "Wed, 01 Jul 2026 14:35:16 +0000",
       "desc": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll",
-      "desc_ko": "게임부터 시작해 보겠습니다. Claude, ChatGPT, Gemini 등 원하는 챗봇을 열고 \"1에서 10 사이의 임의의 숫자를 알려주세요.\"라고 입력하세요. 당신은 7을 얻게 될 것입니다. 거의 항상. 이제 \"Another\"를 입력하면",
+      "desc_ko": "게임부터 시작해 보겠습니다. 원하는 챗봇(Claude, ChatGPT, Gemini)을 열고 \"1에서 10 사이의 임의의 숫자를 알려주세요.\"라고 입력하세요. 당신은 7을 얻게 될 것입니다. 거의 항상. 이제 \"Another\"를 입력하면",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "714a5dcd",
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "title_ko": "다운로드: Anthropic, Claude Science 및 캘리포니아의 탄소 비료 수학 출시",
-      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 01 Jul 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship prod",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. Claude Science는 Anthropic의 최신 주력 제품입니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/claude-science3a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -113,8 +100,21 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "47a875dd",
+      "title": "Achieving operational excellence with AI",
+      "title_ko": "AI로 운영 우수성 달성",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 02 Jul 2026 15:37:08 +0000",
+      "desc": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Le",
+      "desc_ko": "린 식스 시그마(Lean Six Sigma) 및 비즈니스 프로세스 관리(BPM)와 같은 프레임워크는 혼돈 속에서의 명확성, 즉 지저분하고 무분별하게 퍼져 있는 운영에 질서를 부여하는 구조화된 방법을 약속했기 때문에 처음에 주목을 받았습니다. 르",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -126,7 +126,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 02 Jul 2026 12:51:44 +0000",
       "desc": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in",
-      "desc_ko": "인공지능은 챗봇과 이미지 생성기를 통해 대중의 상상을 사로잡았을지 모르지만, 인공지능의 가장 중요한 사용 사례 중 일부는 소비자 대면 도구와는 거리가 먼 곳에서 전개되고 있습니다. 에",
+      "desc_ko": "인공지능은 챗봇과 이미지 생성기를 통해 대중의 상상을 사로잡았을지 모르지만, 인공지능의 가장 중요한 사용 사례 중 일부는 소비자 대면 도구와는 거리가 먼 곳에서 전개되고 있습니다. 안으로",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Andrew-Melouney.png?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -165,7 +165,7 @@
       "source": "BAIR",
       "date": "Sat, 10 Jan 2026 01:00:00 -0800",
       "desc": "<!--\nThese are comments in HTML. The above header text is needed to format the\ntitle, authors, etc. The \"information-driven-imaging\" is the representative image\nthat we use for each post for tweeting ",
-      "desc_ko": "<!--\n이는 HTML의 주석입니다. 위의 헤더 텍스트는 형식을 지정하는 데 필요합니다.\n제목, 작가 등 '정보주도영상'이 대표 이미지입니다.\n트윗을 위한 각 게시물에 사용하는",
+      "desc_ko": "<!--\n이는 HTML의 주석입니다. 위의 헤더 텍스트는 형식을 지정하는 데 필요합니다.\n제목, 저자 등 '정보주도영상'이 대표 이미지입니다.\n트윗을 위한 각 게시물에 사용하는",
       "thumb": "https://bair.berkeley.edu/static/blog/information-driven-imaging/info_estimation_overview.png",
       "tags": [],
       "type": "news"
