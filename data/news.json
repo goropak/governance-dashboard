@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T02:10:36.427963+00:00",
+  "updated": "2026-07-02T08:41:36.817342+00:00",
   "items": [
     {
       "id": "b7a1a19f",
@@ -9,7 +9,7 @@
       "source": "MIT Tech Review",
       "date": "Wed, 01 Jul 2026 14:35:16 +0000",
       "desc": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll",
-      "desc_ko": "게임부터 시작해 보겠습니다. 원하는 챗봇(Claude, ChatGPT, Gemini)을 열고 \"1에서 10 사이의 임의의 숫자를 알려주세요.\"라고 입력하세요. 당신은 7을 얻게 될 것입니다. 거의 항상. 이제 \"Another\"를 입력하면",
+      "desc_ko": "게임부터 시작해 보겠습니다. Claude, ChatGPT, Gemini 등 원하는 챗봇을 열고 \"1에서 10 사이의 임의의 숫자를 알려주세요.\"라고 입력하세요. 당신은 7을 얻게 될 것입니다. 거의 항상. 이제 \"Another\"를 입력하면",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -82,7 +82,7 @@
     {
       "id": "790e3857",
       "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-      "title_ko": "원탁회의: 장수의 다음 개척지: 신체를 \"재프로그래밍\"",
+      "title_ko": "원탁 회의: 장수의 다음 개척지: 신체를 \"재프로그래밍\"",
       "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
       "source": "MIT Tech Review",
       "date": "Tue, 30 Jun 2026 17:36:48 +0000",
@@ -152,7 +152,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -165,7 +165,7 @@
       "source": "BAIR",
       "date": "Sat, 10 Jan 2026 01:00:00 -0800",
       "desc": "<!--\nThese are comments in HTML. The above header text is needed to format the\ntitle, authors, etc. The \"information-driven-imaging\" is the representative image\nthat we use for each post for tweeting ",
-      "desc_ko": "<!--\n이는 HTML의 주석입니다. 위의 헤더 텍스트는 형식을 지정하는 데 필요합니다.\n제목, 저자 등 '정보주도영상'이 대표 이미지입니다.\n트윗을 위한 각 게시물에 사용하는",
+      "desc_ko": "<!--\n이는 HTML의 주석입니다. 위의 헤더 텍스트는 형식을 지정하는 데 필요합니다.\n제목, 작가 등 '정보주도영상'이 대표 이미지입니다.\n트윗을 위한 각 게시물에 사용하는",
       "thumb": "https://bair.berkeley.edu/static/blog/information-driven-imaging/info_estimation_overview.png",
       "tags": [],
       "type": "news"
