@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T13:41:28.711806+00:00",
+  "updated": "2026-07-03T19:01:15.285482+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -100,7 +100,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 02 Jul 2026 15:37:08 +0000",
       "desc": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Le",
-      "desc_ko": "린 식스 시그마(Lean Six Sigma) 및 비즈니스 프로세스 관리(BPM)와 같은 프레임워크는 혼란스러운 상황에서 명확성을 약속했기 때문에 처음에 주목을 받았습니다. 이는 지저분하고 무분별하게 퍼져 있는 운영에 질서를 부여하는 구조화된 방법입니다. 르",
+      "desc_ko": "린 식스 시그마(Lean Six Sigma) 및 비즈니스 프로세스 관리(BPM)와 같은 프레임워크는 혼돈 속에서의 명확성, 즉 지저분하고 무분별하게 퍼져 있는 운영에 질서를 부여하는 구조화된 방법을 약속했기 때문에 처음에 주목을 받았습니다. 르",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -115,19 +115,6 @@
       "desc": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in",
       "desc_ko": "인공지능은 챗봇과 이미지 생성기를 통해 대중의 상상을 사로잡았을지 모르지만, 인공지능의 가장 중요한 사용 사례 중 일부는 소비자 대면 도구와는 거리가 먼 곳에서 전개되고 있습니다. 에",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Andrew-Melouney.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "0c578b2b",
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "title_ko": "다운로드: 스타트업은 AI의 집단 사고 문제에 대한 솔루션을 가지고 있습니다.",
-      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 02 Jul 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startu",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. LLM은 집단 사고의 틀에 갇혀 있습니다. 이번 스타트",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -236,9 +223,22 @@
       "type": "news"
     },
     {
+      "id": "3869c17f",
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "title_ko": "죽은 기증자의 안구를 되살리는 장치로 안구 이식이 가능해질 수 있다",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 03 Jul 2026 17:34:37 +0000",
+      "desc": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the n",
+      "desc_ko": "사람의 눈 전체를 이식하는 것은 쉽지 않습니다. 수술이 어렵습니다. 그리고 눈 자체도 몸을 떠나자마자 퇴화되기 시작합니다. 몇 년 전 외과 의사들이 이를 시도했을 때,",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-1849342868.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "e9cb2d76",
       "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "title_ko": "다운로드: 스모킹 \"엔드게임\"과 새로운 엘리자베스 베어 이야기",
+      "title_ko": "다운로드: 스모킹 \"엔드게임\"과 새로운 엘리자베스 베어 스토리",
       "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
       "source": "MIT Tech Review",
       "date": "Fri, 03 Jul 2026 12:10:00 +0000",
