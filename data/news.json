@@ -1,19 +1,6 @@
 {
-  "updated": "2026-07-03T08:47:58.777491+00:00",
+  "updated": "2026-07-03T13:41:28.711806+00:00",
   "items": [
-    {
-      "id": "b7a1a19f",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "title_ko": "LLM은 집단 사고의 틀에 갇혀 있습니다. 이 스타트업은 그들을 제거하려고 노력하고 있습니다.",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 01 Jul 2026 14:35:16 +0000",
-      "desc": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll",
-      "desc_ko": "게임부터 시작해 보겠습니다. 원하는 챗봇(Claude, ChatGPT, Gemini)을 열고 \"1에서 10 사이의 임의의 숫자를 알려주세요.\"라고 입력하세요. 당신은 7을 얻게 될 것입니다. 거의 항상. 이제 \"Another\"를 입력하면",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
     {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
@@ -100,7 +87,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -113,7 +100,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 02 Jul 2026 15:37:08 +0000",
       "desc": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Le",
-      "desc_ko": "린 식스 시그마(Lean Six Sigma) 및 비즈니스 프로세스 관리(BPM)와 같은 프레임워크는 혼돈 속에서의 명확성, 즉 지저분하고 무분별하게 퍼져 있는 운영에 질서를 부여하는 구조화된 방법을 약속했기 때문에 처음에 주목을 받았습니다. 르",
+      "desc_ko": "린 식스 시그마(Lean Six Sigma) 및 비즈니스 프로세스 관리(BPM)와 같은 프레임워크는 혼란스러운 상황에서 명확성을 약속했기 때문에 처음에 주목을 받았습니다. 이는 지저분하고 무분별하게 퍼져 있는 운영에 질서를 부여하는 구조화된 방법입니다. 르",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -145,19 +132,6 @@
       "type": "news"
     },
     {
-      "id": "bc904098",
-      "title": "Why California’s carbon manure math doesn’t add up",
-      "title_ko": "캘리포니아의 탄소 비료 수학이 합산되지 않는 이유",
-      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 02 Jul 2026 09:00:00 +0000",
-      "desc": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, enc",
-      "desc_ko": "캘리포니아의 기후 정책에는 뭔가 악취가 납니다. 몇 년 전, 주정부는 소똥에서 배출되는 메탄을 천연가스로 전환하기 위해 전국의 가축 사육자들에게 비용을 지불하는 시스템을 구축했습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260624_spark_cows.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "61f2be7f",
       "title": "Information-Driven Design of Imaging Systems",
       "title_ko": "이미징 시스템의 정보 중심 설계",
@@ -165,7 +139,7 @@
       "source": "BAIR",
       "date": "Sat, 10 Jan 2026 01:00:00 -0800",
       "desc": "<!--\nThese are comments in HTML. The above header text is needed to format the\ntitle, authors, etc. The \"information-driven-imaging\" is the representative image\nthat we use for each post for tweeting ",
-      "desc_ko": "<!--\n이는 HTML의 주석입니다. 위의 헤더 텍스트는 형식을 지정하는 데 필요합니다.\n제목, 저자 등 '정보주도영상'이 대표 이미지입니다.\n트윗을 위한 각 게시물에 사용하는",
+      "desc_ko": "<!--\n이는 HTML의 주석입니다. 위의 헤더 텍스트는 형식을 지정하는 데 필요합니다.\n제목, 작가 등 '정보주도영상'이 대표 이미지입니다.\n트윗을 위한 각 게시물에 사용하는",
       "thumb": "https://bair.berkeley.edu/static/blog/information-driven-imaging/info_estimation_overview.png",
       "tags": [],
       "type": "news"
@@ -258,6 +232,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"Adaptive Parallel Reasoning overview\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"적응형 병렬 추론 개요\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
       "thumb": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e9cb2d76",
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "title_ko": "다운로드: 스모킹 \"엔드게임\"과 새로운 엘리자베스 베어 이야기",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 03 Jul 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. ",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 영국의 세대별 담배 금지 조치가 효과가 없을 수도 있습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cig-template-new.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "21fa08f8",
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "title_ko": "영국의 세대별 담배 금지 조치가 효과가 없을 수도 있습니다. 어쨌든 지지하고 있어요.",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 03 Jul 2026 09:00:00 +0000",
+      "desc": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework",
+      "desc_ko": "두 어린 소녀의 부모로서 나는 그들의 어린 시절이 나와 어떻게 다른지 자주 생각합니다. 7살 아이는 학교에서 AI에 대해 배우고 있습니다. 5세 아이에게 인터넷 기반 숙제가 주어진다",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cig-template-new.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     }
