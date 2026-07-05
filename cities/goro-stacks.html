@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>고로문고 — 거버넌스 포털</title>
+  <link rel="stylesheet" href="../style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    .city-detail { max-width: 780px; margin: 32px auto; padding: 0 24px 64px; }
+    .city-meta { margin-bottom: 32px; }
+    .era-badge { display:inline-block; font-size:11px; font-weight:600; padding:2px 10px; border-radius:20px; color:#fff; margin-bottom:12px; }
+    .city-detail h1 { font-family: var(--font-head); font-size:28px; margin-bottom:6px; }
+    .tagline { color:var(--c-text-sub); font-size:15px; margin-bottom:12px; }
+    .meta-row { display:flex; align-items:center; gap:12px; font-size:13px; color:var(--c-text-sub); margin-bottom:10px; }
+    .stack-tags { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px; }
+    .city-links { display:flex; gap:14px; font-size:14px; margin-bottom:0; }
+    .city-body { line-height:1.8; }
+    .city-body h2 { font-family:var(--font-head); font-size:18px; margin:28px 0 10px; border-bottom:1px solid var(--c-border); padding-bottom:6px; }
+    .city-body p { margin-bottom:12px; }
+    .city-body pre { background:var(--c-surface); border:1px solid var(--c-border); border-radius:var(--radius); padding:14px 16px; overflow-x:auto; font-size:13px; margin-bottom:12px; }
+    .city-body code { font-size:13px; background:var(--c-surface); padding:1px 5px; border-radius:3px; }
+    .city-body pre code { background:none; padding:0; }
+    .city-body ul, .city-body ol { margin:0 0 12px 20px; }
+    .community { margin-top:48px; border-top:1px solid var(--c-border); padding-top:24px; }
+    .community h2 { font-family:var(--font-head); font-size:18px; margin-bottom:8px; }
+    .coming-soon { color:var(--c-text-sub); font-size:13px; }
+    .back-link { font-size:13px; color:var(--c-text-sub); }
+    .back-link:hover { color:var(--c-text); }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="../index.html" class="back-link">← 문명 지도로</a>
+      <span class="site-title">거버넌스 포털</span>
+    </div>
+  </header>
+  <main class="city-detail">
+    <div class="city-meta">
+      <span class="era-badge" style="background:#1565C0">정보혁명기</span>
+      <h1>고로문고</h1>
+      <p class="tagline">개인 지식 서고 — 아는 것의 기억</p>
+      <div class="meta-row">
+        <span>창설 2026-07-03</span>
+        <span class="status-badge status-active">운영중</span>
+      </div>
+      <div class="stack-tags"><span class="tag">html</span><span class="tag">css</span><span class="tag">python</span></div>
+      <div class="city-links"><a href="https://github.com/goropak/goro-stacks" target="_blank" rel="noopener">GitHub →</a><a href="https://goro-stacks.vercel.app" target="_blank" rel="noopener">라이브 →</a></div>
+    </div>
+    <article class="city-body" id="body-content"></article>
+    <section class="community" id="giscus-container">
+      <h2>커뮤니티</h2>
+      <script src="https://giscus.app/client.js"
+        data-repo="goropak/governance-dashboard"
+        data-repo-id="R_kgDOSqIDDw"
+        data-category="General"
+        data-category-id="DIC_kwDOSqIDD84DAH8g"
+        data-mapping="specific"
+        data-term="goro-stacks"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="ko"
+        crossorigin="anonymous"
+        async>
+      </script>
+    </section>
+  </main>
+  <script>
+    const md = "## \ucc3d\uc124 \ubc30\uacbd\n\n\uac1c\uc778 \uc9c0\uc2dd \uc11c\uace0 \uacf5\uac1c \ud3ec\ud138 \u2014 \uc11c\uc810 \uc2a4\ud0c0\uc77c \ud648 + \ucc45 1\uad8c \ub2e8\uc704 \uc9c0\uc2dd \uce74\ub4dc(\uc694\uc57d+SVG) + \uc704\ud0a4 \uc0c9\uc778. \uc6d0\ubb38\uc740 Drive\uc5d0 \ubcf4\uad00\ud558\uace0, \ud3ec\ud138\uc740 \uc694\uc57d\uacfc \uc0c9\uc778\ub9cc \ub2f4\ub294\ub2e4. governance\uac00 \"\uc77c\ud558\ub294 \uae30\uc5b5\"\uc774\ub77c\uba74 \uace0\ub85c\ubb38\uace0\ub294 \uadf8\uc640 \ubcc4\uac1c\uc758 \"\uc544\ub294 \uac83\uc758 \uc11c\uace0\" \uce35\uc774\ub2e4. \ubc30\uc6b4 \uc9c0\uc2dd\u00b7\ud504\ub85c\ud544\u00b7\ub514\uc790\uc778 \uc790\uc0b0\uc774 \uc138\uc158\uacfc \ud568\uaed8 \uc99d\ubc1c\ud558\uc9c0 \uc54a\uace0, \uc0c8 \ud504\ub85c\uc81d\ud2b8 \uc2dc\uc791 \uc2dc \uc989\uc2dc \uc7ac\uc0ac\uc6a9\ub418\ub294 \uc678\uc7a5 \uae30\uc5b5\uc744 \ub9cc\ub4e0\ub2e4.\n\n## \ud575\uc2ec \uae30\ub2a5\n\n- **\ucc45 1\uad8c \ub2e8\uc704 \uc9c0\uc2dd \uce74\ub4dc** \u2014 \ud575\uc2ec/\uac00\uce58/\ud65c\uc6a9\ubc95/\uc2dc\uc0ac\uc810 \uace0\uc815 \uad6c\uc870 \uc694\uc57d + SVG \uc778\ud3ec\uadf8\ub798\ud53d\n- **5\uac1c \uc11c\uac00** \u2014 \uac74\uac15\u00b7\ucde8\ubbf8 / \uacbd\uc81c\u00b7\uacbd\uc601 / \uc5ed\uc0ac / \uc81c\ucca0 / AI\u00b7IT \uc8fc\uc81c\ubcc4 \uc9c4\uc5f4\n- **\uac80\uc0c9\u00b7\uc0c9\uc778** \u2014 Pagefind \uc804\ubb38 \uac80\uc0c9 + \uac00\ub098\ub2e4\u00b7\ud0dc\uadf8 \uc0c9\uc778\n- **\uad00\ub828 \ubb38\uc11c \ucd94\ucc9c** \u2014 \uc218\ub3d9 \uc9c0\uc815 + \uc790\ub3d9 \uc810\uc218\uc2dd(\uc11c\uac00\u00b7\ud0dc\uadf8\u00b7\uc2dc\ub9ac\uc988\u00b7\uc720\ud615) \uc0c1\uc704 5\uad8c\n- **\uacf5\uac1c \ubc94\uc704 3\ub2e8\uacc4** \u2014 public / private_stub(\uc81c\ubaa9\ub9cc \uacf5\uac1c) / private\n\n## \uae30\uc220 \uc2a4\ud0dd\n\n- HTML / CSS (\uc815\uc801 \uc0ac\uc774\ud2b8, build.py \ub80c\ub354)\n- Python (scripts/build.py \u2014 stdlib \uc6b0\uc120)\n- Pagefind (post-build \uac80\uc0c9 \uc778\ub371\uc2f1)\n- Vercel (Root=site, main push \uc790\ub3d9 \ubc30\ud3ec)\n\n## \uc0ac\uc6a9 \ubc29\ubc95\n\n\uc785\uace0 \uc6cc\ud06c\ud50c\ub85c (\uc218\ub3d9 \u2014 \ubcf4\uc88c\uad00 \ud3b8\uc9d1\uc2e4):\n\n1. `content/books/bk-YYYY-NNNN/`\uc5d0 book.json + summary.md \uc791\uc131 (EDITORIAL.md \uc694\uc57d 8\uaddc\uaca9)\n2. `python3 scripts/build.py` \u2014 content \u2192 site \ub80c\ub354\n3. \ucee4\ubc0b + push \uc2b9\uc778 \uac8c\uc774\ud2b8 \u2192 Vercel \uc790\ub3d9 \ubc30\ud3ec\n\n## \uc5f0\uacb0\n\n- GitHub: [goropak/goro-stacks](https://github.com/goropak/goro-stacks)\n- \ub77c\uc774\ube0c: [goro-stacks.vercel.app](https://goro-stacks.vercel.app)\n- \uad00\ub828 \ub3c4\uc2dc: steel-attache (STYLE-GUIDE \ub514\uc790\uc778 \uc815\ubcf8), telegram-gate (push \uc2b9\uc778 \uac8c\uc774\ud2b8)\n";
+    document.getElementById('body-content').innerHTML = marked.parse(md);
+  </script>
+</body>
+</html>

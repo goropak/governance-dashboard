@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "slug": "goro-stacks",
+  "name": "고로문고",
+  "founded": "2026-07-03",
+  "era": "info",
+  "coord": {"x": 0.90, "y": 0.65},
+  "tagline": "개인 지식 서고 — 아는 것의 기억",
+  "status": "active",
+  "stack": ["html", "css", "python"],
+  "links": {
+    "github": "https://github.com/goropak/goro-stacks",
+    "live": "https://goro-stacks.vercel.app"
+  },
+  "history": [
+    {"date": "2026-07-03", "version": "0.1", "note": "골격 착공 — 서점 스타일 홈 + 책 카드 + Pagefind 검색, Vercel 라이브"},
+    {"date": "2026-07-03", "version": "0.2", "note": "리디자인 + 첫 실입고 2권 (표지 규칙·AI 병목 지도)"}
+  ]
+}
