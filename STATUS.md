@@ -15,7 +15,7 @@
 
 ---
 
-**마지막 갱신**: 2026-06-30
+**마지막 갱신**: 2026-07-05
 **갱신자**: 시장 (Claude Code)
 
 ## What
@@ -24,7 +24,14 @@
 
 ## Now
 
-v0.6 — 5번째 탭 "📋 업무" 완료 (지시 #2026-07-02-A). push 승인 대기 중.
+문명 지도에 goro-stacks(고로문고) 도시 노드 연결 (2026-07-05, #GS8 §2 — push 대기, 로컬 `1da7b00`).
+- steel-attache 연결 패턴 그대로 이식(제7조): `data/cities/goro-stacks.json`·`.md` 신규 +
+  `index.json` 등재 + `build_cities.py` 실행 → `cities/goro-stacks.html` 생성
+- era=정보혁명기(info), coord(0.90,0.65) — 기존 9개 노드와 좌표 겹침 없음(실측 대조)
+- 검증: 지도 SVG marker 정상 표시 + 상세 페이지 로드(제목·태그·GitHub/라이브 링크·
+  giscus 위젯) + 콘솔 에러 0 + 기존 9개 도시 노드 회귀 없음(diff는 신규 파일 3+index 1건 한정)
+
+이전 v0.6 — 5번째 탭 "📋 업무" 완료 (지시 #2026-07-02-A). push 승인 대기 중.
 - scripts/build_tasks.py: approvals/ 큐 파싱 → data/tasks.json (stdlib만, 로컬 수동 실행)
 - 0조 부칙 방어: 명령 섹션 미파싱 + /Users/ 패턴 출력 전 자체검사 (위반 시 저장 중단)
 - js/tasks.js: 대기(오래된 순·N일째 뱃지) + 최근 처리 10건(✅/❌)
