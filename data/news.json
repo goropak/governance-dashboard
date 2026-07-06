@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T14:57:01.431725+00:00",
+  "updated": "2026-07-06T19:41:47.909337+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -41,19 +41,6 @@
       "type": "news"
     },
     {
-      "id": "4a099067",
-      "title": "Why Specialization Is Inevitable",
-      "title_ko": "전문화가 불가피한 이유",
-      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-      "source": "Hugging Face",
-      "date": "Tue, 30 Jun 2026 14:39:11 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/Av4v9_l94sEUj-etRFOLb.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
       "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
@@ -87,7 +74,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -100,7 +87,7 @@
       "source": "BAIR",
       "date": "Sat, 10 Jan 2026 01:00:00 -0800",
       "desc": "<!--\nThese are comments in HTML. The above header text is needed to format the\ntitle, authors, etc. The \"information-driven-imaging\" is the representative image\nthat we use for each post for tweeting ",
-      "desc_ko": "<!--\n이는 HTML의 주석입니다. 위의 헤더 텍스트는 형식을 지정하는 데 필요합니다.\n제목, 작가 등 '정보주도영상'이 대표 이미지입니다.\n트윗을 위한 각 게시물에 사용하는",
+      "desc_ko": "<!--\n이는 HTML의 주석입니다. 위의 헤더 텍스트는 형식을 지정하는 데 필요합니다.\n제목, 저자 등 '정보주도영상'이 대표 이미지입니다.\n트윗을 위한 각 게시물에 사용하는",
       "thumb": "https://bair.berkeley.edu/static/blog/information-driven-imaging/info_estimation_overview.png",
       "tags": [],
       "type": "news"
@@ -141,6 +128,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div style=\"display: flex; margin-bottom: 1.5em;\">\n  <img alt=\"BallNav demo\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T dem",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div 스타일=\"디스플레이: 플렉스; 여백-하단: 1.5em;\">\n  <img alt=\"BallNav 데모\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T 뎀",
       "thumb": "https://bair.berkeley.edu/static/blog/grasp/pusht_zoomout.gif",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e930f63d",
+      "title": "Your family’s $300 stake in OpenAI",
+      "title_ko": "귀하 가족의 OpenAI 지분 300달러",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 06 Jul 2026 18:00:00 +0000",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w",
+      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 받은편지함에서 이와 같은 뉴스를 먼저 받으려면 여기에서 가입하세요. OpenAI CEO 샘 알트먼(Sam Altman)의 자주 논의되는 미국인의 약속",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "3dd55d88",
+      "title": "PRX Part 4: Our Data Strategy",
+      "title_ko": "PRX 4부: 데이터 전략",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "source": "Hugging Face",
+      "date": "Mon, 06 Jul 2026 15:30:55 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/680a58121b2c7c159d2bd481/hJldzOsDg5kYWJC_vyj09.png",
       "tags": [],
       "type": "news"
     },
@@ -238,25 +251,12 @@
     {
       "id": "e9cb2d76",
       "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "title_ko": "다운로드: 스모킹 \"엔드게임\"과 새로운 엘리자베스 베어 이야기",
+      "title_ko": "다운로드: 스모킹 \"엔드게임\"과 새로운 엘리자베스 베어 스토리",
       "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
       "source": "MIT Tech Review",
       "date": "Fri, 03 Jul 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. ",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 영국의 세대별 담배 금지 조치가 효과가 없을 수도 있습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cig-template-new.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "21fa08f8",
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "title_ko": "영국의 세대별 담배 금지 조치가 효과가 없을 수도 있습니다. 어쨌든 지지하고 있어요.",
-      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 03 Jul 2026 09:00:00 +0000",
-      "desc": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework",
-      "desc_ko": "두 어린 소녀의 부모로서 나는 그들의 어린 시절이 나와 어떻게 다른지 자주 생각합니다. 7살 아이는 학교에서 AI에 대해 배우고 있습니다. 5세 아이에게 인터넷 기반 숙제가 주어진다",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cig-template-new.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
