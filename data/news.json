@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T09:54:42.616434+00:00",
+  "updated": "2026-07-06T14:57:01.431725+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -54,19 +54,6 @@
       "type": "news"
     },
     {
-      "id": "0f13ff90",
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "title_ko": "포옹 얼굴 모델 페이지에 모든 평가 결과 표시",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "source": "Hugging Face",
-      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/eee_commevals/eee_commevals_banner.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
       "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
@@ -80,6 +67,19 @@
       "type": "news"
     },
     {
+      "id": "d798ac5f",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "title_ko": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face",
+      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/lerobot-release-v060/thumbnail.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "e6fa7f06",
       "title": "Build Production-Ready Agentic-RAG Applications From Scratch Course: What we are going to build",
       "title_ko": "처음부터 생산 준비가 된 Agentic-RAG 애플리케이션 구축 과정: 우리가 구축할 내용",
@@ -87,21 +87,8 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "47a875dd",
-      "title": "Achieving operational excellence with AI",
-      "title_ko": "AI로 운영 우수성 달성",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 02 Jul 2026 15:37:08 +0000",
-      "desc": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Le",
-      "desc_ko": "린 식스 시그마(Lean Six Sigma) 및 비즈니스 프로세스 관리(BPM)와 같은 프레임워크는 혼돈 속에서의 명확성, 즉 지저분하고 무분별하게 퍼져 있는 운영에 질서를 부여하는 구조화된 방법을 약속했기 때문에 처음에 주목을 받았습니다. 르",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -154,6 +141,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div style=\"display: flex; margin-bottom: 1.5em;\">\n  <img alt=\"BallNav demo\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T dem",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div 스타일=\"디스플레이: 플렉스; 여백-하단: 1.5em;\">\n  <img alt=\"BallNav 데모\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T 뎀",
       "thumb": "https://bair.berkeley.edu/static/blog/grasp/pusht_zoomout.gif",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c83f7287",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "title_ko": "다운로드: 한국에서 가장 섹시한 총각들과 안구 이식의 발전",
+      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 06 Jul 2026 13:00:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip worke",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 한국에서 가장 핫한 신입사원은 칩 워크맨이다",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_chipmarriage.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -238,7 +238,7 @@
     {
       "id": "e9cb2d76",
       "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "title_ko": "다운로드: 연기가 나는 \"최종 게임\"과 새로운 엘리자베스 베어 스토리",
+      "title_ko": "다운로드: 스모킹 \"엔드게임\"과 새로운 엘리자베스 베어 이야기",
       "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
       "source": "MIT Tech Review",
       "date": "Fri, 03 Jul 2026 12:10:00 +0000",
