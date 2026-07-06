@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T19:00:51.395471+00:00",
+  "updated": "2026-07-06T02:07:17.535291+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -100,7 +100,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 02 Jul 2026 15:37:08 +0000",
       "desc": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Le",
-      "desc_ko": "린 식스 시그마(Lean Six Sigma) 및 비즈니스 프로세스 관리(BPM)와 같은 프레임워크는 혼돈 속에서의 명확성, 즉 지저분하고 무분별한 운영에 질서를 부여하는 구조화된 방법을 약속했기 때문에 처음에 주목을 받았습니다. 르",
+      "desc_ko": "린 식스 시그마(Lean Six Sigma) 및 비즈니스 프로세스 관리(BPM)와 같은 프레임워크는 혼돈 속에서의 명확성, 즉 지저분하고 무분별하게 퍼져 있는 운영에 질서를 부여하는 구조화된 방법을 약속했기 때문에 처음에 주목을 받았습니다. 르",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -113,7 +113,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 02 Jul 2026 12:51:44 +0000",
       "desc": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in",
-      "desc_ko": "인공 지능은 챗봇과 이미지 생성기를 통해 대중의 상상을 사로잡았을지 모르지만, 인공 지능의 가장 중요한 사용 사례 중 일부는 소비자 대면 도구와는 거리가 먼 곳에서 전개되고 있습니다. 에",
+      "desc_ko": "인공 지능은 챗봇과 이미지 생성기를 통해 대중의 상상을 사로잡았을지 모르지만, 인공 지능의 가장 중요한 사용 사례 중 일부는 소비자 대면 도구와는 거리가 먼 곳에서 전개되고 있습니다. 안으로",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Andrew-Melouney.png?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -126,7 +126,7 @@
       "source": "BAIR",
       "date": "Sat, 10 Jan 2026 01:00:00 -0800",
       "desc": "<!--\nThese are comments in HTML. The above header text is needed to format the\ntitle, authors, etc. The \"information-driven-imaging\" is the representative image\nthat we use for each post for tweeting ",
-      "desc_ko": "<!--\n이는 HTML의 주석입니다. 위의 헤더 텍스트는 형식을 지정하는 데 필요합니다.\n제목, 저자 등 '정보주도영상'이 대표 이미지입니다.\n트윗을 위한 각 게시물에 사용하는",
+      "desc_ko": "<!--\n이는 HTML의 주석입니다. 위의 헤더 텍스트는 형식을 지정하는 데 필요합니다.\n제목, 작가 등 '정보주도영상'이 대표 이미지입니다.\n트윗을 위한 각 게시물에 사용하는",
       "thumb": "https://bair.berkeley.edu/static/blog/information-driven-imaging/info_estimation_overview.png",
       "tags": [],
       "type": "news"
@@ -160,7 +160,7 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "새 과정: 프로덕션에 바로 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
+      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
@@ -225,7 +225,7 @@
     {
       "id": "3869c17f",
       "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "title_ko": "죽은 기증자의 안구를 되살리는 장치로 안구 이식 가능",
+      "title_ko": "죽은 기증자의 안구를 되살리는 장치로 안구 이식이 가능해질 수 있다",
       "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
       "source": "MIT Tech Review",
       "date": "Fri, 03 Jul 2026 17:34:37 +0000",
@@ -238,7 +238,7 @@
     {
       "id": "e9cb2d76",
       "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "title_ko": "다운로드: 스모킹 \"엔드게임\"과 새로운 엘리자베스 베어 스토리",
+      "title_ko": "다운로드: 연기가 나는 \"최종 게임\"과 새로운 엘리자베스 베어 스토리",
       "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
       "source": "MIT Tech Review",
       "date": "Fri, 03 Jul 2026 12:10:00 +0000",
