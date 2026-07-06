@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T02:07:17.535291+00:00",
+  "updated": "2026-07-06T09:54:42.616434+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -106,19 +106,6 @@
       "type": "news"
     },
     {
-      "id": "76da70e4",
-      "title": "Teaching AI to run with the turbines",
-      "title_ko": "AI에게 터빈과 함께 작동하도록 가르치기",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 02 Jul 2026 12:51:44 +0000",
-      "desc": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in",
-      "desc_ko": "인공 지능은 챗봇과 이미지 생성기를 통해 대중의 상상을 사로잡았을지 모르지만, 인공 지능의 가장 중요한 사용 사례 중 일부는 소비자 대면 도구와는 거리가 먼 곳에서 전개되고 있습니다. 안으로",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Andrew-Melouney.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "61f2be7f",
       "title": "Information-Driven Design of Imaging Systems",
       "title_ko": "이미징 시스템의 정보 중심 설계",
@@ -145,19 +132,6 @@
       "type": "news"
     },
     {
-      "id": "7eccecbf",
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "title_ko": "DiScoFormer: 분포 전반에 걸쳐 밀도 및 점수를 위한 단일 변환기",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "source": "Hugging Face",
-      "date": "Mon, 29 Jun 2026 18:02:48 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/AnOX0pzQm-Hep_CLFOVM7.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
       "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
@@ -180,6 +154,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div style=\"display: flex; margin-bottom: 1.5em;\">\n  <img alt=\"BallNav demo\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T dem",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div 스타일=\"디스플레이: 플렉스; 여백-하단: 1.5em;\">\n  <img alt=\"BallNav 데모\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T 뎀",
       "thumb": "https://bair.berkeley.edu/static/blog/grasp/pusht_zoomout.gif",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "166d1efe",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "title_ko": "한국에서 가장 인기 있는 신입 총각은 칩 노동자이다",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 06 Jul 2026 09:00:00 +0000",
+      "desc": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents",
+      "desc_ko": "한국 반도체 대기업 SK하이닉스의 백모(35) 부장은 1년 전 서울의 중매업체 선우에 입사했다. 불안한 한국 부모들의 전형적인 움직임",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_chipmarriage.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "76d9e5a5",
+      "title": "🤗 Kernels: Major Updates",
+      "title_ko": "🤗 커널: 주요 업데이트",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face",
+      "date": "Mon, 06 Jul 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/revamped-kernels/thumbnail.png",
       "tags": [],
       "type": "news"
     },
