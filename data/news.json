@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T09:22:47.136957+00:00",
+  "updated": "2026-07-07T14:05:43.646326+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -54,6 +54,45 @@
       "type": "news"
     },
     {
+      "id": "0e5ebf4a",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "title_ko": "다운로드: OpenAI에 대한 귀하의 지분 및 재무부의 AI 경고",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 07 Jul 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s pr",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. OpenAI Sam Altman의 홍보에 대한 가족의 300달러 지분",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "34dc6f6d",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "title_ko": "IT 리더가 확장해야 하는 AI 아키텍처의 기본 요소",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 07 Jul 2026 11:10:52 +0000",
+      "desc": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris",
+      "desc_ko": "AI 기능의 급속한 발전과 에이전트 시스템으로의 전환으로 인해 조직은 기술이 지속적으로 성장함에 따라 사용 사례를 확장하고 있습니다. 그 끊임없는 진화는 또한 위험을 초래합니다",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b11b6e4d",
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "title_ko": "벌레(및 미생물)가 분뇨 오염 솔루션으로 인기를 끄는 이유",
+      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 07 Jul 2026 10:00:00 +0000",
+      "desc": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He re",
+      "desc_ko": "캘리포니아의 3대 낙농업 농부인 Anthony Agueda는 주의 농업 중심부에 있는 작은 마을인 Hickman에 있는 그의 가족 소유 땅에 있는 어둡고 젖은 나무 조각 바닥에서 갈퀴를 뽑고 있습니다. 여기",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/20260319-vermi-006-social.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "d798ac5f",
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
       "title_ko": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
@@ -74,7 +113,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -147,7 +186,7 @@
     {
       "id": "3dd55d88",
       "title": "PRX Part 4: Our Data Strategy",
-      "title_ko": "PRX 4부: 데이터 전략",
+      "title_ko": "PRX 파트 4: 데이터 전략",
       "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
       "source": "Hugging Face",
       "date": "Mon, 06 Jul 2026 15:30:55 GMT",
@@ -166,19 +205,6 @@
       "date": "Mon, 06 Jul 2026 13:00:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip worke",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 한국에서 가장 핫한 신입사원은 칩 워크맨이다",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_chipmarriage.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "166d1efe",
-      "title": "South Korea’s hottest new bachelors are chip workers",
-      "title_ko": "한국에서 가장 인기 있는 신입 총각은 칩 노동자이다",
-      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 06 Jul 2026 09:00:00 +0000",
-      "desc": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents",
-      "desc_ko": "한국 반도체 대기업 SK하이닉스의 백모(35) 부장은 1년 전 서울의 중매업체 선우에 입사했다. 불안한 한국 부모들의 전형적인 움직임",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_chipmarriage.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -232,32 +258,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"Adaptive Parallel Reasoning overview\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"적응형 병렬 추론 개요\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
       "thumb": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "3869c17f",
-      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "title_ko": "죽은 기증자의 안구를 되살리는 장치로 안구 이식이 가능해질 수 있다",
-      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 03 Jul 2026 17:34:37 +0000",
-      "desc": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the n",
-      "desc_ko": "사람의 눈 전체를 이식하는 것은 쉽지 않습니다. 수술이 어렵습니다. 그리고 눈 자체도 몸을 떠나자마자 퇴화되기 시작합니다. 몇 년 전 외과 의사들이 이를 시도했을 때,",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-1849342868_6fd97e.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "e9cb2d76",
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "title_ko": "다운로드: 스모킹 \"엔드게임\"과 새로운 엘리자베스 베어 스토리",
-      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 03 Jul 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. ",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 영국의 세대별 담배 금지 조치가 효과가 없을 수도 있습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cig-template-new.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     }
