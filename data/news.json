@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T14:05:43.646326+00:00",
+  "updated": "2026-07-07T19:40:15.832199+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -15,32 +15,6 @@
       "type": "news"
     },
     {
-      "id": "11d5ccf1",
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "title_ko": "Hugging Face와 Cerebras는 Gemma 4를 실시간 음성 AI로 구현합니다.",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "source": "Hugging Face",
-      "date": "Wed, 01 Jul 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/cerebras-gemma4-voice-ai/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "9d697f00",
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "title_ko": "ScarfBench: Enterprise Java Framework 마이그레이션을 위한 AI 에이전트 벤치마킹",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face",
-      "date": "Tue, 30 Jun 2026 18:32:50 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/649c1276a83f996b4191a8f1/iYCwB2Hl8qPTA8DCgDilB.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
       "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
@@ -50,6 +24,19 @@
       "desc": "Project-Based Course",
       "desc_ko": "프로젝트 기반 코스",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "37a75100",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "title_ko": "Foundry 관리형 컴퓨팅에서 얼굴 모델 포옹",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face",
+      "date": "Tue, 07 Jul 2026 15:20:06 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/688797c1629e0ef013c2556c/Dn2wmfWGM83ZhuQ-C5jPo.png",
       "tags": [],
       "type": "news"
     },
@@ -93,6 +80,32 @@
       "type": "news"
     },
     {
+      "id": "d16153c2",
+      "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
+      "title_ko": "지능은 무료입니다. 이제 무엇을 해야 할까요? <br> 에이전트를 위한, 에이전트에 의한 데이터 시스템",
+      "url": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
+      "source": "BAIR",
+      "date": "Tue, 07 Jul 2026 02:00:00 -0700",
+      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
+      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 스타일=\"텍스트 정렬: 가운데;\">\n<i>... 국민의, 국민에 의한, 국민을 위한 정부...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; 에이브러햄 링컨, 게티즈버그 광고",
+      "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "38da928f",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "title_ko": "모든 클라우드에서 AI 워크로드를 실행하고 Hugging Face에 저장: SkyPilot을 통한 제로 송신 스토리지",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face",
+      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/skypilot-hf-storage/thumbnail.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "d798ac5f",
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
       "title_ko": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
@@ -113,21 +126,8 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "61f2be7f",
-      "title": "Information-Driven Design of Imaging Systems",
-      "title_ko": "이미징 시스템의 정보 중심 설계",
-      "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/",
-      "source": "BAIR",
-      "date": "Sat, 10 Jan 2026 01:00:00 -0800",
-      "desc": "<!--\nThese are comments in HTML. The above header text is needed to format the\ntitle, authors, etc. The \"information-driven-imaging\" is the representative image\nthat we use for each post for tweeting ",
-      "desc_ko": "<!--\n이는 HTML의 주석입니다. 위의 헤더 텍스트는 형식을 지정하는 데 필요합니다.\n제목, 저자 등 '정보주도영상'이 대표 이미지입니다.\n트윗을 위한 각 게시물에 사용하는",
-      "thumb": "https://bair.berkeley.edu/static/blog/information-driven-imaging/info_estimation_overview.png",
       "tags": [],
       "type": "news"
     },
@@ -186,7 +186,7 @@
     {
       "id": "3dd55d88",
       "title": "PRX Part 4: Our Data Strategy",
-      "title_ko": "PRX 파트 4: 데이터 전략",
+      "title_ko": "PRX 4부: 데이터 전략",
       "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
       "source": "Hugging Face",
       "date": "Mon, 06 Jul 2026 15:30:55 GMT",
