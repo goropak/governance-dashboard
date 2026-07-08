@@ -1,6 +1,32 @@
 {
-  "updated": "2026-07-08T13:29:35.561137+00:00",
+  "updated": "2026-07-08T19:06:09.601576+00:00",
   "items": [
+    {
+      "id": "dad44939",
+      "title": "Data for Agents",
+      "title_ko": "에이전트용 데이터",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "source": "Hugging Face",
+      "date": "Wed, 08 Jul 2026 17:16:05 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/P3b9bOHrdkEJeAcWX6FoW.gif",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "df693c77",
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "title_ko": "EmTech AI 2026: AI 플랫폼의 부상",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 08 Jul 2026 16:26:10 +0000",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "de792f4a",
       "title": "The Download: worms fight pollution, and geoengineering faces reality",
@@ -11,6 +37,19 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manu",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 벌레(및 미생물)가 마누로 잡히는 이유",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/20260319-vermi-006-social.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "94cec3e2",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "title_ko": "기본 속도 vLLM 변환기 모델링 백엔드",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face",
+      "date": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/native-speed-vllm-transformers-backend/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -87,7 +126,7 @@
       "source": "MIT Tech Review",
       "date": "Tue, 07 Jul 2026 11:10:52 +0000",
       "desc": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris",
-      "desc_ko": "AI 기능의 급속한 발전과 에이전트 시스템으로의 전환으로 인해 조직은 기술이 지속적으로 성장함에 따라 사용 사례를 확장하고 있습니다. 그 끊임없는 진화는 또한 위험을 초래합니다",
+      "desc_ko": "AI 기능의 급속한 발전과 에이전트 시스템으로의 전환으로 인해 조직은 기술이 지속적으로 성장함에 따라 사용 사례를 확장하고 있습니다. That constant evolution also introduces ris",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -128,19 +167,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/skypilot-hf-storage/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "d798ac5f",
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "title_ko": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "source": "Hugging Face",
-      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/lerobot-release-v060/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -193,32 +219,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div style=\"display: flex; margin-bottom: 1.5em;\">\n  <img alt=\"BallNav demo\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T dem",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div 스타일=\"디스플레이: 플렉스; 여백-하단: 1.5em;\">\n  <img alt=\"BallNav 데모\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T 뎀",
       "thumb": "https://bair.berkeley.edu/static/blog/grasp/pusht_zoomout.gif",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "e930f63d",
-      "title": "Your family’s $300 stake in OpenAI",
-      "title_ko": "귀하 가족의 OpenAI 지분 300달러",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 06 Jul 2026 18:00:00 +0000",
-      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americ",
-      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 먼저 받은 편지함에서 이와 같은 기사를 받으려면 여기에서 가입하세요. OpenAI CEO인 Sam Altman의 자주 논의되는 약속인 Americ",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "3dd55d88",
-      "title": "PRX Part 4: Our Data Strategy",
-      "title_ko": "PRX 4부: 데이터 전략",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "source": "Hugging Face",
-      "date": "Mon, 06 Jul 2026 15:30:55 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/680a58121b2c7c159d2bd481/hJldzOsDg5kYWJC_vyj09.png",
       "tags": [],
       "type": "news"
     },
