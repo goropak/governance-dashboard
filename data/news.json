@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-08T08:07:23.216798+00:00",
+  "updated": "2026-07-08T13:29:35.561137+00:00",
   "items": [
+    {
+      "id": "de792f4a",
+      "title": "The Download: worms fight pollution, and geoengineering faces reality",
+      "title_ko": "다운로드: 벌레는 오염과 싸우고 지구공학은 현실에 직면합니다",
+      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 08 Jul 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manu",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 벌레(및 미생물)가 마누로 잡히는 이유",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/20260319-vermi-006-social.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
@@ -61,7 +74,7 @@
       "source": "MIT Tech Review",
       "date": "Tue, 07 Jul 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s pr",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. Your family’s $300 stake in OpenAI Sam Altman’s pr",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. OpenAI Sam Altman의 홍보에 대한 가족의 300달러 지분",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -74,7 +87,7 @@
       "source": "MIT Tech Review",
       "date": "Tue, 07 Jul 2026 11:10:52 +0000",
       "desc": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris",
-      "desc_ko": "AI 기능의 급속한 발전과 에이전트 시스템으로의 전환으로 인해 조직은 기술이 지속적으로 성장함에 따라 사용 사례를 확장하고 있습니다. That constant evolution also introduces ris",
+      "desc_ko": "AI 기능의 급속한 발전과 에이전트 시스템으로의 전환으로 인해 조직은 기술이 지속적으로 성장함에 따라 사용 사례를 확장하고 있습니다. 그 끊임없는 진화는 또한 위험을 초래합니다",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -190,8 +203,8 @@
       "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
       "source": "MIT Tech Review",
       "date": "Mon, 06 Jul 2026 18:00:00 +0000",
-      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w",
-      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 받은편지함에서 이와 같은 뉴스를 먼저 받으려면 여기에서 가입하세요. OpenAI CEO 샘 알트먼(Sam Altman)의 자주 논의되는 미국인의 약속",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americ",
+      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 먼저 받은 편지함에서 이와 같은 기사를 받으려면 여기에서 가입하세요. OpenAI CEO인 Sam Altman의 자주 논의되는 약속인 Americ",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -206,19 +219,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/680a58121b2c7c159d2bd481/hJldzOsDg5kYWJC_vyj09.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "c83f7287",
-      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
-      "title_ko": "다운로드: 한국에서 가장 섹시한 총각들과 안구 이식의 발전",
-      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 06 Jul 2026 13:00:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip worke",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 한국에서 가장 핫한 신입사원은 칩 워크맨이다",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_chipmarriage.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
