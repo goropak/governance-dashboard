@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T19:40:15.832199+00:00",
+  "updated": "2026-07-08T01:43:12.047890+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -24,6 +24,19 @@
       "desc": "Project-Based Course",
       "desc_ko": "프로젝트 기반 코스",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "830b87f8",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "title_ko": "한 번의 클릭으로 Hugging Face에서 Amazon SageMaker Studio까지",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "source": "Hugging Face",
+      "date": "Tue, 07 Jul 2026 21:15:33 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68abb71b13d7773ad97e9035/f1nX3dXVmvJcQzJfgfpnJ.webp",
       "tags": [],
       "type": "news"
     },
@@ -206,19 +219,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip worke",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 한국에서 가장 핫한 신입사원은 칩 워크맨이다",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_chipmarriage.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "76d9e5a5",
-      "title": "🤗 Kernels: Major Updates",
-      "title_ko": "🤗 커널: 주요 업데이트",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "source": "Hugging Face",
-      "date": "Mon, 06 Jul 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/revamped-kernels/thumbnail.png",
       "tags": [],
       "type": "news"
     },
