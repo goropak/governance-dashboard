@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T14:29:49.028836+00:00",
+  "updated": "2026-07-09T19:21:35.033298+00:00",
   "items": [
     {
       "id": "dad44939",
       "title": "Data for Agents",
-      "title_ko": "에이전트를 위한 데이터",
+      "title_ko": "에이전트용 데이터",
       "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "source": "Hugging Face",
       "date": "Wed, 08 Jul 2026 17:16:05 GMT",
