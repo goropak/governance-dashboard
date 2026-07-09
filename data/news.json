@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T01:54:15.891608+00:00",
+  "updated": "2026-07-09T09:20:41.292313+00:00",
   "items": [
     {
       "id": "dad44939",
       "title": "Data for Agents",
-      "title_ko": "에이전트용 데이터",
+      "title_ko": "에이전트를 위한 데이터",
       "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "source": "Hugging Face",
       "date": "Wed, 08 Jul 2026 17:16:05 GMT",
@@ -132,19 +132,6 @@
       "type": "news"
     },
     {
-      "id": "b11b6e4d",
-      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-      "title_ko": "벌레(및 미생물)가 분뇨 오염 솔루션으로 인기를 끄는 이유",
-      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 07 Jul 2026 10:00:00 +0000",
-      "desc": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He re",
-      "desc_ko": "캘리포니아의 3대 낙농업 농부인 Anthony Agueda는 주의 농업 중심부에 있는 작은 마을인 Hickman에 있는 그의 가족 소유 땅에 있는 어둡고 젖은 나무 조각 바닥에서 갈퀴를 뽑고 있습니다. 여기",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/20260319-vermi-006-social.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "지능은 무료입니다. 이제 무엇을 해야 할까요? <br> 에이전트를 위한, 에이전트에 의한 데이터 시스템",
@@ -180,6 +167,19 @@
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
       "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "178dc986",
+      "title": "Four nuclear reactors hit a big milestone in the US",
+      "title_ko": "4개의 원자로가 미국에서 큰 이정표를 세웠습니다.",
+      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 09 Jul 2026 08:00:00 +0000",
+      "desc": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump ad",
+      "desc_ko": "나는 7월 4일을 정말 고대하고 있었는데, 단지 풀사이드 바비큐를 좋아해서가 아니었습니다. 올해 미국 공휴일은 미국 원자력 발전에 있어 상징적인 시한이기도 합니다. 지난해 트럼프 광고",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Aalo_s-completed-Critical-Test-Reactor-facility-1920.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
