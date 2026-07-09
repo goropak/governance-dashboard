@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T09:20:41.292313+00:00",
+  "updated": "2026-07-09T14:29:49.028836+00:00",
   "items": [
     {
       "id": "dad44939",
@@ -119,19 +119,6 @@
       "type": "news"
     },
     {
-      "id": "34dc6f6d",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "title_ko": "IT 리더가 확장해야 하는 AI 아키텍처의 기본 요소",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 07 Jul 2026 11:10:52 +0000",
-      "desc": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris",
-      "desc_ko": "AI 기능의 급속한 발전과 에이전트 시스템으로의 전환으로 인해 조직은 기술이 지속적으로 성장함에 따라 사용 사례를 확장하고 있습니다. 그 끊임없는 진화는 또한 위험을 초래합니다",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "지능은 무료입니다. 이제 무엇을 해야 할까요? <br> 에이전트를 위한, 에이전트에 의한 데이터 시스템",
@@ -167,6 +154,19 @@
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
       "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c3749aa3",
+      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "title_ko": "다운로드: 핵 랜드마크, 중국이 Nvidia 칩을 주목하고 있습니다.",
+      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 09 Jul 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the U",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 4개의 원자로가 미국에서 큰 이정표를 세웠습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Aalo_s-completed-Critical-Test-Reactor-facility-1920.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
