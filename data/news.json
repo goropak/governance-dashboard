@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T19:21:35.033298+00:00",
+  "updated": "2026-07-10T01:52:46.748098+00:00",
   "items": [
     {
       "id": "dad44939",
@@ -106,19 +106,6 @@
       "type": "news"
     },
     {
-      "id": "0e5ebf4a",
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "title_ko": "다운로드: OpenAI에 대한 귀하의 지분 및 재무부의 AI 경고",
-      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 07 Jul 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s pr",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. OpenAI Sam Altman의 홍보에 대한 가족의 300달러 지분",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "지능은 무료입니다. 이제 무엇을 해야 할까요? <br> 에이전트를 위한, 에이전트에 의한 데이터 시스템",
@@ -154,6 +141,19 @@
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
       "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "a90a0d3e",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "title_ko": "Anthropic은 Claude가 개념에 대해 고민하는 숨겨진 공간을 찾았습니다.",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 09 Jul 2026 20:22:28 +0000",
+      "desc": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they",
+      "desc_ko": "AI 회사인 Anthropic은 질문에 답하거나 작업을 수행할 때 대규모 언어 모델 내부에서 실제로 무슨 일이 일어나고 있는지 가장 명확하게 엿볼 수 있는 기술을 개발했습니다. 그들이 무엇을",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
