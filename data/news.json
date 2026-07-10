@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T01:52:46.748098+00:00",
+  "updated": "2026-07-10T09:01:28.609717+00:00",
   "items": [
     {
       "id": "dad44939",
@@ -119,19 +119,6 @@
       "type": "news"
     },
     {
-      "id": "38da928f",
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "title_ko": "모든 클라우드에서 AI 워크로드를 실행하고 Hugging Face에 저장: SkyPilot을 통한 제로 송신 스토리지",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "source": "Hugging Face",
-      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/skypilot-hf-storage/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "e6fa7f06",
       "title": "Build Production-Ready Agentic-RAG Applications From Scratch Course: What we are going to build",
       "title_ko": "처음부터 생산 준비가 된 Agentic-RAG 애플리케이션 구축 과정: 우리가 구축할 내용",
@@ -245,6 +232,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<!-- <img src=\"https://bair.berkeley.edu/static/blog/spex/image1.png\" alt=\"different_tests\" width=\"600\"><br> -->\n<img alt=\"different_tests\"",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 스타일=\"텍스트 정렬: 가운데;\">\n<!-- <img src=\"https://bair.berkeley.edu/static/blog/spex/image1.png\" alt=\"다른_tests\" width=\"600\"><br> -->\n<img alt=\"다른_테스트\"",
       "thumb": "https://bair.berkeley.edu/static/blog/spex/teaser.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "ec381c2c",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "title_ko": "PyTorch에서 프로파일링(3부): 프로파일링에는 관심이 전부입니다.",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "source": "Hugging Face",
+      "date": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/torch-attention-profile/thumbnail.png",
       "tags": [],
       "type": "news"
     },
