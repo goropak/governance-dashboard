@@ -1,42 +1,16 @@
 {
-  "updated": "2026-07-10T09:01:28.609717+00:00",
+  "updated": "2026-07-10T13:57:24.571760+00:00",
   "items": [
     {
       "id": "dad44939",
       "title": "Data for Agents",
-      "title_ko": "에이전트용 데이터",
+      "title_ko": "에이전트를 위한 데이터",
       "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "source": "Hugging Face",
       "date": "Wed, 08 Jul 2026 17:16:05 GMT",
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/P3b9bOHrdkEJeAcWX6FoW.gif",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "df693c77",
-      "title": "EmTech AI 2026: The Rise of the AI Platform",
-      "title_ko": "EmTech AI 2026: AI 플랫폼의 부상",
-      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 08 Jul 2026 16:26:10 +0000",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "de792f4a",
-      "title": "The Download: worms fight pollution, and geoengineering faces reality",
-      "title_ko": "다운로드: 벌레는 오염과 싸우고 지구공학은 현실에 직면합니다",
-      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 08 Jul 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manu",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 벌레(및 미생물)가 마누로 잡히는 이유",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/20260319-vermi-006-social.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -232,6 +206,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<!-- <img src=\"https://bair.berkeley.edu/static/blog/spex/image1.png\" alt=\"different_tests\" width=\"600\"><br> -->\n<img alt=\"different_tests\"",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 스타일=\"텍스트 정렬: 가운데;\">\n<!-- <img src=\"https://bair.berkeley.edu/static/blog/spex/image1.png\" alt=\"다른_tests\" width=\"600\"><br> -->\n<img alt=\"다른_테스트\"",
       "thumb": "https://bair.berkeley.edu/static/blog/spex/teaser.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "8e9121e5",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "title_ko": "다운로드: Claude의 내부 작동 및 OpenAI의 \"슈퍼 앱\"",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 10 Jul 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzle",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 클로드 퍼즐이 숨어 있던 숨겨진 공간을 찾은 인류",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c41b81cc",
+      "title": "Sperm donors need limits, says a European fertility group",
+      "title_ko": "유럽의 불임 단체는 정자 기증자에게 제한이 필요하다고 말합니다.",
+      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 10 Jul 2026 09:00:00 +0000",
+      "desc": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherland",
+      "desc_ko": "Ties van der Meer는 자신에게 형제자매가 몇 명 있는지 모릅니다. 47세의 이 남성은 익명의 기증자가 제공한 정자를 사용하여 네덜란드의 한 개인 불임 클리닉에서 임신되었습니다. 네덜란드 이후",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/C0152102-Sperm_bank.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
