@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T18:44:27.744417+00:00",
+  "updated": "2026-07-12T01:44:09.755996+00:00",
   "items": [
     {
       "id": "dad44939",
@@ -100,7 +100,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -212,7 +212,7 @@
     {
       "id": "8e9121e5",
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "title_ko": "다운로드: Claude의 내부 작동 및 OpenAI의 \"슈퍼 앱\"",
+      "title_ko": "다운로드: Claude의 내부 작동 방식과 OpenAI의 \"슈퍼 앱\"",
       "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
       "source": "MIT Tech Review",
       "date": "Fri, 10 Jul 2026 12:10:00 +0000",
