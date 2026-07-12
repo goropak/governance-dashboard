@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T07:58:47.405100+00:00",
+  "updated": "2026-07-12T12:55:03.573474+00:00",
   "items": [
     {
       "id": "dad44939",
@@ -212,7 +212,7 @@
     {
       "id": "8e9121e5",
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "title_ko": "다운로드: Claude의 내부 작동 및 OpenAI의 \"슈퍼 앱\"",
+      "title_ko": "다운로드: Claude의 내부 작동 방식과 OpenAI의 \"슈퍼 앱\"",
       "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
       "source": "MIT Tech Review",
       "date": "Fri, 10 Jul 2026 12:10:00 +0000",
