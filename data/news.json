@@ -1,6 +1,45 @@
 {
-  "updated": "2026-07-15T13:10:34.885786+00:00",
+  "updated": "2026-07-15T18:54:28.423301+00:00",
   "items": [
+    {
+      "id": "534a0446",
+      "title": "What building Shippy taught us about building agents",
+      "title_ko": "Shippy가 빌딩 에이전트에 관해 우리에게 가르쳐 준 것",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face",
+      "date": "Wed, 15 Jul 2026 17:29:41 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/2Ncq9fY3Po30QjlACoYTY.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6bf98bfe",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "title_ko": "모델 라우팅은 간단합니다. 그렇지 않을 때까지.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "Hugging Face",
+      "date": "Wed, 15 Jul 2026 17:27:01 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/642ee6f6ffd6084c6a620985/ibA2XHLJsqDH9VAL-3ou-.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "0081d2e6",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "title_ko": "GPT-Red를 만나보세요: 모델을 더욱 안전하게 만들기 위해 구축된 LLM 슈퍼 해커 OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 15 Jul 2026 17:09:37 +0000",
+      "desc": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver",
+      "desc_ko": "OpenAI는 다른 모델이 사이버 공격에 대한 방어력을 강화할 수 있도록 스파링 파트너로 사용하는 GPT-Red라는 LLM 슈퍼 해커를 구축했습니다. 지난 주에 회사는 최신 버전을 출시했습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "5c918f53",
       "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
@@ -15,6 +54,19 @@
       "type": "news"
     },
     {
+      "id": "67a5bbc0",
+      "title": "Welcome Inkling by Thinking Machines",
+      "title_ko": "Thinking Machines의 Inkling을 환영합니다.",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "source": "Hugging Face",
+      "date": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/thinkingmachines-inkling/thumbnail.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "4c932574",
       "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
       "title_ko": "Real World VoiceEQ 소개: 음성 AI의 인간 품질 측정",
@@ -24,32 +76,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/real-world-voiceeq/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "dad44939",
-      "title": "Data for Agents",
-      "title_ko": "에이전트를 위한 데이터",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "source": "Hugging Face",
-      "date": "Wed, 08 Jul 2026 17:16:05 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/P3b9bOHrdkEJeAcWX6FoW.gif",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "94cec3e2",
-      "title": "Native-speed vLLM transformers modeling backend",
-      "title_ko": "기본 속도 vLLM 변환기 모델링 백엔드",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "source": "Hugging Face",
-      "date": "Wed, 08 Jul 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/native-speed-vllm-transformers-backend/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -102,19 +128,6 @@
       "desc": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet ",
       "desc_ko": "세상을 바꿀 수 있는 기계는 데이터센터와 아이스크림 공장이 교차된 듯한 방에 보관될 예정이다. 내부에는 약 100개의 스테인레스 스틸 캐비닛이 있으며 각각 약 6피트입니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/PsiQuantum-0459-Headquarters-social.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "830b87f8",
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "title_ko": "한 번의 클릭으로 Hugging Face에서 Amazon SageMaker Studio까지",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "source": "Hugging Face",
-      "date": "Tue, 07 Jul 2026 21:15:33 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68abb71b13d7773ad97e9035/f1nX3dXVmvJcQzJfgfpnJ.webp",
       "tags": [],
       "type": "news"
     },
@@ -193,19 +206,6 @@
       "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with",
       "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 받은편지함에서 이와 같은 뉴스를 먼저 받으려면 여기에서 가입하세요. Anthropic—현재 세계에서 가장 가치 있는 AI 회사",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "9b905ecd",
-      "title": "The Download: a donor conception cap and world models for AI",
-      "title_ko": "다운로드: AI를 위한 기증자 개념 캡 및 세계 모델",
-      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 13 Jul 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertilit",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 유럽의 한 임신부는 정자 기증자에게 제한이 필요하다고 말합니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/C0152102-Sperm_bank.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
