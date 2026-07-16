@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T07:54:59.650149+00:00",
+  "updated": "2026-07-16T13:18:21.599004+00:00",
   "items": [
     {
       "id": "534a0446",
@@ -10,7 +10,7 @@
       "date": "Wed, 15 Jul 2026 17:29:41 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/2Ncq9fY3Po30QjlACoYTY.png",
       "tags": [],
       "type": "news"
     },
@@ -23,7 +23,7 @@
       "date": "Wed, 15 Jul 2026 17:27:01 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/642ee6f6ffd6084c6a620985/ibA2XHLJsqDH9VAL-3ou-.png",
       "tags": [],
       "type": "news"
     },
@@ -62,20 +62,7 @@
       "date": "Wed, 15 Jul 2026 00:00:00 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "4c932574",
-      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "title_ko": "Real World VoiceEQ 소개: 음성 AI의 인간 품질 측정",
-      "url": "https://huggingface.co/blog/real-world-voiceeq",
-      "source": "Hugging Face",
-      "date": "Wed, 15 Jul 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "",
+      "thumb": "https://huggingface.co/blog/assets/thinkingmachines-inkling/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -119,19 +106,6 @@
       "type": "news"
     },
     {
-      "id": "b5aa16b3",
-      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-      "title_ko": "PsiQuantum은 빛으로 거대한 양자 컴퓨터를 만들 계획을 가지고 있습니다.",
-      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 14 Jul 2026 08:00:00 +0000",
-      "desc": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet ",
-      "desc_ko": "세상을 바꿀 수 있는 기계는 데이터센터와 아이스크림 공장이 교차된 듯한 방에 보관될 예정이다. 내부에는 약 100개의 스테인레스 스틸 캐비닛이 있으며 각각 약 6피트입니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/PsiQuantum-0459-Headquarters-social.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "지능은 무료입니다. 이제 무엇을 해야 할까요? <br> 에이전트를 위한, 에이전트에 의한 데이터 시스템",
@@ -154,6 +128,58 @@
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
       "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2f85cd9e",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "title_ko": "다운로드: OpenAI, GPT-Red 공개 및 미국에서 열 펌프 증가",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 16 Jul 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to ",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. GPT-Red를 만나보세요: LLM 슈퍼 해커 OpenAI를 위해 구축되었습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "a075d60d",
+      "title": "Newer Models, Same Advantage",
+      "title_ko": "최신 모델, 동일한 장점",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "Hugging Face",
+      "date": "Thu, 16 Jul 2026 11:49:48 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/3HJgWuzAFymnAq6TqEdL7.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "3b0d1e97",
+      "title": "Why heat pumps are still so hot in the US",
+      "title_ko": "미국에서 히트펌프가 여전히 뜨거운 이유",
+      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 16 Jul 2026 10:00:00 +0000",
+      "desc": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. Th",
+      "desc_ko": "한여름에 난방 기구에 대해 생각하는 것조차 불법이어야 하는 것처럼 느껴지지만, 심각하게도 뉴욕의 폭염은 잔인했습니다. 하지만 우리는 열 펌프에 대해 이야기해야 합니다. 목",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/technician-installing-a-modern-air-conditioning-sy-2026-03-20-06-17-16-utc.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "07a9214c",
+      "title": "Security incident disclosure — July 2026",
+      "title_ko": "보안 사고 공개 - 2026년 7월",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "source": "Hugging Face",
+      "date": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/security-incident-july-2026/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -197,19 +223,6 @@
       "type": "news"
     },
     {
-      "id": "50ee0b46",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "title_ko": "Anthropic의 최신 AI 발견이 보여주는 것과 보여주지 않는 것",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 13 Jul 2026 18:00:00 +0000",
-      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with",
-      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 받은편지함에서 이와 같은 뉴스를 먼저 받으려면 여기에서 가입하세요. Anthropic—현재 세계에서 가장 가치 있는 AI 회사",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d40c6edb",
       "title": "Mixture-of-Experts: Early Sparse MoE Prototypes in LLMs",
       "title_ko": "전문가 혼합: LLM의 초기 희소 MoE 프로토타입",
@@ -232,19 +245,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<!-- <img src=\"https://bair.berkeley.edu/static/blog/spex/image1.png\" alt=\"different_tests\" width=\"600\"><br> -->\n<img alt=\"different_tests\"",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 스타일=\"텍스트 정렬: 가운데;\">\n<!-- <img src=\"https://bair.berkeley.edu/static/blog/spex/image1.png\" alt=\"다른_tests\" width=\"600\"><br> -->\n<img alt=\"다른_테스트\"",
       "thumb": "https://bair.berkeley.edu/static/blog/spex/teaser.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "ec381c2c",
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "title_ko": "PyTorch에서 프로파일링(3부): 프로파일링에는 관심이 전부입니다.",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
-      "source": "Hugging Face",
-      "date": "Fri, 10 Jul 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "",
       "tags": [],
       "type": "news"
     },
