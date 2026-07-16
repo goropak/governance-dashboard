@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T01:30:07.204570+00:00",
+  "updated": "2026-07-16T07:54:59.650149+00:00",
   "items": [
     {
       "id": "534a0446",
@@ -10,7 +10,7 @@
       "date": "Wed, 15 Jul 2026 17:29:41 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/2Ncq9fY3Po30QjlACoYTY.png",
+      "thumb": "",
       "tags": [],
       "type": "news"
     },
@@ -23,7 +23,7 @@
       "date": "Wed, 15 Jul 2026 17:27:01 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/642ee6f6ffd6084c6a620985/ibA2XHLJsqDH9VAL-3ou-.png",
+      "thumb": "",
       "tags": [],
       "type": "news"
     },
@@ -62,7 +62,7 @@
       "date": "Wed, 15 Jul 2026 00:00:00 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/thinkingmachines-inkling/thumbnail.png",
+      "thumb": "",
       "tags": [],
       "type": "news"
     },
@@ -75,7 +75,7 @@
       "date": "Wed, 15 Jul 2026 00:00:00 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/real-world-voiceeq/thumbnail.png",
+      "thumb": "",
       "tags": [],
       "type": "news"
     },
@@ -244,7 +244,7 @@
       "date": "Fri, 10 Jul 2026 00:00:00 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/torch-attention-profile/thumbnail.png",
+      "thumb": "",
       "tags": [],
       "type": "news"
     },
