@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T07:51:35.803812+00:00",
+  "updated": "2026-07-17T13:02:55.833269+00:00",
   "items": [
     {
       "id": "534a0446",
@@ -24,32 +24,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/642ee6f6ffd6084c6a620985/ibA2XHLJsqDH9VAL-3ou-.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "0081d2e6",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "title_ko": "GPT-Red를 만나보세요: 모델을 더욱 안전하게 만들기 위해 구축된 LLM 슈퍼 해커 OpenAI",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 15 Jul 2026 17:09:37 +0000",
-      "desc": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver",
-      "desc_ko": "OpenAI는 다른 모델이 사이버 공격에 대한 방어력을 강화할 수 있도록 스파링 파트너로 사용하는 GPT-Red라는 LLM 슈퍼 해커를 구축했습니다. 지난 주에 회사는 최신 버전을 출시했습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "5c918f53",
-      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-      "title_ko": "다운로드: 유용한 양자 기계와 기록적인 해저 터널",
-      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 15 Jul 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum co",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. PsiQuantum은 대규모 양자 공동을 만들 계획을 가지고 있습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/PsiQuantum-0459-Headquarters-social.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -80,19 +54,6 @@
       "type": "news"
     },
     {
-      "id": "64ea7070",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "title_ko": "다운로드: Claude의 내부 작업과 세계 모델의 미래",
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 14 Jul 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and does",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. Anthropic의 최신 AI 발견이 하는 일과 수행하는 작업",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "지능은 무료입니다. 이제 무엇을 해야 할까요? <br> 에이전트를 위한, 에이전트에 의한 데이터 시스템",
@@ -113,7 +74,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -173,7 +134,7 @@
     {
       "id": "07a9214c",
       "title": "Security incident disclosure — July 2026",
-      "title_ko": "보안 사고 공개 — 2026년 7월",
+      "title_ko": "보안 사고 공개 - 2026년 7월",
       "url": "https://huggingface.co/blog/security-incident-july-2026",
       "source": "Hugging Face",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
@@ -199,7 +160,7 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
+      "title_ko": "새 과정: 프로덕션에 바로 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
@@ -232,6 +193,45 @@
       "desc": "Mixture-of-Experts might be one of the most important improvements in the Transformer architecture!",
       "desc_ko": "전문가 혼합은 Transformer 아키텍처의 가장 중요한 개선 사항 중 하나일 수 있습니다!",
       "thumb": "https://substackcdn.com/image/fetch/$s_!2RgN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40a6fd37-5d37-49e4-b10f-d641af576d04_1500x918.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6d08c5b7",
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "title_ko": "다운로드: 폐경 전후의 잘못된 정보와 중국의 최신 AI 도약",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 17 Jul 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t ",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 폐경기 주변에는 과대 광고가 많이 있습니다. 하지 않다",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2210176273.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "60f1cf5a",
+      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+      "title_ko": "폐경기 주변에는 과대 광고가 많이 있습니다. 사지 마세요.",
+      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 17 Jul 2026 09:00:00 +0000",
+      "desc": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers.",
+      "desc_ko": "갱년기 장애가 채팅에 들어왔습니다. 폐경기 전후기와 더 잘 알려진 폐경기는 금기시되는 것으로 간주되었습니다. 더 이상은 아닙니다. 적어도 부분적으로는 TV 의사와 소셜 미디어 영향력 행사자에게 감사드립니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2210176273.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "5777494d",
+      "title": "The risk of weather data sabotage is rising",
+      "title_ko": "기상 데이터 방해 행위의 위험이 증가하고 있습니다.",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 17 Jul 2026 08:57:32 +0000",
+      "desc": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance",
+      "desc_ko": "매일 아침 전 세계의 항공사 운영자, 전력망 운영자, 농부들은 같은 일기 예보를 바탕으로 결정을 내립니다. 이러한 예측은 대부분의 사람들이 보는 것이지만",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/fantastical-tornado3a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
