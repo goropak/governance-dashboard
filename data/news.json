@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T18:49:27.126053+00:00",
+  "updated": "2026-07-20T01:57:42.320292+00:00",
   "items": [
     {
       "id": "534a0446",
@@ -35,7 +35,7 @@
       "source": "BAIR",
       "date": "Wed, 01 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n<p>2026년 버클리 인공지능 연구(BAIR) 연구실 수업을 축하합니다! 올해 BAIR는 또 다른 주목할만한 박사 학위 그룹을 축하합니다. cu 졸업생",
+      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n<p>2026년 버클리 인공지능 연구(BAIR) 연구실 수업을 축하합니다! 올해 BAIR는 또 다른 주목할만한 박사 학위 그룹을 축하합니다. 졸업생",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
       "tags": [],
       "type": "news"
@@ -43,7 +43,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -74,7 +74,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -121,7 +121,7 @@
     {
       "id": "07a9214c",
       "title": "Security incident disclosure — July 2026",
-      "title_ko": "보안 사고 공개 — 2026년 7월",
+      "title_ko": "보안 사고 공개 - 2026년 7월",
       "url": "https://huggingface.co/blog/security-incident-july-2026",
       "source": "Hugging Face",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
@@ -217,7 +217,7 @@
       "source": "MIT Tech Review",
       "date": "Fri, 17 Jul 2026 09:00:00 +0000",
       "desc": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers.",
-      "desc_ko": "갱년기 장애가 채팅에 들어왔습니다. 폐경기 전후와 더 잘 알려진 폐경기는 금기시되는 것으로 간주되었습니다. 더 이상은 아닙니다. 적어도 부분적으로는 TV 의사와 소셜 미디어 영향력 행사자에게 감사드립니다.",
+      "desc_ko": "갱년기 장애가 채팅에 들어왔습니다. 폐경기 전후기와 더 잘 알려진 폐경기는 금기시되는 것으로 간주되었습니다. 더 이상은 아닙니다. 적어도 부분적으로는 TV 의사와 소셜 미디어 영향력 행사자에게 감사드립니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2210176273.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
