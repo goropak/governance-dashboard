@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T01:30:23.796593+00:00",
+  "updated": "2026-07-21T08:07:19.714128+00:00",
   "items": [
     {
       "id": "534a0446",
@@ -35,7 +35,7 @@
       "source": "BAIR",
       "date": "Wed, 01 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n<p>2026년 버클리 인공지능 연구(BAIR) 연구실 수업을 축하합니다! 올해 BAIR는 또 다른 주목할만한 박사 학위 그룹을 축하합니다. cu 졸업생",
+      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n<p>2026년 버클리 인공지능 연구(BAIR) 연구실 수업을 축하합니다! 올해 BAIR는 또 다른 주목할만한 박사 학위 그룹을 축하합니다. 졸업생",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
       "tags": [],
       "type": "news"
@@ -43,7 +43,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -95,7 +95,7 @@
     {
       "id": "07a9214c",
       "title": "Security incident disclosure — July 2026",
-      "title_ko": "보안 사고 공개 - 2026년 7월",
+      "title_ko": "보안 사고 공개 — 2026년 7월",
       "url": "https://huggingface.co/blog/security-incident-july-2026",
       "source": "Hugging Face",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
@@ -178,7 +178,7 @@
       "source": "MIT Tech Review",
       "date": "Mon, 20 Jul 2026 08:39:01 +0000",
       "desc": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up ",
-      "desc_ko": "다음 번에 일자리를 신청할 때 AI는 사람이 보기 전에 이력서를 검사할 수 있습니다. 그러나 AI가 당신을 공정하게 판단할 것인지 의문을 제기할 충분한 이유가 있습니다. 연구원들은 이미 LLM이 학습을 수행한다는 사실을 알고 있습니다.",
+      "desc_ko": "다음 번에 일자리를 신청할 때 AI는 사람이 보기 전에 이력서를 검사할 수 있습니다. 그러나 AI가 당신을 공정하게 판단할 것인지 의문을 제기할 충분한 이유가 있습니다. 연구자들은 이미 LLM이 학습한다는 사실을 알고 있습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -230,7 +230,7 @@
       "source": "MIT Tech Review",
       "date": "Fri, 17 Jul 2026 09:00:00 +0000",
       "desc": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers.",
-      "desc_ko": "갱년기 장애가 채팅에 들어왔습니다. 폐경기 전후와 더 잘 알려진 폐경기는 금기시되는 것으로 간주되었습니다. 더 이상은 아닙니다. 적어도 부분적으로는 TV 의사와 소셜 미디어 영향력 행사자에게 감사드립니다.",
+      "desc_ko": "갱년기 장애가 채팅에 들어왔습니다. 폐경기 전후기와 더 잘 알려진 폐경기는 금기시되는 것으로 간주되었습니다. 더 이상은 아닙니다. 적어도 부분적으로는 TV 의사와 소셜 미디어 영향력 행사자에게 감사드립니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2210176273.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
