@@ -1,6 +1,32 @@
 {
-  "updated": "2026-07-22T08:07:31.136602+00:00",
+  "updated": "2026-07-22T13:20:29.361120+00:00",
   "items": [
+    {
+      "id": "b030bc34",
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "title_ko": "다운로드: NASA의 새로운 우주 망원경과 OpenAI의 자율 해커",
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 22 Jul 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telesco",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. NASA의 새로운 우주 망원경의 형태 변화 거울",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.gif?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "def4f0c1",
+      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+      "title_ko": "NASA의 새로운 우주 망원경의 형태 변화 거울은 우리와 같은 목성을 드러낼 수 있습니다.",
+      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 22 Jul 2026 09:00:00 +0000",
+      "desc": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first",
+      "desc_ko": "NASA의 낸시 그레이스 로마 우주망원경이 이르면 다음 달 말에 발사되면 천문학계에서 지금까지 가장 정확한 소멸 현상 중 하나를 시도하게 될 것입니다. 망원경이 첫 번째를 운반할 것이다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.gif?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "534a0446",
       "title": "What building Shippy taught us about building agents",
@@ -180,32 +206,6 @@
       "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ",
       "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 먼저 받은 편지함에서 이와 같은 기사를 받으려면 여기에서 가입하세요. 주말 동안 여러 현직 및 전직 고문들이",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2194586709.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "d3e0bcea",
-      "title": "The Download: AI hiring biases, and weather data sabotage",
-      "title_ko": "다운로드: AI 채용 편견 및 날씨 데이터 방해 행위",
-      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 20 Jul 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when ",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. AI는 인간보다 편견을 형성할 가능성이 더 높습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "d213c30d",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "title_ko": "AI는 인간보다 채용 시 편견을 형성할 가능성이 더 높습니다.",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 20 Jul 2026 08:39:01 +0000",
-      "desc": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up ",
-      "desc_ko": "다음 번에 일자리를 신청할 때 AI는 사람이 보기 전에 이력서를 검토할 수 있습니다. 그러나 AI가 당신을 공정하게 판단할 것인지 의문을 제기할 충분한 이유가 있습니다. 연구자들은 이미 LLM이 학습한다는 사실을 알고 있습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
