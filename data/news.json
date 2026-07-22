@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T19:03:04.125597+00:00",
+  "updated": "2026-07-22T01:29:52.445691+00:00",
   "items": [
     {
       "id": "534a0446",
@@ -37,6 +37,19 @@
       "desc": "Project-Based Course",
       "desc_ko": "프로젝트 기반 코스",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "4be84331",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "title_ko": "물리적 AI 시뮬레이션 상태: 개요",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "source": "Hugging Face",
+      "date": "Tue, 21 Jul 2026 20:00:27 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6994dc99f850a10f03fd0b21/qW-EiAM1rpPTBCzGK-Cbx.png",
       "tags": [],
       "type": "news"
     },
@@ -167,19 +180,6 @@
       "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ",
       "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 먼저 받은 편지함에서 이와 같은 기사를 받으려면 여기에서 가입하세요. 주말 동안 여러 현직 및 전직 고문들이",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2194586709.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "86f2663f",
-      "title": "Introducing Cosmos 3 Edge",
-      "title_ko": "코스모스 3 엣지 소개",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "source": "Hugging Face",
-      "date": "Mon, 20 Jul 2026 15:58:51 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6a45813c717ace23b8c3b562/9_7TYr_qt6fVauHKiFGh5.png",
       "tags": [],
       "type": "news"
     },
