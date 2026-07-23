@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T13:23:20.124134+00:00",
+  "updated": "2026-07-23T18:58:36.280488+00:00",
   "items": [
     {
       "id": "b030bc34",
@@ -11,19 +11,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telesco",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. NASA의 새로운 우주 망원경의 형태 변화 거울",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.gif?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "def4f0c1",
-      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
-      "title_ko": "NASA의 새로운 우주 망원경의 형태 변화 거울은 우리와 같은 목성을 드러낼 수 있습니다.",
-      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 22 Jul 2026 09:00:00 +0000",
-      "desc": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first",
-      "desc_ko": "NASA의 낸시 그레이스 로마 우주망원경이 이르면 다음 달 말에 발사되면 천문학계에서 지금까지 가장 정확한 소멸 현상 중 하나를 시도하게 될 것입니다. 망원경이 첫 번째를 운반할 것이다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -100,8 +87,21 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "ba665883",
+      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+      "title_ko": "과냉각 신장을 돼지에 이식한 '획기적 성과'",
+      "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 23 Jul 2026 16:58:28 +0000",
+      "desc": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a reci",
+      "desc_ko": "장기 기증에 있어서는 시간이 가장 중요합니다. 기증자의 신체에서 장기를 조심스럽게 제거하자마자 장기는 악화되기 시작합니다. 외과의사가 보고서를 작성하는 데 몇 시간이 걸립니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/270622_livercooling_v3.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -134,7 +134,7 @@
     {
       "id": "31cc69d5",
       "title": "The power line that could reshape New York’s grid is hitting snags",
-      "title_ko": "뉴욕의 전력망을 재편성할 수 있는 전력선이 걸림돌에 부딪치고 있습니다",
+      "title_ko": "뉴욕의 전력망을 재편성할 수 있는 전력선이 걸림돌에 부딪히고 있습니다",
       "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
       "source": "MIT Tech Review",
       "date": "Thu, 23 Jul 2026 09:00:00 +0000",
@@ -173,7 +173,7 @@
     {
       "id": "07a9214c",
       "title": "Security incident disclosure — July 2026",
-      "title_ko": "보안 사고 공개 — 2026년 7월",
+      "title_ko": "보안 사고 공개 - 2026년 7월",
       "url": "https://huggingface.co/blog/security-incident-july-2026",
       "source": "Hugging Face",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
