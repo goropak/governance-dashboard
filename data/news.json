@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T13:16:37.127253+00:00",
+  "updated": "2026-07-24T19:11:10.762145+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -9,7 +9,7 @@
       "source": "BAIR",
       "date": "Wed, 01 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n<p>2026년 버클리 인공지능 연구(BAIR) 연구실 수업을 축하합니다! 올해 BAIR는 또 다른 주목할만한 박사 학위 그룹을 축하합니다. cu 졸업생",
+      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n<p>2026년 버클리 인공지능 연구(BAIR) 연구실 수업을 축하합니다! 올해 BAIR는 또 다른 주목할만한 박사 학위 그룹을 축하합니다. 졸업생",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
       "tags": [],
       "type": "news"
@@ -119,19 +119,6 @@
       "type": "news"
     },
     {
-      "id": "31cc69d5",
-      "title": "The power line that could reshape New York’s grid is hitting snags",
-      "title_ko": "뉴욕의 전력망을 재편성할 수 있는 전력선이 걸림돌에 부딪치고 있습니다",
-      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 23 Jul 2026 09:00:00 +0000",
-      "desc": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that p",
-      "desc_ko": "폭염이 지역을 휩쓴 7월 3일, 뉴욕주의 전력망은 캐나다로부터 52기가와트시 전력을 수입했습니다. 이는 그날 전체 전력 수요의 약 9%를 충족하기에 충분했습니다. 그 중 일부",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/NKT_CHPE-6_2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "a8b687ef",
       "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
       "title_ko": "Nunchaku 4비트 확산 추론을 디퓨저에 적용",
@@ -206,6 +193,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div style=\"display: flex; margin-bottom: 1.5em;\">\n  <img alt=\"BallNav demo\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T dem",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div 스타일=\"디스플레이: 플렉스; 여백-하단: 1.5em;\">\n  <img alt=\"BallNav 데모\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T 뎀",
       "thumb": "https://bair.berkeley.edu/static/blog/grasp/pusht_zoomout.gif",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "0ad2f376",
+      "title": "The quest to keep organs alive outside the body",
+      "title_ko": "신체 외부의 장기를 살아있게 유지하려는 탐구",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 24 Jul 2026 17:03:55 +0000",
+      "desc": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside ",
+      "desc_ko": "이번 주에는 신체 외부의 장기를 보존하려는 흥미로운 노력에 대해 다루었습니다. 기증 장기가 엄청나게 부족한데, 주된 이유 중 하나는 시간입니다. 밖에서는 몇 시간만 생존할 수 있습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/organ-transport.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
