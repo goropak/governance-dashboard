@@ -1,19 +1,6 @@
 {
-  "updated": "2026-07-24T08:06:29.864660+00:00",
+  "updated": "2026-07-24T13:16:37.127253+00:00",
   "items": [
-    {
-      "id": "b030bc34",
-      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-      "title_ko": "다운로드: NASA의 새로운 우주 망원경과 OpenAI의 자율 해커",
-      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 22 Jul 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telesco",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. NASA의 새로운 우주 망원경의 형태 변화 거울",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.gif?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
     {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
@@ -219,6 +206,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div style=\"display: flex; margin-bottom: 1.5em;\">\n  <img alt=\"BallNav demo\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T dem",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div 스타일=\"디스플레이: 플렉스; 여백-하단: 1.5em;\">\n  <img alt=\"BallNav 데모\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T 뎀",
       "thumb": "https://bair.berkeley.edu/static/blog/grasp/pusht_zoomout.gif",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6f3dc14c",
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "title_ko": "다운로드: 장기 이식의 획기적인 발전과 중국산 칩",
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 24 Jul 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pi",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 과냉각 신장이 파이에 이식되었습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/270622_livercooling_v3.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
