@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T01:47:42.754926+00:00",
+  "updated": "2026-07-26T08:06:35.725292+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -74,7 +74,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -87,7 +87,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 23 Jul 2026 16:58:28 +0000",
       "desc": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a reci",
-      "desc_ko": "장기 기증에 있어서는 시간이 가장 중요합니다. 기증자의 신체에서 장기를 조심스럽게 제거하자마자 장기는 악화되기 시작합니다. 외과의사가 보고서를 작성하는 데 몇 시간이 걸립니다.",
+      "desc_ko": "장기 기증에 있어서는 시간이 가장 중요합니다. 기증자의 몸에서 장기를 조심스럽게 제거하자마자 장기는 악화되기 시작합니다. 외과의사가 보고서를 작성하는 데 몇 시간이 걸립니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/270622_livercooling_v3.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -204,7 +204,7 @@
       "source": "MIT Tech Review",
       "date": "Fri, 24 Jul 2026 17:03:55 +0000",
       "desc": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside ",
-      "desc_ko": "이번 주에는 신체 외부의 장기를 보존하려는 흥미로운 노력에 대해 다루었습니다. 기증 장기가 엄청나게 부족한데, 주된 이유 중 하나는 시간입니다. 외부에서는 단 몇 시간만 생존할 수 있습니다.",
+      "desc_ko": "이번 주에는 신체 외부의 장기를 보존하려는 흥미로운 노력에 대해 다루었습니다. 기증 장기가 엄청나게 부족한데, 주된 이유 중 하나는 시간입니다. 밖에서는 몇 시간만 생존할 수 있습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/organ-transport.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
