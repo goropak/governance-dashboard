@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T14:09:52.045793+00:00",
+  "updated": "2026-07-27T19:11:00.056711+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -17,7 +17,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -108,7 +108,7 @@
     {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -128,6 +128,32 @@
       "desc": "AI Agent frameworks are becoming just as important as model training itself!",
       "desc_ko": "AI 에이전트 프레임워크는 모델 훈련 자체만큼 중요해지고 있습니다!",
       "thumb": "https://substackcdn.com/image/fetch/$s_!o1BQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2431b183-b2fc-4935-87f1-689b6846781a_1024x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "bd9265e4",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "title_ko": "OpenAI는 Hugging Face 공격을 전례 없는 공격이라고 불렀습니다. 하지만 우리는 전에 여기에 와본 적이 있어요.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 27 Jul 2026 18:00:00 +0000",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its mod",
+      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 먼저 받은 편지함에서 이와 같은 기사를 받으려면 여기에서 가입하세요. 지난주 OpenAI의 일부 모드에 대한 계정 읽기",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/redteam-faceoff.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "aa693ec6",
+      "title": "How lasers could help provide fuel for nuclear reactors",
+      "title_ko": "레이저가 원자로에 연료를 공급하는 데 어떻게 도움이 될 수 있습니까?",
+      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 27 Jul 2026 14:24:42 +0000",
+      "desc": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could",
+      "desc_ko": "켄터키 주 파두카라는 작은 마을 외곽에는 현재 폐쇄된 핵 농축 시설에서 나온 폐기물로 가득 찬 수천 개의 저장 실린더에 풍부한 우라늄이 갇혀 있습니다. 레이저는",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260722_lasernuclear.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -171,19 +197,6 @@
       "type": "news"
     },
     {
-      "id": "d10dbf6a",
-      "title": "Building the enterprise environment for agentic AI",
-      "title_ko": "에이전트 AI를 위한 엔터프라이즈 환경 구축",
-      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 27 Jul 2026 11:32:58 +0000",
-      "desc": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems",
-      "desc_ko": "기업에게 에이전트 AI의 약속은 단순히 더 나은 챗봇 그 이상입니다. 사람, 비즈니스 워크플로우, 데이터 및 시스템 전반에 걸쳐 엔드투엔드 비즈니스 작업을 실행하는 소프트웨어 에이전트입니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Intel-contributed-iStock-1366067377.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "b24ba357",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
       "title_ko": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입",
@@ -219,19 +232,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div style=\"display: flex; margin-bottom: 1.5em;\">\n  <img alt=\"BallNav demo\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T dem",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div 스타일=\"디스플레이: 플렉스; 여백-하단: 1.5em;\">\n  <img alt=\"BallNav 데모\" src=\"https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif\" />\n  <img alt=\"Push-T 뎀",
       "thumb": "https://bair.berkeley.edu/static/blog/grasp/pusht_zoomout.gif",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "0ad2f376",
-      "title": "The quest to keep organs alive outside the body",
-      "title_ko": "신체 외부의 장기를 살아있게 유지하려는 탐구",
-      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 24 Jul 2026 17:03:55 +0000",
-      "desc": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside ",
-      "desc_ko": "이번 주에는 신체 외부의 장기를 보존하려는 흥미로운 노력에 대해 다루었습니다. 기증 장기가 엄청나게 부족한데, 주된 이유 중 하나는 시간입니다. 외부에서는 단 몇 시간만 생존할 수 있습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/organ-transport.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
