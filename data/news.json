@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T01:54:31.848597+00:00",
+  "updated": "2026-07-27T09:28:52.104398+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -158,6 +158,19 @@
       "type": "news"
     },
     {
+      "id": "20fb9af9",
+      "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
+      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "source": "BAIR",
+      "date": "Sun, 26 Jul 2026 02:00:00 -0700",
+      "desc": "<!-- twitter -->\n\n\n\n\n\n\n<!-- PREVIEW: <meta name=\"twitter:image\" content=\"https://bairblog.github.io/assets/abbel/cover.png\"> -->\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img al",
+      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n<!-- 미리보기: <meta name=\"twitter:image\" content=\"https://bairblog.github.io/assets/abbel/cover.png\"> -->\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img 알",
+      "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "138e52b8",
       "title": "AdalFlow: A PyTorch-Like Framework to Auto-Optimizing Prompt for your LLM agent",
       "title_ko": "AdalFlow: LLM 에이전트에 대한 자동 최적화 프롬프트를 위한 PyTorch와 유사한 프레임워크",
@@ -232,19 +245,6 @@
       "desc": "Mixture-of-Experts might be one of the most important improvements in the Transformer architecture!",
       "desc_ko": "전문가 혼합은 Transformer 아키텍처의 가장 중요한 개선 사항 중 하나일 수 있습니다!",
       "thumb": "https://substackcdn.com/image/fetch/$s_!2RgN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40a6fd37-5d37-49e4-b10f-d641af576d04_1500x918.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "8a70deff",
-      "title": "Identifying Interactions at Scale for LLMs",
-      "title_ko": "LLM을 위한 대규모 상호작용 식별",
-      "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/",
-      "source": "BAIR",
-      "date": "Fri, 13 Mar 2026 02:00:00 -0700",
-      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<!-- <img src=\"https://bair.berkeley.edu/static/blog/spex/image1.png\" alt=\"different_tests\" width=\"600\"><br> -->\n<img alt=\"different_tests\"",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 스타일=\"텍스트 정렬: 가운데;\">\n<!-- <img src=\"https://bair.berkeley.edu/static/blog/spex/image1.png\" alt=\"다른_tests\" width=\"600\"><br> -->\n<img alt=\"다른_테스트\"",
-      "thumb": "https://bair.berkeley.edu/static/blog/spex/teaser.png",
       "tags": [],
       "type": "news"
     },
