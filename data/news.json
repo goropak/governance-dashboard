@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T08:13:29.594839+00:00",
+  "updated": "2026-07-28T13:28:58.130989+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -11,6 +11,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n<p>2026년 버클리 인공지능 연구(BAIR) 연구실 수업을 축하합니다! 올해 BAIR는 또 다른 주목할만한 박사 학위 그룹을 축하합니다. cu 졸업생",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c57d8e18",
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "title_ko": "다운로드: OpenAI의 예측 가능한 해킹과 AI 주식 매도",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 28 Jul 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedente",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. OpenAI는 Hugging Face 공격이 전례가 없다고 말했습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/redteam-faceoff.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e9c7d242",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "title_ko": "삼성전자 반도체 인력, SK하이닉스로 도약",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 28 Jul 2026 09:18:57 +0000",
+      "desc": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight",
+      "desc_ko": "삼성 반도체 사업부의 엔지니어인 이 씨는 근무 시간이 끝나면 퇴근한다. 그는 자신의 프로젝트에서 탁월한 성과를 내기 위해 더 오랜 시간 일했고, 더 많은 노력을 기울였습니다. 그런데 최근에 그 사람이 똑바로 오고 있어요.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -167,32 +193,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear rea",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 레이저가 핵발전소에 연료를 공급하는 데 어떻게 도움이 될 수 있습니까?",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260722_lasernuclear.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "25cc5f27",
-      "title": "The path to artificial superintelligence",
-      "title_ko": "인공 초지능으로 가는 길",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 27 Jul 2026 12:00:00 +0000",
-      "desc": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they ",
-      "desc_ko": "증상 평가를 관리하는 에이전트, 일정 관리, 세 번째 보험, 네 번째 약국 등 여러 AI 에이전트로 구성된 의료 시스템을 상상해 보세요. 각자는 해당 분야의 전문가입니다. 하지만 그들은",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "31a791e8",
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "title_ko": "AI 기반 신약 발견의 데이터 루프 종료",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 27 Jul 2026 11:40:16 +0000",
-      "desc": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceutical",
-      "desc_ko": "신약 발견은 선점자 이점으로 점점 더 정의되는 시장의 압박을 받고 있는 고비용, 고위험 노력입니다. 1950년대 이후 신약 개발 비용은",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
