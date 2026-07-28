@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T19:11:00.056711+00:00",
+  "updated": "2026-07-28T01:29:04.035999+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -17,7 +17,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -61,7 +61,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -95,7 +95,7 @@
     {
       "id": "07a9214c",
       "title": "Security incident disclosure — July 2026",
-      "title_ko": "보안 사고 공개 — 2026년 7월",
+      "title_ko": "보안 사고 공개 - 2026년 7월",
       "url": "https://huggingface.co/blog/security-incident-july-2026",
       "source": "Hugging Face",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
@@ -108,7 +108,7 @@
     {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -152,7 +152,7 @@
       "source": "MIT Tech Review",
       "date": "Mon, 27 Jul 2026 14:24:42 +0000",
       "desc": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could",
-      "desc_ko": "켄터키 주 파두카라는 작은 마을 외곽에는 현재 폐쇄된 핵 농축 시설에서 나온 폐기물로 가득 찬 수천 개의 저장 실린더에 풍부한 우라늄이 갇혀 있습니다. 레이저는",
+      "desc_ko": "켄터키주 파두카(Paducah)라는 작은 마을 외곽에는 현재 폐쇄된 핵 농축 시설에서 나온 폐기물로 가득 찬 수천 개의 저장 실린더에 풍부한 우라늄이 갇혀 있습니다. 레이저는",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260722_lasernuclear.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -199,7 +199,7 @@
     {
       "id": "b24ba357",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "title_ko": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입",
+      "title_ko": "NVIDIA Cosmos-H-Dreams: 수술용 로봇 공학에 실시간 생성 시뮬레이션 도입",
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "source": "Hugging Face",
       "date": "Mon, 27 Jul 2026 09:32:20 GMT",
