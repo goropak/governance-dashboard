@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T13:28:58.130989+00:00",
+  "updated": "2026-07-28T19:06:04.433100+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -11,6 +11,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n<p>2026년 버클리 인공지능 연구(BAIR) 연구실 수업을 축하합니다! 올해 BAIR는 또 다른 주목할만한 박사 학위 그룹을 축하합니다. cu 졸업생",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f57b088c",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "title_ko": "OlmoEarth 플랫폼: 행성 규모의 지리공간 추론",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "source": "Hugging Face",
+      "date": "Tue, 28 Jul 2026 16:27:42 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/N27UuRDvcQy4CvmrzRKAE.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "9a40059e",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "title_ko": "CPU에서 빠른 장기 컨텍스트 추론을 위한 LFM2.5 인코더",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "source": "Hugging Face",
+      "date": "Tue, 28 Jul 2026 15:01:45 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/n-ZhnrOiuWH5rhAFi86lL.png",
       "tags": [],
       "type": "news"
     },
@@ -35,7 +61,7 @@
       "source": "MIT Tech Review",
       "date": "Tue, 28 Jul 2026 09:18:57 +0000",
       "desc": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight",
-      "desc_ko": "삼성 반도체 사업부의 엔지니어인 이 씨는 근무 시간이 끝나면 퇴근한다. 그는 자신의 프로젝트에서 탁월한 성과를 내기 위해 더 오랜 시간 일했고, 더 많은 노력을 기울였습니다. 그런데 최근에 그 사람이 똑바로 오고 있어요.",
+      "desc_ko": "삼성 반도체 사업부의 엔지니어인 이씨는 근무 시간이 끝나면 퇴근한다. 그는 자신의 프로젝트에서 탁월한 성과를 내기 위해 더 오랜 시간 일했고, 더 많은 노력을 기울였습니다. 그런데 최근에 그 사람이 똑바로 오고 있어요.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -106,35 +132,9 @@
       "type": "news"
     },
     {
-      "id": "a075d60d",
-      "title": "Newer Models, Same Advantage",
-      "title_ko": "최신 모델, 동일한 장점",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "source": "Hugging Face",
-      "date": "Thu, 16 Jul 2026 11:49:48 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/3HJgWuzAFymnAq6TqEdL7.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "07a9214c",
-      "title": "Security incident disclosure — July 2026",
-      "title_ko": "보안 사고 공개 - 2026년 7월",
-      "url": "https://huggingface.co/blog/security-incident-july-2026",
-      "source": "Hugging Face",
-      "date": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/security-incident-july-2026/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -178,7 +178,7 @@
       "source": "MIT Tech Review",
       "date": "Mon, 27 Jul 2026 14:24:42 +0000",
       "desc": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could",
-      "desc_ko": "켄터키주 파두카(Paducah)라는 작은 마을 외곽에는 현재 폐쇄된 핵 농축 시설에서 나온 폐기물로 가득 찬 수천 개의 저장 실린더에 풍부한 우라늄이 갇혀 있습니다. 레이저는",
+      "desc_ko": "켄터키 주 파두카라는 작은 마을 외곽에는 현재 폐쇄된 핵 농축 시설에서 나온 폐기물로 가득 찬 수천 개의 저장 실린더에 풍부한 우라늄이 갇혀 있습니다. 레이저는",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260722_lasernuclear.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -199,7 +199,7 @@
     {
       "id": "b24ba357",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "title_ko": "NVIDIA Cosmos-H-Dreams: 수술용 로봇 공학에 실시간 생성 시뮬레이션 도입",
+      "title_ko": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입",
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "source": "Hugging Face",
       "date": "Mon, 27 Jul 2026 09:32:20 GMT",
