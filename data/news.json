@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T19:06:04.433100+00:00",
+  "updated": "2026-07-29T01:28:55.836741+00:00",
   "items": [
     {
       "id": "484c06b2",
@@ -76,19 +76,6 @@
       "desc": "Project-Based Course",
       "desc_ko": "프로젝트 기반 코스",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "4e39045e",
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "title_ko": "Grabette: 로봇 조작 데이터를 기록하는 개방형 시스템",
-      "url": "https://huggingface.co/blog/grabette",
-      "source": "Hugging Face",
-      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/grabette/thumbnail_grabette.png",
       "tags": [],
       "type": "news"
     },
@@ -206,6 +193,19 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68c1279544f671330c604f4c/Cj0RZwvOSUhFGFEFKgyDw.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "45ee50f0",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "title_ko": "프론티어 연구소 요원 침입 분석: 2026년 7월 사건의 기술적 타임라인",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "source": "Hugging Face",
+      "date": "Mon, 27 Jul 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/agent-intrusion-technical-timeline/thumbnail.png",
       "tags": [],
       "type": "news"
     },
