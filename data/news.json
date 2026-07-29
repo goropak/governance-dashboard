@@ -1,6 +1,32 @@
 {
-  "updated": "2026-07-29T08:18:50.103989+00:00",
+  "updated": "2026-07-29T13:44:31.466919+00:00",
   "items": [
+    {
+      "id": "b43ed6d2",
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "title_ko": "다운로드: 칩 인재 전쟁과 AI 과대광고의 위축",
+      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 29 Jul 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival S",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 삼성의 칩 노동자들은 경쟁사인 S로 뛰어들고 있다",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b4d3a90f",
+      "title": "The AI Hype Index: Unsexy AI",
+      "title_ko": "AI 과대 광고 지수: 섹시하지 않은 AI",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 29 Jul 2026 08:42:57 +0000",
+      "desc": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly ",
+      "desc_ko": "주요 경제학자들이 서명한 공개 서한에서 AI가 당신의 일자리를 훔칠 수 있다고 경고하는 것은 충분히 안타까운 일입니다. 곧 저녁 식사를 준비하는 데 당신보다 나아질 수도 있다는 사실? 부상에 대한 모욕. 그런데 그게 바로",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/JUL26-thumb.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
@@ -69,7 +95,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -158,35 +184,9 @@
       "type": "news"
     },
     {
-      "id": "aa693ec6",
-      "title": "How lasers could help provide fuel for nuclear reactors",
-      "title_ko": "레이저가 원자로에 연료를 공급하는 데 어떻게 도움이 될 수 있습니까?",
-      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 27 Jul 2026 14:24:42 +0000",
-      "desc": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could",
-      "desc_ko": "켄터키주 파두카(Paducah)라는 작은 마을 외곽에는 현재 폐쇄된 핵 농축 시설에서 나온 폐기물로 가득 찬 수천 개의 저장 실린더에 풍부한 우라늄이 갇혀 있습니다. 레이저는",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260722_lasernuclear.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "a380c4dc",
-      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "title_ko": "다운로드: 핵 연료용 레이저 및 장기 보존 발전",
-      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 27 Jul 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear rea",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 레이저가 핵발전소에 연료를 공급하는 데 어떻게 도움이 될 수 있습니까?",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260722_lasernuclear.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "b24ba357",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "title_ko": "NVIDIA Cosmos-H-Dreams: 수술용 로봇 공학에 실시간 생성 시뮬레이션 도입",
+      "title_ko": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입",
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "source": "Hugging Face",
       "date": "Mon, 27 Jul 2026 09:32:20 GMT",
