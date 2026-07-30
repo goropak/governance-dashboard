@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T01:21:58.489681+00:00",
+  "updated": "2026-07-30T08:06:40.820421+00:00",
   "items": [
     {
       "id": "2ef3d49a",
@@ -9,7 +9,7 @@
       "source": "MIT Tech Review",
       "date": "Wed, 29 Jul 2026 17:58:44 +0000",
       "desc": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, maki",
-      "desc_ko": "2024년 6월, Zanskar라는 소규모 회사는 빠르게 실패하고 있는 뉴멕시코의 지열 발전소를 구입했습니다. 지하저수지에서 나오는 물이 날이 갈수록 차가워지더라구요, 마키",
+      "desc_ko": "2024년 6월, Zanskar라는 소규모 회사는 빠르게 실패하고 있는 뉴멕시코의 지열 발전소를 구입했습니다. 지하 저수지에서 나오는 물이 날이 갈수록 차가워지고 있었어요, 마키",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Lightning-Dock-NM-Zanskar.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -35,7 +35,7 @@
       "source": "MIT Tech Review",
       "date": "Wed, 29 Jul 2026 08:42:57 +0000",
       "desc": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly ",
-      "desc_ko": "주요 경제학자들이 서명한 공개 서한에서 AI가 당신의 직업을 훔칠 수 있다고 경고하는 것은 충분히 안타까운 일입니다. 곧 저녁 식사를 준비하는 데 당신보다 나아질 수도 있다는 사실? 부상에 대한 모욕. 그런데 그게 바로",
+      "desc_ko": "주요 경제학자들이 서명한 공개 서한에서 AI가 당신의 일자리를 빼앗을 수 있다고 경고하는 것은 충분히 안타까운 일입니다. 곧 저녁 식사를 준비하는 데 당신보다 나아질 수도 있다는 사실? 부상에 대한 모욕. 그런데 그게 바로",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/JUL26-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -113,7 +113,7 @@
       "source": "MIT Tech Review",
       "date": "Tue, 28 Jul 2026 09:18:57 +0000",
       "desc": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight",
-      "desc_ko": "삼성 반도체 사업부의 엔지니어인 이 씨는 근무 시간이 끝나면 퇴근한다. 그는 자신의 프로젝트에서 탁월한 성과를 내기 위해 더 오랜 시간 일했고, 더 많은 노력을 기울였습니다. 그런데 최근에 그 사람이 똑바로 오고 있어요.",
+      "desc_ko": "삼성 반도체 사업부의 엔지니어인 이씨는 근무 시간이 끝나면 퇴근한다. 그는 자신의 프로젝트에서 탁월한 성과를 내기 위해 더 오랜 시간 일했고, 더 많은 노력을 기울였습니다. 그런데 최근에 그 사람이 똑바로 오고 있어요.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -121,7 +121,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -199,7 +199,7 @@
     {
       "id": "b24ba357",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "title_ko": "NVIDIA Cosmos-H-Dreams: 수술용 로봇 공학에 실시간 생성 시뮬레이션 도입",
+      "title_ko": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입",
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "source": "Hugging Face",
       "date": "Mon, 27 Jul 2026 09:32:20 GMT",
