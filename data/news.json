@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T13:25:41.142836+00:00",
+  "updated": "2026-07-30T19:08:09.651139+00:00",
   "items": [
     {
       "id": "2ef3d49a",
@@ -24,19 +24,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival S",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 삼성의 칩 노동자들은 경쟁사인 S로 뛰어들고 있다",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "b4d3a90f",
-      "title": "The AI Hype Index: Unsexy AI",
-      "title_ko": "AI 과대 광고 지수: 섹시하지 않은 AI",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 29 Jul 2026 08:42:57 +0000",
-      "desc": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly ",
-      "desc_ko": "주요 경제학자들이 서명한 공개 서한에서 AI가 당신의 일자리를 훔칠 수 있다고 경고하는 것은 충분히 안타까운 일입니다. 곧 저녁 식사를 준비하는 데 당신보다 나아질 수도 있다는 사실? 부상에 대한 모욕. 그런데 그게 바로",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/JUL26-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -126,8 +113,34 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "3c7c2d3e",
+      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+      "title_ko": "실험적인 의료 허브가 되려는 몬타나의 계획이 추진되었습니다",
+      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 30 Jul 2026 17:10:00 +0000",
+      "desc": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few a",
+      "desc_ko": "이번 주 몬태나주에서는 실험 약물을 보유한 모든 생명공학 회사가 이를 소비자에게 판매할 수 있는 명확한 경로를 갖고 있습니다. 약품이 예비 테스트를 거친 회사(때로는 단 몇 시간 만에)",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/montana-treatments2.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "bac0f01a",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "title_ko": "GPU 관리: 유휴 GPU가 새로운 지상 항공기인 이유",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "source": "Hugging Face",
+      "date": "Thu, 30 Jul 2026 15:09:09 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/6Ry7x8XwuVxp3JpinEGzC.png",
       "tags": [],
       "type": "news"
     },
@@ -154,19 +167,6 @@
       "desc": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen",
       "desc_ko": "대규모 언어 모델을 해킹으로부터 완벽하게 보호하는 것은 작동 방식의 근본적인 결함으로 인해 불가능하다고 연구원 팀이 국제 컨퍼런스에서 발표한 논문에서 주장했습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chain-link.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "a8b687ef",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "title_ko": "Nunchaku 4비트 확산 추론을 디퓨저에 적용",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face",
-      "date": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/nunchaku-diffusers/thumbnail.png",
       "tags": [],
       "type": "news"
     },
