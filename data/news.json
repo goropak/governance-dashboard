@@ -1,32 +1,6 @@
 {
-  "updated": "2026-07-31T08:32:36.966458+00:00",
+  "updated": "2026-07-31T13:30:07.237749+00:00",
   "items": [
-    {
-      "id": "2ef3d49a",
-      "title": "How an overlooked geothermal plant got a second chance",
-      "title_ko": "간과되었던 지열발전소가 어떻게 두 번째 기회를 얻었는가",
-      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 29 Jul 2026 17:58:44 +0000",
-      "desc": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, maki",
-      "desc_ko": "2024년 6월, Zanskar라는 소규모 회사는 빠르게 실패하고 있는 뉴멕시코의 지열 발전소를 구입했습니다. 지하 저수지에서 나오는 물이 날이 갈수록 차가워지고 있었어요, 마키",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Lightning-Dock-NM-Zanskar.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "b43ed6d2",
-      "title": "The Download: a chip talent battle, and deflating AI hype",
-      "title_ko": "다운로드: 칩 인재 전쟁과 AI 과대광고의 위축",
-      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 29 Jul 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival S",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 삼성의 칩 노동자들은 경쟁사인 S로 뛰어들고 있다",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
     {
       "id": "e5f8a9c7",
       "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
@@ -232,6 +206,32 @@
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
       "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "0abc8a3e",
+      "title": "The Download: Montana’s new experimental drug rules",
+      "title_ko": "다운로드: 몬타나의 새로운 실험 약물 규칙",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 31 Jul 2026 12:16:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical h",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 실험적인 의료인이 되려는 몬타나의 계획",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/montana-treatments2.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f3afcd69",
+      "title": "Montana’s new “right to try” law can’t come soon enough for some",
+      "title_ko": "몬타나주의 새로운 “시도할 권리” 법은 일부 사람들에게 충분히 빨리 시행될 수 없습니다",
+      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 31 Jul 2026 09:00:00 +0000",
+      "desc": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key miles",
+      "desc_ko": "Kris DeVault는 필사적입니다. 그의 아들 Brody는 2023년 3월에 태어났습니다. 얼마 지나지 않아 그가 발달 지연의 징후를 보이기 시작했다고 DeVault는 말합니다. 시간이 지남에 따라 Brody는 주요 마일을 놓치기 시작했습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/image6.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
