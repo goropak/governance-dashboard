@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T12:54:47.020550+00:00",
+  "updated": "2026-08-01T18:53:30.089987+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -62,7 +62,7 @@
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
       "desc": "Project-Based Course",
       "desc_ko": "프로젝트 기반 코스",
-      "thumb": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
     },
