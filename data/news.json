@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T19:06:55.813489+00:00",
+  "updated": "2026-08-01T01:49:43.140795+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -87,7 +87,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -95,7 +95,7 @@
     {
       "id": "3c7c2d3e",
       "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-      "title_ko": "실험적인 의료 허브가 되려는 몬타나의 계획이 추진되었습니다",
+      "title_ko": "실험적인 의료 허브가 되려는 몬타나의 계획이 추진되었습니다.",
       "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
       "source": "MIT Tech Review",
       "date": "Thu, 30 Jul 2026 17:10:00 +0000",
@@ -139,7 +139,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 30 Jul 2026 10:15:19 +0000",
       "desc": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen",
-      "desc_ko": "대규모 언어 모델을 해킹으로부터 완벽하게 보호하는 것은 작동 방식의 근본적인 결함으로 인해 불가능하다고 연구원 팀이 국제 컨퍼런스에서 발표한 논문에서 주장했습니다.",
+      "desc_ko": "대규모 언어 모델을 해킹으로부터 완벽하게 보호하는 것은 작동 방식의 근본적인 결함으로 인해 불가능하다고 연구진이 국제 회의에서 발표한 논문에서 주장했습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chain-link.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -225,7 +225,7 @@
     {
       "id": "f3afcd69",
       "title": "Montana’s new “right to try” law can’t come soon enough for some",
-      "title_ko": "몬타나주의 새로운 “시도할 권리” 법은 일부 사람들에게 충분히 빨리 시행될 수 없습니다",
+      "title_ko": "몬타나주의 새로운 “시도할 권리” 법은 일부 사람들에게는 충분히 빨리 시행될 수 없습니다",
       "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
       "source": "MIT Tech Review",
       "date": "Fri, 31 Jul 2026 09:00:00 +0000",
