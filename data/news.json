@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T01:49:13.175677+00:00",
+  "updated": "2026-08-03T09:19:50.732362+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -132,19 +132,6 @@
       "type": "news"
     },
     {
-      "id": "d3ef4a34",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "title_ko": "근본적인 결함으로 인해 LLM은 공격에 매우 취약합니다.",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 30 Jul 2026 10:15:19 +0000",
-      "desc": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen",
-      "desc_ko": "대규모 언어 모델을 해킹으로부터 완벽하게 보호하는 것은 작동 방식의 근본적인 결함으로 인해 불가능하다고 연구원 팀이 국제 컨퍼런스에서 발표한 논문에서 주장했습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chain-link.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
@@ -206,6 +193,19 @@
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
       "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e4b3c3d5",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "title_ko": "AI 에이전트가 목표를 달성하기 위해 거짓말을 하고 속이는 이유는 다음과 같습니다.",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 03 Aug 2026 08:30:05 +0000",
+      "desc": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model",
+      "desc_ko": "MIT 기술 리뷰 설명: 우리 작가들이 복잡하고 뒤죽박죽된 기술 세계를 풀어서 다음에 무엇이 나올지 이해하도록 돕습니다. 여기에서 시리즈의 자세한 내용을 읽을 수 있습니다. OpenAI 모델이 2개인 경우",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
