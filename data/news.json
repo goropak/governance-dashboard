@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T01:24:31.738253+00:00",
+  "updated": "2026-08-04T08:18:27.162959+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -9,7 +9,7 @@
       "source": "BAIR",
       "date": "Wed, 29 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 클래스=\"센터\">\n<img alt=\"CUDA에서 MLX로 커널 지식 전송\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p 클래스",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
       "tags": [],
       "type": "news"
@@ -17,7 +17,7 @@
     {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "2026 BAIR 대학원 쇼케이스",
       "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
       "source": "BAIR",
       "date": "Wed, 01 Jul 2026 02:00:00 -0700",
@@ -43,7 +43,7 @@
     {
       "id": "9a40059e",
       "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "CPU에서 빠른 장기 컨텍스트 추론을 위한 LFM2.5 인코더",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
       "source": "Hugging Face",
       "date": "Tue, 28 Jul 2026 15:01:45 GMT",
@@ -56,12 +56,12 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
       "desc": "Project-Based Course",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "프로젝트 기반 코스",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -69,12 +69,12 @@
     {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "지능은 무료입니다. 이제 무엇을 해야 할까요? <br> 에이전트를 위한, 에이전트에 의한 데이터 시스템",
       "url": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
       "source": "BAIR",
       "date": "Tue, 07 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 스타일=\"텍스트 정렬: 가운데;\">\n<i>... 국민의, 국민에 의한, 국민을 위한 정부...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; 에이브러햄 링컨, 게티즈버그 광고",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
       "tags": [],
       "type": "news"
@@ -87,7 +87,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -95,7 +95,7 @@
     {
       "id": "bac0f01a",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "GPU 관리: 유휴 GPU가 새로운 지상 항공기인 이유",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "source": "Hugging Face",
       "date": "Thu, 30 Jul 2026 15:09:09 GMT",
@@ -113,7 +113,7 @@
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL 개요\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20Figure.png\" />\n<나는 수업=",
       "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
       "tags": [],
       "type": "news"
@@ -126,7 +126,7 @@
       "source": "The AI Edge",
       "date": "Mon, 29 Sep 2025 15:01:00 GMT",
       "desc": "AI Agent frameworks are becoming just as important as model training itself!",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "AI 에이전트 프레임워크는 모델 훈련 자체만큼 중요해지고 있습니다!",
       "thumb": "https://substackcdn.com/image/fetch/$s_!o1BQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2431b183-b2fc-4935-87f1-689b6846781a_1024x1024.png",
       "tags": [],
       "type": "news"
@@ -134,7 +134,7 @@
     {
       "id": "b24ba357",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입",
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "source": "Hugging Face",
       "date": "Mon, 27 Jul 2026 09:32:20 GMT",
@@ -147,7 +147,7 @@
     {
       "id": "45ee50f0",
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "프론티어 연구소 요원 침입 분석: 2026년 7월 사건의 기술적 타임라인",
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "source": "Hugging Face",
       "date": "Mon, 27 Jul 2026 00:00:00 GMT",
@@ -160,12 +160,12 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
       "tags": [],
       "type": "news"
@@ -178,7 +178,7 @@
       "source": "MIT Tech Review",
       "date": "Mon, 03 Aug 2026 18:43:30 +0000",
       "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stum",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 받은편지함에서 이와 같은 뉴스를 먼저 받으려면 여기에서 가입하세요. 휴머노이드 로봇은 일반적으로 경외감보다는 불만을 더 많이 불러일으킵니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -186,7 +186,7 @@
     {
       "id": "72f55c67",
       "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "다운로드: 보상 해킹 설명 및 이란 사이버 공격 의심",
       "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
       "source": "MIT Tech Review",
       "date": "Mon, 03 Aug 2026 12:08:00 +0000",
@@ -204,7 +204,7 @@
       "source": "MIT Tech Review",
       "date": "Mon, 03 Aug 2026 08:30:05 +0000",
       "desc": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model",
-      "desc_ko": "MIT 기술 리뷰 설명: 우리 작가들이 복잡하고 지저분한 기술 세계를 풀어 다음에 무엇이 나올지 이해하도록 돕습니다. 여기에서 시리즈의 자세한 내용을 읽을 수 있습니다. OpenAI 모델이 2개인 경우",
+      "desc_ko": "MIT 기술 리뷰 설명: 우리 작가들이 복잡하고 뒤죽박죽된 기술 세계를 풀어서 다음에 무엇이 나올지 이해하도록 돕습니다. 여기에서 시리즈의 자세한 내용을 읽을 수 있습니다. OpenAI 모델이 2개인 경우",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -225,12 +225,12 @@
     {
       "id": "f3afcd69",
       "title": "Montana’s new “right to try” law can’t come soon enough for some",
-      "title_ko": "몬타나주의 새로운 “시도할 권리” 법은 일부 사람들에게 충분히 빨리 시행될 수 없습니다",
+      "title_ko": "몬타나주의 새로운 “시도할 권리” 법은 일부 사람들에게는 충분히 빨리 시행될 수 없습니다",
       "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
       "source": "MIT Tech Review",
       "date": "Fri, 31 Jul 2026 09:00:00 +0000",
       "desc": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key miles",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "Kris DeVault는 필사적입니다. 그의 아들 Brody는 2023년 3월에 태어났습니다. 얼마 지나지 않아 그가 발달 지연의 징후를 보이기 시작했다고 DeVault는 말합니다. 시간이 지남에 따라 Brody는 주요 마일을 놓치기 시작했습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/image6.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -238,12 +238,12 @@
     {
       "id": "d40c6edb",
       "title": "Mixture-of-Experts: Early Sparse MoE Prototypes in LLMs",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "전문가 혼합: LLM의 초기 희소 MoE 프로토타입",
       "url": "https://newsletter.theaiedge.io/p/mixture-of-experts-early-sparse-moe",
       "source": "The AI Edge",
       "date": "Fri, 22 Aug 2025 15:01:43 GMT",
       "desc": "Mixture-of-Experts might be one of the most important improvements in the Transformer architecture!",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "전문가 혼합은 Transformer 아키텍처의 가장 중요한 개선 사항 중 하나일 수 있습니다!",
       "thumb": "https://substackcdn.com/image/fetch/$s_!2RgN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40a6fd37-5d37-49e4-b10f-d641af576d04_1500x918.png",
       "tags": [],
       "type": "news"
@@ -251,12 +251,12 @@
     {
       "id": "a8b82a19",
       "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "적응형 병렬 추론: 효율적인 추론 확장의 차세대 패러다임",
       "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
       "source": "BAIR",
       "date": "Fri, 08 May 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"Adaptive Parallel Reasoning overview\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"적응형 병렬 추론 개요\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
       "thumb": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
       "tags": [],
       "type": "news"
