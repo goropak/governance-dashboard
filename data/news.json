@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T01:30:03.894301+00:00",
+  "updated": "2026-08-05T08:15:03.599305+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -17,7 +17,7 @@
     {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "2026 BAIR 대학원 쇼케이스",
       "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
       "source": "BAIR",
       "date": "Wed, 01 Jul 2026 02:00:00 -0700",
@@ -43,7 +43,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -178,7 +178,7 @@
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
       "tags": [],
       "type": "news"
