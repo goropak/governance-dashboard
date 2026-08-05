@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T13:41:20.203676+00:00",
+  "updated": "2026-08-05T19:13:46.223140+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 클래스=\"센터\">\n<img alt=\"CUDA에서 MLX로 커널 지식 전송\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p 클래스",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "ab78e492",
+      "title": "Puzzle Corner",
+      "title_ko": "퍼즐 코너",
+      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 05 Aug 2026 14:56:29 +0000",
+      "desc": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includ",
+      "desc_ko": "새로운 퍼즐 세트를 즐길 준비가 되셨나요? Puzzle Corner Puzzle Crew(일명 PC2)의 Michael S. Branicky, ScD ’95가 제공한 2026년 9월/10월 퍼즐 코너를 보려면 여기를 클릭하세요.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2020/02/puzzle-the-mans-hand-completest20gjo1nw-web-1.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -30,7 +43,7 @@
     {
       "id": "ec86245c",
       "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "NASA의 새로운 암흑에너지 우주망원경은 킬러 소행성도 탐지할 수 있다",
       "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
       "source": "MIT Tech Review",
       "date": "Wed, 05 Aug 2026 08:06:40 +0000",
@@ -43,7 +56,7 @@
     {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
-      "title_ko": "2026 BAIR 대학원 쇼케이스",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
       "source": "BAIR",
       "date": "Wed, 01 Jul 2026 02:00:00 -0700",
@@ -56,7 +69,7 @@
     {
       "id": "f57b088c",
       "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "title_ko": "OlmoEarth 플랫폼: 행성 규모의 지리공간 추론",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
       "source": "Hugging Face",
       "date": "Tue, 28 Jul 2026 16:27:42 GMT",
@@ -95,7 +108,7 @@
     {
       "id": "4d42e33f",
       "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "LFM2.5-2.6B를 사용하여 모든 곳에 로컬 에이전트 배포",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
       "source": "Hugging Face",
       "date": "Tue, 04 Aug 2026 13:58:29 GMT",
@@ -199,7 +212,7 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
+      "title_ko": "새 과정: 프로덕션에 바로 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
@@ -219,19 +232,6 @@
       "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They",
       "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 먼저 받은 편지함에서 이와 같은 기사를 받으려면 여기에서 가입하세요. 휴머노이드 로봇은 일반적으로 경외감보다는 불만을 더 많이 불러일으킵니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "72f55c67",
-      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
-      "title_ko": "다운로드: 보상 해킹에 대한 설명 및 이란의 사이버 공격 의심",
-      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 03 Aug 2026 12:08:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their ",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. AI 에이전트가 자신의 목표를 달성하기 위해 거짓말을 하고 속이는 이유는 다음과 같습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
