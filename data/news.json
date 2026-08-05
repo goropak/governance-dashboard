@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T08:15:03.599305+00:00",
+  "updated": "2026-08-05T13:41:20.203676+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 클래스=\"센터\">\n<img alt=\"CUDA에서 MLX로 커널 지식 전송\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p 클래스",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "ff71d16d",
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "title_ko": "다운로드: NASA의 새로운 망원경과 중국 기술 수입 억제",
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 05 Aug 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also de",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. NASA의 새로운 암흑 에너지 우주 망원경은 또한",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/KSC-20260626-PH-SER01_0007orig.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "ec86245c",
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 05 Aug 2026 08:06:40 +0000",
+      "desc": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-l",
+      "desc_ko": "8월 말, NASA는 플로리다 케네디 우주 센터에서 낸시 그레이스 로마 우주 망원경을 발사할 예정입니다. 그 목표는 우주가 어떻게 작동하는지 더 잘 이해하도록 돕는 것입니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/KSC-20260626-PH-SER01_0007orig.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -69,7 +95,7 @@
     {
       "id": "4d42e33f",
       "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "title_ko": "LFM2.5-2.6B를 사용하여 모든 곳에 로컬 에이전트 배포",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
       "source": "Hugging Face",
       "date": "Tue, 04 Aug 2026 13:58:29 GMT",
@@ -81,8 +107,8 @@
     },
     {
       "id": "03bae251",
-      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
-      "title_ko": "다운로드: 미국 로봇 제한 및 ICE의 DNA 확보",
+      "title": "The Download: US robot restrictions and ICE’s DNA grab",
+      "title_ko": "다운로드: 미국의 로봇 제한과 ICE의 DNA 확보",
       "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "source": "MIT Tech Review",
       "date": "Tue, 04 Aug 2026 12:14:00 +0000",
@@ -186,7 +212,7 @@
     {
       "id": "dc0d90ec",
       "title": "Trump’s AI protectionism has come for robotics",
-      "title_ko": "트럼프의 AI 보호주의가 로봇공학에 도래했다",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
       "source": "MIT Tech Review",
       "date": "Mon, 03 Aug 2026 18:43:30 +0000",
@@ -198,40 +224,14 @@
     },
     {
       "id": "72f55c67",
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-      "title_ko": "다운로드: 보상 해킹 설명 및 이란 사이버 공격 의심",
+      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
+      "title_ko": "다운로드: 보상 해킹에 대한 설명 및 이란의 사이버 공격 의심",
       "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
       "source": "MIT Tech Review",
       "date": "Mon, 03 Aug 2026 12:08:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their ",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. AI 에이전트가 자신의 목표를 달성하기 위해 거짓말을 하고 속이는 이유는 다음과 같습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "e4b3c3d5",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "title_ko": "AI 에이전트가 목표를 달성하기 위해 거짓말을 하고 속이는 이유는 다음과 같습니다.",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 03 Aug 2026 08:30:05 +0000",
-      "desc": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model",
-      "desc_ko": "MIT 기술 리뷰 설명: 우리 작가들이 복잡하고 지저분한 기술 세계를 풀어 다음에 무엇이 나올지 이해하도록 돕습니다. 여기에서 시리즈의 자세한 내용을 읽을 수 있습니다. OpenAI 모델이 2개인 경우",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "0abc8a3e",
-      "title": "The Download: Montana’s new experimental drug rules",
-      "title_ko": "다운로드: 몬타나의 새로운 실험 약물 규칙",
-      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 31 Jul 2026 12:16:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical h",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 실험적인 의료인이 되려는 몬타나의 계획",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/montana-treatments2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
