@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T19:17:43.981610+00:00",
+  "updated": "2026-08-05T01:30:03.894301+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -17,7 +17,7 @@
     {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
-      "title_ko": "2026 BAIR 대학원 쇼케이스",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
       "source": "BAIR",
       "date": "Wed, 01 Jul 2026 02:00:00 -0700",
@@ -43,7 +43,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -82,7 +82,7 @@
     {
       "id": "03bae251",
       "title": "The Download: US robot restrictions, and ICE’s DNA grab",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "다운로드: 미국 로봇 제한 및 ICE의 DNA 확보",
       "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "source": "MIT Tech Review",
       "date": "Tue, 04 Aug 2026 12:14:00 +0000",
@@ -95,12 +95,12 @@
     {
       "id": "e6fa7f06",
       "title": "Build Production-Ready Agentic-RAG Applications From Scratch Course: What we are going to build",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "처음부터 생산 준비가 된 Agentic-RAG 애플리케이션 구축 과정: 우리가 구축할 내용",
       "url": "https://newsletter.theaiedge.io/p/build-production-ready-agentic-rag",
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -121,7 +121,7 @@
     {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -139,7 +139,7 @@
       "source": "The AI Edge",
       "date": "Mon, 29 Sep 2025 15:01:00 GMT",
       "desc": "AI Agent frameworks are becoming just as important as model training itself!",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "AI 에이전트 프레임워크는 모델 훈련 자체만큼 중요해지고 있습니다!",
       "thumb": "https://substackcdn.com/image/fetch/$s_!o1BQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2431b183-b2fc-4935-87f1-689b6846781a_1024x1024.png",
       "tags": [],
       "type": "news"
@@ -160,7 +160,7 @@
     {
       "id": "45ee50f0",
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "프론티어 연구소 요원 침입 분석: 2026년 7월 사건의 기술적 타임라인",
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "source": "Hugging Face",
       "date": "Mon, 27 Jul 2026 00:00:00 GMT",
@@ -173,7 +173,7 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
@@ -191,7 +191,7 @@
       "source": "MIT Tech Review",
       "date": "Mon, 03 Aug 2026 18:43:30 +0000",
       "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 먼저 받은 편지함에서 이와 같은 기사를 받으려면 여기에서 가입하세요. 휴머노이드 로봇은 일반적으로 경외감보다는 불만을 더 많이 불러일으킵니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -217,7 +217,7 @@
       "source": "MIT Tech Review",
       "date": "Mon, 03 Aug 2026 08:30:05 +0000",
       "desc": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model",
-      "desc_ko": "MIT 기술 리뷰 설명: 우리 작가들이 복잡하고 뒤죽박죽된 기술 세계를 풀어서 다음에 무엇이 나올지 이해하도록 돕습니다. 여기에서 시리즈의 자세한 내용을 읽을 수 있습니다. OpenAI 모델이 2개인 경우",
+      "desc_ko": "MIT 기술 리뷰 설명: 우리 작가들이 복잡하고 지저분한 기술 세계를 풀어 다음에 무엇이 나올지 이해하도록 돕습니다. 여기에서 시리즈의 자세한 내용을 읽을 수 있습니다. OpenAI 모델이 2개인 경우",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
