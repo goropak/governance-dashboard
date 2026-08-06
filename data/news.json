@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T19:13:46.223140+00:00",
+  "updated": "2026-08-06T01:27:08.505397+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -48,7 +48,7 @@
       "source": "MIT Tech Review",
       "date": "Wed, 05 Aug 2026 08:06:40 +0000",
       "desc": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-l",
-      "desc_ko": "8월 말, NASA는 플로리다 케네디 우주 센터에서 낸시 그레이스 로마 우주 망원경을 발사할 예정입니다. 그 목표는 우주가 어떻게 작동하는지 더 잘 이해하도록 돕는 것입니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/KSC-20260626-PH-SER01_0007orig.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -56,12 +56,12 @@
     {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "2026 BAIR 대학원 쇼케이스",
       "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
       "source": "BAIR",
       "date": "Wed, 01 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n<p>2026년 버클리 인공지능 연구(BAIR) 연구실 수업을 축하합니다! 올해 BAIR는 또 다른 주목할만한 박사 학위 그룹을 축하합니다. cu 졸업생",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
       "tags": [],
       "type": "news"
@@ -69,7 +69,7 @@
     {
       "id": "f57b088c",
       "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "OlmoEarth 플랫폼: 행성 규모의 지리공간 추론",
       "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
       "source": "Hugging Face",
       "date": "Tue, 28 Jul 2026 16:27:42 GMT",
@@ -134,7 +134,7 @@
     {
       "id": "e6fa7f06",
       "title": "Build Production-Ready Agentic-RAG Applications From Scratch Course: What we are going to build",
-      "title_ko": "처음부터 생산 준비가 된 Agentic-RAG 애플리케이션 구축 과정: 우리가 구축할 내용",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/build-production-ready-agentic-rag",
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
@@ -147,7 +147,7 @@
     {
       "id": "bac0f01a",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "title_ko": "GPU 관리: 유휴 GPU가 새로운 지상 항공기인 이유",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "source": "Hugging Face",
       "date": "Thu, 30 Jul 2026 15:09:09 GMT",
@@ -173,7 +173,7 @@
     {
       "id": "138e52b8",
       "title": "AdalFlow: A PyTorch-Like Framework to Auto-Optimizing Prompt for your LLM agent",
-      "title_ko": "AdalFlow: LLM 에이전트에 대한 자동 최적화 프롬프트를 위한 PyTorch와 유사한 프레임워크",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/adalflow-a-pytorch-like-framework",
       "source": "The AI Edge",
       "date": "Mon, 29 Sep 2025 15:01:00 GMT",
@@ -225,12 +225,12 @@
     {
       "id": "dc0d90ec",
       "title": "Trump’s AI protectionism has come for robotics",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "트럼프의 AI 보호주의가 로봇공학에 도래했다",
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
       "source": "MIT Tech Review",
       "date": "Mon, 03 Aug 2026 18:43:30 +0000",
       "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They",
-      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 먼저 받은 편지함에서 이와 같은 기사를 받으려면 여기에서 가입하세요. 휴머노이드 로봇은 일반적으로 경외감보다는 불만을 더 많이 불러일으킵니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
