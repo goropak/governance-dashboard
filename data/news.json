@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T08:14:39.521157+00:00",
+  "updated": "2026-08-06T13:39:53.331028+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -158,6 +158,19 @@
       "type": "news"
     },
     {
+      "id": "85fc330f",
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "title_ko": "다운로드: Google의 AI 개편과 Meta의 불량 모델",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 06 Aug 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 구글의 AI 제국이 재편되고 있다. 이게 뭐야'",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/45-Jeff-Dean-TD.webp?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
@@ -219,19 +232,6 @@
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
       "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "dc0d90ec",
-      "title": "Trump’s AI protectionism has come for robotics",
-      "title_ko": "트럼프의 AI 보호주의가 로봇공학에 도래했다",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 03 Aug 2026 18:43:30 +0000",
-      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They",
-      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 먼저 받은 편지함에서 이와 같은 기사를 받으려면 여기에서 가입하세요. 휴머노이드 로봇은 일반적으로 경외감보다는 불만을 더 많이 불러일으킵니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
