@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T06:59:08.705883+00:00",
+  "updated": "2026-08-07T12:38:39.700548+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -165,7 +165,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 06 Aug 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 구글의 AI 제국이 재편되고 있다. 이게 뭐야'",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 구글의 AI 제국이 재편되고 있다. 이렇습니다'",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/45-Jeff-Dean-TD.webp?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -173,7 +173,7 @@
     {
       "id": "a87688ff",
       "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "title_ko": "포옹하는 얼굴 추론 제공자를 기반으로 하는 Baseten 🔥",
+      "title_ko": "포옹 얼굴 추론 제공자를 기반으로 한 Baseten 🔥",
       "url": "https://huggingface.co/blog/baseten",
       "source": "Hugging Face",
       "date": "Thu, 06 Aug 2026 00:00:00 GMT",
@@ -225,7 +225,7 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
+      "title_ko": "새 과정: 프로덕션에 바로 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
