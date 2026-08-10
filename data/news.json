@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T12:42:46.350720+00:00",
+  "updated": "2026-08-10T18:41:28.561906+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -30,7 +30,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -50,19 +50,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 스타일=\"텍스트 정렬: 가운데;\">\n<i>... 국민의, 국민에 의한, 국민을 위한 정부...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; 에이브러햄 링컨, 게티즈버그 광고",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "4d42e33f",
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "title_ko": "LFM2.5-2.6B를 사용하여 모든 곳에 로컬 에이전트 배포",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face",
-      "date": "Tue, 04 Aug 2026 13:58:29 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/DsoMk3kqhMYedjPiZINKv.png",
       "tags": [],
       "type": "news"
     },
@@ -95,7 +82,7 @@
     {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -128,6 +115,19 @@
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
       "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "8bec2762",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "title_ko": "지연 시간이 짧은 다국어 음성 에이전트 구축: NVIDIA Magpie TTS를 통한 개방형 가중치 및 전체 배포 제어",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "Hugging Face",
+      "date": "Mon, 10 Aug 2026 16:25:36 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68127936de624fb6f57d9989/Ol-uDBWtBtVDbowXgP-Un.png",
       "tags": [],
       "type": "news"
     },
@@ -178,7 +178,7 @@
       "source": "MIT Tech Review",
       "date": "Mon, 10 Aug 2026 09:00:00 +0000",
       "desc": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of ",
-      "desc_ko": "MIT Technology Review의 What’s Next 시리즈는 산업, 동향, 기술을 살펴보고 미래를 먼저 보여줍니다. 나머지 내용은 여기에서 읽어보실 수 있습니다. 얼마전 여름에",
+      "desc_ko": "MIT Technology Review의 What’s Next 시리즈는 업계, 동향, 기술을 살펴보고 미래를 먼저 보여줍니다. 나머지 내용은 여기에서 읽어보실 수 있습니다. 얼마전 여름에",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/269798_futureLLMs.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
