@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T07:09:30.454427+00:00",
+  "updated": "2026-08-10T12:42:46.350720+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,32 +11,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 클래스=\"센터\">\n<img alt=\"CUDA에서 MLX로 커널 지식 전송\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p 클래스",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "ab78e492",
-      "title": "Puzzle Corner",
-      "title_ko": "퍼즐 코너",
-      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 05 Aug 2026 14:56:29 +0000",
-      "desc": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includ",
-      "desc_ko": "새로운 퍼즐 세트를 즐길 준비가 되셨나요? Puzzle Corner Puzzle Crew(일명 PC2)의 Michael S. Branicky, ScD ’95가 제공한 2026년 9월/10월 퍼즐 코너를 보려면 여기를 클릭하세요.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2020/02/puzzle-the-mans-hand-completest20gjo1nw-web-1.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "ff71d16d",
-      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
-      "title_ko": "다운로드: NASA의 새로운 망원경과 중국 기술 수입 억제",
-      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 05 Aug 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also de",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. NASA의 새로운 암흑 에너지 우주 망원경은 또한",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/KSC-20260626-PH-SER01_0007orig.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -56,7 +30,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -106,32 +80,6 @@
       "type": "news"
     },
     {
-      "id": "bac0f01a",
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "title_ko": "GPU 관리: 유휴 GPU가 새로운 지상 항공기인 이유",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "source": "Hugging Face",
-      "date": "Thu, 30 Jul 2026 15:09:09 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/Ih3Nn6Wc1U_w_QpvEMXRY.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "85fc330f",
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-      "title_ko": "다운로드: Google의 AI 개편과 Meta의 불량 모델",
-      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 06 Aug 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 구글의 AI 제국이 재편되고 있다. 이렇습니다'",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/45-Jeff-Dean-TD.webp?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "a87688ff",
       "title": "Baseten on Hugging Face Inference Providers 🔥",
       "title_ko": "포옹하는 얼굴 추론 제공자를 기반으로 하는 Baseten 🔥",
@@ -171,19 +119,6 @@
       "type": "news"
     },
     {
-      "id": "b24ba357",
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "title_ko": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "Hugging Face",
-      "date": "Mon, 27 Jul 2026 09:32:20 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68c1279544f671330c604f4c/Cj0RZwvOSUhFGFEFKgyDw.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
       "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
@@ -193,6 +128,71 @@
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
       "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "1e1aa73b",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "title_ko": "다운로드: 과학을 위한 AI 에이전트와 \"검열-산업 복합체\"",
+      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 10 Aug 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eri",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 과학을 위한 AI에는 단순한 데이터가 아닌 추론이 필요합니다 —Eri",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "98a69bb3",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "title_ko": "대규모로 실행하기에 충분할 정도로 지식 증류를 저렴하게 만들기",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "source": "Hugging Face",
+      "date": "Mon, 10 Aug 2026 10:05:36 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/668e37fd9c9aa124a3c867e8/nB5NK4bdfr7AY1IAO14Gh.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "20c95f3f",
+      "title": "AI for science needs reasoning, not just data",
+      "title_ko": "과학을 위한 AI에는 단순한 데이터가 아닌 추론이 필요합니다",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "desc": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s",
+      "desc_ko": "수십 년에 한 번씩 누군가 과학이 종말에 이르렀다고 발표합니다. 1903년에 존경받는 물리학자 Albert Michelson은 “물리과학의 사실이 모두 발견되었다”고 썼습니다. 1980년대",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6859719f",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "title_ko": "이 신생 기업은 LLM에서 차세대 혁신을 추구하고 있습니다.",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "desc": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of ",
+      "desc_ko": "MIT Technology Review의 What’s Next 시리즈는 산업, 동향, 기술을 살펴보고 미래를 먼저 보여줍니다. 나머지 내용은 여기에서 읽어보실 수 있습니다. 얼마전 여름에",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/269798_futureLLMs.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "89474050",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "title_ko": "Meta가 로컬, 에이전트, 멀티모달, 오픈 소스인 Muse Glimmer로 돌아왔습니다.",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "source": "Hugging Face",
+      "date": "Mon, 10 Aug 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/muse-glimmer/thumbnail.png",
       "tags": [],
       "type": "news"
     },
