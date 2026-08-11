@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T12:39:36.758559+00:00",
+  "updated": "2026-08-11T18:45:30.271562+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -37,6 +37,32 @@
       "desc": "Project-Based Course",
       "desc_ko": "프로젝트 기반 코스",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "ab860a04",
+      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "title_ko": "\"검열-산업 복합체\"가 인터넷과 미국 정책을 어떻게 변화시키고 있습니까?",
+      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 11 Aug 2026 17:58:57 +0000",
+      "desc": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering f",
+      "desc_ko": "저는 2025년 4월 15일에 '검열산업단지'라는 용어를 처음 들었습니다.&#160; 그때 미 국무부 내 한 소규모 사무실에서 감시와 대응에 주력하고 있다는 제보를 입수했다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_RightWingBenz.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e55e02c2",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "title_ko": "에이스를 생각하시나요? 더 적은 토큰으로 할 수 있습니다",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "Hugging Face",
+      "date": "Tue, 11 Aug 2026 13:37:10 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/G2z5bU66FNnhBf_UhSNij.jpeg",
       "tags": [],
       "type": "news"
     },
@@ -80,22 +106,9 @@
       "type": "news"
     },
     {
-      "id": "a87688ff",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "title_ko": "포옹하는 얼굴 추론 제공자를 기반으로 하는 Baseten 🔥",
-      "url": "https://huggingface.co/blog/baseten",
-      "source": "Hugging Face",
-      "date": "Thu, 06 Aug 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/inference-providers/welcome-baseten.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -193,19 +206,6 @@
       "desc": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s",
       "desc_ko": "수십 년에 한 번씩 누군가 과학이 종말에 이르렀다고 발표합니다. 1903년에 존경받는 물리학자 Albert Michelson은 “물리과학의 사실이 모두 발견되었다”고 썼습니다. 1980년대",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "6859719f",
-      "title": "These startups are chasing the next big thing in LLMs",
-      "title_ko": "이 신생 기업은 LLM에서 차세대 혁신을 추구하고 있습니다.",
-      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "desc": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of ",
-      "desc_ko": "MIT Technology Review의 What’s Next 시리즈는 업계, 동향, 기술을 살펴보고 미래를 먼저 보여줍니다. 나머지 내용은 여기에서 읽어보실 수 있습니다. 얼마전 여름에",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/269798_futureLLMs.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
