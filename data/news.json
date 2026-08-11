@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T18:41:28.561906+00:00",
+  "updated": "2026-08-11T00:54:31.852452+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -30,7 +30,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -82,7 +82,7 @@
     {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -115,6 +115,19 @@
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
       "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "1281650c",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 10 Aug 2026 20:00:00 +0000",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel",
+      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 먼저 받은 편지함에서 이와 같은 기사를 받으려면 여기에서 가입하세요. 지난 주에 저는 샌프란시스코에서 남쪽으로 30마일 떨어진 호텔로 향했습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/pacademicAI1a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -199,7 +212,7 @@
     {
       "id": "d40c6edb",
       "title": "Mixture-of-Experts: Early Sparse MoE Prototypes in LLMs",
-      "title_ko": "전문가 혼합: LLM의 초기 희소 MoE 프로토타입",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/mixture-of-experts-early-sparse-moe",
       "source": "The AI Edge",
       "date": "Fri, 22 Aug 2025 15:01:43 GMT",
@@ -245,19 +258,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from ",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 광대한 검열 네트워크에 대한 아이디어가 어떻게 옮겨졌는가?",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Manipulation_networks-top.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "ad57289b",
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "title_ko": "광대한 검열 네트워크에 대한 아이디어가 온라인 비주류에서 트럼프 정책으로 어떻게 이동했나요?",
-      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "desc": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got th",
-      "desc_ko": "이 기사는 Wayne Barrett Project의 지원을 받아 Type Investigations와 협력하여 작성되었습니다. 2025년 4월 어느 날 아침, 미국 국무부 작은 사무실 직원들이 이런 일을 당했습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Manipulation_networks-social.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     }
