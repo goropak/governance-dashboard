@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T18:46:49.287228+00:00",
+  "updated": "2026-08-13T01:03:10.115987+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 클래스=\"센터\">\n<img alt=\"CUDA에서 MLX로 커널 지식 전송\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p 클래스",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "0b5cc6d9",
+      "title": "Scientists just created female clones of male mice",
+      "title_ko": "과학자들은 방금 수컷 생쥐의 암컷 복제품을 만들었습니다.",
+      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 12 Aug 2026 18:59:48 +0000",
+      "desc": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female ",
+      "desc_ko": "과학자들이 처음으로 수컷 쥐의 배아를 의도적으로 암컷으로 바꾸는 데 성공했습니다. 일본에 본사를 둔 팀은 CRISPR 기반 접근 방식을 사용하여 남성 세포에서 Y 염색체를 제거하고 여성을 만들었습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/mice.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -43,7 +56,7 @@
     {
       "id": "9fea4b35",
       "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "title_ko": "가장자리에 대한 더 좋고 빠른 비전 기능을 위한 LFM2.5-VL-3B",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
       "source": "Hugging Face",
       "date": "Wed, 12 Aug 2026 14:00:51 GMT",
@@ -95,7 +108,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -132,19 +145,6 @@
       "type": "news"
     },
     {
-      "id": "1e9dd24f",
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "title_ko": "다운로드: LLM의 차세대 기술과 AI 학술 연구가 어떻게 변화하고 있는지",
-      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 11 Aug 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in L",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 이 스타트업들은 L에서 차세대 혁신을 쫓고 있습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/269798_futureLLMs.webp?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "지능은 무료입니다. 이제 무엇을 해야 할까요? <br> 에이전트를 위한, 에이전트에 의한 데이터 시스템",
@@ -165,7 +165,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
