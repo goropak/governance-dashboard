@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T07:10:54.589264+00:00",
+  "updated": "2026-08-13T12:43:42.115173+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -67,32 +67,6 @@
       "type": "news"
     },
     {
-      "id": "aa04d9fe",
-      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-      "title_ko": "다운로드: 35명의 젊은 혁신가와 \"검열-산업 단지\"",
-      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 12 Aug 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientis",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 우리가 세계 최고의 젊은 과학자 35명을 선정한 방법",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/martincic-2026-35-35-intro-essay.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "2c99e5ba",
-      "title": "How we picked 35 of the world’s top young scientists and engineers",
-      "title_ko": "세계 최고의 젊은 과학자 및 엔지니어 35명을 선정한 방법",
-      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 12 Aug 2026 09:08:40 +0000",
-      "desc": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and b",
-      "desc_ko": "다음 달인 9월 8일, MIT Technology Review는 획기적인 과학 연구를 수행하고 있는 전 세계 젊은이 35명을 표창하는 35세 미만 혁신가의 2026년 목록을 공개할 예정입니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/martincic-2026-35-35-intro-essay.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
       "title_ko": "2026 BAIR 대학원 쇼케이스",
@@ -115,19 +89,6 @@
       "desc": "Project-Based Course",
       "desc_ko": "프로젝트 기반 코스",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "ab860a04",
-      "title": "How the “censorship-industrial complex” is changing the internet and US policy",
-      "title_ko": "\"검열-산업 복합체\"가 인터넷과 미국 정책을 어떻게 변화시키고 있습니까?",
-      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 11 Aug 2026 17:58:57 +0000",
-      "desc": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering f",
-      "desc_ko": "저는 2025년 4월 15일에 '검열산업단지'라는 용어를 처음 들었습니다.&#160; 그때 미 국무부 내 한 소규모 사무실에서 감시와 대응에 주력하고 있다는 제보를 입수했다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_RightWingBenz.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -167,6 +128,45 @@
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
       "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "967189fe",
+      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+      "title_ko": "다운로드: AI에 대한 아이들의 생각과 수컷 생쥐의 암컷 복제품",
+      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 13 Aug 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Sw",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 아이들이 AI에 대해 어떻게 느끼는지 직접 표현 —Jen Sw",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f3f772b8",
+      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+      "title_ko": "이번 여름 더위의 원인은 무엇이며, 2027년은 더 나빠질 수 있는 이유",
+      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 13 Aug 2026 10:00:00 +0000",
+      "desc": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest mont",
+      "desc_ko": "이번 여름은 북반구 대부분 지역에 무더운 여름이었습니다. 6월과 7월은 기록이 시작된 이후 유럽에서 가장 더운 두 달이었습니다. 인접한 미국은 가장 더운 달을 견뎠습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26217780042086.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "599ea52f",
+      "title": "How kids feel about AI, in their own words",
+      "title_ko": "아이들이 AI에 대해 어떻게 생각하는지 직접 표현해 보세요.",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "desc": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope",
+      "desc_ko": "우리가 아이들에게 인공지능에 대해 이야기하려고 했을 때, 우리는 무엇을 듣게 될지 안다고 생각했습니다. 우리는 일부 사람들이 밀레니얼 세대와 X세대가 운영하는 방식처럼 약간의 부정행위를 하기 위해 그것을 사용하고 있다고 말할 것으로 예상했습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
