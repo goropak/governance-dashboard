@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T07:07:45.749600+00:00",
+  "updated": "2026-08-14T12:40:07.197151+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -56,7 +56,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -100,7 +100,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -119,19 +119,6 @@
       "type": "news"
     },
     {
-      "id": "bba9e984",
-      "title": "Building a practical path to post-quantum cryptography",
-      "title_ko": "포스트퀀텀 암호화를 위한 실용적인 경로 구축",
-      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 13 Aug 2026 18:11:42 +0000",
-      "desc": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for busin",
-      "desc_ko": "양자 컴퓨팅은 기술계에서 획기적인 사랑과 과장된 약속 사이를 번갈아 가며 나타났습니다. 강력한 새 기능은 현재의 암호화를 깨뜨릴 수 있는 위협을 동반합니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "24013c06",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "title_ko": "Strands Agents, LeRobot 및 Hugging Face Storage Buckets를 사용하여 한 곳에서 기록, 훈련 및 배포",
@@ -141,45 +128,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6a1dc0f2b4238bb17ff94794/St00mBynNYpgz93MpL17G.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "c22abf28",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "title_ko": "Flock은 증가하는 감시 반발에 대응하여 규칙을 강화하고 있습니다.",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 13 Aug 2026 13:41:10 +0000",
-      "desc": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back ",
-      "desc_ko": "경찰 기술 대기업 Flock은 점점 커지는 반발을 진압하고 승리를 거두기 위한 명백한 노력의 일환으로 경찰의 전국 번호판 판독기 네트워크에 대한 액세스 권한을 변경할 것이라고 오늘 발표했습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "967189fe",
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "title_ko": "다운로드: AI에 대한 아이들의 생각과 수컷 생쥐의 암컷 복제물",
-      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 13 Aug 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Sw",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 아이들이 AI에 대해 어떻게 생각하는지 직접 표현해 보세요 —Jen Sw",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "f3f772b8",
-      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-      "title_ko": "이번 여름 더위의 원인은 무엇이며, 2027년은 더 나빠질 수 있는 이유",
-      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 13 Aug 2026 10:00:00 +0000",
-      "desc": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest mont",
-      "desc_ko": "이번 여름은 북반구 대부분 지역에 무더운 여름이었습니다. 6월과 7월은 기록이 시작된 이후 유럽에서 가장 더운 두 달이었습니다. 인접한 미국은 가장 더운 달을 견뎠습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26217780042086.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -245,6 +193,58 @@
       "desc": "Mixture-of-Experts might be one of the most important improvements in the Transformer architecture!",
       "desc_ko": "전문가 혼합은 Transformer 아키텍처의 가장 중요한 개선 사항 중 하나일 수 있습니다!",
       "thumb": "https://substackcdn.com/image/fetch/$s_!2RgN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40a6fd37-5d37-49e4-b10f-d641af576d04_1500x918.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "9ede57ea",
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "title_ko": "다운로드: Flock의 새로운 규칙, 복제의 미래, 그리고 아이들의 세포",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 14 Aug 2026 12:17:21 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a gro",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. Flock은 gro에 대응하여 규칙을 강화하고 있습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "809a6cee",
+      "title": "This scientist is helping build a missing map of childhood",
+      "title_ko": "이 과학자는 잃어버린 어린 시절 지도를 만드는 데 도움을 주고 있습니다",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "desc": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that ai",
+      "desc_ko": "2017년 Deanne Taylor는 사무실에서 도보로 가까운 거리에 있는 University of Pennsylvania에서 열린 프레젠테이션에 참석했습니다. 한 연구원이 AI가 수행하는 야심찬 프로젝트인 인간 세포 지도(Human Cell Atlas)를 공개하기 위해 그곳에 있었습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5931-thumb.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "19bcbe11",
+      "title": "Job titles of the future: Space travel agent",
+      "title_ko": "미래의 직업: 우주여행사",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "desc": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a",
+      "desc_ko": "Roman Chiporukha는 오랫동안 거친 여행의 꿈을 현실로 바꾸어 왔습니다. 20년 넘게 럭셔리 라이프스타일 회사인 Roman &#38; Erica는 건물 건설부터 모든 것을 조율했습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space.jpeg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "1cc51220",
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "title_ko": "복제는 종을 구하거나 인간의 \"장기 자루\"를 만드는 데 사용될 수 있습니다.",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "desc": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create fem",
+      "desc_ko": "이번 주에 나는 수컷 쥐 배아를 암컷으로 바꾸는 방법을 찾은 과학자들과 이야기를 나눴습니다. 그들은 본질적으로 Y 염색체를 잘라내는 CRISPR 기반 접근 방식을 개발했습니다. 그것은 그들이 fem을 만드는 것을 허용했습니다",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/clone-mice.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
