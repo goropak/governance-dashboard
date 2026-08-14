@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T01:02:45.867571+00:00",
+  "updated": "2026-08-14T07:07:45.749600+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -113,7 +113,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 13 Aug 2026 21:00:00 +0000",
       "desc": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. Thi",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "세션을 듣거나 아래에서 시청하세요. \"검열-산업 복합체\"는 정부, 기술 및 연구 그룹의 네트워크가 보수적인 온라인 발언을 억압하기 위해 협력한다는 아이디어입니다. 티",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/August.26_Roundtables_Thumb.png?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -199,7 +199,7 @@
     {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장기 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
