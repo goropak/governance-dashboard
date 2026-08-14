@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T18:46:47.403688+00:00",
+  "updated": "2026-08-14T01:02:45.867571+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -48,7 +48,7 @@
       "source": "BAIR",
       "date": "Wed, 01 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n<p>2026년 버클리 인공지능 연구(BAIR) 연구실 수업을 축하합니다! 올해 BAIR는 또 다른 주목할만한 박사 학위 그룹을 축하합니다. 졸업생",
+      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n<p>2026년 버클리 인공지능 연구(BAIR) 연구실 수업을 축하합니다! 올해 BAIR는 또 다른 주목할만한 박사 학위 그룹을 축하합니다. cu 졸업생",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
       "tags": [],
       "type": "news"
@@ -100,15 +100,28 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "a5a20f62",
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "title_ko": "원탁회의: 미국 정책을 형성하는 \"검열-산업 복합체\" 아이디어 내부",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 13 Aug 2026 21:00:00 +0000",
+      "desc": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. Thi",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/August.26_Roundtables_Thumb.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
     {
       "id": "bba9e984",
       "title": "Building a practical path to post-quantum cryptography",
-      "title_ko": "포스트퀀텀 암호화에 대한 실용적인 경로 구축",
+      "title_ko": "포스트퀀텀 암호화를 위한 실용적인 경로 구축",
       "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
       "source": "MIT Tech Review",
       "date": "Thu, 13 Aug 2026 18:11:42 +0000",
@@ -147,12 +160,12 @@
     {
       "id": "967189fe",
       "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "title_ko": "다운로드: AI에 대한 아이들의 생각과 수컷 생쥐의 암컷 복제품",
+      "title_ko": "다운로드: AI에 대한 아이들의 생각과 수컷 생쥐의 암컷 복제물",
       "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
       "source": "MIT Tech Review",
       "date": "Thu, 13 Aug 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Sw",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 아이들이 AI에 대해 어떻게 느끼는지 직접 표현 —Jen Sw",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 아이들이 AI에 대해 어떻게 생각하는지 직접 표현해 보세요 —Jen Sw",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -167,19 +180,6 @@
       "desc": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest mont",
       "desc_ko": "이번 여름은 북반구 대부분 지역에 무더운 여름이었습니다. 6월과 7월은 기록이 시작된 이후 유럽에서 가장 더운 두 달이었습니다. 인접한 미국은 가장 더운 달을 견뎠습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26217780042086.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "599ea52f",
-      "title": "How kids feel about AI, in their own words",
-      "title_ko": "아이들이 AI에 대해 어떻게 생각하는지 직접 표현해 보세요.",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 13 Aug 2026 09:00:00 +0000",
-      "desc": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope",
-      "desc_ko": "우리가 아이들에게 인공지능에 대해 이야기하려고 했을 때, 우리는 무엇을 듣게 될지 안다고 생각했습니다. 우리는 일부 사람들이 밀레니얼 세대와 X세대가 운영하는 방식처럼 약간의 부정행위를 하기 위해 그것을 사용하고 있다고 말할 것으로 예상했습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -199,7 +199,7 @@
     {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장기 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
