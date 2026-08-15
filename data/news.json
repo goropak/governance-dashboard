@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T06:19:42.474458+00:00",
+  "updated": "2026-08-15T12:16:33.374285+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -9,7 +9,7 @@
       "source": "BAIR",
       "date": "Wed, 29 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 클래스=\"센터\">\n<img alt=\"CUDA에서 MLX로 커널 지식 전송\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p 클래스",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
       "tags": [],
       "type": "news"
@@ -74,7 +74,7 @@
       "source": "BAIR",
       "date": "Tue, 07 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 스타일=\"텍스트 정렬: 가운데;\">\n<i>... 국민의, 국민에 의한, 국민을 위한 정부...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; 에이브러햄 링컨, 게티즈버그 광고",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
       "tags": [],
       "type": "news"
@@ -87,7 +87,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -121,7 +121,7 @@
     {
       "id": "a67f3eaa",
       "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "title_ko": "ICML의 2,200개 논문을 재현하여 우리가 배운 것",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
       "source": "Hugging Face",
       "date": "Thu, 13 Aug 2026 00:00:00 GMT",
@@ -134,7 +134,7 @@
     {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장기 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -217,7 +217,7 @@
       "source": "MIT Tech Review",
       "date": "Fri, 14 Aug 2026 09:00:00 +0000",
       "desc": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a",
-      "desc_ko": "Roman Chiporukha는 오랫동안 거친 여행의 꿈을 현실로 바꾸어 왔습니다. 20년 넘게 럭셔리 라이프스타일 회사 Roman &#38; 에리카는 건물 건설부터 모든 것을 조율했습니다.",
+      "desc_ko": "Roman Chiporukha는 오랫동안 거친 여행의 꿈을 현실로 바꾸어 왔습니다. 20년 넘게 럭셔리 라이프스타일 회사 Roman &#38; Erica는 건물 건설부터 모든 것을 조율했습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space.jpeg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -225,7 +225,7 @@
     {
       "id": "1cc51220",
       "title": "Cloning could be used to save species—or make human “organ sacks”",
-      "title_ko": "복제는 종을 구하거나 인간의 \"장기 자루\"를 만드는 데 사용될 수 있습니다.",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
       "source": "MIT Tech Review",
       "date": "Fri, 14 Aug 2026 09:00:00 +0000",
@@ -238,7 +238,7 @@
     {
       "id": "ef192153",
       "title": "State of Open Models: Summer 2026 Observations",
-      "title_ko": "공개 모델 현황: 2026년 여름 관측",
+      "title_ko": "공개 모델 상태: 2026년 여름 관찰",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "source": "Hugging Face",
       "date": "Fri, 14 Aug 2026 00:00:00 GMT",
@@ -256,7 +256,7 @@
       "source": "BAIR",
       "date": "Fri, 08 May 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"Adaptive Parallel Reasoning overview\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"적응형 병렬 추론 개요\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
       "tags": [],
       "type": "news"
