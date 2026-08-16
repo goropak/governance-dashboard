@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T18:13:11.370207+00:00",
+  "updated": "2026-08-16T00:38:41.345480+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -87,7 +87,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -134,7 +134,7 @@
     {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장기 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -217,7 +217,7 @@
       "source": "MIT Tech Review",
       "date": "Fri, 14 Aug 2026 09:00:00 +0000",
       "desc": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a",
-      "desc_ko": "Roman Chiporukha는 오랫동안 거친 여행의 꿈을 현실로 바꾸어 왔습니다. 20년 넘게 럭셔리 라이프스타일 회사 Roman &#38; 에리카는 건물 건설부터 모든 것을 조율했습니다.",
+      "desc_ko": "Roman Chiporukha는 오랫동안 거친 여행의 꿈을 현실로 바꾸어 왔습니다. 20년 넘게 럭셔리 라이프스타일 회사 Roman &#38; Erica는 건물 건설부터 모든 것을 조율했습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space.jpeg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -238,7 +238,7 @@
     {
       "id": "ef192153",
       "title": "State of Open Models: Summer 2026 Observations",
-      "title_ko": "공개 모델 현황: 2026년 여름 관측",
+      "title_ko": "공개 모델 상태: 2026년 여름 관찰",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "source": "Hugging Face",
       "date": "Fri, 14 Aug 2026 00:00:00 GMT",
