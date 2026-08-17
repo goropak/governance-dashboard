@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-17T12:21:24.124976+00:00",
+  "updated": "2026-08-17T18:23:16.340940+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
       "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "CUDA에서 MLX까지: K-Search가 Apple Silicon에 수십 년간의 커널 전문 지식을 제공하는 방법",
       "url": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
       "source": "BAIR",
       "date": "Wed, 29 Jul 2026 02:00:00 -0700",
@@ -30,7 +30,7 @@
     {
       "id": "9fea4b35",
       "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "가장자리에 대한 더 좋고 빠른 비전 기능을 위한 LFM2.5-VL-3B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
       "source": "Hugging Face",
       "date": "Wed, 12 Aug 2026 14:00:51 GMT",
