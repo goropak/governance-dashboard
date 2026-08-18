@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T00:36:35.389561+00:00",
+  "updated": "2026-08-18T06:24:20.988273+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -9,7 +9,7 @@
       "source": "BAIR",
       "date": "Wed, 29 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 클래스=\"센터\">\n<img alt=\"CUDA에서 MLX로 커널 지식 전송\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p 클래스",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
       "tags": [],
       "type": "news"
@@ -17,7 +17,7 @@
     {
       "id": "1110b810",
       "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "OlmoEarth 임베딩 소개: 다운스트림 분석을 위해 OlmoEarth Studio에서 사용자 정의 임베딩 내보내기",
       "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
       "source": "Hugging Face",
       "date": "Wed, 12 Aug 2026 16:14:36 GMT",
@@ -74,7 +74,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -108,7 +108,7 @@
     {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -134,7 +134,7 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
+      "title_ko": "새 과정: 프로덕션에 바로 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
@@ -204,7 +204,7 @@
       "source": "MIT Tech Review",
       "date": "Mon, 17 Aug 2026 09:00:00 +0000",
       "desc": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "Xander가 Moxie를 처음 만났을 때, 그녀는 그가 불안할 때 벌처럼 윙윙거리도록 입술로 숨을 내쉬면 진정할 수 있다고 가르쳤습니다. 느낌을 관리하기 위해 용처럼 호흡을 연습했다",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/gettyimages-1289357458-social.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
