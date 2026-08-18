@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T18:23:16.340940+00:00",
+  "updated": "2026-08-18T00:36:35.389561+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -9,7 +9,7 @@
       "source": "BAIR",
       "date": "Wed, 29 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 클래스=\"센터\">\n<img alt=\"CUDA에서 MLX로 커널 지식 전송\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p 클래스",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
       "tags": [],
       "type": "news"
@@ -17,26 +17,13 @@
     {
       "id": "1110b810",
       "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "title_ko": "OlmoEarth 임베딩 소개: 다운스트림 분석을 위해 OlmoEarth Studio에서 사용자 정의 임베딩 내보내기",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
       "source": "Hugging Face",
       "date": "Wed, 12 Aug 2026 16:14:36 GMT",
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/u9KR_QjSYF7mJIbRE3Ni8.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "9fea4b35",
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "title_ko": "가장자리에 대한 더 좋고 빠른 비전 기능을 위한 LFM2.5-VL-3B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "source": "Hugging Face",
-      "date": "Wed, 12 Aug 2026 14:00:51 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/apldbDPIJWZeODX1g9iFV.png",
       "tags": [],
       "type": "news"
     },
@@ -121,7 +108,7 @@
     {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -154,6 +141,32 @@
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
       "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "74fdd9bd",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "title_ko": "동일한 클러스터, 33포인트 더 많은 활용도: 순서가 변경된 것",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face",
+      "date": "Mon, 17 Aug 2026 19:46:21 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/wOnyrU6-UQAM5hOwpaw3-.jpeg",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "dc51f568",
+      "title": "What Flock’s defenders are missing",
+      "title_ko": "Flock의 수비수들이 놓치고 있는 것",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 17 Aug 2026 19:16:09 +0000",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120",
+      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 받은편지함에서 이와 같은 뉴스를 먼저 받으려면 여기에서 가입하세요. 약 120명의 네트워크로 유명한 경찰 기술 대기업 Flock",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26153043646326.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -191,7 +204,7 @@
       "source": "MIT Tech Review",
       "date": "Mon, 17 Aug 2026 09:00:00 +0000",
       "desc": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel",
-      "desc_ko": "Xander가 Moxie를 처음 만났을 때, 그녀는 그가 불안할 때 벌처럼 윙윙거리도록 입술로 숨을 내쉬면 진정할 수 있다고 가르쳤습니다. 느낌을 관리하기 위해 용처럼 호흡을 연습했다",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/gettyimages-1289357458-social.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -219,19 +232,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a gro",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. Flock은 gro에 대응하여 규칙을 강화하고 있습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "809a6cee",
-      "title": "This scientist is helping build a missing map of childhood",
-      "title_ko": "이 과학자는 잃어버린 어린 시절 지도를 만드는 데 도움을 주고 있습니다",
-      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "desc": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that ai",
-      "desc_ko": "2017년 Deanne Taylor는 사무실에서 도보로 가까운 거리에 있는 University of Pennsylvania에서 열린 프레젠테이션에 참석했습니다. 한 연구원이 AI가 수행하는 야심찬 프로젝트인 인간 세포 지도(Human Cell Atlas)를 공개하기 위해 그곳에 있었습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
