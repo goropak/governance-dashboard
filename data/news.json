@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T12:22:43.739688+00:00",
+  "updated": "2026-08-19T18:18:18.024063+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -15,6 +15,32 @@
       "type": "news"
     },
     {
+      "id": "34372b36",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "title_ko": "LFM2.5 Q4\\_0 양자화 인식 증류의 체크포인트",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "source": "Hugging Face",
+      "date": "Wed, 19 Aug 2026 13:48:49 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/PYy1cufo9frwFjiHZLq2S.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c4c7cdc8",
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "title_ko": "다운로드: AI의 자기 개선 문제와 열을 일으키는 원인",
+      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 19 Aug 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so ",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. AI의 반복적인 자기 개선은 그렇게 오지 않을 수도 있습니다",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "2fd4207b",
       "title": "Child-monitoring apps might need a reboot",
       "title_ko": "자녀 모니터링 앱을 재부팅해야 할 수도 있습니다.",
@@ -22,7 +48,7 @@
       "source": "MIT Tech Review",
       "date": "Wed, 19 Aug 2026 09:00:00 +0000",
       "desc": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile ",
-      "desc_ko": "Pam Wisniewski의 디지털 청소년기는 그녀에게 인터넷의 최고와 최악을 보여주었습니다. 14세에 그녀는 학대적인 집을 떠났고, 그곳에서 5륜 트레일러에 고립되어 7마일을 달리게 되었습니다.",
+      "desc_ko": "Pam Wisniewski의 디지털 청소년기는 그녀에게 인터넷의 최고와 최악을 보여주었습니다. 14세에 그녀는 학대적인 집을 떠났고, 그곳에서 7마일의 길 끝에 5륜 트레일러에 고립되어 있었습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-Tech_Review-Opener-FINAL-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -30,7 +56,7 @@
     {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
-      "title_ko": "2026 BAIR 대학원 쇼케이스",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
       "source": "BAIR",
       "date": "Wed, 01 Jul 2026 02:00:00 -0700",
@@ -43,7 +69,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -56,7 +82,7 @@
     {
       "id": "47ea3c6c",
       "title": "How Much Memory Does Your Agent Actually Need?",
-      "title_ko": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?",
+      "title_ko": "에이전트에 실제로 얼마나 많은 메모리가 필요합니까?",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "source": "Hugging Face",
       "date": "Tue, 18 Aug 2026 18:09:38 GMT",
@@ -106,19 +132,6 @@
       "type": "news"
     },
     {
-      "id": "89f9a699",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "title_ko": "AI의 반복적인 자기 개선은 결국 그렇게 빨리 이루어지지 않을 수도 있습니다.",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 18 Aug 2026 09:00:00 +0000",
-      "desc": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz",
-      "desc_ko": "현재 AI 업계의 가장 대담한 약속은 AI가 곧 인간의 감독이 거의 필요 없이 스스로 향상될 것이라는 것입니다. LLM은 이미 코드를 작성하고, 교육용 합성 데이터를 생성하고, 최적화할 수 있습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "7550eaf8",
       "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
       "title_ko": "문장 변환기를 사용한 다중 벡터(후기 상호 작용) 임베딩 모델",
@@ -154,19 +167,6 @@
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
       "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "24013c06",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "title_ko": "Strands Agents, LeRobot 및 Hugging Face Storage Buckets를 사용하여 한 곳에서 기록, 훈련 및 배포",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face",
-      "date": "Thu, 13 Aug 2026 17:16:04 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6a1dc0f2b4238bb17ff94794/St00mBynNYpgz93MpL17G.png",
       "tags": [],
       "type": "news"
     },
