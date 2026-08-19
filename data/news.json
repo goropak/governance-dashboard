@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T06:24:42.740585+00:00",
+  "updated": "2026-08-19T12:22:43.739688+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 클래스=\"센터\">\n<img alt=\"CUDA에서 MLX로 커널 지식 전송\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p 클래스",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2fd4207b",
+      "title": "Child-monitoring apps might need a reboot",
+      "title_ko": "자녀 모니터링 앱을 재부팅해야 할 수도 있습니다.",
+      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 19 Aug 2026 09:00:00 +0000",
+      "desc": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile ",
+      "desc_ko": "Pam Wisniewski의 디지털 청소년기는 그녀에게 인터넷의 최고와 최악을 보여주었습니다. 14세에 그녀는 학대적인 집을 떠났고, 그곳에서 5륜 트레일러에 고립되어 7마일을 달리게 되었습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-Tech_Review-Opener-FINAL-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -139,7 +152,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -206,19 +219,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/wOnyrU6-UQAM5hOwpaw3-.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "dc51f568",
-      "title": "What Flock’s defenders are missing",
-      "title_ko": "Flock의 수비수들이 놓치고 있는 것",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 17 Aug 2026 19:16:09 +0000",
-      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of som",
-      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 먼저 받은 편지함에서 이와 같은 기사를 받으려면 여기에서 가입하세요. Flock, 솜씨 네트워크로 유명한 거대 경찰 기술 기업",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26153043646326.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
