@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T00:36:54.363563+00:00",
+  "updated": "2026-08-20T06:25:50.642741+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -225,7 +225,7 @@
     {
       "id": "d40c6edb",
       "title": "Mixture-of-Experts: Early Sparse MoE Prototypes in LLMs",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "전문가 혼합: LLM의 초기 희소 MoE 프로토타입",
       "url": "https://newsletter.theaiedge.io/p/mixture-of-experts-early-sparse-moe",
       "source": "The AI Edge",
       "date": "Fri, 22 Aug 2025 15:01:43 GMT",
