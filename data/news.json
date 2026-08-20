@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T06:25:50.642741+00:00",
+  "updated": "2026-08-20T12:24:37.092991+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -41,19 +41,6 @@
       "type": "news"
     },
     {
-      "id": "2fd4207b",
-      "title": "Child-monitoring apps might need a reboot",
-      "title_ko": "자녀 모니터링 앱을 재부팅해야 할 수도 있습니다.",
-      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 19 Aug 2026 09:00:00 +0000",
-      "desc": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile ",
-      "desc_ko": "Pam Wisniewski의 디지털 청소년기는 그녀에게 인터넷의 최고와 최악을 보여주었습니다. 14세에 그녀는 학대적인 집을 떠났고, 그곳에서 7마일의 길 끝에 5륜 트레일러에 고립되어 있었습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-Tech_Review-Opener-FINAL-thumb.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
       "title_ko": "2026 BAIR 대학원 쇼케이스",
@@ -69,7 +56,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -89,45 +76,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/j-n1Au9SJ2-RGkT9i98u4.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "f7758ff2",
-      "title": "The Download: how people really use AI, and Flock’s design choices",
-      "title_ko": "다운로드: 사람들이 실제로 AI를 사용하는 방법과 Flock의 디자인 선택",
-      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 18 Aug 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 우리는 사람들이 실제로 AI를 어떻게 사용하고 있는지 아직 모릅니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "77666583",
-      "title": "We still don’t know how people are really using AI",
-      "title_ko": "우리는 사람들이 실제로 AI를 어떻게 사용하고 있는지 아직 모릅니다.",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 18 Aug 2026 10:06:43 +0000",
-      "desc": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160;",
-      "desc_ko": "Anthropic 및 OpenAI와 같은 AI 회사는 사람들이 Claude 및 ChatGPT와 같은 제품을 어떻게 사용하고 있는지에 대한 보고서를 정기적으로 게시하지만 그들은 우리가 보길 원하는 데이터만 공개한다고 AI 연구자들은 말합니다.&#160;",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "34ce57c1",
-      "title": "The role of the astronaut is in flux",
-      "title_ko": "우주비행사의 역할은 유동적이다",
-      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 18 Aug 2026 09:00:00 +0000",
-      "desc": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by",
-      "desc_ko": "NASA의 아르테미스 2호에 탑승한 4명의 우주비행사는 올해 초 달 주위를 선회하면서 인류가 지구에서 가장 멀리 날아간 기록을 세웠다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/art002e009287large.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -171,9 +119,61 @@
       "type": "news"
     },
     {
+      "id": "4ad78b2d",
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "title_ko": "다운로드: 폴리위기 지원 네트워크와 수소 골드러시",
+      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 20 Aug 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the poly",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 지원 네트워크는 폴리를 통해 아이들을 돕는 것을 목표로 합니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260720_MIT_Polycrisis-thumb.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "20d0e9fe",
+      "title": "The next big thing in hydrogen could be underground",
+      "title_ko": "수소의 차세대 기술은 지하에 있을 수 있다",
+      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 20 Aug 2026 10:00:00 +0000",
+      "desc": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks t",
+      "desc_ko": "새로운 수소 공급원을 찾고 있으며 가스(또는 적어도 수소를 만드는 데 적합한 조건)가 우리 발 밑에 숨어 있을 수 있습니다. 수소는 대형 트럭부터 모든 차량의 연료로 사용될 수 있습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP23296765945738.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "546c18a8",
+      "title": "Unlocking hidden revenue streams with market models",
+      "title_ko": "시장 모델을 통해 숨겨진 수익원 발굴",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 20 Aug 2026 09:47:22 +0000",
+      "desc": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a",
+      "desc_ko": "매일 항공사는 수백 편의 항공편을 통해 수만 명의 승객을 운송합니다. 종종 이는 승객이 여러 연결을 필요로 하는 간단한 지점 간 경로가 아닙니다. a",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTR2026_Fetcherr_1200CovrevSocV1.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f13376a8",
+      "title": "Support networks aim to help kids through the polycrisis",
+      "title_ko": "지원 네트워크는 다단계 위기를 극복하는 어린이를 돕는 것을 목표로 합니다.",
+      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 20 Aug 2026 09:00:00 +0000",
+      "desc": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the ",
+      "desc_ko": "2000년대 후반 어느 날, Pim Sullivan-Tailyour는 차 뒷좌석에 앉아 태국 남부에 있는 증조할머니의 작은 마을을 향해 가고 있었습니다. 그녀는 바깥으로 큰 산들이 지나가는 것을 보았습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260720_MIT_Polycrisis-thumb.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -238,7 +238,7 @@
     {
       "id": "ef192153",
       "title": "State of Open Models: Summer 2026 Observations",
-      "title_ko": "공개 모델 현황: 2026년 여름 관측",
+      "title_ko": "공개 모델 상태: 2026년 여름 관측",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "source": "Hugging Face",
       "date": "Fri, 14 Aug 2026 00:00:00 GMT",
