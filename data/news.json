@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T12:24:37.092991+00:00",
+  "updated": "2026-08-20T18:22:51.049775+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,32 +11,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 클래스=\"센터\">\n<img alt=\"CUDA에서 MLX로 커널 지식 전송\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p 클래스",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "34372b36",
-      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "title_ko": "LFM2.5 Q4\\_0 양자화 인식 증류의 체크포인트",
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "source": "Hugging Face",
-      "date": "Wed, 19 Aug 2026 13:48:49 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/PYy1cufo9frwFjiHZLq2S.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "c4c7cdc8",
-      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-      "title_ko": "다운로드: AI의 자기 개선 문제와 열을 일으키는 원인",
-      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 19 Aug 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so ",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. AI의 반복적인 자기 개선은 그렇게 오지 않을 수도 있습니다",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -56,7 +30,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -69,7 +43,7 @@
     {
       "id": "47ea3c6c",
       "title": "How Much Memory Does Your Agent Actually Need?",
-      "title_ko": "에이전트에 실제로 얼마나 많은 메모리가 필요합니까?",
+      "title_ko": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "source": "Hugging Face",
       "date": "Tue, 18 Aug 2026 18:09:38 GMT",
@@ -115,6 +89,32 @@
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
       "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b1eabc16",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "title_ko": "LFM2.5-DSpark를 통해 최대 3.2배 더 빠른 추론 속도",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "Hugging Face",
+      "date": "Thu, 20 Aug 2026 16:52:57 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/ZMoThfdqzAz8cbxweVQfO.gif",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "5e86b723",
+      "title": "Debates over AI consciousness are a trap",
+      "title_ko": "AI 의식에 대한 논쟁은 함정이다",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 20 Aug 2026 15:42:39 +0000",
+      "desc": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ",
+      "desc_ko": "\"폭주\" AI, \"불량\" 에이전트, \"자율\" 행위자 등 현재의 수사를 보면 AI 에이전트가 깨어 있고 인식할 뿐만 아니라 제작자에게 화가 난다고 믿게 됩니다. 다음과 같은 저명한 기술 리더",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
