@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T06:27:01.103297+00:00",
+  "updated": "2026-08-21T12:24:08.353614+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -43,7 +43,7 @@
     {
       "id": "47ea3c6c",
       "title": "How Much Memory Does Your Agent Actually Need?",
-      "title_ko": "에이전트에 실제로 얼마나 많은 메모리가 필요합니까?",
+      "title_ko": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "source": "Hugging Face",
       "date": "Tue, 18 Aug 2026 18:09:38 GMT",
@@ -132,48 +132,9 @@
       "type": "news"
     },
     {
-      "id": "20d0e9fe",
-      "title": "The next big thing in hydrogen could be underground",
-      "title_ko": "수소의 차세대 기술은 지하에 있을 수 있다",
-      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 20 Aug 2026 10:00:00 +0000",
-      "desc": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks t",
-      "desc_ko": "새로운 수소 공급원을 찾고 있으며 가스(또는 적어도 수소를 만드는 데 적합한 조건)가 우리 발 밑에 숨어 있을 수 있습니다. 수소는 대형 트럭부터 모든 차량의 연료로 사용될 수 있습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP23296765945738.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "546c18a8",
-      "title": "Unlocking hidden revenue streams with market models",
-      "title_ko": "시장 모델을 통해 숨겨진 수익원 발굴",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 20 Aug 2026 09:47:22 +0000",
-      "desc": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a",
-      "desc_ko": "매일 항공사는 수백 편의 항공편을 통해 수만 명의 승객을 운송합니다. 종종 이는 승객이 여러 연결을 필요로 하는 간단한 지점 간 경로가 아닙니다. a",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTR2026_Fetcherr_1200CovrevSocV1.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "f13376a8",
-      "title": "Support networks aim to help kids through the polycrisis",
-      "title_ko": "지원 네트워크는 다단계 위기를 극복하는 어린이를 돕는 것을 목표로 합니다.",
-      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 20 Aug 2026 09:00:00 +0000",
-      "desc": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the ",
-      "desc_ko": "2000년대 후반 어느 날, Pim Sullivan-Tailyour는 차 뒷좌석에 앉아 태국 남부에 있는 증조할머니의 작은 마을을 향해 가고 있었습니다. 그녀는 바깥으로 큰 산들이 지나가는 것을 보았습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260720_MIT_Polycrisis-thumb.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -236,9 +197,48 @@
       "type": "news"
     },
     {
+      "id": "2be7e5f3",
+      "title": "Mother tongue",
+      "title_ko": "모국어",
+      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "desc": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one,",
+      "desc_ko": "\"아빠?\" 테오는 침대에서 내 옆으로 몸을 웅크리고 있었다. “말은 죽으면 어디로 가나요?” 나는 취침 시간 루틴을 완벽하게 조율했습니다. 목욕(씻기), 이를(닦기), 변기(딸깍 소리), 책(2개), 노래(1개,",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/GettyImages-1095318768-thumb.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "66806890",
+      "title": "When AI designs a drug, who gets the credit?",
+      "title_ko": "AI가 약을 개발하면 누가 공로를 인정받나요?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "desc": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “disco",
+      "desc_ko": "생명공학 회사인 Insilico Medicine이 자사의 컴퓨터 모델을 사용하여 폐섬유증에 대한 유망한 약물을 제안했을 때, 보도 자료에서 그 분자는 \"디스코\"라고 열정적으로 주장했습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI-scientist-IP.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b0b66b95",
+      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+      "title_ko": "우주 거울을 배치하려는 이 회사의 계획은 많은 사람들의 밤하늘을 위험에 빠뜨릴 수 있습니다.",
+      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "desc": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US c",
+      "desc_ko": "새로운 연구에 따르면, 필요에 따라 우주에서 지구로 햇빛을 보내려고 계획하는 회사가 의도한 것보다 더 많은 사람들의 밤하늘을 의도치 않게 밝게 만들 수 있다는 것이 밝혀졌습니다. 올해 말 미국은",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space-mirror3.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "ef192153",
       "title": "State of Open Models: Summer 2026 Observations",
-      "title_ko": "공개 모델 상태: 2026년 여름 관측",
+      "title_ko": "공개 모델 상태: 2026년 여름 관찰",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "source": "Hugging Face",
       "date": "Fri, 14 Aug 2026 00:00:00 GMT",
