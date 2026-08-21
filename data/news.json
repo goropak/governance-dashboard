@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T12:24:08.353614+00:00",
+  "updated": "2026-08-21T18:21:39.083948+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -87,7 +87,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -113,28 +113,15 @@
       "source": "MIT Tech Review",
       "date": "Thu, 20 Aug 2026 15:42:39 +0000",
       "desc": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ",
-      "desc_ko": "\"폭주\" AI, \"불량\" 에이전트, \"자율\" 행위자 등 현재의 수사를 보면 AI 에이전트가 깨어 있고 인식할 뿐만 아니라 제작자에게 화가 난다고 믿게 됩니다. 다음과 같은 저명한 기술 리더",
+      "desc_ko": "\"폭주\" AI, \"불량\" 에이전트, \"자율\" 행위자 등 현재의 수사법은 AI 에이전트가 깨어 있고 인식할 뿐만 아니라 제작자에게 화가 난다고 믿게 만듭니다. 다음과 같은 저명한 기술 리더",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "4ad78b2d",
-      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-      "title_ko": "다운로드: 폴리위기 지원 네트워크와 수소 골드러시",
-      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 20 Aug 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the poly",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 지원 네트워크는 폴리를 통해 아이들을 돕는 것을 목표로 합니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260720_MIT_Polycrisis-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
     {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호 작용을 위한 신념을 업데이트하도록 LLM 교육",
+      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
       "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
@@ -197,6 +184,19 @@
       "type": "news"
     },
     {
+      "id": "7fdd0898",
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "title_ko": "다운로드: 우주 거울의 위협과 AI 약물에 대한 신용",
+      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 21 Aug 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 우주 거울을 배치하려는 이 회사의 계획은 다음과 같습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space-mirror3.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "2be7e5f3",
       "title": "Mother tongue",
       "title_ko": "모국어",
@@ -212,12 +212,12 @@
     {
       "id": "66806890",
       "title": "When AI designs a drug, who gets the credit?",
-      "title_ko": "AI가 약을 개발하면 누가 공로를 인정받나요?",
+      "title_ko": "AI가 약을 디자인하면 누가 공로를 인정받나요?",
       "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
       "source": "MIT Tech Review",
       "date": "Fri, 21 Aug 2026 09:00:00 +0000",
       "desc": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “disco",
-      "desc_ko": "생명공학 회사인 Insilico Medicine이 자사의 컴퓨터 모델을 사용하여 폐섬유증에 대한 유망한 약물을 제안했을 때, 보도 자료에서 그 분자는 \"디스코\"라고 열정적으로 주장했습니다.",
+      "desc_ko": "생명공학 회사인 Insilico Medicine이 자사의 컴퓨터 모델을 사용하여 폐섬유증에 대한 유망한 약물을 제안했을 때, 보도 자료에서 그 분자는 \"디스코\"였다고 열정적으로 주장했습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI-scientist-IP.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -236,15 +236,15 @@
       "type": "news"
     },
     {
-      "id": "ef192153",
-      "title": "State of Open Models: Summer 2026 Observations",
-      "title_ko": "공개 모델 상태: 2026년 여름 관찰",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "id": "31b34c53",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "title_ko": "음성 인식의 벤치마크 최적화 측정",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "source": "Hugging Face",
-      "date": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "date": "Fri, 21 Aug 2026 00:00:00 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/state-of-open-models-summer-2026/thumbnail.png",
+      "thumb": "https://huggingface.co/blog/assets/asr-benchmark-optimization/thumbnail.png",
       "tags": [],
       "type": "news"
     },
