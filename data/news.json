@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T18:22:51.049775+00:00",
+  "updated": "2026-08-21T00:39:35.713263+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -43,7 +43,7 @@
     {
       "id": "47ea3c6c",
       "title": "How Much Memory Does Your Agent Actually Need?",
-      "title_ko": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "source": "Hugging Face",
       "date": "Tue, 18 Aug 2026 18:09:38 GMT",
@@ -139,7 +139,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 20 Aug 2026 10:00:00 +0000",
       "desc": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks t",
-      "desc_ko": "새로운 수소 공급원을 찾고 있으며 가스(또는 적어도 수소를 만드는 데 적합한 조건)가 우리 발 밑에 숨어 있을 수 있습니다. 수소는 대형 트럭부터 모든 차량의 연료로 사용될 수 있습니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP23296765945738.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -178,7 +178,7 @@
       "source": "BAIR",
       "date": "Sun, 26 Jul 2026 02:00:00 -0700",
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL 개요\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20Figure.png\" />\n<나는 수업=",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
       "tags": [],
       "type": "news"
