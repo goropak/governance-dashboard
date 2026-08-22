@@ -1,32 +1,6 @@
 {
-  "updated": "2026-08-22T00:37:10.519252+00:00",
+  "updated": "2026-08-22T06:22:56.188698+00:00",
   "items": [
-    {
-      "id": "e5f8a9c7",
-      "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
-      "title_ko": "CUDA에서 MLX까지: K-Search가 Apple Silicon에 수십 년간의 커널 전문 지식을 제공하는 방법",
-      "url": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
-      "source": "BAIR",
-      "date": "Wed, 29 Jul 2026 02:00:00 -0700",
-      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 클래스=\"센터\">\n<img alt=\"CUDA에서 MLX로 커널 지식 전송\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p 클래스",
-      "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "484c06b2",
-      "title": "2026 BAIR Graduate Showcase",
-      "title_ko": "2026 BAIR 대학원 쇼케이스",
-      "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
-      "source": "BAIR",
-      "date": "Wed, 01 Jul 2026 02:00:00 -0700",
-      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n<p>2026년 버클리 인공지능 연구(BAIR) 연구실 수업을 축하합니다! 올해 BAIR는 또 다른 주목할만한 박사 학위 그룹을 축하합니다. cu 졸업생",
-      "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
-      "tags": [],
-      "type": "news"
-    },
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
@@ -67,19 +41,6 @@
       "type": "news"
     },
     {
-      "id": "d16153c2",
-      "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
-      "title_ko": "지능은 무료입니다. 이제 무엇을 해야 할까요? <br> 에이전트를 위한, 에이전트에 의한 데이터 시스템",
-      "url": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
-      "source": "BAIR",
-      "date": "Tue, 07 Jul 2026 02:00:00 -0700",
-      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p 스타일=\"텍스트 정렬: 가운데;\">\n<i>... 국민의, 국민에 의한, 국민을 위한 정부...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; 에이브러햄 링컨, 게티즈버그 광고",
-      "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "e6fa7f06",
       "title": "Build Production-Ready Agentic-RAG Applications From Scratch Course: What we are going to build",
       "title_ko": "처음부터 생산 준비가 된 Agentic-RAG 애플리케이션 구축 과정: 우리가 구축할 내용",
@@ -87,7 +48,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -113,21 +74,8 @@
       "source": "MIT Tech Review",
       "date": "Thu, 20 Aug 2026 15:42:39 +0000",
       "desc": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ",
-      "desc_ko": "\"폭주\" AI, \"불량\" 에이전트, \"자율\" 행위자 등 현재의 수사를 보면 AI 에이전트가 깨어 있고 인식할 뿐만 아니라 제작자에게 화가 난다고 믿게 됩니다. 다음과 같은 저명한 기술 리더",
+      "desc_ko": "\"폭주\" AI, \"불량\" 에이전트, \"자율\" 행위자 등 현재의 수사법은 AI 에이전트가 깨어 있고 인식할 뿐만 아니라 제작자에게 화가 난다고 믿게 만듭니다. 다음과 같은 저명한 기술 리더",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "20fb9af9",
-      "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "title_ko": "효율적인 장거리 상호작용을 위한 신념을 업데이트하도록 LLM 교육",
-      "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
-      "source": "BAIR",
-      "date": "Sun, 26 Jul 2026 02:00:00 -0700",
-      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL 개요\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20Figure.png\" />\n<나는 수업=",
-      "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
       "tags": [],
       "type": "news"
     },
@@ -173,7 +121,7 @@
     {
       "id": "d40c6edb",
       "title": "Mixture-of-Experts: Early Sparse MoE Prototypes in LLMs",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "전문가 혼합: LLM의 초기 희소 MoE 프로토타입",
       "url": "https://newsletter.theaiedge.io/p/mixture-of-experts-early-sparse-moe",
       "source": "The AI Edge",
       "date": "Fri, 22 Aug 2025 15:01:43 GMT",
@@ -212,12 +160,12 @@
     {
       "id": "66806890",
       "title": "When AI designs a drug, who gets the credit?",
-      "title_ko": "AI가 약을 개발하면 누가 공로를 인정받나요?",
+      "title_ko": "AI가 약을 디자인하면 누가 공로를 인정받나요?",
       "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
       "source": "MIT Tech Review",
       "date": "Fri, 21 Aug 2026 09:00:00 +0000",
       "desc": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “disco",
-      "desc_ko": "생명공학 회사인 Insilico Medicine이 자사의 컴퓨터 모델을 사용하여 폐섬유증에 대한 유망한 약물을 제안했을 때, 보도 자료에서 그 분자는 \"디스코\"라고 열정적으로 주장했습니다.",
+      "desc_ko": "생명공학 회사인 Insilico Medicine이 자사의 컴퓨터 모델을 사용하여 폐섬유증에 대한 유망한 약물을 제안했을 때, 보도 자료에서 그 분자는 \"디스코\"였다고 열정적으로 주장했습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI-scientist-IP.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -245,19 +193,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/asr-benchmark-optimization/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "a8b82a19",
-      "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
-      "source": "BAIR",
-      "date": "Fri, 08 May 2026 02:00:00 -0700",
-      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"Adaptive Parallel Reasoning overview\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
-      "desc_ko": "<!-- 트위터 -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"적응형 병렬 추론 개요\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
-      "thumb": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
       "tags": [],
       "type": "news"
     }
