@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T18:21:39.083948+00:00",
+  "updated": "2026-08-22T00:37:10.519252+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -87,7 +87,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -113,7 +113,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 20 Aug 2026 15:42:39 +0000",
       "desc": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ",
-      "desc_ko": "\"폭주\" AI, \"불량\" 에이전트, \"자율\" 행위자 등 현재의 수사법은 AI 에이전트가 깨어 있고 인식할 뿐만 아니라 제작자에게 화가 난다고 믿게 만듭니다. 다음과 같은 저명한 기술 리더",
+      "desc_ko": "\"폭주\" AI, \"불량\" 에이전트, \"자율\" 행위자 등 현재의 수사를 보면 AI 에이전트가 깨어 있고 인식할 뿐만 아니라 제작자에게 화가 난다고 믿게 됩니다. 다음과 같은 저명한 기술 리더",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -173,7 +173,7 @@
     {
       "id": "d40c6edb",
       "title": "Mixture-of-Experts: Early Sparse MoE Prototypes in LLMs",
-      "title_ko": "전문가 혼합: LLM의 초기 희소 MoE 프로토타입",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/mixture-of-experts-early-sparse-moe",
       "source": "The AI Edge",
       "date": "Fri, 22 Aug 2025 15:01:43 GMT",
@@ -212,12 +212,12 @@
     {
       "id": "66806890",
       "title": "When AI designs a drug, who gets the credit?",
-      "title_ko": "AI가 약을 디자인하면 누가 공로를 인정받나요?",
+      "title_ko": "AI가 약을 개발하면 누가 공로를 인정받나요?",
       "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
       "source": "MIT Tech Review",
       "date": "Fri, 21 Aug 2026 09:00:00 +0000",
       "desc": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “disco",
-      "desc_ko": "생명공학 회사인 Insilico Medicine이 자사의 컴퓨터 모델을 사용하여 폐섬유증에 대한 유망한 약물을 제안했을 때, 보도 자료에서 그 분자는 \"디스코\"였다고 열정적으로 주장했습니다.",
+      "desc_ko": "생명공학 회사인 Insilico Medicine이 자사의 컴퓨터 모델을 사용하여 폐섬유증에 대한 유망한 약물을 제안했을 때, 보도 자료에서 그 분자는 \"디스코\"라고 열정적으로 주장했습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI-scientist-IP.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -251,7 +251,7 @@
     {
       "id": "a8b82a19",
       "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-      "title_ko": "적응형 병렬 추론: 효율적인 추론 확장의 차세대 패러다임",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
       "source": "BAIR",
       "date": "Fri, 08 May 2026 02:00:00 -0700",
