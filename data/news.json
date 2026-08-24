@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T06:35:31.020701+00:00",
+  "updated": "2026-08-24T12:25:09.510241+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -30,7 +30,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -43,7 +43,7 @@
     {
       "id": "47ea3c6c",
       "title": "How Much Memory Does Your Agent Actually Need?",
-      "title_ko": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "source": "Hugging Face",
       "date": "Tue, 18 Aug 2026 18:09:38 GMT",
@@ -87,7 +87,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -102,19 +102,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/ZMoThfdqzAz8cbxweVQfO.gif",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "5e86b723",
-      "title": "Debates over AI consciousness are a trap",
-      "title_ko": "AI 의식에 대한 논쟁은 함정이다",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 20 Aug 2026 15:42:39 +0000",
-      "desc": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ",
-      "desc_ko": "\"폭주\" AI, \"불량\" 에이전트, \"자율\" 행위자 등 현재의 수사법은 AI 에이전트가 깨어 있고 인식할 뿐만 아니라 제작자에게 화가 난다고 믿게 만듭니다. 다음과 같은 저명한 기술 리더",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -134,7 +121,7 @@
     {
       "id": "138e52b8",
       "title": "AdalFlow: A PyTorch-Like Framework to Auto-Optimizing Prompt for your LLM agent",
-      "title_ko": "AdalFlow: LLM 에이전트에 대한 자동 최적화 프롬프트를 위한 PyTorch와 유사한 프레임워크",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/adalflow-a-pytorch-like-framework",
       "source": "The AI Edge",
       "date": "Mon, 29 Sep 2025 15:01:00 GMT",
@@ -154,6 +141,32 @@
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
       "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "7d7123f3",
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "title_ko": "다운로드: AI를 배우는 어린이 및 우주 여행사",
+      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 24 Aug 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teach",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 아이들은 AI를 능가하지만 우리는 아직도 왜 가르치는지 모릅니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b781f4c4",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 24 Aug 2026 09:00:00 +0000",
+      "desc": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
+      "desc_ko": "우리가 아는 한, 사람들은 적어도 100,000년 동안 서로 대화해 왔습니다. 그리고 그 동안 인간의 언어를 완벽하게 배울 수 있는 것은 세상에 단 한 가지뿐이었습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -178,7 +191,7 @@
       "source": "The AI Edge",
       "date": "Fri, 22 Aug 2025 15:01:43 GMT",
       "desc": "Mixture-of-Experts might be one of the most important improvements in the Transformer architecture!",
-      "desc_ko": "전문가 혼합은 Transformer 아키텍처의 가장 중요한 개선 사항 중 하나일 수 있습니다!",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!2RgN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40a6fd37-5d37-49e4-b10f-d641af576d04_1500x918.png",
       "tags": [],
       "type": "news"
@@ -223,22 +236,9 @@
       "type": "news"
     },
     {
-      "id": "b0b66b95",
-      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-      "title_ko": "우주 거울을 배치하려는 이 회사의 계획은 많은 사람들의 밤하늘을 위험에 빠뜨릴 수 있습니다.",
-      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
-      "desc": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US c",
-      "desc_ko": "새로운 연구에 따르면, 필요에 따라 우주에서 지구로 햇빛을 보내려고 계획하는 회사가 의도한 것보다 더 많은 사람들의 밤하늘을 의도치 않게 밝게 만들 수 있다는 것이 밝혀졌습니다. 올해 말 미국은",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space-mirror3.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "31b34c53",
       "title": "Measuring benchmark optimization in speech recognition",
-      "title_ko": "음성 인식의 벤치마크 최적화 측정",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "source": "Hugging Face",
       "date": "Fri, 21 Aug 2026 00:00:00 GMT",
