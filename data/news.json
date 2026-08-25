@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T06:26:25.197201+00:00",
+  "updated": "2026-08-25T12:25:40.148563+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -28,6 +28,45 @@
       "type": "news"
     },
     {
+      "id": "ba39c4d2",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "source": "Hugging Face",
+      "date": "Tue, 25 Aug 2026 11:39:24 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/668e37fd9c9aa124a3c867e8/2DSE26PMq2hJqKqEDOLIn.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e94a9064",
+      "title": "Welcome to the spiderverse, a world measured through webs",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 25 Aug 2026 09:00:00 +0000",
+      "desc": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. That census-taking, th",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-DNA-HANGERS-094.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "dac3a9d1",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 25 Aug 2026 09:00:00 +0000",
+      "desc": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—a",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/DSC_8845-1.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "3a9a9569",
       "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
       "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -50,32 +89,6 @@
       "desc": "Project-Based Course",
       "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "47ea3c6c",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face",
-      "date": "Tue, 18 Aug 2026 18:09:38 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/j-n1Au9SJ2-RGkT9i98u4.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "7550eaf8",
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face",
-      "date": "Tue, 18 Aug 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/multi-vector-encoder/st-hf-lighton-thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -210,28 +223,15 @@
       "type": "news"
     },
     {
-      "id": "7fdd0898",
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "id": "b00c3e47",
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
       "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 21 Aug 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space-mirror3.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "2be7e5f3",
-      "title": "Mother tongue",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
-      "desc": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one,",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/GettyImages-1095318768-thumb.jpg?resize=1200,600",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "source": "Hugging Face",
+      "date": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/pwc-search/thumbnail.png",
       "tags": [],
       "type": "news"
     },
