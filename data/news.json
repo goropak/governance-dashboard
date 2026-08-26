@@ -1,10 +1,23 @@
 {
-  "updated": "2026-08-26T12:30:52.329728+00:00",
+  "updated": "2026-08-26T19:32:09.142556+00:00",
   "items": [
+    {
+      "id": "7a6b849c",
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 26 Aug 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/SO26-Release_Campaign_Web-Units_In-article_343x343.gif?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "606181c5",
       "title": "Raised on AI",
-      "title_ko": "AI를 기반으로 성장",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
       "source": "MIT Tech Review",
       "date": "Wed, 26 Aug 2026 09:00:00 +0000",
@@ -22,7 +35,7 @@
       "source": "MIT Tech Review",
       "date": "Wed, 26 Aug 2026 09:00:00 +0000",
       "desc": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva",
-      "desc_ko": "퍼즐과 게임은 초창기부터 AI 개발의 핵심이었습니다. 인간이 크로스워드나 논리 퍼즐로 지능을 테스트하는 것을 좋아하는 것처럼 개발자는 모델이 얼마나 발전했는지 테스트할 수 있습니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -41,6 +54,19 @@
       "type": "news"
     },
     {
+      "id": "cea6b0e8",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "Hugging Face",
+      "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "6dd838ea",
       "title": "Addressing a sticking point in sustainable adhesives",
       "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -54,22 +80,9 @@
       "type": "news"
     },
     {
-      "id": "79bd0379",
-      "title": "YouTuber finds niche as college admissions mentor",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "desc": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier ",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/GoharKhan2_courtesy-photo-thumb.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "6ad1fb7a",
       "title": "Granite 4.2 LLMs: How They're Built",
-      "title_ko": "Granite 4.2 LLM: 구축 방법",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
       "source": "Hugging Face",
       "date": "Tue, 25 Aug 2026 15:14:14 GMT",
@@ -95,7 +108,7 @@
     {
       "id": "3a9a9569",
       "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "title_ko": "연결하고, 실행하고, 배포하세요: Gradio의 AI 워크플로",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/gradio-workflow-guide",
       "source": "Hugging Face",
       "date": "Tue, 25 Aug 2026 00:00:00 GMT",
@@ -173,26 +186,13 @@
     {
       "id": "b00c3e47",
       "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "title_ko": "포옹 얼굴 추론 엔드포인트, 작업 및 버킷이 코드가 포함된 논문에서 강력한 검색을 수행하는 방법",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/pwc-search",
       "source": "Hugging Face",
       "date": "Fri, 21 Aug 2026 00:00:00 GMT",
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/pwc-search/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "31b34c53",
-      "title": "Measuring benchmark optimization in speech recognition",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "source": "Hugging Face",
-      "date": "Fri, 21 Aug 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/asr-benchmark-optimization/thumbnail.png",
       "tags": [],
       "type": "news"
     }
