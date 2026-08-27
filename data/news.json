@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-26T19:32:09.142556+00:00",
+  "updated": "2026-08-27T05:41:31.875746+00:00",
   "items": [
+    {
+      "id": "db5b8f42",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 26 Aug 2026 19:00:00 +0000",
+      "desc": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "7a6b849c",
       "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
@@ -30,7 +43,7 @@
     {
       "id": "8e8985de",
       "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "AI 모델은 이러한 지능 테스트를 방해합니다. 더 잘 지낼 수 있나요?",
       "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
       "source": "MIT Tech Review",
       "date": "Wed, 26 Aug 2026 09:00:00 +0000",
@@ -63,19 +76,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "6dd838ea",
-      "title": "Addressing a sticking point in sustainable adhesives",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "desc": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Ferreira_photoKort-Duce_Dynamic-Tech-Media-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
