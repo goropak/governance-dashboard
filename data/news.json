@@ -1,32 +1,6 @@
 {
-  "updated": "2026-08-28T01:55:45.569125+00:00",
+  "updated": "2026-08-28T17:53:54.433153+00:00",
   "items": [
-    {
-      "id": "db5b8f42",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "title_ko": "OpenAI 에이전트가 Hugging Face를 해킹한 이유에 대한 내부 이야기",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 26 Aug 2026 19:00:00 +0000",
-      "desc": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T",
-      "desc_ko": "오늘 발표된 OpenAI 기술 보고서에 따르면 지난 달 Hugging Face의 에이전트 해킹을 담당한 모델은 부주의하게 서로 부정 행위를 하고 통신하도록 훈련되었습니다. 티",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "7a6b849c",
-      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-      "title_ko": "다운로드: 어린이 문제가 발생하고 Bill Gates가 AI에 대한 두려움을 밝힙니다.",
-      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 26 Aug 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 소개: 어린이 문제 제한하려는 욕구가 있는 경우",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/SO26-Release_Campaign_Web-Units_In-article_343x343.gif?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
     {
       "id": "cea6b0e8",
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
@@ -56,7 +30,7 @@
     {
       "id": "ba39c4d2",
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "title_ko": "양자화 인식 치유: 전체 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "source": "Hugging Face",
       "date": "Tue, 25 Aug 2026 11:39:24 GMT",
@@ -95,7 +69,7 @@
     {
       "id": "e6fa7f06",
       "title": "Build Production-Ready Agentic-RAG Applications From Scratch Course: What we are going to build",
-      "title_ko": "처음부터 생산 준비가 된 Agentic-RAG 애플리케이션 구축 과정: 우리가 구축할 내용",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/build-production-ready-agentic-rag",
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
@@ -112,8 +86,8 @@
       "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
       "source": "MIT Tech Review",
       "date": "Thu, 27 Aug 2026 19:48:13 +0000",
-      "desc": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatmen",
-      "desc_ko": "나는 이번 달에 Generation Lab이라는 회사가 나에게 그들의 새로운 회춘 치료법에 대해 글을 쓰고 심지어 받을 기회를 제공하기 위해 연락했을 때 공식적으로 '장수 인플루언서'가 될 것이라는 것을 알았습니다.",
+      "desc": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatmen",
+      "desc_ko": "나는 이번 달에 Generation Lab이라는 회사가 나에게 그들의 새로운 회춘 치료법에 대해 글을 쓰고 심지어 받을 기회를 제공하기 위해 연락했을 때 공식적으로 \"장수 영향력 있는 사람\"이 될 것이라는 것을 알았습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_youngblood_v2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -147,7 +121,7 @@
     {
       "id": "138e52b8",
       "title": "AdalFlow: A PyTorch-Like Framework to Auto-Optimizing Prompt for your LLM agent",
-      "title_ko": "AdalFlow: LLM 에이전트에 대한 자동 최적화 프롬프트를 위한 PyTorch와 유사한 프레임워크",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/adalflow-a-pytorch-like-framework",
       "source": "The AI Edge",
       "date": "Mon, 29 Sep 2025 15:01:00 GMT",
@@ -160,20 +134,46 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
-      "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b623714f",
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "title_ko": "다운로드: 비밀스러운 노화방지제와 가상발전소 합류",
+      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 28 Aug 2026 12:35:27 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your bl",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 한 스타트업이 당신의 BL을 만드는 약을 발견했다고 주장합니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_youngblood_v2.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "5cb4d68d",
+      "title": "How to sign up for a virtual power plant—and decide whether you should",
+      "title_ko": "가상 발전소에 등록하는 방법과 가입 여부를 결정하는 방법",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 28 Aug 2026 09:00:00 +0000",
+      "desc": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility an",
+      "desc_ko": "MIT Technology Review의 How To 시리즈는 작업을 완료하는 데 도움이 됩니다.&#160; 온도 조절 장치가 발전소처럼 보이지 않을 수도 있습니다. 전기 자동차, 가정용 배터리 또는 HVAC 시스템도 마찬가지입니다. 그러나 유틸리티",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/thermostat2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
     {
       "id": "d40c6edb",
       "title": "Mixture-of-Experts: Early Sparse MoE Prototypes in LLMs",
-      "title_ko": "전문가 혼합: LLM의 초기 희소 MoE 프로토타입",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/mixture-of-experts-early-sparse-moe",
       "source": "The AI Edge",
       "date": "Fri, 22 Aug 2025 15:01:43 GMT",
