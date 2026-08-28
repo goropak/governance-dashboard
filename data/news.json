@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T17:05:52.096234+00:00",
+  "updated": "2026-08-28T01:55:45.569125+00:00",
   "items": [
     {
       "id": "db5b8f42",
@@ -24,19 +24,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 소개: 어린이 문제 제한하려는 욕구가 있는 경우",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/SO26-Release_Campaign_Web-Units_In-article_343x343.gif?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "606181c5",
-      "title": "Raised on AI",
-      "title_ko": "AI를 기반으로 성장",
-      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 26 Aug 2026 09:00:00 +0000",
-      "desc": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In sh",
-      "desc_ko": "큰 아이가 태어나자마자 저는 즉시 아이 이름으로 지메일과 트위터 계정을 만들었습니다. 나는 그녀의 탄생을 온라인으로 널리 알리고 모든 종류의 플랫폼에 그녀의 사진을 게시했습니다. 쉬에서",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -69,7 +56,7 @@
     {
       "id": "ba39c4d2",
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "title_ko": "양자화 인식 치유: 완전 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델",
+      "title_ko": "양자화 인식 치유: 전체 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "source": "Hugging Face",
       "date": "Tue, 25 Aug 2026 11:39:24 GMT",
@@ -113,8 +100,21 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2074ade1",
+      "title": "A startup claims it’s found a drug to make your blood young",
+      "title_ko": "혈액을 젊게 만드는 약을 발견했다고 주장하는 스타트업",
+      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 27 Aug 2026 19:48:13 +0000",
+      "desc": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatmen",
+      "desc_ko": "나는 이번 달에 Generation Lab이라는 회사가 나에게 그들의 새로운 회춘 치료법에 대해 글을 쓰고 심지어 받을 기회를 제공하기 위해 연락했을 때 공식적으로 '장수 인플루언서'가 될 것이라는 것을 알았습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_youngblood_v2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
