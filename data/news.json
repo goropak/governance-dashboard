@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T15:46:20.359650+00:00",
+  "updated": "2026-09-01T20:19:24.270652+00:00",
   "items": [
     {
       "id": "cea6b0e8",
@@ -43,7 +43,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -61,8 +61,21 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "1945d1d3",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "title_ko": "AI가 알파 센타우리(Alpha Centauri)로의 성간 여행을 계획한 방법",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 01 Sep 2026 19:10:36 +0000",
+      "desc": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—i",
+      "desc_ko": "페르미 탐험가 미션(Fermi Explorer Mission)이라는 비영리 단체는 오늘 2029년 말까지 가장 가까운 항성계로 우주선을 발사할 계획이라고 발표했습니다. 이는 매우 야심찬 임무입니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -126,7 +139,7 @@
       "source": "MIT Tech Review",
       "date": "Mon, 31 Aug 2026 18:00:00 +0000",
       "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI secur",
-      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 먼저 받은편지함에서 이와 같은 기사를 받으려면 여기에서 가입하세요. 지금쯤이면 지난달의 주요 AI 보안에 대해 들어보셨을 것입니다.",
+      "desc_ko": "이 이야기는 원래 AI에 관한 주간 뉴스레터인 The Algorithm에 게재되었습니다. 받은편지함에서 이와 같은 뉴스를 먼저 받으려면 여기에서 가입하세요. 지금쯤이면 지난달의 주요 AI 보안에 대해 들어보셨을 것입니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-human4a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -154,19 +167,6 @@
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
       "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "b623714f",
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "title_ko": "다운로드: 비밀스러운 노화방지제와 가상발전소 합류",
-      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 28 Aug 2026 12:35:27 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your bl",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 한 스타트업이 당신의 BL을 만드는 약을 발견했다고 주장합니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_youngblood_v2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
