@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T10:46:12.735719+00:00",
+  "updated": "2026-09-01T15:46:20.359650+00:00",
   "items": [
     {
       "id": "cea6b0e8",
@@ -30,7 +30,7 @@
     {
       "id": "ba39c4d2",
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "title_ko": "양자화 인식 치유: 전체 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델",
+      "title_ko": "양자화 인식 치유: 완전 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "source": "Hugging Face",
       "date": "Tue, 25 Aug 2026 11:39:24 GMT",
@@ -41,22 +41,9 @@
       "type": "news"
     },
     {
-      "id": "3a9a9569",
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "title_ko": "연결하고, 실행하고, 배포하세요: Gradio의 AI 워크플로",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "source": "Hugging Face",
-      "date": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/gradio-workflow-guide/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "지난 주 등록: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -74,8 +61,34 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "dcfcfe16",
+      "title": "Making the AI-powered case for legacy modernization",
+      "title_ko": "레거시 현대화를 위한 AI 기반 사례 만들기",
+      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 01 Sep 2026 14:00:00 +0000",
+      "desc": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could",
+      "desc_ko": "수년 동안 레거시 기술은 기업이 해결해야 한다는 것을 알고 있었지만 종종 해결하기 위해 애쓰는 문제였습니다. 비즈니스에 중요한 시스템을 교체하는 데 드는 비용, 복잡성 및 위험은 다음과 같습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Asifa-Sherazi-Sanjeev-Tripathi-v2.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c1ca73e9",
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "title_ko": "다운로드: 작물용 조작 미생물과 OpenAI의 배양 문제",
+      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 01 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 조작된 미생물이 세계에 식량을 공급하는 데 어떻게 도움이 될 수 있습니까?",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/microbe-fertilizer.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -93,15 +106,15 @@
       "type": "news"
     },
     {
-      "id": "2074ade1",
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "title_ko": "혈액을 젊게 만드는 약을 발견했다고 주장하는 스타트업",
-      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 27 Aug 2026 19:48:13 +0000",
-      "desc": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatmen",
-      "desc_ko": "나는 이번 달에 Generation Lab이라는 회사가 나에게 그들의 새로운 회춘 치료법에 대해 글을 쓰고 심지어 받을 기회를 제공하기 위해 연락했을 때 공식적으로 \"장수 영향력 있는 사람\"이 될 것이라는 것을 알았습니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_youngblood_v2.jpg?resize=1200,600",
+      "id": "0f146bbd",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "title_ko": "@huggingface/kernels 소개: 로컬 AI용 WebGPU 커널 200개 이상",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face",
+      "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/webgpu-kernels/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -154,19 +167,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your bl",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 한 스타트업이 당신의 BL을 만드는 약을 발견했다고 주장합니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_youngblood_v2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "5cb4d68d",
-      "title": "How to sign up for a virtual power plant—and decide whether you should",
-      "title_ko": "가상 발전소에 등록하는 방법과 가입 여부를 결정하는 방법",
-      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 28 Aug 2026 09:00:00 +0000",
-      "desc": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility an",
-      "desc_ko": "MIT Technology Review의 How To 시리즈는 작업을 완료하는 데 도움이 됩니다.&#160; 온도 조절 장치가 발전소처럼 보이지 않을 수도 있습니다. 전기 자동차, 가정용 배터리 또는 HVAC 시스템도 마찬가지입니다. 그러나 유틸리티",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/thermostat2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
