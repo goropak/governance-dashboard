@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T15:25:48.012787+00:00",
+  "updated": "2026-09-04T20:02:48.153013+00:00",
   "items": [
     {
       "id": "d23fc469",
@@ -17,7 +17,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -30,7 +30,7 @@
     {
       "id": "e6fa7f06",
       "title": "Build Production-Ready Agentic-RAG Applications From Scratch Course: What we are going to build",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "처음부터 생산 준비가 된 Agentic-RAG 애플리케이션 구축 과정: 우리가 구축할 내용",
       "url": "https://newsletter.theaiedge.io/p/build-production-ready-agentic-rag",
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
@@ -43,7 +43,7 @@
     {
       "id": "aad76210",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "title_ko": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더",
+      "title_ko": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
@@ -80,22 +80,9 @@
       "type": "news"
     },
     {
-      "id": "85cb7c59",
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "title_ko": "기업 전반에 걸쳐 에이전트 AI 파일럿 확장",
-      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 03 Sep 2026 09:30:32 +0000",
-      "desc": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across ",
-      "desc_ko": "에이전트 AI가 실험에서 엔터프라이즈 배포로 이동함에 따라 에이전트가 어떻게 함께 작업하고, 필요한 시스템과 데이터에 연결하며, 전체에서 안전하게 작동할 수 있는지 파악하는 것이 과제입니다.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTRI-NiCE-social-card.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "980824ac",
       "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "title_ko": "100 GRPO 단계로 더 나은 구조화된 출력을 위해 350M 모델 미세 조정",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -121,7 +108,7 @@
     {
       "id": "3f452d14",
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "title_ko": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 학습",
+      "title_ko": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 교육",
       "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -147,7 +134,7 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
@@ -167,6 +154,19 @@
       "desc": "Mixture-of-Experts might be one of the most important improvements in the Transformer architecture!",
       "desc_ko": "전문가 혼합은 Transformer 아키텍처의 가장 중요한 개선 사항 중 하나일 수 있습니다!",
       "thumb": "https://substackcdn.com/image/fetch/$s_!2RgN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40a6fd37-5d37-49e4-b10f-d641af576d04_1500x918.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c5405304",
+      "title": "Architecting memory and storage in the AI era",
+      "title_ko": "AI 시대의 메모리 및 스토리지 설계",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 04 Sep 2026 18:39:19 +0000",
+      "desc": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
+      "desc_ko": "AI 추론 시대가 도래했다. 수백만 개의 데이터 포인트를 실시간으로 분석하여 생명을 구하는 의학 연구를 가속화하거나 지능형 보조원이 즉시 문제를 해결하는 의료 시스템을 상상해 보십시오.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
