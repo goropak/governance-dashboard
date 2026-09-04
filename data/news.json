@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T20:18:23.995864+00:00",
+  "updated": "2026-09-04T01:57:04.994587+00:00",
   "items": [
     {
       "id": "c0e30f01",
@@ -191,7 +191,7 @@
       "source": "The AI Edge",
       "date": "Fri, 22 Aug 2025 15:01:43 GMT",
       "desc": "Mixture-of-Experts might be one of the most important improvements in the Transformer architecture!",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "전문가 혼합은 Transformer 아키텍처의 가장 중요한 개선 사항 중 하나일 수 있습니다!",
       "thumb": "https://substackcdn.com/image/fetch/$s_!2RgN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40a6fd37-5d37-49e4-b10f-d641af576d04_1500x918.png",
       "tags": [],
       "type": "news"
