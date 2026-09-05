@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-05T14:13:26.967760+00:00",
+  "updated": "2026-09-05T19:43:06.900769+00:00",
   "items": [
     {
       "id": "d23fc469",
       "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "title_ko": "Confluent의 IBM 시계열 모델을 사용한 실시간 인텔리전스",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
       "source": "Hugging Face",
       "date": "Wed, 02 Sep 2026 13:49:14 GMT",
@@ -17,7 +17,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -43,7 +43,7 @@
     {
       "id": "aad76210",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "title_ko": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
@@ -56,7 +56,7 @@
     {
       "id": "77da68a9",
       "title": "The Download: rethinking child safety and fossil-fueled farming",
-      "title_ko": "다운로드: 어린이 안전과 화석 연료 농업에 대한 재고",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
       "source": "MIT Tech Review",
       "date": "Thu, 03 Sep 2026 12:10:00 +0000",
@@ -95,7 +95,7 @@
     {
       "id": "f01b512d",
       "title": "Give Your Coding Agents a Memory You Own",
-      "title_ko": "코딩 에이전트에게 자신이 소유한 메모리를 제공하세요",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/funes",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -108,7 +108,7 @@
     {
       "id": "3f452d14",
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "title_ko": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 교육",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -121,12 +121,12 @@
     {
       "id": "138e52b8",
       "title": "AdalFlow: A PyTorch-Like Framework to Auto-Optimizing Prompt for your LLM agent",
-      "title_ko": "AdalFlow: LLM 에이전트에 대한 자동 최적화 프롬프트를 위한 PyTorch와 유사한 프레임워크",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/adalflow-a-pytorch-like-framework",
       "source": "The AI Edge",
       "date": "Mon, 29 Sep 2025 15:01:00 GMT",
       "desc": "AI Agent frameworks are becoming just as important as model training itself!",
-      "desc_ko": "AI 에이전트 프레임워크는 모델 훈련 자체만큼 중요해지고 있습니다!",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!o1BQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2431b183-b2fc-4935-87f1-689b6846781a_1024x1024.png",
       "tags": [],
       "type": "news"
@@ -134,7 +134,7 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
@@ -160,7 +160,7 @@
     {
       "id": "c5405304",
       "title": "Architecting memory and storage in the AI era",
-      "title_ko": "AI 시대의 메모리 및 스토리지 설계",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "source": "MIT Tech Review",
       "date": "Fri, 04 Sep 2026 18:39:19 +0000",
@@ -173,12 +173,12 @@
     {
       "id": "53901d2f",
       "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "title_ko": "다운로드: 전장 드론 데이터 및 AI 재구성 언어 판매",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
       "source": "MIT Tech Review",
       "date": "Fri, 04 Sep 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild ",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 우크라이나의 드론 데이터가 새로운 Wild를 촉진하고 있습니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -186,12 +186,12 @@
     {
       "id": "16db96c9",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "title_ko": "우크라이나의 드론 데이터가 새로운 Wild West 시장을 촉진하고 있습니다.",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
       "source": "MIT Tech Review",
       "date": "Fri, 04 Sep 2026 09:25:19 +0000",
       "desc": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the",
-      "desc_ko": "우크라이나의 전장에는 현대 전쟁의 핵심 무기로 확고히 자리잡은 드론 잔재가 널려 있습니다. 하지만 그 모든 잔해 뒤에는 새로운 금광이 있습니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
