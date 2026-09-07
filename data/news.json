@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T16:51:25.126843+00:00",
+  "updated": "2026-09-07T20:56:19.166189+00:00",
   "items": [
     {
       "id": "d23fc469",
@@ -22,7 +22,7 @@
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
       "desc": "Project-Based Course",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "프로젝트 기반 코스",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -30,7 +30,7 @@
     {
       "id": "e6fa7f06",
       "title": "Build Production-Ready Agentic-RAG Applications From Scratch Course: What we are going to build",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "처음부터 생산 준비가 된 Agentic-RAG 애플리케이션 구축 과정: 우리가 구축할 내용",
       "url": "https://newsletter.theaiedge.io/p/build-production-ready-agentic-rag",
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
@@ -61,7 +61,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 03 Sep 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital ",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 자녀 모니터링 앱을 재부팅해야 할 수도 있음",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-Tech_Review-Opener-FINAL-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -82,7 +82,7 @@
     {
       "id": "f01b512d",
       "title": "Give Your Coding Agents a Memory You Own",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "코딩 에이전트에게 자신이 소유한 메모리를 제공하세요",
       "url": "https://huggingface.co/blog/funes",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -108,12 +108,12 @@
     {
       "id": "138e52b8",
       "title": "AdalFlow: A PyTorch-Like Framework to Auto-Optimizing Prompt for your LLM agent",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "AdalFlow: LLM 에이전트에 대한 자동 최적화 프롬프트를 위한 PyTorch와 유사한 프레임워크",
       "url": "https://newsletter.theaiedge.io/p/adalflow-a-pytorch-like-framework",
       "source": "The AI Edge",
       "date": "Mon, 29 Sep 2025 15:01:00 GMT",
       "desc": "AI Agent frameworks are becoming just as important as model training itself!",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "AI 에이전트 프레임워크는 모델 훈련 자체만큼 중요해지고 있습니다!",
       "thumb": "https://substackcdn.com/image/fetch/$s_!o1BQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2431b183-b2fc-4935-87f1-689b6846781a_1024x1024.png",
       "tags": [],
       "type": "news"
@@ -121,12 +121,12 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "엔드 투 엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
       "tags": [],
       "type": "news"
@@ -139,7 +139,7 @@
       "source": "The AI Edge",
       "date": "Mon, 07 Sep 2026 15:00:49 GMT",
       "desc": "Seven visual lessons on testing models, recovering tool calls, speeding up text generation, detecting watermarks, and checking image and document outputs.",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "모델 테스트, 도구 호출 복구, 텍스트 생성 속도 향상, 워터마크 감지, 이미지 및 문서 출력 확인에 대한 7가지 시각적 강의입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!sX2L!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4407d92f-f068-4ae0-a65c-4b6afcc7e4a4_1536x1024.png",
       "tags": [],
       "type": "news"
@@ -160,7 +160,7 @@
     {
       "id": "c5405304",
       "title": "Architecting memory and storage in the AI era",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "AI 시대의 메모리 및 스토리지 설계",
       "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "source": "MIT Tech Review",
       "date": "Fri, 04 Sep 2026 18:39:19 +0000",
@@ -173,12 +173,12 @@
     {
       "id": "53901d2f",
       "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "다운로드: 전장 드론 데이터 및 AI 재구성 언어 판매",
       "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
       "source": "MIT Tech Review",
       "date": "Fri, 04 Sep 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild ",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 우크라이나의 드론 데이터가 새로운 Wild를 촉진하고 있습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -191,7 +191,7 @@
       "source": "MIT Tech Review",
       "date": "Fri, 04 Sep 2026 09:25:19 +0000",
       "desc": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "우크라이나의 전장에는 드론 잔재가 널려 있는데, 드론은 이제 현대 전쟁의 핵심 무기로 확고히 자리 잡았습니다. 하지만 그 모든 잔해 뒤에는 새로운 금광이 있습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
