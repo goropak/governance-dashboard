@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T01:49:03.755778+00:00",
+  "updated": "2026-09-07T11:01:31.266381+00:00",
   "items": [
     {
       "id": "d23fc469",
@@ -43,7 +43,7 @@
     {
       "id": "aad76210",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
@@ -56,12 +56,12 @@
     {
       "id": "77da68a9",
       "title": "The Download: rethinking child safety and fossil-fueled farming",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "다운로드: 어린이 안전과 화석 연료 농업에 대한 재고",
       "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
       "source": "MIT Tech Review",
       "date": "Thu, 03 Sep 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital ",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 자녀 모니터링 앱을 재부팅해야 할 수도 있음",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-Tech_Review-Opener-FINAL-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -74,7 +74,7 @@
       "source": "MIT Tech Review",
       "date": "Thu, 03 Sep 2026 10:00:00 +0000",
       "desc": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especial",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "최근 자동차 주유를 해야 하거나 비행기표를 사야 한다면 화석연료 가격 상승의 영향을 느꼈을 것입니다. 하지만 농작물을 위해 비료를 구입하는 농부들은 특별합니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/GettyImages-1300156444.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -108,7 +108,7 @@
     {
       "id": "3f452d14",
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "title_ko": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 교육",
+      "title_ko": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 학습",
       "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -134,7 +134,7 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
@@ -165,7 +165,7 @@
       "source": "MIT Tech Review",
       "date": "Fri, 04 Sep 2026 18:39:19 +0000",
       "desc": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "AI 추론 시대가 도래했다. 수백만 개의 데이터 포인트를 실시간으로 분석하여 생명을 구하는 의학 연구를 가속화하거나 지능형 보조원이 즉시 문제를 해결하는 의료 시스템을 상상해 보십시오.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -178,7 +178,7 @@
       "source": "MIT Tech Review",
       "date": "Fri, 04 Sep 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild ",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 우크라이나의 드론 데이터가 새로운 Wild를 촉진하고 있습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -186,12 +186,12 @@
     {
       "id": "16db96c9",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "우크라이나의 드론 데이터가 새로운 Wild West 시장을 촉진하고 있습니다.",
       "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
       "source": "MIT Tech Review",
       "date": "Fri, 04 Sep 2026 09:25:19 +0000",
       "desc": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the",
-      "desc_ko": "우크라이나의 전장에는 드론 잔재가 널려 있는데, 드론은 이제 현대 전쟁의 핵심 무기로 확고히 자리 잡았습니다. 하지만 그 모든 잔해 뒤에는 새로운 금광이 있습니다.",
+      "desc_ko": "우크라이나의 전장에는 현대 전쟁의 핵심 무기로 확고히 자리잡은 드론 잔재가 널려 있습니다. 하지만 그 모든 잔해 뒤에는 새로운 금광이 있습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
