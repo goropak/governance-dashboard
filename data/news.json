@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T15:39:47.497144+00:00",
+  "updated": "2026-09-08T20:29:29.669121+00:00",
   "items": [
     {
       "id": "13c08f13",
@@ -9,7 +9,7 @@
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
       "desc": "Project-Based Course",
-      "desc_ko": "프로젝트 기반 코스",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -48,7 +48,7 @@
       "source": "MIT Tech Review",
       "date": "Tue, 08 Sep 2026 10:36:00 +0000",
       "desc": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and",
-      "desc_ko": "컴퓨터 칩의 역사를 통틀어 엔지니어들은 폐열을 계산의 불가피한 비용으로 간주해 왔습니다. 그러나 Hannah Earley는 그것이 디자인 선택이라고 생각합니다. 31세의 Earley는 공동 창업자이자",
+      "desc_ko": "컴퓨터 칩의 역사를 통틀어 엔지니어들은 폐열을 계산의 불가피한 비용으로 간주해 왔습니다. 그러나 Hannah Earley는 그것이 디자인 선택이라고 생각합니다. Earley(31세)는 공동 창업자이자",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Hannah-0G6A8202-2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -100,7 +100,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -108,7 +108,7 @@
     {
       "id": "aad76210",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "title_ko": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
+      "title_ko": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
@@ -147,7 +147,7 @@
     {
       "id": "3f452d14",
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "title_ko": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 학습",
+      "title_ko": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 교육",
       "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -160,7 +160,7 @@
     {
       "id": "138e52b8",
       "title": "AdalFlow: A PyTorch-Like Framework to Auto-Optimizing Prompt for your LLM agent",
-      "title_ko": "AdalFlow: LLM 에이전트에 대한 자동 최적화 프롬프트를 위한 PyTorch와 유사한 프레임워크",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/adalflow-a-pytorch-like-framework",
       "source": "The AI Edge",
       "date": "Mon, 29 Sep 2025 15:01:00 GMT",
@@ -173,12 +173,12 @@
     {
       "id": "181b65a5",
       "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
-      "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
+      "desc_ko": "엔드 투 엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
       "tags": [],
       "type": "news"
