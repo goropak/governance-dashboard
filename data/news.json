@@ -1,6 +1,45 @@
 {
-  "updated": "2026-09-09T02:05:52.924782+00:00",
+  "updated": "2026-09-09T10:23:01.772652+00:00",
   "items": [
+    {
+      "id": "deb34805",
+      "title": "Batteries just broke another record in the US",
+      "title_ko": "배터리가 미국에서 또 다른 기록을 깨뜨렸습니다.",
+      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 09 Sep 2026 09:00:00 +0000",
+      "desc": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily ",
+      "desc_ko": "2026년 2분기에 미국에서 배터리 설치가 신기록을 세웠습니다. 새로운 보고서에 따르면 총 20.2기가와트시의 새로운 용량이 온라인에 등장했습니다. 매일 공급하기에 충분합니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/GettyImages-1926227948.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "44bcee21",
+      "title": "Understanding the thermal ceiling in portable power",
+      "title_ko": "휴대용 전력의 열한도 이해",
+      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 09 Sep 2026 08:18:13 +0000",
+      "desc": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging",
+      "desc_ko": "휴대폰을 최신 충전기에 연결하면 처음 10분이 인상적입니다. 다음 20개는 그렇지 않습니다. 이는 결함이 아닙니다. 연결된 장치가 스스로를 보호하는 것입니다. 충전 중 온도가 상승함에 따라",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Anker_US_DTC_no-copy_683x382px-1.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "388663d3",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "title_ko": "OpenAI의 최근 논란이 수학의 미래에 대해 알려주는 것",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 09 Sep 2026 03:10:08 +0000",
+      "desc": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan",
+      "desc_ko": "OpenAI의 최신 수학적 이정표는 빠르게 논란의 수렁에 빠졌습니다. 오늘 회사는 에이전트가 가장 중요한 밀레니엄 상 문제 중 하나를 해결했다고 발표했습니다.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
@@ -54,45 +93,6 @@
       "type": "news"
     },
     {
-      "id": "f4a18652",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 08 Sep 2026 10:34:00 +0000",
-      "desc": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only ",
-      "desc_ko": "샌프란시스코 소마(SoMa) 지역에 있는 다니자르 하프너(Danijar Hafner)의 사무실은 대부분 비어 있습니다. 그의 신생 스타트업은 여전히 ​​은밀한 모드에 있으며 문에 이름도 없습니다. 내가 방문하는 날에는",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Danijar-0G6A8052-2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "62c6010b",
-      "title": "This founder is making cheaper, cleaner steel",
-      "title_ko": "이 창업자는 더 저렴하고 깨끗한 강철을 만들고 있습니다.",
-      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 08 Sep 2026 10:33:00 +0000",
-      "desc": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt",
-      "desc_ko": "철강 산업은 혁신으로 잘 알려져 있지 않습니다. 철광석 정제 공정이 1850년대에 발명되고 상업화된 이후로 거의 변하지 않았습니다. 대부분의 철강업체가 녹는다",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/DSF3499-thumb.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "59d03304",
-      "title": "This geneticist’s age-reversal tech could help restore sight",
-      "title_ko": "이 유전학자의 나이 역전 기술은 시력 회복에 도움이 될 수 있습니다",
-      "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 08 Sep 2026 10:32:00 +0000",
-      "desc": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related bli",
-      "desc_ko": "Yuancheng (Ryan) Lu는 노화에 집착합니다. 그리고 눈으로. 매사추세츠 주 케임브리지에 있는 화이트헤드 연구소 밖으로 나오자 그의 비행사 안경은 햇빛 아래 자동으로 어두워집니다. 연령 관련 블리",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/733-MITtech-Ryan-RTF-0318.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "e6fa7f06",
       "title": "Build Production-Ready Agentic-RAG Applications From Scratch Course: What we are going to build",
       "title_ko": "처음부터 생산 준비가 된 Agentic-RAG 애플리케이션 구축 과정: 우리가 구축할 내용",
@@ -100,7 +100,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션에 바로 사용할 수 있는 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 제품을 배포할 완전 실습 과정입니다.",
+      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -121,7 +121,7 @@
     {
       "id": "980824ac",
       "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "100 GRPO 단계로 더 나은 구조화된 출력을 위해 350M 모델 미세 조정",
       "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -178,7 +178,7 @@
       "source": "The AI Edge",
       "date": "Mon, 25 Aug 2025 15:01:14 GMT",
       "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
-      "desc_ko": "엔드투엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
+      "desc_ko": "엔드 투 엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
       "tags": [],
       "type": "news"
@@ -186,7 +186,7 @@
     {
       "id": "996fa81f",
       "title": "AI Digest: Model Validation, Agents, and Generative AI",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "AI 다이제스트: 모델 검증, 에이전트 및 생성 AI",
       "url": "https://newsletter.theaiedge.io/p/ai-digest-model-validation-agents",
       "source": "The AI Edge",
       "date": "Mon, 07 Sep 2026 15:00:49 GMT",
