@@ -1,15 +1,41 @@
 {
-  "updated": "2026-09-09T10:23:01.772652+00:00",
+  "updated": "2026-09-09T15:33:27.333151+00:00",
   "items": [
+    {
+      "id": "99deb44e",
+      "title": "Deep Dive: How Speculative Decoding Makes LLMs Faster",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://newsletter.theaiedge.io/p/deep-dive-how-speculative-decoding",
+      "source": "The AI Edge",
+      "date": "Wed, 09 Sep 2026 15:03:10 GMT",
+      "desc": "How a smaller model helps a larger model generate text faster without changing its output distribution.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!3p3B!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5457e2de-6d54-406f-a8f8-be4ed132fcd1_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b5781936",
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 09 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about th",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "deb34805",
       "title": "Batteries just broke another record in the US",
-      "title_ko": "배터리가 미국에서 또 다른 기록을 깨뜨렸습니다.",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
       "source": "MIT Tech Review",
       "date": "Wed, 09 Sep 2026 09:00:00 +0000",
       "desc": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily ",
-      "desc_ko": "2026년 2분기에 미국에서 배터리 설치가 신기록을 세웠습니다. 새로운 보고서에 따르면 총 20.2기가와트시의 새로운 용량이 온라인에 등장했습니다. 매일 공급하기에 충분합니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/GettyImages-1926227948.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -17,12 +43,12 @@
     {
       "id": "44bcee21",
       "title": "Understanding the thermal ceiling in portable power",
-      "title_ko": "휴대용 전력의 열한도 이해",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
       "source": "MIT Tech Review",
       "date": "Wed, 09 Sep 2026 08:18:13 +0000",
       "desc": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging",
-      "desc_ko": "휴대폰을 최신 충전기에 연결하면 처음 10분이 인상적입니다. 다음 20개는 그렇지 않습니다. 이는 결함이 아닙니다. 연결된 장치가 스스로를 보호하는 것입니다. 충전 중 온도가 상승함에 따라",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Anker_US_DTC_no-copy_683x382px-1.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -30,12 +56,12 @@
     {
       "id": "388663d3",
       "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "title_ko": "OpenAI의 최근 논란이 수학의 미래에 대해 알려주는 것",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
       "source": "MIT Tech Review",
       "date": "Wed, 09 Sep 2026 03:10:08 +0000",
       "desc": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan",
-      "desc_ko": "OpenAI의 최신 수학적 이정표는 빠르게 논란의 수렁에 빠졌습니다. 오늘 회사는 에이전트가 가장 중요한 밀레니엄 상 문제 중 하나를 해결했다고 발표했습니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -43,12 +69,12 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
       "desc": "Project-Based Course",
-      "desc_ko": "프로젝트 기반 코스",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -69,26 +95,13 @@
     {
       "id": "be434c4e",
       "title": "The Download: our 35 Innovators Under 35 this year",
-      "title_ko": "다운로드: 올해 35세 미만 혁신가 35명",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
       "source": "MIT Tech Review",
       "date": "Tue, 08 Sep 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 20",
       "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 20세를 위한 35세 미만 혁신가 35명 소개",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/martincic-2026-supertopic-thumb.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "176099a4",
-      "title": "This founder is teaching chips how to recycle (their energy)",
-      "title_ko": "이 창업자는 칩에게 재활용 방법(에너지)을 가르치고 있습니다.",
-      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 08 Sep 2026 10:36:00 +0000",
-      "desc": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and",
-      "desc_ko": "컴퓨터 칩의 역사를 통틀어 엔지니어들은 폐열을 계산의 불가피한 비용으로 간주해 왔습니다. 그러나 Hannah Earley는 이것이 디자인 선택이라고 생각합니다. Earley(31세)는 공동 창업자이자",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Hannah-0G6A8202-2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -100,7 +113,7 @@
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -108,7 +121,7 @@
     {
       "id": "aad76210",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "title_ko": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더",
+      "title_ko": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
@@ -147,7 +160,7 @@
     {
       "id": "3f452d14",
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "title_ko": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 교육",
+      "title_ko": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 학습",
       "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -160,7 +173,7 @@
     {
       "id": "138e52b8",
       "title": "AdalFlow: A PyTorch-Like Framework to Auto-Optimizing Prompt for your LLM agent",
-      "title_ko": "AdalFlow: LLM 에이전트에 대한 자동 최적화 프롬프트를 위한 PyTorch와 유사한 프레임워크",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/adalflow-a-pytorch-like-framework",
       "source": "The AI Edge",
       "date": "Mon, 29 Sep 2025 15:01:00 GMT",
@@ -171,27 +184,14 @@
       "type": "news"
     },
     {
-      "id": "181b65a5",
-      "title": "New Course: Build Production-Ready Agentic-RAG Applications From Scratch",
-      "title_ko": "새 과정: 프로덕션에 즉시 사용 가능한 Agentic-RAG 애플리케이션을 처음부터 구축",
-      "url": "https://newsletter.theaiedge.io/p/new-course-build-production-ready",
-      "source": "The AI Edge",
-      "date": "Mon, 25 Aug 2025 15:01:14 GMT",
-      "desc": "End-to-end: orchestrate and deploy agentic Retrieval-Augmented Generation with LangGraph, FastAPI, and React frontend in 2 weeks.",
-      "desc_ko": "엔드 투 엔드: LangGraph, FastAPI 및 React 프런트엔드를 사용하여 2주 만에 에이전트 검색 증강 생성을 조율하고 배포합니다.",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!pWtL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f819bf-fb63-4c76-a1e6-521888220f3d_2560x1440.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "996fa81f",
       "title": "AI Digest: Model Validation, Agents, and Generative AI",
-      "title_ko": "AI 다이제스트: 모델 검증, 에이전트 및 생성 AI",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/ai-digest-model-validation-agents",
       "source": "The AI Edge",
       "date": "Mon, 07 Sep 2026 15:00:49 GMT",
       "desc": "Seven visual lessons on testing models, recovering tool calls, speeding up text generation, detecting watermarks, and checking image and document outputs.",
-      "desc_ko": "모델 테스트, 도구 호출 복구, 텍스트 생성 속도 향상, 워터마크 감지, 이미지 및 문서 출력 확인에 대한 7가지 시각적 강의입니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!sX2L!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4407d92f-f068-4ae0-a65c-4b6afcc7e4a4_1536x1024.png",
       "tags": [],
       "type": "news"
