@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-09T20:12:38.271524+00:00",
+  "updated": "2026-09-10T02:02:07.208545+00:00",
   "items": [
     {
       "id": "0e4c7024",
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "IBM, 상용 라이센스가 포함된 SOTA Granite Time Series PatchTST-FM-r2 모델 출시",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "source": "Hugging Face",
       "date": "Wed, 09 Sep 2026 15:36:24 GMT",
@@ -30,12 +30,12 @@
     {
       "id": "b5781936",
       "title": "The Download: OpenAI’s turning point for math and a battery record",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "다운로드: OpenAI의 수학 및 배터리 기록 전환점",
       "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
       "source": "MIT Tech Review",
       "date": "Wed, 09 Sep 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about th",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. OpenAI의 최근 논란이 우리에게 알려주는 것",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -43,12 +43,12 @@
     {
       "id": "deb34805",
       "title": "Batteries just broke another record in the US",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "배터리가 미국에서 또 다른 기록을 깨뜨렸습니다.",
       "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
       "source": "MIT Tech Review",
       "date": "Wed, 09 Sep 2026 09:00:00 +0000",
       "desc": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily ",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "2026년 2분기에 미국에서 배터리 설치가 신기록을 세웠습니다. 새로운 보고서에 따르면 총 20.2기가와트시의 새로운 용량이 온라인에 등장했습니다. 매일 공급하기에 충분합니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/GettyImages-1926227948.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -56,12 +56,12 @@
     {
       "id": "44bcee21",
       "title": "Understanding the thermal ceiling in portable power",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "휴대용 전력의 열한도 이해",
       "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
       "source": "MIT Tech Review",
       "date": "Wed, 09 Sep 2026 08:18:13 +0000",
       "desc": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "휴대폰을 최신 충전기에 연결하면 처음 10분이 인상적입니다. 다음 20개는 그렇지 않습니다. 이는 결함이 아닙니다. 연결된 장치가 스스로를 보호하는 것입니다. 충전 중 온도가 상승함에 따라",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Anker_US_DTC_no-copy_683x382px-1.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -69,12 +69,12 @@
     {
       "id": "388663d3",
       "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "OpenAI의 최근 논란이 수학의 미래에 대해 알려주는 것",
       "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
       "source": "MIT Tech Review",
       "date": "Wed, 09 Sep 2026 03:10:08 +0000",
       "desc": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "OpenAI의 최신 수학적 이정표는 빠르게 논란의 수렁에 빠졌습니다. 오늘 회사는 에이전트가 가장 중요한 밀레니엄 상 문제 중 하나를 해결했다고 발표했습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -95,7 +95,7 @@
     {
       "id": "c847825e",
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "누구를 위한 안전인가? 전체 주제가 아닌 주제의 올바른 하위 집합을 거부하기",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
       "source": "Hugging Face",
       "date": "Tue, 08 Sep 2026 14:23:07 GMT",
@@ -108,12 +108,12 @@
     {
       "id": "be434c4e",
       "title": "The Download: our 35 Innovators Under 35 this year",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "다운로드: 올해 35세 미만 혁신가 35명",
       "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
       "source": "MIT Tech Review",
       "date": "Tue, 08 Sep 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 20",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 20세를 위한 35세 미만 혁신가 35명 소개",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/martincic-2026-supertopic-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -134,7 +134,7 @@
     {
       "id": "aad76210",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
@@ -147,7 +147,7 @@
     {
       "id": "980824ac",
       "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "100 GRPO 단계로 더 나은 구조화된 출력을 위해 350M 모델 미세 조정",
       "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -160,7 +160,7 @@
     {
       "id": "f01b512d",
       "title": "Give Your Coding Agents a Memory You Own",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "코딩 에이전트에게 자신이 소유한 메모리를 제공하세요",
       "url": "https://huggingface.co/blog/funes",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -173,7 +173,7 @@
     {
       "id": "138e52b8",
       "title": "AdalFlow: A PyTorch-Like Framework to Auto-Optimizing Prompt for your LLM agent",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "AdalFlow: LLM 에이전트에 대한 자동 최적화 프롬프트를 위한 PyTorch와 유사한 프레임워크",
       "url": "https://newsletter.theaiedge.io/p/adalflow-a-pytorch-like-framework",
       "source": "The AI Edge",
       "date": "Mon, 29 Sep 2025 15:01:00 GMT",
