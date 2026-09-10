@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-10T15:29:13.208220+00:00",
+  "updated": "2026-09-10T20:14:13.457653+00:00",
   "items": [
     {
       "id": "0e4c7024",
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "title_ko": "IBM, 상용 라이센스가 포함된 SOTA Granite Time Series PatchTST-FM-r2 모델 출시",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "source": "Hugging Face",
       "date": "Wed, 09 Sep 2026 15:36:24 GMT",
@@ -17,12 +17,12 @@
     {
       "id": "99deb44e",
       "title": "Deep Dive: How Speculative Decoding Makes LLMs Faster",
-      "title_ko": "심층 분석: 추측적 디코딩으로 LLM을 더 빠르게 만드는 방법",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/deep-dive-how-speculative-decoding",
       "source": "The AI Edge",
       "date": "Wed, 09 Sep 2026 15:03:10 GMT",
       "desc": "How a smaller model helps a larger model generate text faster without changing its output distribution.",
-      "desc_ko": "더 작은 모델이 더 큰 모델이 출력 분포를 변경하지 않고 텍스트를 더 빠르게 생성하는 데 어떻게 도움이 됩니까?",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!3p3B!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5457e2de-6d54-406f-a8f8-be4ed132fcd1_1536x1024.png",
       "tags": [],
       "type": "news"
@@ -30,12 +30,12 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
       "desc": "Project-Based Course",
-      "desc_ko": "프로젝트 기반 코스",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -43,7 +43,7 @@
     {
       "id": "c847825e",
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "title_ko": "누구를 위한 안전인가? 전체 주제가 아닌 주제의 올바른 하위 집합을 거부하기",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
       "source": "Hugging Face",
       "date": "Tue, 08 Sep 2026 14:23:07 GMT",
@@ -56,12 +56,12 @@
     {
       "id": "e6fa7f06",
       "title": "Build Production-Ready Agentic-RAG Applications From Scratch Course: What we are going to build",
-      "title_ko": "처음부터 생산 준비가 된 Agentic-RAG 애플리케이션 구축 과정: 우리가 구축할 내용",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/build-production-ready-agentic-rag",
       "source": "The AI Edge",
       "date": "Tue, 02 Sep 2025 15:01:39 GMT",
       "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "9월 27일 토요일에 저는 새로운 과정을 시작합니다: 프로덕션 준비가 된 Agentic-RAG 애플리케이션을 처음부터 구축하세요! 이는 프로덕션에 바로 사용할 수 있는 배포를 진행하는 실습 과정입니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
       "tags": [],
       "type": "news"
@@ -69,12 +69,12 @@
     {
       "id": "15f72ba4",
       "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-      "title_ko": "다운로드: \"신이 주도하는\" 암호화폐 및 태양광 엔지니어링 로드맵",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
       "source": "MIT Tech Review",
       "date": "Thu, 10 Sep 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost",
-      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 하나님은 그들에게 암호화폐를 팔라고 말씀하셨습니다. 그들의 투자자들은 손실을 입었습니다",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Regalados_DSF7279-mobile.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -82,12 +82,12 @@
     {
       "id": "dcafb6d4",
       "title": "Powering AI is an architecture problem",
-      "title_ko": "AI 강화는 아키텍처 문제",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "source": "MIT Tech Review",
       "date": "Thu, 10 Sep 2026 11:00:00 +0000",
       "desc": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#",
-      "desc_ko": "2026년 7월 22일, 세계 최대 데이터 센터 클러스터의 심장부인 버지니아 주 애쉬번에서 전송선 오류가 발생하여 몇 초 만에 3기가와트 이상의 부하가 중단되었습니다. 그리고 그것은&#",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ON-contributed-image.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -95,12 +95,12 @@
     {
       "id": "5ffceb73",
       "title": "This road map could help us decide whether to deploy solar geoengineering",
-      "title_ko": "이 로드맵은 태양 지구공학 배치 여부를 결정하는 데 도움이 될 수 있습니다.",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
       "source": "MIT Tech Review",
       "date": "Thu, 10 Sep 2026 11:00:00 +0000",
       "desc": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineerin",
-      "desc_ko": "샌프란시스코의 한 비영리 단체는 태양 지구 공학 사용에 대해 정보에 입각한 결정을 내리는 데 필요한 실험, 연구 및 인프라에 대한 자세한 로드맵을 발표했습니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/sky-roadmap2a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -108,12 +108,12 @@
     {
       "id": "f95ee6f6",
       "title": "Can the US battery market untangle from China?",
-      "title_ko": "미국 배터리 시장, 중국에서 벗어날 수 있을까?",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
       "source": "MIT Tech Review",
       "date": "Thu, 10 Sep 2026 10:00:00 +0000",
       "desc": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help s",
-      "desc_ko": "미국은 에너지 저장 시장의 급속한 성장 기록을 경신하고 있습니다. 배터리가 전력망을 강화하고 신뢰성을 높이며 배출량을 줄이는 데 큰 도움이 될 것입니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26221317635272.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -121,12 +121,12 @@
     {
       "id": "72111da3",
       "title": "God told them to sell crypto. Their investors lost everything.",
-      "title_ko": "하나님은 그들에게 암호화폐를 팔라고 말씀하셨습니다. 그들의 투자자들은 모든 것을 잃었습니다.",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
       "source": "MIT Tech Review",
       "date": "Thu, 10 Sep 2026 09:00:00 +0000",
       "desc": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he wa",
-      "desc_ko": "이 기사는 Type Investigations와의 파트너십 및 Fund for Investigative Journalism의 지원을 받아 제작되었습니다. 엘리 레갈라도(Eli Regalado)는 하나님께서 그에게 말씀하시는 것을 처음 들었을 때 자신이 과연 하나님과 같은 사람인지 궁금해했습니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Regalados_DSF7279-crop.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -134,7 +134,7 @@
     {
       "id": "54954960",
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "title_ko": "Gradio Workflow를 사용하여 AUTOMATIC1111 재구축",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/gradio-workflow-1111",
       "source": "Hugging Face",
       "date": "Thu, 10 Sep 2026 00:00:00 GMT",
@@ -147,7 +147,7 @@
     {
       "id": "aad76210",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "title_ko": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
@@ -160,7 +160,7 @@
     {
       "id": "980824ac",
       "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "title_ko": "100 GRPO 단계로 더 나은 구조화된 출력을 위해 350M 모델 미세 조정",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -173,12 +173,12 @@
     {
       "id": "138e52b8",
       "title": "AdalFlow: A PyTorch-Like Framework to Auto-Optimizing Prompt for your LLM agent",
-      "title_ko": "AdalFlow: LLM 에이전트에 대한 자동 최적화 프롬프트를 위한 PyTorch와 유사한 프레임워크",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/adalflow-a-pytorch-like-framework",
       "source": "The AI Edge",
       "date": "Mon, 29 Sep 2025 15:01:00 GMT",
       "desc": "AI Agent frameworks are becoming just as important as model training itself!",
-      "desc_ko": "AI 에이전트 프레임워크는 모델 훈련 자체만큼 중요해지고 있습니다!",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!o1BQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2431b183-b2fc-4935-87f1-689b6846781a_1024x1024.png",
       "tags": [],
       "type": "news"
@@ -186,12 +186,12 @@
     {
       "id": "996fa81f",
       "title": "AI Digest: Model Validation, Agents, and Generative AI",
-      "title_ko": "AI 다이제스트: 모델 검증, 에이전트 및 생성 AI",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/ai-digest-model-validation-agents",
       "source": "The AI Edge",
       "date": "Mon, 07 Sep 2026 15:00:49 GMT",
       "desc": "Seven visual lessons on testing models, recovering tool calls, speeding up text generation, detecting watermarks, and checking image and document outputs.",
-      "desc_ko": "모델 테스트, 도구 호출 복구, 텍스트 생성 속도 향상, 워터마크 감지, 이미지 및 문서 출력 확인에 대한 7가지 시각적 강의입니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!sX2L!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4407d92f-f068-4ae0-a65c-4b6afcc7e4a4_1536x1024.png",
       "tags": [],
       "type": "news"
