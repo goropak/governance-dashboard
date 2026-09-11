@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T10:12:50.775067+00:00",
+  "updated": "2026-09-11T15:31:14.653127+00:00",
   "items": [
     {
       "id": "0e4c7024",
@@ -54,22 +54,9 @@
       "type": "news"
     },
     {
-      "id": "e6fa7f06",
-      "title": "Build Production-Ready Agentic-RAG Applications From Scratch Course: What we are going to build",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://newsletter.theaiedge.io/p/build-production-ready-agentic-rag",
-      "source": "The AI Edge",
-      "date": "Tue, 02 Sep 2025 15:01:39 GMT",
-      "desc": "On Saturday, September 27th, I am launching a new course: Build Production-Ready Agentic-RAG Applications From Scratch! This is a fully hands-on course where we are going to deploy a production-ready ",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!HM5S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f30f1fd-2bcd-4fc4-8ca6-51b4f969edca_1578x974.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "15f72ba4",
       "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "다운로드: \"신이 주도하는\" 암호화폐 및 태양광 엔지니어링 로드맵",
       "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
       "source": "MIT Tech Review",
       "date": "Thu, 10 Sep 2026 12:10:00 +0000",
@@ -100,28 +87,15 @@
       "source": "MIT Tech Review",
       "date": "Thu, 10 Sep 2026 11:00:00 +0000",
       "desc": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineerin",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "샌프란시스코의 한 비영리 단체는 태양 지구 공학 사용에 대해 정보에 입각한 결정을 내리는 데 필요한 실험, 연구 및 인프라에 대한 자세한 로드맵을 발표했습니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/sky-roadmap2a.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "f95ee6f6",
-      "title": "Can the US battery market untangle from China?",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 10 Sep 2026 10:00:00 +0000",
-      "desc": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help s",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26221317635272.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
     {
       "id": "54954960",
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "Gradio Workflow를 사용하여 AUTOMATIC1111 재구축",
       "url": "https://huggingface.co/blog/gradio-workflow-1111",
       "source": "Hugging Face",
       "date": "Thu, 10 Sep 2026 00:00:00 GMT",
@@ -180,6 +154,32 @@
       "desc": "Seven visual lessons on testing models, recovering tool calls, speeding up text generation, detecting watermarks, and checking image and document outputs.",
       "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!sX2L!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4407d92f-f068-4ae0-a65c-4b6afcc7e4a4_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "bacde97c",
+      "title": "Deep Dive: How AI Text Watermarks Work",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://newsletter.theaiedge.io/p/deep-dive-how-ai-text-watermarks",
+      "source": "The AI Edge",
+      "date": "Fri, 11 Sep 2026 15:01:39 GMT",
+      "desc": "How a language model leaves a detectable pattern in its word choices, and why copying the text preserves it.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!GkER!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe382533-2a6f-4b70-84b1-dc9863bbdfee_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "ac3ad0fb",
+      "title": "The Download: biotech’s future and cheaper, cleaner steel",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 11 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech E",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
