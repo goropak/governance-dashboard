@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T14:38:28.312836+00:00",
+  "updated": "2026-09-12T19:52:43.444630+00:00",
   "items": [
     {
       "id": "0e4c7024",
@@ -22,7 +22,7 @@
       "source": "The AI Edge",
       "date": "Wed, 09 Sep 2026 15:03:10 GMT",
       "desc": "How a smaller model helps a larger model generate text faster without changing its output distribution.",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "더 작은 모델이 더 큰 모델이 출력 분포를 변경하지 않고 텍스트를 더 빠르게 생성하는 데 어떻게 도움이 됩니까?",
       "thumb": "https://substackcdn.com/image/fetch/$s_!3p3B!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5457e2de-6d54-406f-a8f8-be4ed132fcd1_1536x1024.png",
       "tags": [],
       "type": "news"
@@ -30,7 +30,7 @@
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -139,14 +139,14 @@
       "source": "The AI Edge",
       "date": "Mon, 07 Sep 2026 15:00:49 GMT",
       "desc": "Seven visual lessons on testing models, recovering tool calls, speeding up text generation, detecting watermarks, and checking image and document outputs.",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "모델 테스트, 도구 호출 복구, 텍스트 생성 속도 향상, 워터마크 감지, 이미지 및 문서 출력 확인에 대한 7가지 시각적 강의입니다.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!sX2L!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4407d92f-f068-4ae0-a65c-4b6afcc7e4a4_1536x1024.png",
       "tags": [],
       "type": "news"
     },
     {
       "id": "12de2051",
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "MIT Tech Review",
@@ -165,7 +165,7 @@
       "source": "The AI Edge",
       "date": "Fri, 11 Sep 2026 15:01:39 GMT",
       "desc": "How a language model leaves a detectable pattern in its word choices, and why copying the text preserves it.",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "언어 모델이 단어 선택에 감지 가능한 패턴을 남기는 방법과 텍스트를 복사하면 패턴이 유지되는 이유.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!GkER!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe382533-2a6f-4b70-84b1-dc9863bbdfee_1536x1024.png",
       "tags": [],
       "type": "news"
