@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T19:52:43.444630+00:00",
+  "updated": "2026-09-13T02:00:06.578969+00:00",
   "items": [
     {
       "id": "0e4c7024",
@@ -17,20 +17,20 @@
     {
       "id": "99deb44e",
       "title": "Deep Dive: How Speculative Decoding Makes LLMs Faster",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "심층 분석: 추측적 디코딩으로 LLM을 더 빠르게 만드는 방법",
       "url": "https://newsletter.theaiedge.io/p/deep-dive-how-speculative-decoding",
       "source": "The AI Edge",
       "date": "Wed, 09 Sep 2026 15:03:10 GMT",
       "desc": "How a smaller model helps a larger model generate text faster without changing its output distribution.",
       "desc_ko": "더 작은 모델이 더 큰 모델이 출력 분포를 변경하지 않고 텍스트를 더 빠르게 생성하는 데 어떻게 도움이 됩니까?",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!3p3B!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5457e2de-6d54-406f-a8f8-be4ed132fcd1_1536x1024.png",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!gMGV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1111f7d-3002-4c50-ba35-7196b33a0eb4_1536x1024.png",
       "tags": [],
       "type": "news"
     },
     {
       "id": "13c08f13",
       "title": "Last Week to Register: Build Production-Ready Agentic-RAG Applications From Scratch Course!",
-      "title_ko": "등록을 위한 지난 주: 처음부터 바로 생산 가능한 Agentic-RAG 애플리케이션 구축 과정!",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "url": "https://newsletter.theaiedge.io/p/last-week-to-register-build-production",
       "source": "The AI Edge",
       "date": "Tue, 23 Sep 2025 15:02:58 GMT",
@@ -56,12 +56,12 @@
     {
       "id": "15f72ba4",
       "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "다운로드: \"신이 주도하는\" 암호화폐 및 태양광 엔지니어링 로드맵",
       "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
       "source": "MIT Tech Review",
       "date": "Thu, 10 Sep 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 하나님은 그들에게 암호화폐를 팔라고 말씀하셨습니다. 그들의 투자자들은 손실을 입었습니다",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Regalados_DSF7279-mobile.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -69,7 +69,7 @@
     {
       "id": "dcafb6d4",
       "title": "Powering AI is an architecture problem",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "AI 강화는 아키텍처 문제",
       "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "source": "MIT Tech Review",
       "date": "Thu, 10 Sep 2026 11:00:00 +0000",
@@ -95,7 +95,7 @@
     {
       "id": "aad76210",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
       "source": "Hugging Face",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
@@ -121,7 +121,7 @@
     {
       "id": "138e52b8",
       "title": "AdalFlow: A PyTorch-Like Framework to Auto-Optimizing Prompt for your LLM agent",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "AdalFlow: LLM 에이전트에 대한 자동 최적화 프롬프트를 위한 PyTorch와 유사한 프레임워크",
       "url": "https://newsletter.theaiedge.io/p/adalflow-a-pytorch-like-framework",
       "source": "The AI Edge",
       "date": "Mon, 29 Sep 2025 15:01:00 GMT",
@@ -139,7 +139,7 @@
       "source": "The AI Edge",
       "date": "Mon, 07 Sep 2026 15:00:49 GMT",
       "desc": "Seven visual lessons on testing models, recovering tool calls, speeding up text generation, detecting watermarks, and checking image and document outputs.",
-      "desc_ko": "모델 테스트, 도구 호출 복구, 텍스트 생성 속도 향상, 워터마크 감지, 이미지 및 문서 출력 확인에 대한 7가지 시각적 강의입니다.",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "thumb": "https://substackcdn.com/image/fetch/$s_!sX2L!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4407d92f-f068-4ae0-a65c-4b6afcc7e4a4_1536x1024.png",
       "tags": [],
       "type": "news"
@@ -152,7 +152,7 @@
       "source": "MIT Tech Review",
       "date": "Fri, 11 Sep 2026 20:05:06 +0000",
       "desc": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "세계 최고의 AI 연구소 직원들은 첨단 AI가 인류를 파괴할 가능성이 실제로 있다고 말하고 있습니다. 그 말이 맞나요? 아니면 이것이 더 겁을 주고 과장하는 것입니까? MIT Te에 가입하세요",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2024/01/September.26_Roundtables-Assets.png?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -165,20 +165,20 @@
       "source": "The AI Edge",
       "date": "Fri, 11 Sep 2026 15:01:39 GMT",
       "desc": "How a language model leaves a detectable pattern in its word choices, and why copying the text preserves it.",
-      "desc_ko": "언어 모델이 단어 선택에 감지 가능한 패턴을 남기는 방법과 텍스트를 복사하면 패턴이 유지되는 이유.",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!GkER!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe382533-2a6f-4b70-84b1-dc9863bbdfee_1536x1024.png",
+      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!mWl_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cab6be4-8baf-4906-97b3-93cf6ae2c7f7_1536x1024.png",
       "tags": [],
       "type": "news"
     },
     {
       "id": "ac3ad0fb",
       "title": "The Download: biotech’s future and cheaper, cleaner steel",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "다운로드: 생명공학의 미래, 더 저렴하고 깨끗한 강철",
       "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
       "source": "MIT Tech Review",
       "date": "Fri, 11 Sep 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech E",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "이것은 기술 세계에서 무슨 일이 일어나고 있는지 매일 제공하는 평일 뉴스레터인 The Download의 오늘 버전입니다. 생명공학 E의 미래를 만들어가는 35세 이하를 만나보세요",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
@@ -191,7 +191,7 @@
       "source": "MIT Tech Review",
       "date": "Fri, 11 Sep 2026 09:00:00 +0000",
       "desc": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whos",
-      "desc_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "desc_ko": "매년 MIT Technology Review는 과학과 기술 분야에서 일하는 가장 뛰어나고 뛰어난 젊은 인재들의 목록을 정리합니다. 35세 미만의 혁신가 35명이 주목해야 할 사람들입니다.",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
