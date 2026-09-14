@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T17:15:07.796037+00:00",
+  "updated": "2026-09-14T21:11:39.001066+00:00",
   "items": [
     {
       "id": "0e4c7024",
@@ -93,6 +93,19 @@
       "type": "news"
     },
     {
+      "id": "f4964ed0",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 14 Sep 2026 17:54:22 +0000",
+      "desc": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIAlgo.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "ecdb99b4",
       "title": "Donated livers can be made biologically younger",
       "title_ko": "",
@@ -178,19 +191,6 @@
       "source": "MIT Tech Review",
       "date": "Fri, 11 Sep 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech E",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "c92be95c",
-      "title": "Meet the under-35s shaping the future of biotech",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 11 Sep 2026 09:00:00 +0000",
-      "desc": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whos",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
       "tags": [],
