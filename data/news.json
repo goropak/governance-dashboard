@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T02:18:02.753798+00:00",
+  "updated": "2026-09-14T11:14:18.245024+00:00",
   "items": [
     {
       "id": "0e4c7024",
@@ -80,6 +80,19 @@
       "type": "news"
     },
     {
+      "id": "c7496952",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "source": "Hugging Face",
+      "date": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/asyncgrpo-lora-hfjobs/thumbnail.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "54954960",
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
       "title_ko": "",
@@ -102,19 +115,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6264f9655f6f2e14d6ac981c/GJ6FUbgFpq1x8RNOqzmz-.webp",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "980824ac",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face",
-      "date": "Thu, 03 Sep 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/grpo-with-trl-ifstruct/thumbnail.png",
       "tags": [],
       "type": "news"
     },
