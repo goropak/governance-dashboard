@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:11:39.001066+00:00",
+  "updated": "2026-09-15T02:24:05.661265+00:00",
   "items": [
     {
       "id": "0e4c7024",
@@ -171,6 +171,19 @@
       "type": "news"
     },
     {
+      "id": "12de2051",
+      "title": "Roundtables: Could AI really kill us all?",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 11 Sep 2026 20:05:06 +0000",
+      "desc": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2024/12/Roundtables-Thumbnail-2.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "bacde97c",
       "title": "Deep Dive: How AI Text Watermarks Work",
       "title_ko": "",
@@ -180,19 +193,6 @@
       "desc": "How a language model leaves a detectable pattern in its word choices, and why copying the text preserves it.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!mWl_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cab6be4-8baf-4906-97b3-93cf6ae2c7f7_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "ac3ad0fb",
-      "title": "The Download: biotech’s future and cheaper, cleaner steel",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 11 Sep 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech E",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     }
