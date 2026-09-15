@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T10:41:36.622953+00:00",
+  "updated": "2026-09-15T15:55:25.048160+00:00",
   "items": [
     {
       "id": "0e4c7024",
@@ -28,8 +28,34 @@
       "type": "news"
     },
     {
+      "id": "4b8958bc",
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 15 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now?",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIAlgo.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f3c2d252",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 15 Sep 2026 12:00:00 +0000",
+      "desc": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy p",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/OpenAI-grants.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "03f235e7",
-      "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
       "title_ko": "",
       "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
       "source": "MIT Tech Review",
@@ -132,19 +158,6 @@
       "type": "news"
     },
     {
-      "id": "4ca5a8ed",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "desc": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIangentscheating.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "7beb9cf0",
       "title": "Four Retrieval Techniques for Video Search",
       "title_ko": "",
@@ -154,19 +167,6 @@
       "desc": "Why frame rate, change detection, temporal hierarchy, and targeted rewatching fail in different ways",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!mIZN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e08956-2a68-43a6-916d-6b266d5d7d63_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "77e5d572",
-      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 14 Sep 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employee",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/September.26_Roundtables-Assets-2.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
