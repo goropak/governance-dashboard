@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T02:24:05.661265+00:00",
+  "updated": "2026-09-15T10:41:36.622953+00:00",
   "items": [
     {
       "id": "0e4c7024",
@@ -24,6 +24,19 @@
       "desc": "How a smaller model helps a larger model generate text faster without changing its output distribution.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!gMGV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1111f7d-3002-4c50-ba35-7196b33a0eb4_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "03f235e7",
+      "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 15 Sep 2026 10:00:00 +0000",
+      "desc": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/ai-buildout-bets2a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -99,7 +112,7 @@
       "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
       "source": "MIT Tech Review",
       "date": "Mon, 14 Sep 2026 17:54:22 +0000",
-      "desc": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for",
+      "desc": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay callin",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIAlgo.jpg?resize=1200,600",
       "tags": [],
@@ -167,19 +180,6 @@
       "desc": "Seven visual lessons on testing models, recovering tool calls, speeding up text generation, detecting watermarks, and checking image and document outputs.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!sX2L!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4407d92f-f068-4ae0-a65c-4b6afcc7e4a4_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "12de2051",
-      "title": "Roundtables: Could AI really kill us all?",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 11 Sep 2026 20:05:06 +0000",
-      "desc": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2024/12/Roundtables-Thumbnail-2.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
