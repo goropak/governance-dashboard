@@ -1,19 +1,6 @@
 {
-  "updated": "2026-09-15T15:55:25.048160+00:00",
+  "updated": "2026-09-15T20:39:25.408544+00:00",
   "items": [
-    {
-      "id": "0e4c7024",
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "source": "Hugging Face",
-      "date": "Wed, 09 Sep 2026 15:36:24 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/69d3d41eef229c09afea5d83/KYse3pX6t3l8FnI-1pKsi.png",
-      "tags": [],
-      "type": "news"
-    },
     {
       "id": "99deb44e",
       "title": "Deep Dive: How Speculative Decoding Makes LLMs Faster",
@@ -24,6 +11,32 @@
       "desc": "How a smaller model helps a larger model generate text faster without changing its output distribution.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!gMGV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1111f7d-3002-4c50-ba35-7196b33a0eb4_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c733aaf0",
+      "title": "Roundtables: Could AI really kill us all?",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 15 Sep 2026 17:47:51 +0000",
+      "desc": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/September.26_Roundtables-Assets-2.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "5236dbdf",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "Hugging Face",
+      "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/dI5J2sSc3TSprk9VB4EVJ.jpeg",
       "tags": [],
       "type": "news"
     },
@@ -141,19 +154,6 @@
       "desc": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay callin",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIAlgo.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "ecdb99b4",
-      "title": "Donated livers can be made biologically younger",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 14 Sep 2026 16:11:42 +0000",
-      "desc": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade.",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/liver-perfusion.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
