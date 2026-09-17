@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T10:39:35.359679+00:00",
+  "updated": "2026-09-17T15:53:14.990231+00:00",
   "items": [
     {
       "id": "a33702be",
@@ -67,19 +67,6 @@
       "type": "news"
     },
     {
-      "id": "c733aaf0",
-      "title": "Roundtables: Could AI really kill us all?",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 15 Sep 2026 17:47:51 +0000",
-      "desc": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/September.26_Roundtables-Assets-2.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "5236dbdf",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "title_ko": "",
@@ -102,6 +89,19 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/668e37fd9c9aa124a3c867e8/HuauFbdznYW4fNQh8j4Tp.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "4b73a7a5",
+      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 17 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of huma",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_HumanBrainTissueMice.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
