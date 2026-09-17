@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T02:21:39.242846+00:00",
+  "updated": "2026-09-17T10:39:35.359679+00:00",
   "items": [
     {
       "id": "a33702be",
@@ -93,19 +93,6 @@
       "type": "news"
     },
     {
-      "id": "4b8958bc",
-      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 15 Sep 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now?",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIAlgo.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "c847825e",
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "title_ko": "",
@@ -115,6 +102,19 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/668e37fd9c9aa124a3c867e8/HuauFbdznYW4fNQh8j4Tp.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "82f2f82c",
+      "title": "Meet the innovators under 35 shaping climate tech",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 17 Sep 2026 10:00:00 +0000",
+      "desc": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the n",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_thespark_climate35ers.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
