@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T02:05:13.324913+00:00",
+  "updated": "2026-09-18T10:13:12.781703+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -50,19 +50,6 @@
       "desc": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Mike-Finelli-business-lab.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "49e7531b",
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 16 Sep 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble Whe",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/ai-buildout-bets2a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -232,6 +219,19 @@
       "desc": "Seven visual lessons on testing models, recovering tool calls, speeding up text generation, detecting watermarks, and checking image and document outputs.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!sX2L!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4407d92f-f068-4ae0-a65c-4b6afcc7e4a4_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "7ebbd7dd",
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 18 Sep 2026 09:00:00 +0000",
+      "desc": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious ri",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_TheCheckup.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
