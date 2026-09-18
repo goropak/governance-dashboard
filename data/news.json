@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T10:13:12.781703+00:00",
+  "updated": "2026-09-18T15:24:32.796935+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -24,32 +24,6 @@
       "desc": "Full reach, sliding windows, and learned selectors turn the same prompt into three different evidence sets.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!Qn52!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80097b49-e39a-4fe2-bfb2-60ed2d3e0959_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "bb25cc83",
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 16 Sep 2026 15:00:00 +0000",
-      "desc": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so careful",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_HumanBrainTissueMice.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "c81fa26a",
-      "title": "Building the materials foundation for AI",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 16 Sep 2026 12:47:34 +0000",
-      "desc": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Mike-Finelli-business-lab.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -210,15 +184,41 @@
       "type": "news"
     },
     {
-      "id": "996fa81f",
-      "title": "AI Digest: Model Validation, Agents, and Generative AI",
+      "id": "edc8dbf0",
+      "title": "How Constrained Decoding Makes LLM Outputs Follow a Schema",
       "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/ai-digest-model-validation-agents",
+      "url": "https://newsletter.theaiedge.io/p/how-constrained-decoding-makes-llm-outputs",
       "source": "The AI Edge",
-      "date": "Mon, 07 Sep 2026 15:00:49 GMT",
-      "desc": "Seven visual lessons on testing models, recovering tool calls, speeding up text generation, detecting watermarks, and checking image and document outputs.",
+      "date": "Fri, 18 Sep 2026 15:04:14 GMT",
+      "desc": "The decoder can guarantee the shape of a tool call while leaving its values completely wrong.",
       "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!sX2L!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4407d92f-f068-4ae0-a65c-4b6afcc7e4a4_1536x1024.png",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!p1fY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4efaddf5-61fe-42d3-b4a0-b87ac07812c4_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2c98174b",
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 18 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answe",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "43991f13",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 18 Sep 2026 11:29:22 +0000",
+      "desc": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more que",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
