@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-17T20:45:41.106716+00:00",
+  "updated": "2026-09-18T02:05:13.324913+00:00",
   "items": [
+    {
+      "id": "e5f8a9c7",
+      "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+      "title_ko": "",
+      "url": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+      "source": "BAIR",
+      "date": "Wed, 29 Jul 2026 02:00:00 -0700",
+      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
+      "desc_ko": "",
+      "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "a33702be",
       "title": "How Sparse Attention Makes Long-Context LLMs Cheaper, and What It Misses",
@@ -67,6 +80,19 @@
       "type": "news"
     },
     {
+      "id": "484c06b2",
+      "title": "2026 BAIR Graduate Showcase",
+      "title_ko": "",
+      "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
+      "source": "BAIR",
+      "date": "Wed, 01 Jul 2026 02:00:00 -0700",
+      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
+      "desc_ko": "",
+      "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "5236dbdf",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "title_ko": "",
@@ -89,6 +115,19 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/668e37fd9c9aa124a3c867e8/HuauFbdznYW4fNQh8j4Tp.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "d16153c2",
+      "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
+      "title_ko": "",
+      "url": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
+      "source": "BAIR",
+      "date": "Tue, 07 Jul 2026 02:00:00 -0700",
+      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
+      "desc_ko": "",
+      "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
       "tags": [],
       "type": "news"
     },
@@ -158,6 +197,19 @@
       "type": "news"
     },
     {
+      "id": "20fb9af9",
+      "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
+      "title_ko": "",
+      "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "source": "BAIR",
+      "date": "Sun, 26 Jul 2026 02:00:00 -0700",
+      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
+      "desc_ko": "",
+      "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "7beb9cf0",
       "title": "Four Retrieval Techniques for Video Search",
       "title_ko": "",
@@ -193,6 +245,19 @@
       "desc": "How a language model leaves a detectable pattern in its word choices, and why copying the text preserves it.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!mWl_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cab6be4-8baf-4906-97b3-93cf6ae2c7f7_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "a8b82a19",
+      "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+      "title_ko": "",
+      "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
+      "source": "BAIR",
+      "date": "Fri, 08 May 2026 02:00:00 -0700",
+      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"Adaptive Parallel Reasoning overview\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
+      "desc_ko": "",
+      "thumb": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
       "tags": [],
       "type": "news"
     }
