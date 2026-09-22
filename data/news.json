@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T15:55:12.743438+00:00",
+  "updated": "2026-09-22T20:38:11.871058+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -80,6 +80,19 @@
       "type": "news"
     },
     {
+      "id": "137c5833",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face",
+      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/evaleval-aisi/thumbnail.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "6aa8c26a",
       "title": "Transformers now runs llama.cpp quants",
       "title_ko": "",
@@ -102,19 +115,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/omlx/omlx-hf.jpg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "5236dbdf",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face",
-      "date": "Tue, 15 Sep 2026 16:00:44 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/dI5J2sSc3TSprk9VB4EVJ.jpeg",
       "tags": [],
       "type": "news"
     },
