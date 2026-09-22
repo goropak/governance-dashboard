@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T10:32:19.392244+00:00",
+  "updated": "2026-09-22T15:55:12.743438+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -41,6 +41,58 @@
       "type": "news"
     },
     {
+      "id": "fbbb2f48",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 22 Sep 2026 13:42:05 +0000",
+      "desc": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save live",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/IMG_6949.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "69b66234",
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 22 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —T",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/summer-hype2.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "d185f661",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 22 Sep 2026 11:04:51 +0000",
+      "desc": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/summer-hype2.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6aa8c26a",
+      "title": "Transformers now runs llama.cpp quants",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "Hugging Face",
+      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/transformers_llama_cpp_quants/thumbnail.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "c5f86512",
       "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
       "title_ko": "",
@@ -76,19 +128,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "c7496952",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "source": "Hugging Face",
-      "date": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/asyncgrpo-lora-hfjobs/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -154,45 +193,6 @@
       "desc": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and a",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260916_methodology.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "b4add577",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "desc": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. W",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/090626-CengizYar-MITTechReview-20_0b38bc.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "aec46d55",
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "desc": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#16",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Dying-on-Camera.webp?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "c90b9145",
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "desc": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/NewLede_9-15-26_Border_322.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
