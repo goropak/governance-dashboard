@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T02:20:00.935948+00:00",
+  "updated": "2026-09-22T10:32:19.392244+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -41,6 +41,19 @@
       "type": "news"
     },
     {
+      "id": "c5f86512",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/omlx",
+      "source": "Hugging Face",
+      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/omlx/omlx-hf.jpg",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "5236dbdf",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "title_ko": "",
@@ -76,19 +89,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/asyncgrpo-lora-hfjobs/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "54954960",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source": "Hugging Face",
-      "date": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/gradio-workflow1111/thumbnail.png",
       "tags": [],
       "type": "news"
     },
