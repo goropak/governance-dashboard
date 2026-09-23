@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T15:44:49.921853+00:00",
+  "updated": "2026-09-23T20:49:17.717563+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "8308f413",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face",
+      "date": "Wed, 23 Sep 2026 18:41:40 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6994dc99f850a10f03fd0b21/rQ6tGCJEaH16bQQ8X4M8b.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "8549157d",
+      "title": "A congressional representative just proposed killing America’s border tower program",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 23 Sep 2026 17:10:11 +0000",
+      "desc": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The annou",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/2026-07-22_BT_0663.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -28,19 +54,6 @@
       "type": "news"
     },
     {
-      "id": "165ac02a",
-      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "source": "Hugging Face",
-      "date": "Wed, 23 Sep 2026 13:17:01 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/688d4bdfdeb55432d90e546d/d_xBvPVTwTB_Rt9yxmp_0.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "3f94f552",
       "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
       "title_ko": "",
@@ -50,6 +63,19 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India W",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_metaindia.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "edaeeef0",
+      "title": "The AI Hype Index: AI loves cheating",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 23 Sep 2026 09:00:00 +0000",
+      "desc": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/09-Hype-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -102,32 +128,6 @@
       "desc": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save live",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/IMG_6949.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "69b66234",
-      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 22 Sep 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —T",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/summer-hype2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "d185f661",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 22 Sep 2026 11:04:51 +0000",
-      "desc": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/summer-hype2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
