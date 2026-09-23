@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T02:20:05.265571+00:00",
+  "updated": "2026-09-23T10:26:42.535824+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "195d2c23",
+      "title": "Smart glasses are already causing havoc in India",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 23 Sep 2026 09:00:00 +0000",
+      "desc": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_metaindia.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -180,19 +193,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why ",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/082926-CengizYar-MITTechReview-68.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "5f5c6ffd",
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "desc": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and a",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260916_methodology.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
