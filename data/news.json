@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T10:26:42.535824+00:00",
+  "updated": "2026-09-23T15:44:49.921853+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "8d500356",
+      "title": "How LLM Routers Balance Cache Reuse and Queue Time",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-cache-aware-routing-chooses-between-warm-and",
+      "source": "The AI Edge",
+      "date": "Wed, 23 Sep 2026 15:03:38 GMT",
+      "desc": "Four routing strategies, one repeated prompt, and the point where a cold replica wins",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!GguU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0523da2d-4b65-4099-911d-4712db320d9c_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "165ac02a",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "source": "Hugging Face",
+      "date": "Wed, 23 Sep 2026 13:17:01 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/688d4bdfdeb55432d90e546d/d_xBvPVTwTB_Rt9yxmp_0.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "3f94f552",
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 23 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India W",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_metaindia.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -184,32 +223,6 @@
       "type": "news"
     },
     {
-      "id": "06d3f809",
-      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 21 Sep 2026 12:20:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/082926-CengizYar-MITTechReview-68.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "87a2ea63",
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/tokenizers-v1",
-      "source": "Hugging Face",
-      "date": "Mon, 21 Sep 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/tokenizers-v1/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "7beb9cf0",
       "title": "Four Retrieval Techniques for Video Search",
       "title_ko": "",
@@ -232,19 +245,6 @@
       "desc": "The decoder can guarantee the shape of a tool call while leaving its values completely wrong.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!p1fY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4efaddf5-61fe-42d3-b4a0-b87ac07812c4_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "bacde97c",
-      "title": "Deep Dive: How AI Text Watermarks Work",
-      "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/deep-dive-how-ai-text-watermarks",
-      "source": "The AI Edge",
-      "date": "Fri, 11 Sep 2026 15:01:39 GMT",
-      "desc": "How a language model leaves a detectable pattern in its word choices, and why copying the text preserves it.",
-      "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!mWl_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cab6be4-8baf-4906-97b3-93cf6ae2c7f7_1536x1024.png",
       "tags": [],
       "type": "news"
     },
