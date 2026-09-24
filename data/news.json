@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T02:07:34.985147+00:00",
+  "updated": "2026-09-24T10:43:18.540708+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -119,19 +119,6 @@
       "type": "news"
     },
     {
-      "id": "fbbb2f48",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 22 Sep 2026 13:42:05 +0000",
-      "desc": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save live",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/IMG_6949.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "137c5833",
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
       "title_ko": "",
@@ -180,6 +167,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "148d6434",
+      "title": "AI is dominating the conversation at Climate Week",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "desc": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fan",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26265505951804.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
