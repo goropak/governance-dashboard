@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T10:43:18.540708+00:00",
+  "updated": "2026-09-24T16:06:07.851716+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -76,19 +76,6 @@
       "desc": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/09-Hype-thumb.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "195d2c23",
-      "title": "Smart glasses are already causing havoc in India",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 23 Sep 2026 09:00:00 +0000",
-      "desc": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_metaindia.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -171,6 +158,32 @@
       "type": "news"
     },
     {
+      "id": "a3267440",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "Hugging Face",
+      "date": "Thu, 24 Sep 2026 14:08:57 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/WgfT8N8Xyb6lBxSif7XLO.gif",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "d8c947a9",
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 24 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killi",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/2026-07-22_BT_0663.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "148d6434",
       "title": "AI is dominating the conversation at Climate Week",
       "title_ko": "",
@@ -206,19 +219,6 @@
       "desc": "Why the same inference budget can finish one path, explore alternatives, or learn from a failure",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!imnr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd66a9ed7-efcb-487b-a0fa-160ac44e596b_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "5a7c9e86",
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "source": "Hugging Face",
-      "date": "Mon, 21 Sep 2026 13:44:34 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/693c2a4eb0871ba57155b4ed/q4gZV9ENtfFwge7H3Q7YJ.png",
       "tags": [],
       "type": "news"
     },
