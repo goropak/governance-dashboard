@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T10:46:57.205126+00:00",
+  "updated": "2026-09-25T16:06:48.190631+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -24,19 +24,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6994dc99f850a10f03fd0b21/rQ6tGCJEaH16bQQ8X4M8b.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "8549157d",
-      "title": "A congressional representative just proposed killing America’s border tower program",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 23 Sep 2026 17:10:11 +0000",
-      "desc": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The annou",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/2026-07-22_BT_0663.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -197,15 +184,28 @@
       "type": "news"
     },
     {
-      "id": "7beb9cf0",
-      "title": "Four Retrieval Techniques for Video Search",
+      "id": "b65e12b9",
+      "title": "How AI Agent Memory Updates a Changed Preference",
       "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-ai-searches-hours-of-video-without-seeing",
+      "url": "https://newsletter.theaiedge.io/p/how-ai-agent-memory-updates-a-changed-preference",
       "source": "The AI Edge",
-      "date": "Mon, 14 Sep 2026 15:21:26 GMT",
-      "desc": "Why frame rate, change detection, temporal hierarchy, and targeted rewatching fail in different ways",
+      "date": "Fri, 25 Sep 2026 15:04:28 GMT",
+      "desc": "Follow one correction from a user message to the active fact a future task retrieves.",
       "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!mIZN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e08956-2a68-43a6-916d-6b266d5d7d63_1536x1024.png",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!VieE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66908f83-ab4a-4bd8-b3a3-f60d09768c5c_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b0fa98e8",
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 25 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powe",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/polygraph2a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -216,7 +216,7 @@
       "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "source": "MIT Tech Review",
       "date": "Fri, 25 Sep 2026 09:16:25 +0000",
-      "desc": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “P",
+      "desc": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/polygraph2a.jpg?resize=1200,600",
       "tags": [],
