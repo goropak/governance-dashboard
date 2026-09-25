@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T02:25:21.462117+00:00",
+  "updated": "2026-09-25T10:46:57.205126+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -50,32 +50,6 @@
       "desc": "Four routing strategies, one repeated prompt, and the point where a cold replica wins",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!GguU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0523da2d-4b65-4099-911d-4712db320d9c_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "3f94f552",
-      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 23 Sep 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India W",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_metaindia.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "edaeeef0",
-      "title": "The AI Hype Index: AI loves cheating",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 23 Sep 2026 09:00:00 +0000",
-      "desc": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/09-Hype-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -232,6 +206,32 @@
       "desc": "Why frame rate, change detection, temporal hierarchy, and targeted rewatching fail in different ways",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!mIZN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e08956-2a68-43a6-916d-6b266d5d7d63_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b50925bd",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 25 Sep 2026 09:16:25 +0000",
+      "desc": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “P",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/polygraph2a.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b02f7376",
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 25 Sep 2026 09:00:00 +0000",
+      "desc": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/young-old-heart.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
