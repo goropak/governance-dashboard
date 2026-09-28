@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T02:29:18.000943+00:00",
+  "updated": "2026-09-28T12:18:27.631425+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -93,19 +93,6 @@
       "type": "news"
     },
     {
-      "id": "c5f86512",
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/omlx",
-      "source": "Hugging Face",
-      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/omlx/omlx-hf.jpg",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "",
@@ -145,19 +132,6 @@
       "type": "news"
     },
     {
-      "id": "148d6434",
-      "title": "AI is dominating the conversation at Climate Week",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 24 Sep 2026 10:00:00 +0000",
-      "desc": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fan",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26265505951804.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "title_ko": "",
@@ -167,6 +141,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6766f31e",
+      "title": "Holo4: powering generalist computer-use agents",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face",
+      "date": "Mon, 28 Sep 2026 09:44:05 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/69fc7e49052f11ab9931b672/yzjxvlmlZKtjASwAYu6bN.jpeg",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "9df3eed3",
+      "title": "Who’s liable when AI agents go rogue?",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 28 Sep 2026 08:06:22 +0000",
+      "desc": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few mon",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
