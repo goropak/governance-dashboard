@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T12:18:27.631425+00:00",
+  "updated": "2026-09-28T22:44:22.706477+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -37,19 +37,6 @@
       "desc": "Four routing strategies, one repeated prompt, and the point where a cold replica wins",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!GguU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0523da2d-4b65-4099-911d-4712db320d9c_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "a33702be",
-      "title": "How Sparse Attention Makes Long-Context LLMs Cheaper, and What It Misses",
-      "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-sparse-attention-makes-long-context-llms",
-      "source": "The AI Edge",
-      "date": "Wed, 16 Sep 2026 15:01:07 GMT",
-      "desc": "Full reach, sliding windows, and learned selectors turn the same prompt into three different evidence sets.",
-      "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!Qn52!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80097b49-e39a-4fe2-bfb2-60ed2d3e0959_1536x1024.png",
       "tags": [],
       "type": "news"
     },
@@ -119,19 +106,6 @@
       "type": "news"
     },
     {
-      "id": "d8c947a9",
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 24 Sep 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killi",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/2026-07-22_BT_0663.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "title_ko": "",
@@ -141,6 +115,58 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "8cdbfa70",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 28 Sep 2026 22:17:07 +0000",
+      "desc": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and ap",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MITTR-Roundtables-Zoom-Opening-Overlay.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f073d5eb",
+      "title": "When can we say AI made a scientific discovery?",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 28 Sep 2026 17:03:16 +0000",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/science-ai-gene3.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6f06c766",
+      "title": "The Complete Guide to Evaluation Pipelines for AI Agents",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-to-build-an-evaluation-pipeline-fo-217656816",
+      "source": "The AI Edge",
+      "date": "Mon, 28 Sep 2026 15:04:25 GMT",
+      "desc": "From production traces and isolated trials to evidence you can use for release decisions",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!JJ52!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefc7964b-db00-4133-9ab7-0231adb5b628_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "fb9f2e81",
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 28 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over t",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -206,32 +232,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powe",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/polygraph2a.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "b50925bd",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 25 Sep 2026 09:16:25 +0000",
-      "desc": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/polygraph2a.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "b02f7376",
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 25 Sep 2026 09:00:00 +0000",
-      "desc": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/young-old-heart.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
