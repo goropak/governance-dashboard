@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T11:46:28.121333+00:00",
+  "updated": "2026-09-29T17:13:45.726577+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,19 +11,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "8308f413",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "source": "Hugging Face",
-      "date": "Wed, 23 Sep 2026 18:41:40 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6994dc99f850a10f03fd0b21/rQ6tGCJEaH16bQQ8X4M8b.png",
       "tags": [],
       "type": "news"
     },
@@ -50,6 +37,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6af8dd1a",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source": "Hugging Face",
+      "date": "Tue, 29 Sep 2026 15:30:38 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/684040a5de1ad7f4fcec9508/HyVlq-3d7EVj_M-m_TfHJ.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "9179e475",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face",
+      "date": "Tue, 29 Sep 2026 13:07:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/668e37fd9c9aa124a3c867e8/phhhj_BLOJbvnTFhVaZ5y.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b77e9af7",
+      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 29 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Compani",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/CT10-batterypacks.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -89,19 +115,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/evaleval-aisi/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "6aa8c26a",
-      "title": "Transformers now runs llama.cpp quants",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "source": "Hugging Face",
-      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/transformers_llama_cpp_quants/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -153,7 +166,7 @@
       "date": "Mon, 28 Sep 2026 22:17:07 +0000",
       "desc": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and ap",
       "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MITTR-Roundtables-Zoom-Opening-Overlay.png?resize=1200,600",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/9.21-Roundtables-Thumbnail-1.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -180,19 +193,6 @@
       "desc": "From production traces and isolated trials to evidence you can use for release decisions",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!JJ52!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefc7964b-db00-4133-9ab7-0231adb5b628_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "fb9f2e81",
-      "title": "The Download: rogue agent liability and the AI Hype Index",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 28 Sep 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over t",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
