@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T03:12:21.535726+00:00",
+  "updated": "2026-09-29T11:46:28.121333+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -50,6 +50,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "3a0cc922",
+      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 29 Sep 2026 11:00:00 +0000",
+      "desc": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achiev",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/CT10-batterypacks.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2665823b",
+      "title": "Making AI an asset, not an expense",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 29 Sep 2026 10:43:45 +0000",
+      "desc": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -184,19 +210,6 @@
       "type": "news"
     },
     {
-      "id": "9df3eed3",
-      "title": "Who’s liable when AI agents go rogue?",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 28 Sep 2026 08:06:22 +0000",
-      "desc": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few mon",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "441e4e9c",
       "title": "How Test-Time Scaling Allocates LLM Reasoning Across Depth, Width, and Feedback",
       "title_ko": "",
@@ -219,19 +232,6 @@
       "desc": "Follow one correction from a user message to the active fact a future task retrieves.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!VieE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66908f83-ab4a-4bd8-b3a3-f60d09768c5c_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "b0fa98e8",
-      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 25 Sep 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powe",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/polygraph2a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
