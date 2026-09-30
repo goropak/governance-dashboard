@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-30T11:32:50.689781+00:00",
+  "updated": "2026-09-30T17:12:29.672242+00:00",
   "items": [
+    {
+      "id": "cf939070",
+      "title": "How Jev Turns Questions Into Decisions",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-jev-turns-questions-into-decisions",
+      "source": "The AI Edge",
+      "date": "Wed, 30 Sep 2026 15:02:22 GMT",
+      "desc": "Inside the state, typed-output, probability, and application-policy contracts of a decision model",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!dHE6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff25bb621-bfb9-43ff-afd5-ab71ff0ac615_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "a65fe8c4",
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 30 Sep 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” o",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26167311184201.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
     {
       "id": "249c9190",
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
@@ -11,6 +37,19 @@
       "desc": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26167311184201.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "30ddd413",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face",
+      "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/open-tts-leaderboard/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -119,19 +158,6 @@
       "type": "news"
     },
     {
-      "id": "137c5833",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face",
-      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/evaleval-aisi/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "",
@@ -167,19 +193,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "8cdbfa70",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 28 Sep 2026 22:17:07 +0000",
-      "desc": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and ap",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/9.21-Roundtables-Thumbnail-1.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -232,19 +245,6 @@
       "desc": "Follow one correction from a user message to the active fact a future task retrieves.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!VieE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66908f83-ab4a-4bd8-b3a3-f60d09768c5c_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "edc8dbf0",
-      "title": "How Constrained Decoding Makes LLM Outputs Follow a Schema",
-      "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-constrained-decoding-makes-llm-outputs",
-      "source": "The AI Edge",
-      "date": "Fri, 18 Sep 2026 15:04:14 GMT",
-      "desc": "The decoder can guarantee the shape of a tool call while leaving its values completely wrong.",
-      "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!p1fY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4efaddf5-61fe-42d3-b4a0-b87ac07812c4_1536x1024.png",
       "tags": [],
       "type": "news"
     },
