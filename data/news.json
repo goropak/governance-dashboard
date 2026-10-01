@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T12:01:32.812377+00:00",
+  "updated": "2026-10-01T22:06:29.658645+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -119,19 +119,6 @@
       "type": "news"
     },
     {
-      "id": "b77e9af7",
-      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 29 Sep 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Compani",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/CT10-batterypacks.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "",
@@ -145,26 +132,39 @@
       "type": "news"
     },
     {
-      "id": "a3267440",
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "id": "500c9092",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
       "title_ko": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
       "source": "Hugging Face",
-      "date": "Thu, 24 Sep 2026 14:08:57 GMT",
+      "date": "Thu, 01 Oct 2026 15:01:43 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/WgfT8N8Xyb6lBxSif7XLO.gif",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/uKnK93gjkKbmJmSx94WO2.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "94a1f180",
+      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 01 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
     {
       "id": "e49f8e25",
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
       "title_ko": "",
       "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
       "source": "MIT Tech Review",
       "date": "Thu, 01 Oct 2026 10:32:24 +0000",
-      "desc": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity ",
+      "desc": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activit",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
       "tags": [],
