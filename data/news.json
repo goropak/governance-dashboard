@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T03:00:39.804131+00:00",
+  "updated": "2026-10-01T12:01:32.812377+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -132,32 +132,6 @@
       "type": "news"
     },
     {
-      "id": "3a0cc922",
-      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 29 Sep 2026 11:00:00 +0000",
-      "desc": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achiev",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/CT10-batterypacks.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "2665823b",
-      "title": "Making AI an asset, not an expense",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 29 Sep 2026 10:43:45 +0000",
-      "desc": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "",
@@ -180,6 +154,32 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/WgfT8N8Xyb6lBxSif7XLO.gif",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e49f8e25",
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 01 Oct 2026 10:32:24 +0000",
+      "desc": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b6fc6006",
+      "title": "How smaller, distributed batteries could help the grid",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 01 Oct 2026 10:00:00 +0000",
+      "desc": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Fac",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/POPWHEELS_HORZ-4-2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
