@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T11:33:00.647824+00:00",
+  "updated": "2026-10-02T17:00:24.587114+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -106,19 +106,6 @@
       "type": "news"
     },
     {
-      "id": "500c9092",
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "source": "Hugging Face",
-      "date": "Thu, 01 Oct 2026 15:01:43 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/uKnK93gjkKbmJmSx94WO2.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "94a1f180",
       "title": "The Download: AI “mind-reading” and creative uses for small batteries",
       "title_ko": "",
@@ -128,32 +115,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "e49f8e25",
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 01 Oct 2026 10:32:24 +0000",
-      "desc": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activit",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "b6fc6006",
-      "title": "How smaller, distributed batteries could help the grid",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 01 Oct 2026 10:00:00 +0000",
-      "desc": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Fac",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/POPWHEELS_HORZ-4-2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -219,6 +180,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"Adaptive Parallel Reasoning overview\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "ed9dd57b",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 02 Oct 2026 15:49:04 +0000",
+      "desc": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Social-Card-1.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e5ba9a82",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "source": "Hugging Face",
+      "date": "Fri, 02 Oct 2026 15:19:50 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/AdqLEBgtQnaDXKLdylC3l.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "afc40194",
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 02 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/healthy-habits.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
