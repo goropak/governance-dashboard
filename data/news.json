@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T03:03:09.782750+00:00",
+  "updated": "2026-10-02T11:33:00.647824+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -11,32 +11,6 @@
       "desc": "Inside the state, typed-output, probability, and application-policy contracts of a decision model",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!dHE6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff25bb621-bfb9-43ff-afd5-ab71ff0ac615_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "a65fe8c4",
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 30 Sep 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” o",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26167311184201.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "249c9190",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 30 Sep 2026 10:40:30 +0000",
-      "desc": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26167311184201.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -210,19 +184,6 @@
       "type": "news"
     },
     {
-      "id": "6766f31e",
-      "title": "Holo4: powering generalist computer-use agents",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face",
-      "date": "Mon, 28 Sep 2026 09:44:05 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/69fc7e49052f11ab9931b672/yzjxvlmlZKtjASwAYu6bN.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "441e4e9c",
       "title": "How Test-Time Scaling Allocates LLM Reasoning Across Depth, Width, and Feedback",
       "title_ko": "",
@@ -258,6 +219,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"Adaptive Parallel Reasoning overview\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c8078b80",
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 02 Oct 2026 09:00:00 +0000",
+      "desc": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/healthy-habits.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "67142250",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 02 Oct 2026 08:00:00 +0000",
+      "desc": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "87e5762e",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face",
+      "date": "Fri, 02 Oct 2026 04:01:31 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68642da9885da181fde1ad70/8kSzlHLOdu5hchCtPnK8D.png",
       "tags": [],
       "type": "news"
     }
