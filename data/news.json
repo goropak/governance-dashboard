@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T10:47:26.174505+00:00",
+  "updated": "2026-10-03T15:23:36.139848+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -132,6 +132,19 @@
       "type": "news"
     },
     {
+      "id": "dfdb4d36",
+      "title": "Build a Jev-Supervised AI Agent",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/build-a-jev-supervised-ai-agent-218605208",
+      "source": "The AI Edge",
+      "date": "Sat, 03 Oct 2026 15:02:23 GMT",
+      "desc": "Typed decisions, guarded tools, and a measured comparison with LLM supervisors",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!GddU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73d933ba-a75a-4f7f-80be-67272008fb19_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "6f06c766",
       "title": "The Complete Guide to Evaluation Pipelines for AI Agents",
       "title_ko": "",
@@ -141,19 +154,6 @@
       "desc": "From production traces and isolated trials to evidence you can use for release decisions",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!JJ52!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefc7964b-db00-4133-9ab7-0231adb5b628_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "441e4e9c",
-      "title": "How Test-Time Scaling Allocates LLM Reasoning Across Depth, Width, and Feedback",
-      "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-test-time-scaling-allocates-llm-reasoning",
-      "source": "The AI Edge",
-      "date": "Mon, 21 Sep 2026 15:01:16 GMT",
-      "desc": "Why the same inference budget can finish one path, explore alternatives, or learn from a failure",
-      "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!imnr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd66a9ed7-efcb-487b-a0fa-160ac44e596b_1536x1024.png",
       "tags": [],
       "type": "news"
     },
