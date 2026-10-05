@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T02:56:17.853074+00:00",
+  "updated": "2026-10-05T12:58:10.258551+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -93,19 +93,6 @@
       "type": "news"
     },
     {
-      "id": "94a1f180",
-      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 01 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "title_ko": "",
@@ -154,6 +141,45 @@
       "desc": "From production traces and isolated trials to evidence you can use for release decisions",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!JJ52!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefc7964b-db00-4133-9ab7-0231adb5b628_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "a9f048f8",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 05 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enoug",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "cc4fbf26",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 05 Oct 2026 08:00:00 +0000",
+      "desc": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c8d1f5dc",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 05 Oct 2026 04:00:00 +0000",
+      "desc": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it in",
+      "desc_ko": "",
+      "thumb": "",
       "tags": [],
       "type": "news"
     },
@@ -219,32 +245,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other ",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/healthy-habits.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "c8078b80",
-      "title": "A new contest pits competitors against each other in a race to biological youth",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 02 Oct 2026 09:00:00 +0000",
-      "desc": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/healthy-habits.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "67142250",
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 02 Oct 2026 08:00:00 +0000",
-      "desc": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
