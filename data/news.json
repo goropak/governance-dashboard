@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T12:58:10.258551+00:00",
+  "updated": "2026-10-05T23:27:38.460429+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -145,6 +145,32 @@
       "type": "news"
     },
     {
+      "id": "16ad415e",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 05 Oct 2026 15:47:52 +0000",
+      "desc": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Neo4j-Social-Card-1.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "10d6f4f6",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 05 Oct 2026 13:29:32 +0000",
+      "desc": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems t",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_TP3_CoverocialsV3-1200_3d103b.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "a9f048f8",
       "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
       "title_ko": "",
@@ -210,19 +236,6 @@
       "type": "news"
     },
     {
-      "id": "ed9dd57b",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 02 Oct 2026 15:49:04 +0000",
-      "desc": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Social-Card-1.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "e5ba9a82",
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "title_ko": "",
@@ -232,19 +245,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/AdqLEBgtQnaDXKLdylC3l.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "afc40194",
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 02 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/healthy-habits.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
