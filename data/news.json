@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T12:16:15.164302+00:00",
+  "updated": "2026-10-07T22:24:53.731445+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -11,19 +11,6 @@
       "desc": "Inside the state, typed-output, probability, and application-policy contracts of a decision model",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!dHE6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff25bb621-bfb9-43ff-afd5-ab71ff0ac615_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "30ddd413",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face",
-      "date": "Wed, 30 Sep 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/open-tts-leaderboard/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -41,15 +28,54 @@
       "type": "news"
     },
     {
-      "id": "8d500356",
-      "title": "How LLM Routers Balance Cache Reuse and Queue Time",
+      "id": "567ec19b",
+      "title": "Multimodal open d1 decision models for the edge",
       "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-cache-aware-routing-chooses-between-warm-and",
-      "source": "The AI Edge",
-      "date": "Wed, 23 Sep 2026 15:03:38 GMT",
-      "desc": "Four routing strategies, one repeated prompt, and the point where a cold replica wins",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "Hugging Face",
+      "date": "Wed, 07 Oct 2026 16:54:33 GMT",
+      "desc": "",
       "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!GguU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0523da2d-4b65-4099-911d-4712db320d9c_1536x1024.png",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/hLsllw4zhC04cVGiV69v0.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "dc9765a0",
+      "title": "How DeepSeek V4.1 Flash Separates Reading and Generation",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-deepseek-v4-1-flash-separates-reading-and",
+      "source": "The AI Edge",
+      "date": "Wed, 07 Oct 2026 15:00:38 GMT",
+      "desc": "How a shorter input path, shared attention memory, and selective reconstruction change the cost of long conversations.",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!KNJy!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F347ca444-69c1-4f29-bd01-de4963a09be4_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "16096794",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face",
+      "date": "Wed, 07 Oct 2026 12:45:31 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/67b8b0096c3182e96bf6cea1/zB6BNaB-3tiCCsnOo7gik.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "7353b6a4",
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 07 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/silo-clock2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -128,32 +154,6 @@
       "desc": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we ",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-1321505097.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "6dd0d2a1",
-      "title": "WeLion New Energy and its semi-solid-state batteries",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 06 Oct 2026 10:35:00 +0000",
-      "desc": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AP26190018414663.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "807faee2",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "source": "Hugging Face",
-      "date": "Tue, 06 Oct 2026 06:44:39 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/659bc8a7b0f43ed69f0b2300/MJHJMYW3O4CkLvXvn7DOp.png",
       "tags": [],
       "type": "news"
     },
