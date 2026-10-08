@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T12:26:09.543108+00:00",
+  "updated": "2026-10-08T22:38:04.568957+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -50,6 +50,19 @@
       "desc": "How a shorter input path, shared attention memory, and selective reconstruction change the cost of long conversations.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!KNJy!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F347ca444-69c1-4f29-bd01-de4963a09be4_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6b0f9fee",
+      "title": "Introducing Falcon ASR",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face",
+      "date": "Wed, 07 Oct 2026 13:21:03 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/671a3e44cf97dc64441e170a/bJ2aGPIX6WLWagE10j5y3.png",
       "tags": [],
       "type": "news"
     },
@@ -158,6 +171,19 @@
       "type": "news"
     },
     {
+      "id": "e2b8feac",
+      "title": "The model that didn't exist, so you made it yourself",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face",
+      "date": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/building-with-ml-intern/thumbnail.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "title_ko": "",
@@ -232,32 +258,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"Adaptive Parallel Reasoning overview\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "e5ba9a82",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "Hugging Face",
-      "date": "Fri, 02 Oct 2026 15:19:50 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/AdqLEBgtQnaDXKLdylC3l.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "87e5762e",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face",
-      "date": "Fri, 02 Oct 2026 04:01:31 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68642da9885da181fde1ad70/8kSzlHLOdu5hchCtPnK8D.png",
       "tags": [],
       "type": "news"
     }
