@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T03:34:41.872022+00:00",
+  "updated": "2026-10-09T12:15:33.963469+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -119,45 +119,6 @@
       "type": "news"
     },
     {
-      "id": "c6174439",
-      "title": "Why we’re watching these climate tech companies",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 08 Oct 2026 10:00:00 +0000",
-      "desc": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the prom",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Image-2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "488361a6",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 08 Oct 2026 09:00:00 +0000",
-      "desc": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we liv",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "a80a806a",
-      "title": "Building a safer path to autonomous industrial AI",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 08 Oct 2026 08:17:32 +0000",
-      "desc": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to au",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-AVEVA-podcast-social-card-v2-1.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "e2b8feac",
       "title": "The model that didn't exist, so you made it yourself",
       "title_ko": "",
@@ -232,6 +193,45 @@
       "desc": "Follow one correction from a user message to the active fact a future task retrieves.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!VieE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66908f83-ab4a-4bd8-b3a3-f60d09768c5c_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "12d2afa3",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "desc": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "844aa8f8",
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "desc": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/job-thumb.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "18eaf7d0",
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "desc": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some me",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2292410673.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
