@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T12:15:33.963469+00:00",
+  "updated": "2026-10-09T21:59:31.267032+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -106,19 +106,6 @@
       "type": "news"
     },
     {
-      "id": "6d888129",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 08 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your lif",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a-updated-mobile.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "e2b8feac",
       "title": "The model that didn't exist, so you made it yourself",
       "title_ko": "",
@@ -141,19 +128,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "01637857",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face",
-      "date": "Sat, 03 Oct 2026 22:56:48 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/NStwJm1AafDELVsU4KGwS.png",
       "tags": [],
       "type": "news"
     },
@@ -184,15 +158,41 @@
       "type": "news"
     },
     {
-      "id": "b65e12b9",
-      "title": "How AI Agent Memory Updates a Changed Preference",
+      "id": "ebb9e1a4",
+      "title": "Impactful scheduling for GPU clusters",
       "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-ai-agent-memory-updates-a-changed-preference",
-      "source": "The AI Edge",
-      "date": "Fri, 25 Sep 2026 15:04:28 GMT",
-      "desc": "Follow one correction from a user message to the active fact a future task retrieves.",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face",
+      "date": "Fri, 09 Oct 2026 15:20:29 GMT",
+      "desc": "",
       "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!VieE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66908f83-ab4a-4bd8-b3a3-f60d09768c5c_1536x1024.png",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/Kj0n5ea3ItoNIc2ha2SVL.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "7cdf4620",
+      "title": "How Self-Improving Agents Learn from Experience",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-self-improving-agents-learn-from-experience",
+      "source": "The AI Edge",
+      "date": "Fri, 09 Oct 2026 15:03:57 GMT",
+      "desc": "How executable tasks and adaptive curricula turn production failures into useful practice.",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!N5FQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa55da6d7-048b-4060-829a-929bd75b2a5a_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "0334faf7",
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 09 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to sa",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
