@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T22:38:04.568957+00:00",
+  "updated": "2026-10-09T03:34:41.872022+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -76,19 +76,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/67b8b0096c3182e96bf6cea1/zB6BNaB-3tiCCsnOo7gik.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "7353b6a4",
-      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 07 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/silo-clock2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -245,6 +232,19 @@
       "desc": "Follow one correction from a user message to the active fact a future task retrieves.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!VieE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66908f83-ab4a-4bd8-b3a3-f60d09768c5c_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "080bc68c",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 09 Oct 2026 00:08:24 +0000",
+      "desc": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blue",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
