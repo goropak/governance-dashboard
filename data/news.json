@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T13:50:18.196252+00:00",
+  "updated": "2026-10-12T23:56:01.669349+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -145,15 +145,15 @@
       "type": "news"
     },
     {
-      "id": "6f06c766",
-      "title": "The Complete Guide to Evaluation Pipelines for AI Agents",
+      "id": "1f835fbc",
+      "title": "How Persistent Agents Keep Working",
       "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-to-build-an-evaluation-pipeline-fo-217656816",
+      "url": "https://newsletter.theaiedge.io/p/how-persistent-agents-keep-working",
       "source": "The AI Edge",
-      "date": "Mon, 28 Sep 2026 15:04:25 GMT",
-      "desc": "From production traces and isolated trials to evidence you can use for release decisions",
+      "date": "Mon, 12 Oct 2026 15:00:33 GMT",
+      "desc": "Reconstruct a coding task&#8217;s context, preserve accepted work, and recover safely when a worker disappears.",
       "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!JJ52!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefc7964b-db00-4133-9ab7-0231adb5b628_1536x1024.png",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!_cM6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1faa5ef-5f71-4170-a382-fdea7abc4b8d_1536x1024.png",
       "tags": [],
       "type": "news"
     },
