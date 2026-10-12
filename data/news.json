@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T03:11:19.806396+00:00",
+  "updated": "2026-10-12T13:50:18.196252+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -158,6 +158,45 @@
       "type": "news"
     },
     {
+      "id": "2d02358b",
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 12 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far be",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Selman-MIT-MoonBase-Jacket-thumb.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "754aa750",
+      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 12 Oct 2026 09:37:02 +0000",
+      "desc": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Selman-MIT-MoonBase-Jacket-thumb.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c83e0702",
+      "title": "The ecologist revealing the invisible networks that revive rainforests",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 12 Oct 2026 09:00:00 +0000",
+      "desc": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologi",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/268A7613-2-1_thumb.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "ebb9e1a4",
       "title": "Impactful scheduling for GPU clusters",
       "title_ko": "",
@@ -206,45 +245,6 @@
       "desc": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "844aa8f8",
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "desc": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/job-thumb.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "18eaf7d0",
-      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "desc": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some me",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2292410673.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "080bc68c",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 09 Oct 2026 00:08:24 +0000",
-      "desc": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blue",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
