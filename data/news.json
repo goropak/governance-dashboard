@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T04:37:34.681054+00:00",
+  "updated": "2026-10-13T13:08:17.313799+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -89,6 +89,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "91d7e2b8",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 13 Oct 2026 12:00:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh t",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "bbd5ea6a",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 13 Oct 2026 10:00:00 +0000",
+      "desc": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "4cdfa266",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 13 Oct 2026 09:00:00 +0000",
+      "desc": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -184,19 +223,6 @@
       "type": "news"
     },
     {
-      "id": "c83e0702",
-      "title": "The ecologist revealing the invisible networks that revive rainforests",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 12 Oct 2026 09:00:00 +0000",
-      "desc": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologi",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/268A7613-2-1_thumb.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "ebb9e1a4",
       "title": "Impactful scheduling for GPU clusters",
       "title_ko": "",
@@ -219,32 +245,6 @@
       "desc": "How executable tasks and adaptive curricula turn production failures into useful practice.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!N5FQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa55da6d7-048b-4060-829a-929bd75b2a5a_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "0334faf7",
-      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 09 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to sa",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "12d2afa3",
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "desc": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
