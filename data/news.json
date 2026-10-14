@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T02:36:54.890235+00:00",
+  "updated": "2026-10-14T10:49:20.295220+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -24,6 +24,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "600356bf",
+      "title": "The US military’s race to make fake blood",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 14 Oct 2026 09:00:00 +0000",
+      "desc": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, wh",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/260917-KaloCyte-044-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -204,19 +217,6 @@
       "source": "MIT Tech Review",
       "date": "Mon, 12 Oct 2026 12:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far be",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Selman-MIT-MoonBase-Jacket-thumb.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "754aa750",
-      "title": "What it would take to build a city on the moon",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 12 Oct 2026 09:37:02 +0000",
-      "desc": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Selman-MIT-MoonBase-Jacket-thumb.jpg?resize=1200,600",
       "tags": [],
