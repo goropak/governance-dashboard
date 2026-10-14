@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T10:49:20.295220+00:00",
+  "updated": "2026-10-14T16:08:27.294139+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -24,6 +24,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "014689cd",
+      "title": "The Download: faking blood and the future of batteries",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 14 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In Febru",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/260917-KaloCyte-044-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -206,19 +219,6 @@
       "desc": "Reconstruct a coding task&#8217;s context, preserve accepted work, and recover safely when a worker disappears.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!_cM6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1faa5ef-5f71-4170-a382-fdea7abc4b8d_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "2d02358b",
-      "title": "The Download: moon city problems and drone traffic controllers",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 12 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far be",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Selman-MIT-MoonBase-Jacket-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
