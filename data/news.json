@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T10:32:04.096284+00:00",
+  "updated": "2026-10-15T15:56:28.442703+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -54,19 +54,6 @@
       "type": "news"
     },
     {
-      "id": "600356bf",
-      "title": "The US military’s race to make fake blood",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 14 Oct 2026 09:00:00 +0000",
-      "desc": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, wh",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/260917-KaloCyte-044-thumb.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "dc9765a0",
       "title": "How DeepSeek V4.1 Flash Separates Reading and Generation",
       "title_ko": "",
@@ -76,32 +63,6 @@
       "desc": "How a shorter input path, shared attention memory, and selective reconstruction change the cost of long conversations.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!KNJy!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F347ca444-69c1-4f29-bd01-de4963a09be4_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "6b0f9fee",
-      "title": "Introducing Falcon ASR",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "source": "Hugging Face",
-      "date": "Wed, 07 Oct 2026 13:21:03 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/671a3e44cf97dc64441e170a/bJ2aGPIX6WLWagE10j5y3.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "16096794",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face",
-      "date": "Wed, 07 Oct 2026 12:45:31 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/67b8b0096c3182e96bf6cea1/zB6BNaB-3tiCCsnOo7gik.png",
       "tags": [],
       "type": "news"
     },
@@ -145,6 +106,19 @@
       "type": "news"
     },
     {
+      "id": "4dc55533",
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 15 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have bee",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/pig-freeze.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "69ce4f56",
       "title": "How much more can nuclear power plants give?",
       "title_ko": "",
@@ -154,6 +128,19 @@
       "desc": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power pla",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AP25176793857040.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "8a9b433b",
+      "title": "Apertus 1.5 Release Notes",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "Hugging Face",
+      "date": "Thu, 15 Oct 2026 09:08:45 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/61f1877a168a0b52fda88455/2mHXxCtfos6CgwFSNKFVi.jpeg",
       "tags": [],
       "type": "news"
     },
@@ -180,6 +167,19 @@
       "desc": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findin",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/pig-freeze.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b59b01e3",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face",
+      "date": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/flux3/thumbnail.png",
       "tags": [],
       "type": "news"
     },
