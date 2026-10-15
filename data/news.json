@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T15:56:28.442703+00:00",
+  "updated": "2026-10-15T20:40:51.659497+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -80,19 +80,6 @@
       "type": "news"
     },
     {
-      "id": "aba8264d",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "source": "Hugging Face",
-      "date": "Tue, 13 Oct 2026 17:05:48 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/YxGx9U6yV6_mumklCyMsE.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "",
@@ -102,6 +89,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "fe5649d9",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face",
+      "date": "Thu, 15 Oct 2026 20:34:01 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/gltB0o--PV_Jh0D3aDm8-.png",
       "tags": [],
       "type": "news"
     },
@@ -171,6 +171,19 @@
       "type": "news"
     },
     {
+      "id": "9b9420b9",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face",
+      "date": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/meta-muse-spark-open/thumbnail.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "b59b01e3",
       "title": "Welcome FLUX.3 Image Klein in Diffusers",
       "title_ko": "",
@@ -180,19 +193,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/flux3/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "e2b8feac",
-      "title": "The model that didn't exist, so you made it yourself",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "source": "Hugging Face",
-      "date": "Thu, 08 Oct 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/building-with-ml-intern/thumbnail.png",
       "tags": [],
       "type": "news"
     },
