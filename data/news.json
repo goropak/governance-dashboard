@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:09:14.377429+00:00",
+  "updated": "2026-10-16T10:19:01.332314+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -37,19 +37,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/Y8t8GnfI2lUa40iX4_sxA.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "014689cd",
-      "title": "The Download: faking blood and the future of batteries",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 14 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In Febru",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/260917-KaloCyte-044-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -119,45 +106,6 @@
       "type": "news"
     },
     {
-      "id": "69ce4f56",
-      "title": "How much more can nuclear power plants give?",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 15 Oct 2026 10:00:00 +0000",
-      "desc": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power pla",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AP25176793857040.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "e2a15ea3",
-      "title": "Six wild ideas for perpetuating your mind",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 15 Oct 2026 09:00:00 +0000",
-      "desc": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connectio",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/eye-brains.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "1cca4afa",
-      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 15 Oct 2026 08:43:24 +0000",
-      "desc": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findin",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/pig-freeze.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "9b9420b9",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "title_ko": "",
@@ -219,6 +167,58 @@
       "desc": "Reconstruct a coding task&#8217;s context, preserve accepted work, and recover safely when a worker disappears.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!_cM6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1faa5ef-5f71-4170-a382-fdea7abc4b8d_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c9d6e588",
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 16 Oct 2026 09:00:00 +0000",
+      "desc": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in Ju",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/prima-implant-2026.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2aaa2b1e",
+      "title": "Love is infrastructure",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 16 Oct 2026 09:00:00 +0000",
+      "desc": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_152590647-thumb.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6ae330c3",
+      "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 16 Oct 2026 09:00:00 +0000",
+      "desc": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuc",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_551902166.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "75b7073c",
+      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 16 Oct 2026 07:56:32 +0000",
+      "desc": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2250456863.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
