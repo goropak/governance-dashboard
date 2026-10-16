@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T20:40:51.659497+00:00",
+  "updated": "2026-10-16T02:09:14.377429+00:00",
   "items": [
     {
       "id": "cf939070",
@@ -132,19 +132,6 @@
       "type": "news"
     },
     {
-      "id": "8a9b433b",
-      "title": "Apertus 1.5 Release Notes",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "source": "Hugging Face",
-      "date": "Thu, 15 Oct 2026 09:08:45 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/61f1877a168a0b52fda88455/2mHXxCtfos6CgwFSNKFVi.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "e2a15ea3",
       "title": "Six wild ideas for perpetuating your mind",
       "title_ko": "",
@@ -232,6 +219,19 @@
       "desc": "Reconstruct a coding task&#8217;s context, preserve accepted work, and recover safely when a worker disappears.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!_cM6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1faa5ef-5f71-4170-a382-fdea7abc4b8d_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "bf51e816",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "Hugging Face",
+      "date": "Fri, 16 Oct 2026 01:44:47 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/x0aObe_0mduBjWFuKBGoV.png",
       "tags": [],
       "type": "news"
     },
