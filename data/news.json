@@ -1,19 +1,6 @@
 {
-  "updated": "2026-10-16T10:19:01.332314+00:00",
+  "updated": "2026-10-16T15:44:39.682565+00:00",
   "items": [
-    {
-      "id": "cf939070",
-      "title": "How Jev Turns Questions Into Decisions",
-      "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-jev-turns-questions-into-decisions",
-      "source": "The AI Edge",
-      "date": "Wed, 30 Sep 2026 15:02:22 GMT",
-      "desc": "Inside the state, typed-output, probability, and application-policy contracts of a decision model",
-      "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!dHE6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff25bb621-bfb9-43ff-afd5-ab71ff0ac615_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
     {
       "id": "e5f8a9c7",
       "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
@@ -24,19 +11,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "9d6590d6",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "source": "Hugging Face",
-      "date": "Wed, 14 Oct 2026 16:12:42 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/Y8t8GnfI2lUa40iX4_sxA.png",
       "tags": [],
       "type": "news"
     },
@@ -89,19 +63,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/gltB0o--PV_Jh0D3aDm8-.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "4dc55533",
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 15 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have bee",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/pig-freeze.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -171,6 +132,32 @@
       "type": "news"
     },
     {
+      "id": "b228aae0",
+      "title": "How Hybrid LLMs Combine Memory, Attention, and Experts",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-hybrid-llms-combine-memory-attention-and",
+      "source": "The AI Edge",
+      "date": "Fri, 16 Oct 2026 15:00:46 GMT",
+      "desc": "Follow Mamba-2, Gated DeltaNet and KDA from state updates to the costs that active parameter counts miss.",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!FezU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F507df679-3e9e-4b54-b364-dfb0ce3b7f34_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "482e4b85",
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 16 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2250456863.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "c9d6e588",
       "title": "This implant can restore sight for patients with macular degeneration",
       "title_ko": "",
@@ -232,6 +219,19 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/x0aObe_0mduBjWFuKBGoV.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "752ec58d",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face",
+      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/reflection-beam/thumbnail.jpg",
       "tags": [],
       "type": "news"
     },
