@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T11:30:43.800217+00:00",
+  "updated": "2026-10-19T17:55:40.648123+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -106,15 +106,28 @@
       "type": "news"
     },
     {
-      "id": "dfdb4d36",
-      "title": "Build a Jev-Supervised AI Agent",
+      "id": "ba6d484a",
+      "title": "How the KV Cache Shapes AI Agent Costs",
       "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/build-a-jev-supervised-ai-agent-218605208",
+      "url": "https://newsletter.theaiedge.io/p/how-the-kv-cache-shapes-ai-agent-costs",
       "source": "The AI Edge",
-      "date": "Sat, 03 Oct 2026 15:02:23 GMT",
-      "desc": "Typed decisions, guarded tools, and a measured comparison with LLM supervisors",
+      "date": "Mon, 19 Oct 2026 15:03:35 GMT",
+      "desc": "Why shrinking the cache, reusing a prefix, and keeping it nearby save different resources.",
       "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!GddU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73d933ba-a75a-4f7f-80be-67272008fb19_1536x1024.png",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!hhy_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a7d5bd-86b1-4ebc-9cd6-7949b12aa5de_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "d3cd0305",
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 19 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save t",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/IMG_1451.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -193,19 +206,6 @@
       "desc": "Follow Mamba-2, Gated DeltaNet and KDA from state updates to the costs that active parameter counts miss.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!FezU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F507df679-3e9e-4b54-b364-dfb0ce3b7f34_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "482e4b85",
-      "title": "The Download: failed social media bans, and extending pets’ lives",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 16 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2250456863.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
