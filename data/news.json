@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T17:55:40.648123+00:00",
+  "updated": "2026-10-19T21:51:09.605692+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -80,19 +80,6 @@
       "type": "news"
     },
     {
-      "id": "9b9420b9",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "source": "Hugging Face",
-      "date": "Thu, 15 Oct 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/meta-muse-spark-open/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "title_ko": "",
@@ -102,6 +89,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "007fe264",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 19 Oct 2026 18:22:47 +0000",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_Algo.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e7a08d8b",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 19 Oct 2026 17:45:55 +0000",
+      "desc": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that ha",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -158,15 +171,15 @@
       "type": "news"
     },
     {
-      "id": "5630f8a4",
-      "title": "How far can we push computing?",
+      "id": "9fba733c",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
       "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 19 Oct 2026 09:00:00 +0000",
-      "desc": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the ev",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "Hugging Face",
+      "date": "Mon, 19 Oct 2026 00:00:00 GMT",
+      "desc": "",
       "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/6512169-thumb.jpg?resize=1200,600",
+      "thumb": "https://huggingface.co/blog/assets/hf-torchneuron/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -180,19 +193,6 @@
       "desc": "Reconstruct a coding task&#8217;s context, preserve accepted work, and recover safely when a worker disappears.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!_cM6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1faa5ef-5f71-4170-a382-fdea7abc4b8d_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "57c41972",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 16 Oct 2026 18:00:00 +0000",
-      "desc": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
