@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T15:59:56.552821+00:00",
+  "updated": "2026-10-20T20:59:29.571187+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -37,6 +37,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "69a612b8",
+      "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 20 Oct 2026 20:07:21 +0000",
+      "desc": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion a",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/flip-wheel.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "bafbb597",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "source": "Hugging Face",
+      "date": "Tue, 20 Oct 2026 18:17:47 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/67a4f15057fb66b9db6dac82/45XSEtdQHqTdspRe3wkYs.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f40f87a5",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "source": "Hugging Face",
+      "date": "Tue, 20 Oct 2026 16:09:19 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7zYjyTWswjO2erWsO5HNf.png",
       "tags": [],
       "type": "news"
     },
@@ -106,19 +145,6 @@
       "type": "news"
     },
     {
-      "id": "cec229fe",
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 20 Oct 2026 09:00:00 +0000",
-      "desc": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massi",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2277893810.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "7c77a58a",
       "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
       "title_ko": "",
@@ -141,19 +167,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/anylanguagemodel-1-0/banner.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "2e40320a",
-      "title": "MPS in PyTorch 2.15",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "source": "Hugging Face",
-      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/mps-pytorch-2-15/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -193,19 +206,6 @@
       "desc": "Why shrinking the cache, reusing a prefix, and keeping it nearby save different resources.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!hhy_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a7d5bd-86b1-4ebc-9cd6-7949b12aa5de_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "9fba733c",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "source": "Hugging Face",
-      "date": "Mon, 19 Oct 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/hf-torchneuron/thumbnail.png",
       "tags": [],
       "type": "news"
     },
