@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T02:32:57.421434+00:00",
+  "updated": "2026-10-20T10:36:18.320646+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -37,6 +37,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "be8f776d",
+      "title": "How to study a swiftly melting climate disaster",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 20 Oct 2026 10:00:00 +0000",
+      "desc": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the ho",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/IMG_2319_1.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "cec229fe",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 20 Oct 2026 09:00:00 +0000",
+      "desc": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massi",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2277893810.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "0e3b0982",
+      "title": "These startups hope “blended” food will cut our appetite for red meat",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 20 Oct 2026 09:00:00 +0000",
+      "desc": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungr",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MUSH_FOODS_LIFESTYLE_014.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -128,45 +167,6 @@
       "desc": "Why shrinking the cache, reusing a prefix, and keeping it nearby save different resources.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!hhy_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a7d5bd-86b1-4ebc-9cd6-7949b12aa5de_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "d3cd0305",
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 19 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save t",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/IMG_1451.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "1d00f470",
-      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 19 Oct 2026 09:22:17 +0000",
-      "desc": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/h_00000221444739-e1792169743670.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "372db7fd",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 19 Oct 2026 09:08:05 +0000",
-      "desc": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment remini",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
