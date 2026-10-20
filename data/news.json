@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T10:36:18.320646+00:00",
+  "updated": "2026-10-20T15:59:56.552821+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -41,6 +41,58 @@
       "type": "news"
     },
     {
+      "id": "eb9c98f8",
+      "title": "The new economics of enterprise AI",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 20 Oct 2026 15:20:25 +0000",
+      "desc": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity become",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/HPE-iStock-1168748420.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "8f295aae",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "Hugging Face",
+      "date": "Tue, 20 Oct 2026 15:19:48 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/rzXYJh7e7UdoYgCLwOZjH.jpeg",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "1064d47d",
+      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 20 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "254f1995",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 20 Oct 2026 12:00:00 +0000",
+      "desc": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tec",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/TripleTen-MIT-cover.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "be8f776d",
       "title": "How to study a swiftly melting climate disaster",
       "title_ko": "",
@@ -67,15 +119,41 @@
       "type": "news"
     },
     {
-      "id": "0e3b0982",
-      "title": "These startups hope “blended” food will cut our appetite for red meat",
+      "id": "7c77a58a",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
       "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 20 Oct 2026 09:00:00 +0000",
-      "desc": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungr",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "source": "Hugging Face",
+      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "desc": "",
       "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MUSH_FOODS_LIFESTYLE_014.jpg?resize=1200,600",
+      "thumb": "https://huggingface.co/blog/assets/hf-torchtpu/thumbnail.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "ea957762",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "Hugging Face",
+      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/anylanguagemodel-1-0/banner.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2e40320a",
+      "title": "MPS in PyTorch 2.15",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face",
+      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/mps-pytorch-2-15/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -93,32 +171,6 @@
       "type": "news"
     },
     {
-      "id": "fe5649d9",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "source": "Hugging Face",
-      "date": "Thu, 15 Oct 2026 20:34:01 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/gltB0o--PV_Jh0D3aDm8-.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "8a9b433b",
-      "title": "Apertus 1.5 Release Notes",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "source": "Hugging Face",
-      "date": "Thu, 15 Oct 2026 09:08:45 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/61f1877a168a0b52fda88455/2mHXxCtfos6CgwFSNKFVi.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "title_ko": "",
@@ -128,32 +180,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "007fe264",
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 19 Oct 2026 18:22:47 +0000",
-      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_Algo.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "e7a08d8b",
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 19 Oct 2026 17:45:55 +0000",
-      "desc": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that ha",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -206,32 +232,6 @@
       "desc": "Follow Mamba-2, Gated DeltaNet and KDA from state updates to the costs that active parameter counts miss.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!FezU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F507df679-3e9e-4b54-b364-dfb0ce3b7f34_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "bf51e816",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face",
-      "date": "Fri, 16 Oct 2026 01:44:47 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/x0aObe_0mduBjWFuKBGoV.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "752ec58d",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "source": "Hugging Face",
-      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/reflection-beam/thumbnail.jpg",
       "tags": [],
       "type": "news"
     },
