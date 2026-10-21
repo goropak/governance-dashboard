@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T20:59:29.571187+00:00",
+  "updated": "2026-10-21T02:26:57.378627+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -41,15 +41,67 @@
       "type": "news"
     },
     {
-      "id": "69a612b8",
-      "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
+      "id": "934b437e",
+      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
       "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
+      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
       "source": "MIT Tech Review",
-      "date": "Tue, 20 Oct 2026 20:07:21 +0000",
-      "desc": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion a",
+      "date": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "desc": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, sw",
       "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/flip-wheel.jpg?resize=1200,600",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MIT-flapping-robot-01-press.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e7d30311",
+      "title": "Here’s the tea",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "desc": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Bos",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/master-pnp-pga-08500-08593_LOC.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "533cd457",
+      "title": "Melt it, spin it, use it again",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "desc": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MIT-RecyclableYarn-01-press.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "4ed49140",
+      "title": "A reason to eat carbs",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "desc": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also i",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/plate.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "d7b3b781",
+      "title": "Robotic therapy for stroke patients",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "desc": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -80,19 +132,6 @@
       "type": "news"
     },
     {
-      "id": "eb9c98f8",
-      "title": "The new economics of enterprise AI",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 20 Oct 2026 15:20:25 +0000",
-      "desc": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity become",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/HPE-iStock-1168748420.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "8f295aae",
       "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
       "title_ko": "",
@@ -102,45 +141,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/rzXYJh7e7UdoYgCLwOZjH.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "1064d47d",
-      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 20 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "254f1995",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 20 Oct 2026 12:00:00 +0000",
-      "desc": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tec",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/TripleTen-MIT-cover.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "be8f776d",
-      "title": "How to study a swiftly melting climate disaster",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 20 Oct 2026 10:00:00 +0000",
-      "desc": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the ho",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/IMG_2319_1.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
