@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T10:48:01.294008+00:00",
+  "updated": "2026-10-21T16:16:41.171664+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -15,15 +15,54 @@
       "type": "news"
     },
     {
-      "id": "2db044ee",
-      "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
+      "id": "352c7669",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
       "title_ko": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
       "source": "Hugging Face",
-      "date": "Wed, 21 Oct 2026 10:41:36 GMT",
+      "date": "Wed, 21 Oct 2026 16:04:43 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/697fa5ae089a7f9330c5078f/ts2ZQ_szDimxNKk58saCn.png",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6ac67ea29579ea34f1f7e470/hEodPVvQZI24jETLbPooP.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "08a293d0",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face",
+      "date": "Wed, 21 Oct 2026 14:58:18 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/653fb52cbfd890805461d691/M_JJyIOBOWVzHXdy7CVVG.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b5deda84",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "source": "Hugging Face",
+      "date": "Wed, 21 Oct 2026 12:51:24 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/660f5683b710b57b115a5483/pFl0vhvFrc-oZjk5qE8_0.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "aaa6acc9",
+      "title": "The Download: introducing the Impossible issue",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 21 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our la",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-ND26-Instagram-Portrait.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -80,19 +119,6 @@
       "type": "news"
     },
     {
-      "id": "d5fc26d8",
-      "title": "Cleaning up PFAS",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 21 Oct 2026 09:00:00 +0000",
-      "desc": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firef",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Vein-Spray_FINAL2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "dc9765a0",
       "title": "How DeepSeek V4.1 Flash Separates Reading and Generation",
       "title_ko": "",
@@ -141,32 +167,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/rzXYJh7e7UdoYgCLwOZjH.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "7c77a58a",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "source": "Hugging Face",
-      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/hf-torchtpu/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "ea957762",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "source": "Hugging Face",
-      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/anylanguagemodel-1-0/banner.png",
       "tags": [],
       "type": "news"
     },
