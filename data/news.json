@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T16:16:41.171664+00:00",
+  "updated": "2026-10-21T21:00:43.579639+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -15,10 +15,36 @@
       "type": "news"
     },
     {
-      "id": "352c7669",
+      "id": "f9255f69",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "source": "Hugging Face",
+      "date": "Wed, 21 Oct 2026 18:26:30 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6ad8e88370f69967fafc8703/i-Flass3NMPRmc6lVfwO_.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "47ba5de6",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face",
+      "date": "Wed, 21 Oct 2026 17:35:36 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/OWGtXjnbBov-7SI_04o4z.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "1c8b15aa",
       "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
       "title_ko": "",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
       "source": "Hugging Face",
       "date": "Wed, 21 Oct 2026 16:04:43 GMT",
       "desc": "",
@@ -37,19 +63,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/653fb52cbfd890805461d691/M_JJyIOBOWVzHXdy7CVVG.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "b5deda84",
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "source": "Hugging Face",
-      "date": "Wed, 21 Oct 2026 12:51:24 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/660f5683b710b57b115a5483/pFl0vhvFrc-oZjk5qE8_0.png",
       "tags": [],
       "type": "news"
     },
@@ -154,19 +167,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7zYjyTWswjO2erWsO5HNf.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "8f295aae",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "source": "Hugging Face",
-      "date": "Tue, 20 Oct 2026 15:19:48 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/rzXYJh7e7UdoYgCLwOZjH.jpeg",
       "tags": [],
       "type": "news"
     },
