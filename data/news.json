@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T16:15:27.342532+00:00",
+  "updated": "2026-10-22T20:58:02.533186+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -54,19 +54,6 @@
       "type": "news"
     },
     {
-      "id": "aaa6acc9",
-      "title": "The Download: introducing the Impossible issue",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 21 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our la",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-ND26-Instagram-Portrait.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "dc9765a0",
       "title": "How DeepSeek V4.1 Flash Separates Reading and Generation",
       "title_ko": "",
@@ -102,6 +89,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "870bab36",
+      "title": "The Foundations of Scalable AI",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 22 Oct 2026 18:48:04 +0000",
+      "desc": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech F",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EmTech_092926_084.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
