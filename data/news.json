@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T10:41:09.227022+00:00",
+  "updated": "2026-10-23T16:05:11.785788+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -24,32 +24,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6ad8e88370f69967fafc8703/i-Flass3NMPRmc6lVfwO_.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "47ba5de6",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "Hugging Face",
-      "date": "Wed, 21 Oct 2026 17:35:36 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/OWGtXjnbBov-7SI_04o4z.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "dc9765a0",
-      "title": "How DeepSeek V4.1 Flash Separates Reading and Generation",
-      "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-deepseek-v4-1-flash-separates-reading-and",
-      "source": "The AI Edge",
-      "date": "Wed, 07 Oct 2026 15:00:38 GMT",
-      "desc": "How a shorter input path, shared attention memory, and selective reconstruction change the cost of long conversations.",
-      "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!KNJy!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F347ca444-69c1-4f29-bd01-de4963a09be4_1536x1024.png",
       "tags": [],
       "type": "news"
     },
@@ -145,19 +119,6 @@
       "type": "news"
     },
     {
-      "id": "a1d8d472",
-      "title": "Making the case for context-aware AI",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 22 Oct 2026 10:00:00 +0000",
-      "desc": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can mis",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "78b393fa",
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "title_ko": "",
@@ -210,6 +171,32 @@
       "type": "news"
     },
     {
+      "id": "2e592099",
+      "title": "How Looped Transformers Reuse Their Weights",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-looped-transformers-reuse-their-weights",
+      "source": "The AI Edge",
+      "date": "Fri, 23 Oct 2026 15:02:21 GMT",
+      "desc": "Follow changing attention states, shared gradients, and the real cost of extra passes.",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!j1gu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed5784d8-4c46-4733-b5f2-0287a96a14f6_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6b37d84f",
+      "title": "The Download: testing six tech promises and biotech’s blind spots",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 23 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/progress-package-thumb.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "466b49f0",
       "title": "In the biotech world, you can’t see everything",
       "title_ko": "",
@@ -219,6 +206,19 @@
       "desc": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expec",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/YCSE_NP_1_1.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f138b050",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face",
+      "date": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg",
       "tags": [],
       "type": "news"
     },
