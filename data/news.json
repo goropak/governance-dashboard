@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T20:58:02.533186+00:00",
+  "updated": "2026-10-23T02:27:56.683718+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -41,19 +41,6 @@
       "type": "news"
     },
     {
-      "id": "1c8b15aa",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "source": "Hugging Face",
-      "date": "Wed, 21 Oct 2026 16:04:43 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6ac67ea29579ea34f1f7e470/hEodPVvQZI24jETLbPooP.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "dc9765a0",
       "title": "How DeepSeek V4.1 Flash Separates Reading and Generation",
       "title_ko": "",
@@ -89,6 +76,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2ff71613",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face",
+      "date": "Thu, 22 Oct 2026 22:24:34 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c4f2e7d5",
+      "title": "Designing an AI serving harness built to last",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 22 Oct 2026 21:17:29 +0000",
+      "desc": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -154,19 +167,6 @@
       "desc": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the ex",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_674545481.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "cb619168",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 22 Oct 2026 08:41:18 +0000",
-      "desc": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
