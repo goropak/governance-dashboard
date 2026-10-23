@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T16:05:11.785788+00:00",
+  "updated": "2026-10-23T20:46:27.429844+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -93,19 +93,6 @@
       "type": "news"
     },
     {
-      "id": "ea32a3ca",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "source": "Hugging Face",
-      "date": "Thu, 22 Oct 2026 16:11:31 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/VEmSzlLjei8J3cUVNe7G6.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "18fd0546",
       "title": "The Download: computing’s next leap and permafrost’s climate threat",
       "title_ko": "",
@@ -167,6 +154,19 @@
       "desc": "Reconstruct a coding task&#8217;s context, preserve accepted work, and recover safely when a worker disappears.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!_cM6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1faa5ef-5f71-4170-a382-fdea7abc4b8d_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c8f21264",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face",
+      "date": "Fri, 23 Oct 2026 16:15:50 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7F9q8BZloWigwe7m5YGLG.png",
       "tags": [],
       "type": "news"
     },
