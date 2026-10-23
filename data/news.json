@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T02:27:56.683718+00:00",
+  "updated": "2026-10-23T10:41:09.227022+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -158,19 +158,6 @@
       "type": "news"
     },
     {
-      "id": "2cc3714b",
-      "title": "Three things you should know about permafrost",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 22 Oct 2026 10:00:00 +0000",
-      "desc": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the ex",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_674545481.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "78b393fa",
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "title_ko": "",
@@ -219,6 +206,19 @@
       "desc": "Reconstruct a coding task&#8217;s context, preserve accepted work, and recover safely when a worker disappears.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!_cM6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1faa5ef-5f71-4170-a382-fdea7abc4b8d_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "466b49f0",
+      "title": "In the biotech world, you can’t see everything",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 23 Oct 2026 09:00:00 +0000",
+      "desc": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expec",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/YCSE_NP_1_1.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
