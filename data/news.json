@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:14:24.854662+00:00",
+  "updated": "2026-10-27T16:59:53.085527+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -37,6 +37,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "91bb99f4",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face",
+      "date": "Tue, 27 Oct 2026 16:12:42 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/ZrKpGOLkSf0LmAf3bnJIX.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "109acab6",
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 27 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After wee",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-darioB_1.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e3353615",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 27 Oct 2026 11:19:18 +0000",
+      "desc": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-1367303200.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -112,7 +151,7 @@
       "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
       "source": "MIT Tech Review",
       "date": "Mon, 26 Oct 2026 17:45:43 +0000",
-      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its I",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed ",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-dario1a.jpg?resize=1200,600",
       "tags": [],
@@ -145,19 +184,6 @@
       "type": "news"
     },
     {
-      "id": "1992a716",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 26 Oct 2026 09:01:00 +0000",
-      "desc": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl.",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "ba6d484a",
       "title": "How the KV Cache Shapes AI Agent Costs",
       "title_ko": "",
@@ -184,19 +210,6 @@
       "type": "news"
     },
     {
-      "id": "c8f21264",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "source": "Hugging Face",
-      "date": "Fri, 23 Oct 2026 16:15:50 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7F9q8BZloWigwe7m5YGLG.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "2e592099",
       "title": "How Looped Transformers Reuse Their Weights",
       "title_ko": "",
@@ -206,19 +219,6 @@
       "desc": "Follow changing attention states, shared gradients, and the real cost of extra passes.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!j1gu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed5784d8-4c46-4733-b5f2-0287a96a14f6_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "6b37d84f",
-      "title": "The Download: testing six tech promises and biotech’s blind spots",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 23 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/progress-package-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
