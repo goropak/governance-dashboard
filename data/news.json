@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:59:53.085527+00:00",
+  "updated": "2026-10-27T21:35:23.490171+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -15,19 +15,6 @@
       "type": "news"
     },
     {
-      "id": "f9255f69",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "source": "Hugging Face",
-      "date": "Wed, 21 Oct 2026 18:26:30 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6ad8e88370f69967fafc8703/i-Flass3NMPRmc6lVfwO_.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
       "title_ko": "",
@@ -37,6 +24,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "8a86ff04",
+      "title": "Build specialized multimodal models with LFM3",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face",
+      "date": "Tue, 27 Oct 2026 17:16:52 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/wEKXxH6qGa7vmHjn5KA-W.png",
       "tags": [],
       "type": "news"
     },
