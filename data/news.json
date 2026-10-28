@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T11:48:07.411294+00:00",
+  "updated": "2026-10-28T17:35:49.015562+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "1a2fcc5f",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "Hugging Face",
+      "date": "Wed, 28 Oct 2026 14:58:17 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68127936de624fb6f57d9989/3vFxCEUXz_xJVrTBr4hNr.jpeg",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "625cd70e",
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 28 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to trai",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2b0a5d04",
+      "title": "Pairing industrial AI autonomy and human control",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2264572193.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -119,19 +158,6 @@
       "type": "news"
     },
     {
-      "id": "78b393fa",
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face",
-      "date": "Thu, 22 Oct 2026 07:51:31 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6806091ee92bd22fd8ce9719/P6P8ZzHR8yL7GOOO4hQOg.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "title_ko": "",
@@ -145,19 +171,6 @@
       "type": "news"
     },
     {
-      "id": "57916c9f",
-      "title": "Will the real Anthropic please stand up",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 26 Oct 2026 17:45:43 +0000",
-      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-dario1a.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "def533d7",
       "title": "How LLM Rerankers Order Retrieved Passages",
       "title_ko": "",
@@ -167,19 +180,6 @@
       "desc": "Follow pointwise scores, pairwise preferences, and listwise windows from model judgment to useful context.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!fZLb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6379da09-c9af-433f-9edb-1a165dbfac69_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "dc28295c",
-      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 26 Oct 2026 12:40:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
