@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:56:24.745875+00:00",
+  "updated": "2026-10-29T17:49:54.798342+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -54,19 +54,6 @@
       "type": "news"
     },
     {
-      "id": "2b0a5d04",
-      "title": "Pairing industrial AI autonomy and human control",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 28 Oct 2026 12:00:00 +0000",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2264572193.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
       "title_ko": "",
@@ -80,32 +67,6 @@
       "type": "news"
     },
     {
-      "id": "8a86ff04",
-      "title": "Build specialized multimodal models with LFM3",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "source": "Hugging Face",
-      "date": "Tue, 27 Oct 2026 17:16:52 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/wEKXxH6qGa7vmHjn5KA-W.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "91bb99f4",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "source": "Hugging Face",
-      "date": "Tue, 27 Oct 2026 16:12:42 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/ZrKpGOLkSf0LmAf3bnJIX.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "",
@@ -115,6 +76,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "d5731ad2",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face",
+      "date": "Thu, 29 Oct 2026 13:37:07 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "06df78f9",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 29 Oct 2026 12:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ ac",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.gif?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -145,15 +132,41 @@
       "type": "news"
     },
     {
-      "id": "2ff71613",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "id": "93cb2f63",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "title_ko": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
       "source": "Hugging Face",
-      "date": "Thu, 22 Oct 2026 22:24:34 GMT",
+      "date": "Thu, 29 Oct 2026 00:00:00 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png",
+      "thumb": "https://huggingface.co/blog/assets/announcing-project-protostar/thumbnail.jpg",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "d2988a99",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face",
+      "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/ml4/thumbnail.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "92a7f097",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face",
+      "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/anydecisionmodel/banner.png",
       "tags": [],
       "type": "news"
     },
@@ -219,19 +232,6 @@
       "desc": "Follow changing attention states, shared gradients, and the real cost of extra passes.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!j1gu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed5784d8-4c46-4733-b5f2-0287a96a14f6_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "f138b050",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "source": "Hugging Face",
-      "date": "Fri, 23 Oct 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg",
       "tags": [],
       "type": "news"
     },
