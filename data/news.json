@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T03:24:06.212604+00:00",
+  "updated": "2026-10-29T11:56:24.745875+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -106,32 +106,6 @@
       "type": "news"
     },
     {
-      "id": "109acab6",
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 27 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After wee",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-darioB_1.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "e3353615",
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 27 Oct 2026 11:19:18 +0000",
-      "desc": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-1367303200.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "",
@@ -141,6 +115,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "468ea3c0",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 29 Oct 2026 10:11:12 +0000",
+      "desc": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f6dc7f78",
+      "title": "Our climate models have a big, dangerous blind spot",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 29 Oct 2026 10:00:00 +0000",
+      "desc": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_305388930.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
