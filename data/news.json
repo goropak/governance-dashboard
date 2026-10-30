@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T11:50:35.161356+00:00",
+  "updated": "2026-10-30T17:25:36.535279+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,19 +11,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "52fa9eb7",
-      "title": "Creating AI value with enterprise context",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 28 Oct 2026 20:32:02 +0000",
-      "desc": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_CovSocial1200_1028-e1793220807248.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -197,15 +184,28 @@
       "type": "news"
     },
     {
-      "id": "1f835fbc",
-      "title": "How Persistent Agents Keep Working",
+      "id": "ffa5d6f9",
+      "title": "How CUDA Graphs Speed Up LLM Inference",
       "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-persistent-agents-keep-working",
+      "url": "https://newsletter.theaiedge.io/p/how-cuda-graphs-speed-up-llm-inference",
       "source": "The AI Edge",
-      "date": "Mon, 12 Oct 2026 15:00:33 GMT",
-      "desc": "Reconstruct a coding task&#8217;s context, preserve accepted work, and recover safely when a worker disappears.",
+      "date": "Fri, 30 Oct 2026 15:01:29 GMT",
+      "desc": "Replay GPU operations with fresh tokens, growing caches, and changing batches.",
       "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!_cM6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1faa5ef-5f71-4170-a382-fdea7abc4b8d_1536x1024.png",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!C_Br!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd83d786-690b-411f-bb0c-77f0ff41eb33_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "fccdd851",
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 30 Oct 2026 11:30:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could mak",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
