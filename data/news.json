@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T03:25:52.185461+00:00",
+  "updated": "2026-10-30T11:50:35.161356+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -37,19 +37,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68127936de624fb6f57d9989/3vFxCEUXz_xJVrTBr4hNr.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "625cd70e",
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 28 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to trai",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -219,6 +206,19 @@
       "desc": "Reconstruct a coding task&#8217;s context, preserve accepted work, and recover safely when a worker disappears.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!_cM6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1faa5ef-5f71-4170-a382-fdea7abc4b8d_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "55b8332d",
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 30 Oct 2026 09:00:00 +0000",
+      "desc": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating d",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
