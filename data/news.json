@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:25:36.535279+00:00",
+  "updated": "2026-10-30T21:46:42.517849+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,19 +11,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "1a2fcc5f",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "source": "Hugging Face",
-      "date": "Wed, 28 Oct 2026 14:58:17 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/68127936de624fb6f57d9989/3vFxCEUXz_xJVrTBr4hNr.jpeg",
       "tags": [],
       "type": "news"
     },
@@ -180,6 +167,19 @@
       "desc": "Why shrinking the cache, reusing a prefix, and keeping it nearby save different resources.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!hhy_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a7d5bd-86b1-4ebc-9cd6-7949b12aa5de_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "82860a27",
+      "title": "nemotron-halloween",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "Hugging Face",
+      "date": "Fri, 30 Oct 2026 17:57:24 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6ab2a746c7d0655b3d8dfbb9/fownH6rn05tSp1jDBTz8m.png",
       "tags": [],
       "type": "news"
     },
