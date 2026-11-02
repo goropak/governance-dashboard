@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T03:16:34.610758+00:00",
+  "updated": "2026-11-02T14:07:49.957869+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -50,45 +50,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "06df78f9",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 29 Oct 2026 12:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ ac",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.gif?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "468ea3c0",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 29 Oct 2026 10:11:12 +0000",
-      "desc": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "f6dc7f78",
-      "title": "Our climate models have a big, dangerous blind spot",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 29 Oct 2026 10:00:00 +0000",
-      "desc": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_305388930.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -167,6 +128,45 @@
       "desc": "Why shrinking the cache, reusing a prefix, and keeping it nearby save different resources.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!hhy_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a7d5bd-86b1-4ebc-9cd6-7949b12aa5de_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6e7d4661",
+      "title": "Stop counting tokens, start counting what ships",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 02 Nov 2026 13:10:32 +0000",
+      "desc": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "bda58ca0",
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 02 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after in",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c1a08380",
+      "title": "The agentic web is here",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 02 Nov 2026 09:35:19 +0000",
+      "desc": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
