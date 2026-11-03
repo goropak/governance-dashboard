@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T13:12:59.573470+00:00",
+  "updated": "2026-11-03T22:40:38.502073+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -41,6 +41,45 @@
       "type": "news"
     },
     {
+      "id": "a328083f",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face",
+      "date": "Tue, 03 Nov 2026 17:15:21 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/5g9HfQLFFaQE0fslWrxh0.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c501698b",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face",
+      "date": "Tue, 03 Nov 2026 16:35:36 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/63890e3843d8b0797a0ad606/5pHD09UHuAK-6OyKGKimD.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "245ee58e",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 03 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "5a465e18",
       "title": "How “reverse game theory” could keep AI agents in check",
       "title_ko": "",
@@ -67,6 +106,19 @@
       "type": "news"
     },
     {
+      "id": "d4fbf7da",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "source": "Hugging Face",
+      "date": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/cwe-bench/thumbnail.jpg",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "bfd21100",
       "title": "Transformers Model Integration Contracts",
       "title_ko": "",
@@ -76,45 +128,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/transformers-mic/mic-logo.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "d5731ad2",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "source": "Hugging Face",
-      "date": "Thu, 29 Oct 2026 13:37:07 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "93cb2f63",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face",
-      "date": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/announcing-project-protostar/thumbnail.jpg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "d2988a99",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "source": "Hugging Face",
-      "date": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/ml4/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -193,19 +206,6 @@
       "desc": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 ",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "bda58ca0",
-      "title": "The Download: the agentic web arrives and the drive for safer roads",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 02 Nov 2026 13:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after in",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
