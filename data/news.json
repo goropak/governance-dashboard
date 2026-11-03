@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T14:07:49.957869+00:00",
+  "updated": "2026-11-03T00:10:12.306748+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -132,6 +132,32 @@
       "type": "news"
     },
     {
+      "id": "adc599e6",
+      "title": "Raising the quality of insights in agentic analytics",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 02 Nov 2026 17:00:00 +0000",
+      "desc": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-Social-Card-2026.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b8565cc9",
+      "title": "How Quantization Compresses LLMs",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-quantization-compresses-llms",
+      "source": "The AI Edge",
+      "date": "Mon, 02 Nov 2026 16:01:35 GMT",
+      "desc": "Follow GPTQ, AWQ, and SmoothQuant through weight compensation, channel scaling, and low-precision execution.",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!HeSH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F515aaea2-266e-4d9c-b7db-54210d84f3d0_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "6e7d4661",
       "title": "Stop counting tokens, start counting what ships",
       "title_ko": "",
@@ -210,19 +236,6 @@
       "type": "news"
     },
     {
-      "id": "55b8332d",
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 30 Oct 2026 09:00:00 +0000",
-      "desc": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating d",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "2e592099",
       "title": "How Looped Transformers Reuse Their Weights",
       "title_ko": "",
@@ -232,19 +245,6 @@
       "desc": "Follow changing attention states, shared gradients, and the real cost of extra passes.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!j1gu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed5784d8-4c46-4733-b5f2-0287a96a14f6_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "b228aae0",
-      "title": "How Hybrid LLMs Combine Memory, Attention, and Experts",
-      "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-hybrid-llms-combine-memory-attention-and",
-      "source": "The AI Edge",
-      "date": "Fri, 16 Oct 2026 15:00:46 GMT",
-      "desc": "Follow Mamba-2, Gated DeltaNet and KDA from state updates to the costs that active parameter counts miss.",
-      "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!FezU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F507df679-3e9e-4b54-b364-dfb0ce3b7f34_1536x1024.png",
       "tags": [],
       "type": "news"
     },
