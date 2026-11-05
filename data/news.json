@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T04:08:28.855887+00:00",
+  "updated": "2026-11-05T13:41:13.280099+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -63,32 +63,6 @@
       "desc": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of b",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26306547843391.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "966745d9",
-      "title": "The Download: blended meat, restored sight, and the agentic web",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 04 Nov 2026 13:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our ap",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MUSH_FOODS_LIFESTYLE_014.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "5a5d2de4",
-      "title": "Securing the agentic enterprise with data lineage",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 04 Nov 2026 13:00:00 +0000",
-      "desc": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_CyberhavenV1COV1200SocialCards.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -158,15 +132,41 @@
       "type": "news"
     },
     {
-      "id": "bfd21100",
-      "title": "Transformers Model Integration Contracts",
+      "id": "9c89422f",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
       "title_ko": "",
-      "url": "https://huggingface.co/blog/transformers-mic",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 05 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "46f20546",
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 05 Nov 2026 10:00:00 +0000",
+      "desc": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/baaja-energy.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "7a037497",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/phonon-tts",
       "source": "Hugging Face",
-      "date": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "date": "Thu, 05 Nov 2026 00:00:00 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/transformers-mic/mic-logo.png",
+      "thumb": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png",
       "tags": [],
       "type": "news"
     },
