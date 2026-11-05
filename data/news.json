@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T13:41:13.280099+00:00",
+  "updated": "2026-11-05T23:00:35.302261+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -119,15 +119,15 @@
       "type": "news"
     },
     {
-      "id": "d4fbf7da",
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "id": "84bace4b",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
       "title_ko": "",
-      "url": "https://huggingface.co/blog/cwe-bench",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
       "source": "Hugging Face",
-      "date": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "date": "Thu, 05 Nov 2026 19:35:16 GMT",
       "desc": "",
       "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/cwe-bench/thumbnail.jpg",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/677c471f8b4c4e271e57eaa5/rtmGVvFdD6JqkjBc26vsp.png",
       "tags": [],
       "type": "news"
     },
