@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T13:25:23.574415+00:00",
+  "updated": "2026-11-06T22:30:25.426409+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -63,19 +63,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "a328083f",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "source": "Hugging Face",
-      "date": "Tue, 03 Nov 2026 17:15:21 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/5g9HfQLFFaQE0fslWrxh0.png",
       "tags": [],
       "type": "news"
     },
@@ -158,19 +145,6 @@
       "type": "news"
     },
     {
-      "id": "ba6d484a",
-      "title": "How the KV Cache Shapes AI Agent Costs",
-      "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-the-kv-cache-shapes-ai-agent-costs",
-      "source": "The AI Edge",
-      "date": "Mon, 19 Oct 2026 15:03:35 GMT",
-      "desc": "Why shrinking the cache, reusing a prefix, and keeping it nearby save different resources.",
-      "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!hhy_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a7d5bd-86b1-4ebc-9cd6-7949b12aa5de_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "b8565cc9",
       "title": "How Quantization Compresses LLMs",
       "title_ko": "",
@@ -219,6 +193,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"Adaptive Parallel Reasoning overview\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "ac5d6f50",
+      "title": "How LLM Distillation Trains Smaller Models",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-llm-distillation-trains-smaller-models",
+      "source": "The AI Edge",
+      "date": "Fri, 06 Nov 2026 16:02:12 GMT",
+      "desc": "From teacher-written answers to probability targets and feedback on the student&#8217;s own output.",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!DlBj!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd02b71f-6d9c-4f6e-9e78-426c40931151_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "27984b16",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face",
+      "date": "Fri, 06 Nov 2026 14:00:48 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg",
       "tags": [],
       "type": "news"
     },
