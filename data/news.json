@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T04:05:50.542871+00:00",
+  "updated": "2026-11-06T13:25:23.574415+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -28,19 +28,6 @@
       "type": "news"
     },
     {
-      "id": "e831baec",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 04 Nov 2026 18:21:40 +0000",
-      "desc": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Roundtables-Nov26-With-border.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "a61cb285",
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "title_ko": "",
@@ -50,19 +37,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "9198ceda",
-      "title": "What’s next for US energy policy after the midterm elections?",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 04 Nov 2026 17:08:00 +0000",
-      "desc": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of b",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26306547843391.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -102,19 +76,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/5g9HfQLFFaQE0fslWrxh0.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "c501698b",
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face",
-      "date": "Tue, 03 Nov 2026 16:35:36 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/63890e3843d8b0797a0ad606/5pHD09UHuAK-6OyKGKimD.png",
       "tags": [],
       "type": "news"
     },
@@ -258,6 +219,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"Adaptive Parallel Reasoning overview\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "51dda1de",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 06 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "9552db00",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 06 Nov 2026 10:00:00 +0000",
+      "desc": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post ab",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "0626389f",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "source": "Hugging Face",
+      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/open-asr-leaderboard-liva/thumbnail.png",
       "tags": [],
       "type": "news"
     }
