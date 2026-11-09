@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T03:35:39.778058+00:00",
+  "updated": "2026-11-09T14:39:20.259332+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,32 +11,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "f95b3a80",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 04 Nov 2026 18:50:55 +0000",
-      "desc": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Demo",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "a61cb285",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "source": "Hugging Face",
-      "date": "Wed, 04 Nov 2026 17:50:10 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png",
       "tags": [],
       "type": "news"
     },
@@ -80,32 +54,6 @@
       "type": "news"
     },
     {
-      "id": "9c89422f",
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 05 Nov 2026 13:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "46f20546",
-      "title": "A new bill could change how the US builds energy infrastructure",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 05 Nov 2026 10:00:00 +0000",
-      "desc": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/baaja-energy.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "7a037497",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "title_ko": "",
@@ -141,6 +89,58 @@
       "desc": "Follow pointwise scores, pairwise preferences, and listwise windows from model judgment to useful context.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!fZLb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6379da09-c9af-433f-9edb-1a165dbfac69_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c1452115",
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 09 Nov 2026 13:15:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/hands.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "08088be3",
+      "title": "Innovating with AI in the special chemicals industry",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "desc": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTRInfoysLubrizol-open-card-v3.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "88584259",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "Hugging Face",
+      "date": "Mon, 09 Nov 2026 12:34:29 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "8be9fd4a",
+      "title": "The climate case for AI has not been made",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 09 Nov 2026 10:00:00 +0000",
+      "desc": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on coun",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/hands.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
