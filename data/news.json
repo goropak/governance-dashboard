@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T14:39:20.259332+00:00",
+  "updated": "2026-11-10T00:58:02.953428+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -41,19 +41,6 @@
       "type": "news"
     },
     {
-      "id": "84bace4b",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face",
-      "date": "Thu, 05 Nov 2026 19:35:16 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/677c471f8b4c4e271e57eaa5/rtmGVvFdD6JqkjBc26vsp.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "7a037497",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "title_ko": "",
@@ -89,6 +76,58 @@
       "desc": "Follow pointwise scores, pairwise preferences, and listwise windows from model judgment to useful context.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!fZLb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6379da09-c9af-433f-9edb-1a165dbfac69_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "1127808f",
+      "title": "The backlash about data centers might really just be about electricity",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 09 Nov 2026 19:35:33 +0000",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP23200525499640.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "9541439d",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 09 Nov 2026 17:05:43 +0000",
+      "desc": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303769670.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "355cbea3",
+      "title": "How Astra Edited Qwen’s Weights",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-astra-edited-qwens-weights",
+      "source": "The AI Edge",
+      "date": "Mon, 09 Nov 2026 16:01:14 GMT",
+      "desc": "From diagnosing repetitive reasoning to a persistent patch, and what the results establish about weight-space programming.",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!BdaV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94cf18f1-52b6-4b3e-8584-790a83eb9166_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c91b6307",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face",
+      "date": "Mon, 09 Nov 2026 15:05:57 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/604ad59e2fad27aca4515dab/-hyd03JaQoRhMbmlw9-uJ.jpeg",
       "tags": [],
       "type": "news"
     },
@@ -145,6 +184,19 @@
       "type": "news"
     },
     {
+      "id": "1e178a6e",
+      "title": "BAIR at CoRL 2026",
+      "title_ko": "",
+      "url": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+      "source": "BAIR",
+      "date": "Mon, 09 Nov 2026 01:00:00 -0800",
+      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sess",
+      "desc_ko": "",
+      "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "b8565cc9",
       "title": "How Quantization Compresses LLMs",
       "title_ko": "",
@@ -171,32 +223,6 @@
       "type": "news"
     },
     {
-      "id": "2e592099",
-      "title": "How Looped Transformers Reuse Their Weights",
-      "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-looped-transformers-reuse-their-weights",
-      "source": "The AI Edge",
-      "date": "Fri, 23 Oct 2026 15:02:21 GMT",
-      "desc": "Follow changing attention states, shared gradients, and the real cost of extra passes.",
-      "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!j1gu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed5784d8-4c46-4733-b5f2-0287a96a14f6_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "a8b82a19",
-      "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-      "title_ko": "",
-      "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
-      "source": "BAIR",
-      "date": "Fri, 08 May 2026 02:00:00 -0700",
-      "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"apr-fig apr-fig--wide\">\n<img alt=\"Adaptive Parallel Reasoning overview\" src=\"https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png\" /><br",
-      "desc_ko": "",
-      "thumb": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "ac5d6f50",
       "title": "How LLM Distillation Trains Smaller Models",
       "title_ko": "",
@@ -219,32 +245,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "51dda1de",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 06 Nov 2026 13:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "9552db00",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 06 Nov 2026 10:00:00 +0000",
-      "desc": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post ab",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
