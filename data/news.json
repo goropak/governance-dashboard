@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T13:55:58.378966+00:00",
+  "updated": "2026-11-10T22:38:39.187551+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -54,6 +54,32 @@
       "type": "news"
     },
     {
+      "id": "992e8c41",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "source": "Hugging Face",
+      "date": "Tue, 10 Nov 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "de10773c",
+      "title": "Decision Models in Hugging Face",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/decision",
+      "source": "Hugging Face",
+      "date": "Tue, 10 Nov 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/decision/thumbnail.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "",
@@ -63,19 +89,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "7a037497",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "source": "Hugging Face",
-      "date": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -245,19 +258,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "0626389f",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "source": "Hugging Face",
-      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/open-asr-leaderboard-liva/thumbnail.png",
       "tags": [],
       "type": "news"
     }
