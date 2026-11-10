@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T00:58:02.953428+00:00",
+  "updated": "2026-11-10T13:55:58.378966+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -24,6 +24,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c31928bb",
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 10 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303769670.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2d5bc13d",
+      "title": "Evolving metal extraction processes",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 10 Nov 2026 13:00:00 +0000",
+      "desc": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/mittr_article_social_4_1200x627-1.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -145,19 +171,6 @@
       "type": "news"
     },
     {
-      "id": "08088be3",
-      "title": "Innovating with AI in the special chemicals industry",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 09 Nov 2026 13:00:00 +0000",
-      "desc": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTRInfoysLubrizol-open-card-v3.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "88584259",
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
       "title_ko": "",
@@ -167,19 +180,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "8be9fd4a",
-      "title": "The climate case for AI has not been made",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 09 Nov 2026 10:00:00 +0000",
-      "desc": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on coun",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/hands.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
