@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T03:41:20.786437+00:00",
+  "updated": "2026-11-11T13:09:54.282100+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "4c5ef8a2",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face",
+      "date": "Wed, 11 Nov 2026 05:01:16 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
       "tags": [],
       "type": "news"
     },
@@ -245,19 +258,6 @@
       "desc": "From teacher-written answers to probability targets and feedback on the student&#8217;s own output.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!DlBj!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd02b71f-6d9c-4f6e-9e78-426c40931151_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "27984b16",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face",
-      "date": "Fri, 06 Nov 2026 14:00:48 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg",
       "tags": [],
       "type": "news"
     }
