@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:09:54.282100+00:00",
+  "updated": "2026-11-11T23:49:52.114843+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -15,6 +15,32 @@
       "type": "news"
     },
     {
+      "id": "4e20a5f0",
+      "title": "What to know about this year’s UN climate talks",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "desc": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26314112526132.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "63c379e6",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 11 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we ag",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/eye-brains.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "4c5ef8a2",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "title_ko": "",
@@ -24,6 +50,19 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "542cd5af",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "source": "Hugging Face",
+      "date": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -145,19 +184,6 @@
       "type": "news"
     },
     {
-      "id": "9541439d",
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 09 Nov 2026 17:05:43 +0000",
-      "desc": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303769670.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "355cbea3",
       "title": "How Astra Edited Qwen’s Weights",
       "title_ko": "",
@@ -180,32 +206,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/604ad59e2fad27aca4515dab/-hyd03JaQoRhMbmlw9-uJ.jpeg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "c1452115",
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 09 Nov 2026 13:15:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/hands.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "88584259",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "source": "Hugging Face",
-      "date": "Mon, 09 Nov 2026 12:34:29 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png",
       "tags": [],
       "type": "news"
     },
