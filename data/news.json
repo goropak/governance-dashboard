@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T14:12:49.698834+00:00",
+  "updated": "2026-11-12T22:57:41.041917+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -93,19 +93,6 @@
       "type": "news"
     },
     {
-      "id": "2d5bc13d",
-      "title": "Evolving metal extraction processes",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 10 Nov 2026 13:00:00 +0000",
-      "desc": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/mittr_article_social_4_1200x627-1.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "992e8c41",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "title_ko": "",
@@ -115,19 +102,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "de10773c",
-      "title": "Decision Models in Hugging Face",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face",
-      "date": "Tue, 10 Nov 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/decision/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -145,6 +119,32 @@
       "type": "news"
     },
     {
+      "id": "00fbeb28",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 12 Nov 2026 20:16:24 +0000",
+      "desc": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f052c684",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face",
+      "date": "Thu, 12 Nov 2026 19:07:35 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "cfcba6f2",
       "title": "The Download: COP31’s climate challenge and the quest for immortality",
       "title_ko": "",
@@ -154,6 +154,19 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Th",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26314112526132.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "d3916f44",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face",
+      "date": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
       "tags": [],
       "type": "news"
     },
@@ -193,19 +206,6 @@
       "desc": "From diagnosing repetitive reasoning to a persistent patch, and what the results establish about weight-space programming.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!BdaV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94cf18f1-52b6-4b3e-8584-790a83eb9166_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "c91b6307",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "source": "Hugging Face",
-      "date": "Mon, 09 Nov 2026 15:05:57 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/604ad59e2fad27aca4515dab/-hyd03JaQoRhMbmlw9-uJ.jpeg",
       "tags": [],
       "type": "news"
     },
