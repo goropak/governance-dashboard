@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T04:49:50.162246+00:00",
+  "updated": "2026-11-12T14:12:49.698834+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -145,6 +145,19 @@
       "type": "news"
     },
     {
+      "id": "cfcba6f2",
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 12 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Th",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26314112526132.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "title_ko": "",
@@ -167,19 +180,6 @@
       "desc": "Follow pointwise scores, pairwise preferences, and listwise windows from model judgment to useful context.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!fZLb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6379da09-c9af-433f-9edb-1a165dbfac69_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "1127808f",
-      "title": "The backlash about data centers might really just be about electricity",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 09 Nov 2026 19:35:33 +0000",
-      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP23200525499640.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
