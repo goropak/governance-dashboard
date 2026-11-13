@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T13:36:34.555373+00:00",
+  "updated": "2026-11-13T22:59:55.026538+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -15,45 +15,6 @@
       "type": "news"
     },
     {
-      "id": "4e20a5f0",
-      "title": "What to know about this year’s UN climate talks",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 11 Nov 2026 17:00:00 +0000",
-      "desc": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26314112526132.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "4c5ef8a2",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face",
-      "date": "Wed, 11 Nov 2026 05:01:16 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "542cd5af",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "source": "Hugging Face",
-      "date": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
       "title_ko": "",
@@ -63,19 +24,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "992e8c41",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "source": "Hugging Face",
-      "date": "Tue, 10 Nov 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg",
       "tags": [],
       "type": "news"
     },
@@ -158,19 +106,6 @@
       "type": "news"
     },
     {
-      "id": "def533d7",
-      "title": "How LLM Rerankers Order Retrieved Passages",
-      "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-llm-rerankers-order-retrieved-passages",
-      "source": "The AI Edge",
-      "date": "Mon, 26 Oct 2026 15:02:18 GMT",
-      "desc": "Follow pointwise scores, pairwise preferences, and listwise windows from model judgment to useful context.",
-      "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!fZLb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6379da09-c9af-433f-9edb-1a165dbfac69_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "355cbea3",
       "title": "How Astra Edited Qwen’s Weights",
       "title_ko": "",
@@ -219,6 +154,71 @@
       "desc": "Replay GPU operations with fresh tokens, growing caches, and changing batches.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!C_Br!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd83d786-690b-411f-bb0c-77f0ff41eb33_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "9c477938",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face",
+      "date": "Fri, 13 Nov 2026 18:00:39 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e9d93e60",
+      "title": "XYBench: Helping with the problem behind the question",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face",
+      "date": "Fri, 13 Nov 2026 17:02:35 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "fbf2b40e",
+      "title": "How FlashAttention Speeds Up LLM Attention",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-flashattention-speeds-up-llm-attention",
+      "source": "The AI Edge",
+      "date": "Fri, 13 Nov 2026 16:03:36 GMT",
+      "desc": "Follow the running sum that saves GPU memory, then see how training and decoding change the work.",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!5ONh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2e8beba-f41b-42c3-a3cc-3ecf93d09ad4_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "1f76189b",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face",
+      "date": "Fri, 13 Nov 2026 14:05:22 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2f156a26",
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "source": "MIT Tech Review",
+      "date": "Fri, 13 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why d",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
