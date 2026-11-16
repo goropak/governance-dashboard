@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T22:15:57.866468+00:00",
+  "updated": "2026-11-16T14:15:09.782644+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -67,19 +67,6 @@
       "type": "news"
     },
     {
-      "id": "cfcba6f2",
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 12 Nov 2026 13:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Th",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26314112526132.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d3916f44",
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
       "title_ko": "",
@@ -102,6 +89,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b63d9571",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 16 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised t",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/SPACESHIP-FINAL.webp?resize=1200,600",
       "tags": [],
       "type": "news"
     },
