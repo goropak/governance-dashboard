@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T01:16:18.241231+00:00",
+  "updated": "2026-11-17T15:07:12.539680+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -24,6 +24,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "a7033a8f",
+      "title": "Research Reports",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 17 Nov 2026 14:39:46 +0000",
+      "desc": "To access a report, click on the corresponding image below.",
+      "desc_ko": "",
+      "thumb": "",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "7e0475de",
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 17 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -115,19 +141,6 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised t",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/SPACESHIP-FINAL.webp?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "0f553794",
-      "title": "Building AI that can work across the enterprise",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 16 Nov 2026 13:00:00 +0000",
-      "desc": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Orga",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -232,19 +245,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "2f156a26",
-      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 13 Nov 2026 13:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why d",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
