@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T14:15:09.782644+00:00",
+  "updated": "2026-11-17T01:16:18.241231+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -41,19 +41,6 @@
       "type": "news"
     },
     {
-      "id": "00fbeb28",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 12 Nov 2026 20:16:24 +0000",
-      "desc": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "f052c684",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "title_ko": "",
@@ -63,19 +50,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "d3916f44",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face",
-      "date": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
       "tags": [],
       "type": "news"
     },
@@ -93,6 +67,45 @@
       "type": "news"
     },
     {
+      "id": "6352fbce",
+      "title": "The open-source movement wants Jensen Huang back",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 16 Nov 2026 18:38:47 +0000",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvid",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "78c3bdf8",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 16 Nov 2026 16:04:28 +0000",
+      "desc": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send message",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "34415778",
+      "title": "How PPO, RLOO, and GRPO Train LLMs",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-ppo-rloo-and-grpo-train-llms",
+      "source": "The AI Edge",
+      "date": "Mon, 16 Nov 2026 16:02:57 GMT",
+      "desc": "Follow rewards through prefix predictions, response groups, and clipped updates to understand what each method changes.",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!jbej!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91facf62-6685-4710-8824-17b105268d24_1536x1024.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
       "id": "b63d9571",
       "title": "The Download: testing tech promises and searching for cognitive immortality",
       "title_ko": "",
@@ -102,6 +115,32 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised t",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/SPACESHIP-FINAL.webp?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "0f553794",
+      "title": "Building AI that can work across the enterprise",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 16 Nov 2026 13:00:00 +0000",
+      "desc": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Orga",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "6d3f3bd6",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/openrouter",
+      "source": "Hugging Face",
+      "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/openrouter/thumbnail.jpg",
       "tags": [],
       "type": "news"
     },
@@ -141,19 +180,6 @@
       "desc": "Follow GPTQ, AWQ, and SmoothQuant through weight compensation, channel scaling, and low-precision execution.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!HeSH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F515aaea2-266e-4d9c-b7db-54210d84f3d0_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "ffa5d6f9",
-      "title": "How CUDA Graphs Speed Up LLM Inference",
-      "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-cuda-graphs-speed-up-llm-inference",
-      "source": "The AI Edge",
-      "date": "Fri, 30 Oct 2026 15:01:29 GMT",
-      "desc": "Replay GPU operations with fresh tokens, growing caches, and changing batches.",
-      "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!C_Br!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd83d786-690b-411f-bb0c-77f0ff41eb33_1536x1024.png",
       "tags": [],
       "type": "news"
     },
@@ -217,32 +243,6 @@
       "source": "MIT Tech Review",
       "date": "Fri, 13 Nov 2026 13:10:00 +0000",
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why d",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "27c20cf9",
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 13 Nov 2026 10:00:00 +0000",
-      "desc": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Ian_0010.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "3d12bf3f",
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 13 Nov 2026 10:00:00 +0000",
-      "desc": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Me",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600",
       "tags": [],
