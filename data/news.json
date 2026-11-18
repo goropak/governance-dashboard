@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T00:10:50.857691+00:00",
+  "updated": "2026-11-18T14:45:49.547029+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f0514b9d",
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 18 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "cea875c8",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 18 Nov 2026 10:20:30 +0000",
+      "desc": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f21a02eb",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "source": "Hugging Face",
+      "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/rumble-2-flash/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -67,19 +106,6 @@
       "type": "news"
     },
     {
-      "id": "7e0475de",
-      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 17 Nov 2026 13:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "",
@@ -93,19 +119,6 @@
       "type": "news"
     },
     {
-      "id": "f052c684",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face",
-      "date": "Thu, 12 Nov 2026 19:07:35 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "title_ko": "",
@@ -115,19 +128,6 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "6352fbce",
-      "title": "The open-source movement wants Jensen Huang back",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 16 Nov 2026 18:38:47 +0000",
-      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvid",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
