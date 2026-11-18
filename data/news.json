@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:07:12.539680+00:00",
+  "updated": "2026-11-18T00:10:50.857691+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -24,6 +24,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e2b5d624",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 17 Nov 2026 18:46:47 +0000",
+      "desc": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science ed",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Roundtables-Nov26-With-border.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "77b806b8",
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 17 Nov 2026 17:52:10 +0000",
+      "desc": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower p",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26313612357067.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -106,19 +132,6 @@
       "type": "news"
     },
     {
-      "id": "78c3bdf8",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 16 Nov 2026 16:04:28 +0000",
-      "desc": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send message",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "34415778",
       "title": "How PPO, RLOO, and GRPO Train LLMs",
       "title_ko": "",
@@ -128,19 +141,6 @@
       "desc": "Follow rewards through prefix predictions, response groups, and clipped updates to understand what each method changes.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!jbej!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91facf62-6685-4710-8824-17b105268d24_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "b63d9571",
-      "title": "The Download: testing tech promises and searching for cognitive immortality",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 16 Nov 2026 13:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised t",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/SPACESHIP-FINAL.webp?resize=1200,600",
       "tags": [],
       "type": "news"
     },
