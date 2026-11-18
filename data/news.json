@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T14:45:49.547029+00:00",
+  "updated": "2026-11-18T23:41:36.547575+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,58 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2d3bb8f1",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "Hugging Face",
+      "date": "Wed, 18 Nov 2026 19:54:56 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6aeabf9f2efd990530425e58/faP4Su889q_DIgN3wmU9M.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "5095af2e",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face",
+      "date": "Wed, 18 Nov 2026 18:53:43 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/J6DIf4Len_31Tj-CQlQXY.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f99b49e5",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face",
+      "date": "Wed, 18 Nov 2026 15:00:23 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "1294e01b",
+      "title": "The AI Hype Index: AI is everywhere",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 18 Nov 2026 14:42:44 +0000",
+      "desc": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you migh",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -37,6 +89,19 @@
       "desc": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "2a8e5c49",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "source": "Hugging Face",
+      "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/moe-expert-streaming/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -93,19 +158,6 @@
       "type": "news"
     },
     {
-      "id": "a7033a8f",
-      "title": "Research Reports",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 17 Nov 2026 14:39:46 +0000",
-      "desc": "To access a report, click on the corresponding image below.",
-      "desc_ko": "",
-      "thumb": "",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "",
@@ -141,19 +193,6 @@
       "desc": "Follow rewards through prefix predictions, response groups, and clipped updates to understand what each method changes.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!jbej!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91facf62-6685-4710-8824-17b105268d24_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "6d3f3bd6",
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/openrouter",
-      "source": "Hugging Face",
-      "date": "Mon, 16 Nov 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/openrouter/thumbnail.jpg",
       "tags": [],
       "type": "news"
     },
@@ -197,32 +236,6 @@
       "type": "news"
     },
     {
-      "id": "9c477938",
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "source": "Hugging Face",
-      "date": "Fri, 13 Nov 2026 18:00:39 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "e9d93e60",
-      "title": "XYBench: Helping with the problem behind the question",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "source": "Hugging Face",
-      "date": "Fri, 13 Nov 2026 17:02:35 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "fbf2b40e",
       "title": "How FlashAttention Speeds Up LLM Attention",
       "title_ko": "",
@@ -232,19 +245,6 @@
       "desc": "Follow the running sum that saves GPU memory, then see how training and decoding change the work.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!5ONh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2e8beba-f41b-42c3-a3cc-3ecf93d09ad4_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "1f76189b",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face",
-      "date": "Fri, 13 Nov 2026 14:05:22 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
       "tags": [],
       "type": "news"
     },
