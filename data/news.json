@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T04:57:39.705438+00:00",
+  "updated": "2026-11-19T14:53:02.568329+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -80,19 +80,6 @@
       "type": "news"
     },
     {
-      "id": "cea875c8",
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "source": "MIT Tech Review",
-      "date": "Wed, 18 Nov 2026 10:20:30 +0000",
-      "desc": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "2a8e5c49",
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
       "title_ko": "",
@@ -132,32 +119,6 @@
       "type": "news"
     },
     {
-      "id": "e2b5d624",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 17 Nov 2026 18:46:47 +0000",
-      "desc": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science ed",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Roundtables-Nov26-With-border.png?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "77b806b8",
-      "title": "Hydropower hit record lows in the US Southwest this summer",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 17 Nov 2026 17:52:10 +0000",
-      "desc": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower p",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26313612357067.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "",
@@ -167,6 +128,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "511c0dc5",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 19 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/EOPS-V1.1-.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "d16b37db",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "desc": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/EOPS-V1.1-.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "f4380bef",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 19 Nov 2026 11:00:00 +0000",
+      "desc": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global batt",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Moses-Lake-Facility_.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
