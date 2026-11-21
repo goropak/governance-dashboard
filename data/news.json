@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T19:24:03.745200+00:00",
+  "updated": "2026-11-21T04:43:18.095859+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -50,19 +50,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "2a8e5c49",
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/moe-expert-streaming",
-      "source": "Hugging Face",
-      "date": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/moe-expert-streaming/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -219,6 +206,19 @@
       "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the ",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/eye-brains.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "c1386e2c",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face",
+      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png",
       "tags": [],
       "type": "news"
     },
