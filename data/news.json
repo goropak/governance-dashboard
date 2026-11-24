@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T03:35:47.793625+00:00",
+  "updated": "2026-11-24T16:41:16.854194+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -15,19 +15,6 @@
       "type": "news"
     },
     {
-      "id": "2d3bb8f1",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "source": "Hugging Face",
-      "date": "Wed, 18 Nov 2026 19:54:56 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6aeabf9f2efd990530425e58/faP4Su889q_DIgN3wmU9M.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
       "title_ko": "",
@@ -37,6 +24,58 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose cu",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "8b4408d7",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "Hugging Face",
+      "date": "Tue, 24 Nov 2026 16:34:13 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6847ab8c06094fa4afb6ee38/M70tUMNd7N4KO5QGI37YZ.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "ba625c17",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 24 Nov 2026 15:15:16 +0000",
+      "desc": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is add",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TataSocialCard-1200v3.png?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "22b4aa0d",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 24 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas pow",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP25350020551834.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "65943b3b",
+      "title": "Data centers are getting their own natural gas power plants",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "source": "MIT Tech Review",
+      "date": "Tue, 24 Nov 2026 11:00:00 +0000",
+      "desc": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and ar",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP25350020551834.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -119,19 +158,6 @@
       "type": "news"
     },
     {
-      "id": "855fe82a",
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 23 Nov 2026 11:00:00 +0000",
-      "desc": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Drone-Rice-Fields-3.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "6c630403",
       "title": "How to build and maintain an agentic evaluation",
       "title_ko": "",
@@ -184,19 +210,6 @@
       "type": "news"
     },
     {
-      "id": "b8658038",
-      "title": "The most misunderstood graph in AI just got a major update",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 20 Nov 2026 18:15:15 +0000",
-      "desc": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at t",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "386be96f",
       "title": "How RAG Stays in Sync with Its Sources",
       "title_ko": "",
@@ -206,19 +219,6 @@
       "desc": "Follow document edits through indexing, version publication, permissions, and cached answers.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!XdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9746715b-270f-4ec0-a2b8-7132a9ebf333_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "258a0455",
-      "title": "The Download: inside the quest to make our minds immortal",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-      "source": "MIT Tech Review",
-      "date": "Fri, 20 Nov 2026 13:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the ",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/10/eye-brains.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
