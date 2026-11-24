@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T16:47:15.283022+00:00",
+  "updated": "2026-11-24T03:35:47.793625+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -24,19 +24,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6aeabf9f2efd990530425e58/faP4Su889q_DIgN3wmU9M.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "5095af2e",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "source": "Hugging Face",
-      "date": "Wed, 18 Nov 2026 18:53:43 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/J6DIf4Len_31Tj-CQlQXY.png",
       "tags": [],
       "type": "news"
     },
@@ -67,19 +54,6 @@
       "type": "news"
     },
     {
-      "id": "511c0dc5",
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-      "source": "MIT Tech Review",
-      "date": "Thu, 19 Nov 2026 13:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/EOPS-V1.1-.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "20fb9af9",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "title_ko": "",
@@ -89,6 +63,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"abbel-fig abbel-fig--wide abbel-fig--tight\">\n<img alt=\"ABBEL overview\" src=\"https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png\" />\n<i class=",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/abbel/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "e3357160",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Tech Review",
+      "date": "Mon, 23 Nov 2026 17:36:08 +0000",
+      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "20bf5976",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face",
+      "date": "Mon, 23 Nov 2026 17:20:37 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/0KlbITzhyUGtGPyvi09um.png",
       "tags": [],
       "type": "news"
     },
