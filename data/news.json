@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T01:43:43.073434+00:00",
+  "updated": "2026-11-25T16:24:59.857580+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,45 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "4efa556b",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 25 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "7b1bdc5d",
+      "title": "An Indic Voice Agent with CUGA",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face",
+      "date": "Wed, 25 Nov 2026 10:22:09 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/67fe070a4e8cc28ba346f53c/-QNcrxSDbjI8VOCBlhi-C.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "20ed3c7d",
+      "title": "AI is straining America’s open records systems",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 25 Nov 2026 10:00:00 +0000",
+      "desc": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -37,19 +76,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6847ab8c06094fa4afb6ee38/M70tUMNd7N4KO5QGI37YZ.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "ba625c17",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 24 Nov 2026 15:15:16 +0000",
-      "desc": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is add",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TataSocialCard-1200v3.png?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -145,19 +171,6 @@
       "type": "news"
     },
     {
-      "id": "dd119989",
-      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 23 Nov 2026 13:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a majo",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "6c630403",
       "title": "How to build and maintain an agentic evaluation",
       "title_ko": "",
@@ -232,19 +245,6 @@
       "desc": "",
       "desc_ko": "",
       "thumb": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "d74af1cf",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "source": "Hugging Face",
-      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/harness-adapters-at-scale/thumbnail.png",
       "tags": [],
       "type": "news"
     },
