@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T01:17:29.876446+00:00",
+  "updated": "2026-11-26T15:59:13.083775+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -80,19 +80,6 @@
       "type": "news"
     },
     {
-      "id": "5c4ab646",
-      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-      "source": "Hugging Face",
-      "date": "Wed, 25 Nov 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/inkling-2-mini-inference-hillclimb/thumbnail.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "484c06b2",
       "title": "2026 BAIR Graduate Showcase",
       "title_ko": "",
@@ -106,45 +93,6 @@
       "type": "news"
     },
     {
-      "id": "8b4408d7",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "source": "Hugging Face",
-      "date": "Tue, 24 Nov 2026 16:34:13 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6847ab8c06094fa4afb6ee38/M70tUMNd7N4KO5QGI37YZ.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "22b4aa0d",
-      "title": "The Download: AI’s gas power boom and a consciousness reality check",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 24 Nov 2026 13:10:00 +0000",
-      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas pow",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP25350020551834.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "65943b3b",
-      "title": "Data centers are getting their own natural gas power plants",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-      "source": "MIT Tech Review",
-      "date": "Tue, 24 Nov 2026 11:00:00 +0000",
-      "desc": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and ar",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP25350020551834.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "d16153c2",
       "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
       "title_ko": "",
@@ -154,6 +102,71 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p style=\"text-align: center;\">\n<i>... government of the people, by the people, for the people ...</i><br />\n&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Ad",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "d6d5e463",
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 26 Nov 2026 13:10:00 +0000",
+      "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here—and th",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/261124_ProsetheticHand_Lede_cb1337.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "bacf1389",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face",
+      "date": "Thu, 26 Nov 2026 11:37:17 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "9e1edee2",
+      "title": "The next generation of bionic hands is here—and they can feel",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "source": "MIT Tech Review",
+      "date": "Thu, 26 Nov 2026 09:59:00 +0000",
+      "desc": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/261124_ProsetheticHand_Lede_cb1337.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "1fcdbabd",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face",
+      "date": "Thu, 26 Nov 2026 05:05:36 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "b2b31d3a",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face",
+      "date": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/training-swarms/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -180,19 +193,6 @@
       "desc": "Follow learned vectors, sinusoids, RoPE, and ALiBi from token indices to attention scores.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!Z2q0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85586e3a-c39d-453c-a7d4-d726cbe38b1d_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "6c630403",
-      "title": "How to build and maintain an agentic evaluation",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "source": "Hugging Face",
-      "date": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png",
       "tags": [],
       "type": "news"
     },
