@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T16:24:59.857580+00:00",
+  "updated": "2026-11-26T01:17:29.876446+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -11,6 +11,32 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n\n\n<p class=\"center\">\n<img alt=\"Kernel knowledge transfer from CUDA to MLX\" src=\"https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg\" /><br />\n</p>\n\n<p class",
       "desc_ko": "",
       "thumb": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "085bba6f",
+      "title": "Where scientists draw the line on AI agents",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face",
+      "date": "Wed, 25 Nov 2026 18:52:55 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F32BgZC_rj0kg99apJlto.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "a33de435",
+      "title": "How data centers are driving a US natural-gas boom",
+      "title_ko": "",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "source": "MIT Tech Review",
+      "date": "Wed, 25 Nov 2026 17:00:00 +0000",
+      "desc": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved ",
+      "desc_ko": "",
+      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/261124_RichlandParishDataCenter.jpg?resize=1200,600",
       "tags": [],
       "type": "news"
     },
@@ -50,6 +76,19 @@
       "desc": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections",
       "desc_ko": "",
       "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "5c4ab646",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "title_ko": "",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face",
+      "date": "Wed, 25 Nov 2026 00:00:00 GMT",
+      "desc": "",
+      "desc_ko": "",
+      "thumb": "https://huggingface.co/blog/assets/inkling-2-mini-inference-hillclimb/thumbnail.png",
       "tags": [],
       "type": "news"
     },
@@ -132,32 +171,6 @@
       "type": "news"
     },
     {
-      "id": "e3357160",
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "title_ko": "",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "source": "MIT Tech Review",
-      "date": "Mon, 23 Nov 2026 17:36:08 +0000",
-      "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility",
-      "desc_ko": "",
-      "thumb": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "20bf5976",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "source": "Hugging Face",
-      "date": "Mon, 23 Nov 2026 17:20:37 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/0KlbITzhyUGtGPyvi09um.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "175da60e",
       "title": "How LLMs Encode Token Position",
       "title_ko": "",
@@ -232,19 +245,6 @@
       "desc": "Follow document edits through indexing, version publication, permissions, and cached answers.",
       "desc_ko": "",
       "thumb": "https://substackcdn.com/image/fetch/$s_!XdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9746715b-270f-4ec0-a2b8-7132a9ebf333_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
-      "id": "c1386e2c",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "title_ko": "",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "source": "Hugging Face",
-      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "desc": "",
-      "desc_ko": "",
-      "thumb": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png",
       "tags": [],
       "type": "news"
     },
