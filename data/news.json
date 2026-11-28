@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T15:48:00.209202+00:00",
+  "updated": "2026-11-28T00:49:34.346707+00:00",
   "items": [
     {
       "id": "e5f8a9c7",
@@ -158,19 +158,6 @@
       "type": "news"
     },
     {
-      "id": "355cbea3",
-      "title": "How Astra Edited Qwen’s Weights",
-      "title_ko": "",
-      "url": "https://newsletter.theaiedge.io/p/how-astra-edited-qwens-weights",
-      "source": "The AI Edge",
-      "date": "Mon, 09 Nov 2026 16:01:14 GMT",
-      "desc": "From diagnosing repetitive reasoning to a persistent patch, and what the results establish about weight-space programming.",
-      "desc_ko": "",
-      "thumb": "https://substackcdn.com/image/fetch/$s_!BdaV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94cf18f1-52b6-4b3e-8584-790a83eb9166_1536x1024.png",
-      "tags": [],
-      "type": "news"
-    },
-    {
       "id": "1e178a6e",
       "title": "BAIR at CoRL 2026",
       "title_ko": "",
@@ -180,6 +167,19 @@
       "desc": "<!-- twitter -->\n\n\n\n\n\n\n\n\n\n\n<p>The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sess",
       "desc_ko": "",
       "thumb": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png",
+      "tags": [],
+      "type": "news"
+    },
+    {
+      "id": "7846b739",
+      "title": "How Masked Diffusion LLMs Generate Text",
+      "title_ko": "",
+      "url": "https://newsletter.theaiedge.io/p/how-masked-diffusion-llms-generate-text",
+      "source": "The AI Edge",
+      "date": "Fri, 27 Nov 2026 16:02:40 GMT",
+      "desc": "Follow reconstruction training into parallel predictions, successive commitments, and the work behind faster generation.",
+      "desc_ko": "",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!APiD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F913e0adf-4289-409a-9d35-5fc71d5e88ab_1536x1024.png",
       "tags": [],
       "type": "news"
     },
